@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-03-24 07:48:40",
+  "lastUpdated": "2026-03-24 08:19:05",
   "date": "2026.03.24",
   "kospi": {
     "name": "KOSPI",
     "current": "5553.92",
     "change": "148.17",
-    "changePct": "+2.74%상승",
+    "changePct": "2.74",
     "direction": "up",
     "volume": "1162042",
     "tradeAmount": "24535549"
@@ -13,13 +13,13 @@
   "stocks": [
     {
       "code": "005930",
-      "name": "��쇱�깆�����",
+      "name": "삼성전자",
       "nameEn": "Samsung Electronics",
       "current": "189700",
       "change": "3400",
       "changePct": "1.83",
       "direction": "up",
-      "volume": "0",
+      "volume": "186300",
       "high": "0",
       "low": "0",
       "open": "0",
@@ -27,13 +27,13 @@
     },
     {
       "code": "000660",
-      "name": "SK�����대�����",
+      "name": "SK하이닉스",
       "nameEn": "SK Hynix",
       "current": "986000",
       "change": "53000",
       "changePct": "5.68",
       "direction": "up",
-      "volume": "0",
+      "volume": "933000",
       "high": "0",
       "low": "0",
       "open": "0",
@@ -47,7 +47,7 @@
       "change": "700",
       "changePct": "0.81",
       "direction": "up",
-      "volume": "0",
+      "volume": "86800",
       "high": "0",
       "low": "0",
       "open": "0",
@@ -61,7 +61,7 @@
       "change": "4500",
       "changePct": "2.15",
       "direction": "up",
-      "volume": "0",
+      "volume": "209000",
       "high": "0",
       "low": "0",
       "open": "0",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1494.50",
-      "change": "5.00",
+      "value": "1496.20",
+      "change": "6.70",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "942.43",
-      "change": "1.85",
+      "value": "943.53",
+      "change": "2.95",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1734.22",
-      "change": "4.31",
+      "value": "1735.59",
+      "change": "5.68",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "216.98",
-      "change": "0.66",
+      "value": "217.17",
+      "change": "0.85",
       "direction": "up"
     }
   ],
@@ -126,7 +126,7 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "211523.71",
+      "value": "211957.61",
       "change": "0",
       "direction": "up",
       "unit": "KRW/g"
@@ -135,35 +135,35 @@
   "news": [
     {
       "title": "",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005334440&office_id=008&mode=mainnews&type=&date=2026-03-24&page=1"
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004602886&office_id=011&mode=mainnews&type=&date=2026-03-24&page=1"
     },
     {
       "title": "",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004602864&office_id=011&mode=mainnews&type=&date=2026-03-24&page=1"
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006241958&office_id=018&mode=mainnews&type=&date=2026-03-24&page=1"
     },
     {
       "title": "",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005496620&office_id=014&mode=mainnews&type=&date=2026-03-24&page=1"
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005739399&office_id=277&mode=mainnews&type=&date=2026-03-24&page=1"
     },
     {
       "title": "",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001151177&office_id=366&mode=mainnews&type=&date=2026-03-24&page=1"
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001246458&office_id=215&mode=mainnews&type=&date=2026-03-24&page=1"
     },
     {
       "title": "",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002221817&office_id=138&mode=mainnews&type=&date=2026-03-24&page=1"
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005334467&office_id=008&mode=mainnews&type=&date=2026-03-24&page=1"
     },
     {
       "title": "",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001151175&office_id=366&mode=mainnews&type=&date=2026-03-24&page=1"
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001151193&office_id=366&mode=mainnews&type=&date=2026-03-24&page=1"
     },
     {
       "title": "",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000484743&office_id=629&mode=mainnews&type=&date=2026-03-24&page=1"
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005334452&office_id=008&mode=mainnews&type=&date=2026-03-24&page=1"
     },
     {
       "title": "",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0015979006&office_id=001&mode=mainnews&type=&date=2026-03-24&page=1"
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006241938&office_id=018&mode=mainnews&type=&date=2026-03-24&page=1"
     }
   ]
 }
