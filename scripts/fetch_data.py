@@ -32,14 +32,33 @@ def clean_number(text):
         return '0'
     return re.sub(r'[,\s]', '', text.strip())
 
+def clean_pct(text):
+    """Extract numeric percentage value, removing any Korean text"""
+    if not text:
+        return '0'
+    # Extract numeric part only (digits, dots, minus)
+    match = re.search(r'[-+]?[\d.]+', text)
+    return match.group() if match else '0'
+
+def fetch_page(url):
+    """Fetch page with automatic encoding detection"""
+    resp = requests.get(url, headers=HEADERS, timeout=15)
+    # Let requests detect encoding, or try common Korean encodings
+    if resp.apparent_encoding:
+        resp.encoding = resp.apparent_encoding
+    # If encoding seems wrong, try euc-kr as fallback
+    try:
+        resp.text.encode('utf-8')
+    except (UnicodeEncodeError, UnicodeDecodeError):
+        resp.encoding = 'euc-kr'
+    return BeautifulSoup(resp.text, 'html.parser')
+
 def get_kospi_data():
     """Fetch KOSPI index data from Naver Finance"""
     print("[INFO] Fetching KOSPI index data...")
     url = 'https://finance.naver.com/sise/sise_index.naver?code=KOSPI'
     try:
-        resp = requests.get(url, headers=HEADERS, timeout=15)
-        resp.encoding = 'euc-kr'
-        soup = BeautifulSoup(resp.text, 'html.parser')
+        soup = fetch_page(url)
 
         # Current index value
         now_val = soup.select_one('#now_value')
@@ -47,20 +66,27 @@ def get_kospi_data():
 
         # Change value and percentage
         change_val = soup.select_one('#change_value_and_rate')
+        change = '0'
+        change_pct = '0'
         if change_val:
-            parts = change_val.text.strip().split()
-            change = clean_number(parts[0]) if len(parts) > 0 else '0'
-            change_pct = parts[1].strip('()%') if len(parts) > 1 else '0'
-        else:
-            change = '0'
-            change_pct = '0'
+            full_text = change_val.text.strip()
+            # Extract all numbers from the text
+            numbers = re.findall(r'[\d,.]+', full_text)
+            if len(numbers) >= 1:
+                change = clean_number(numbers[0])
+            if len(numbers) >= 2:
+                change_pct = clean_number(numbers[1])
 
         # Determine direction (up/down)
-        change_type = soup.select_one('#change_value_and_rate')
         is_up = True
-        if change_type:
-            parent = change_type.find_parent()
-            if parent and ('down' in str(parent.get('class', '')) or 'ndn' in str(parent.get('class', ''))):
+        if change_val:
+            parent = change_val.find_parent()
+            parent_str = str(parent.get('class', '')) if parent else ''
+            if 'down' in parent_str or 'ndn' in parent_str:
+                is_up = False
+            # Also check for Korean text indicators
+            full_text = change_val.text.strip()
+            if 'íë½' in full_text:
                 is_up = False
 
         # Additional info
@@ -88,9 +114,7 @@ def get_stock_data(code, name):
     print(f"[INFO] Fetching stock data for {name} ({code})...")
     url = f'https://finance.naver.com/item/main.naver?code={code}'
     try:
-        resp = requests.get(url, headers=HEADERS, timeout=15)
-        resp.encoding = 'euc-kr'
-        soup = BeautifulSoup(resp.text, 'html.parser')
+        soup = fetch_page(url)
 
         # Current price from the today section
         today = soup.select_one('.today')
@@ -100,9 +124,13 @@ def get_stock_data(code, name):
             if em:
                 current = clean_number(em.text)
 
-        # Korean name
-        wrap_company = soup.select_one('.wrap_company h2 a')
-        kr_name = wrap_company.text.strip() if wrap_company else name
+        # Korean name - try multiple selectors
+        kr_name = name
+        for selector in ['.wrap_company h2 a', '.wrap_company h2', '#middle h2']:
+            tag = soup.select_one(selector)
+            if tag and tag.text.strip():
+                kr_name = tag.text.strip()
+                break
 
         # Change info
         no_exday = soup.select_one('.no_exday')
@@ -113,11 +141,15 @@ def get_stock_data(code, name):
         if no_exday:
             # Check for blind text elements for change value
             blinds = no_exday.select('span.blind')
-            if len(blinds) >= 2:
+            if len(blinds) >= 1:
                 change = clean_number(blinds[0].text)
-                change_pct = clean_number(blinds[1].text).replace('%', '')
+            if len(blinds) >= 2:
+                change_pct = clean_pct(blinds[1].text)
 
-            # Check direction
+            # Check direction using various indicators
+            full_text = no_exday.text
+            if 'íë½' in full_text:
+                is_up = False
             em_tags = no_exday.select('em')
             for em in em_tags:
                 cls = str(em.get('class', ''))
@@ -125,23 +157,58 @@ def get_stock_data(code, name):
                     is_up = False
                     break
 
-        # Volume and other details from table
-        table = soup.select_one('.aside_invest_info table')
+        # Volume and other details - try multiple approaches
         volume = '0'
         market_cap = '0'
         high = '0'
         low = '0'
         open_price = '0'
 
+        # Approach 1: aside_invest_info table
+        table = soup.select_one('.aside_invest_info table')
         if table:
             tds = table.select('td span.blind')
             if len(tds) >= 10:
-                prev_close = clean_number(tds[0].text)
                 open_price = clean_number(tds[2].text)
                 high = clean_number(tds[1].text)
                 low = clean_number(tds[5].text)
                 volume = clean_number(tds[3].text)
                 market_cap = clean_number(tds[6].text)
+
+        # Approach 2: tab_con1 table (alternative layout)
+        if volume == '0' or high == '0':
+            tab_con = soup.select_one('#tab_con1')
+            if tab_con:
+                tds = tab_con.select('td span.blind')
+                if len(tds) >= 6:
+                    open_price = clean_number(tds[2].text) if open_price == '0' else open_price
+                    high = clean_number(tds[1].text) if high == '0' else high
+                    low = clean_number(tds[5].text) if low == '0' else low
+                    volume = clean_number(tds[3].text) if volume == '0' else volume
+
+        # Approach 3: Try getting volume from rate_info
+        if volume == '0':
+            vol_tag = soup.select_one('.rate_info tr:nth-child(3) td span.blind')
+            if vol_tag:
+                volume = clean_number(vol_tag.text)
+
+        # Approach 4: Try sub page for details
+        if high == '0':
+            try:
+                sub_url = f'https://finance.naver.com/item/sise.naver?code={code}'
+                sub_soup = fetch_page(sub_url)
+                # Look for table with price details
+                table_tags = sub_soup.select('#content table td span.tah')
+                if not table_tags:
+                    table_tags = sub_soup.select('table.type2 td span')
+                for i, tag in enumerate(table_tags):
+                    val = clean_number(tag.text)
+                    if val != '0':
+                        print(f"    [DEBUG] sise td[{i}]: {tag.text.strip()} -> {val}")
+            except Exception:
+                pass
+
+        print(f"    [DEBUG] {name}: current={current}, open={open_price}, high={high}, low={low}, vol={volume}")
 
         return {
             'code': code,
@@ -166,9 +233,7 @@ def get_exchange_rates():
     print("[INFO] Fetching exchange rates...")
     url = 'https://finance.naver.com/marketindex/'
     try:
-        resp = requests.get(url, headers=HEADERS, timeout=15)
-        resp.encoding = 'euc-kr'
-        soup = BeautifulSoup(resp.text, 'html.parser')
+        soup = fetch_page(url)
 
         rates = []
         # Exchange rate items
@@ -234,9 +299,7 @@ def get_oil_prices():
     for code, info in oil_codes.items():
         try:
             url = f'https://finance.naver.com/marketindex/commodityDetail.naver?marketindexCd={code}'
-            resp = requests.get(url, headers=HEADERS, timeout=15)
-            resp.encoding = 'euc-kr'
-            soup = BeautifulSoup(resp.text, 'html.parser')
+            soup = fetch_page(url)
 
             value_tag = soup.select_one('.no_today .no_down em, .no_today .no_up em, .no_today em')
             if value_tag:
@@ -277,9 +340,7 @@ def get_oil_prices():
     # Gold price
     try:
         url = 'https://finance.naver.com/marketindex/goldDetail.naver'
-        resp = requests.get(url, headers=HEADERS, timeout=15)
-        resp.encoding = 'euc-kr'
-        soup = BeautifulSoup(resp.text, 'html.parser')
+        soup = fetch_page(url)
 
         value_tag = soup.select_one('.no_today em')
         if value_tag:
@@ -310,9 +371,7 @@ def get_news_headlines():
     print("[INFO] Fetching financial news...")
     url = 'https://finance.naver.com/news/mainnews.naver'
     try:
-        resp = requests.get(url, headers=HEADERS, timeout=15)
-        resp.encoding = 'euc-kr'
-        soup = BeautifulSoup(resp.text, 'html.parser')
+        soup = fetch_page(url)
 
         headlines = []
         news_items = soup.select('.mainNewsList li')[:8]
