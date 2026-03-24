@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Naver Finance Data Fetcher for KOSPI Dashboard
-Fetches real-time stock, index, exchange rate, and oil price data
+Fetches real-time stock, index, exchange rate, oil price, and news data
 from Naver Finance and saves as data.json for GitHub Pages dashboard.
 """
 
@@ -18,7 +18,7 @@ HEADERS = {
     'Referer': 'https://finance.naver.com/'
 }
 
-# Stock codes
+# Stock codes and English names
 STOCKS = {
     '005930': 'Samsung Electronics',
     '000660': 'SK Hynix',
@@ -26,32 +26,36 @@ STOCKS = {
     '035420': 'NAVER'
 }
 
+
 def clean_number(text):
-    """Remove commas and whitespace from number strings"""
+    """Remove commas, whitespace, and non-numeric chars from number strings"""
     if not text:
         return '0'
-    return re.sub(r'[,\s]', '', text.strip())
+    cleaned = re.sub(r'[,\s]', '', text.strip())
+    # Remove any remaining non-numeric chars except dots and minus
+    cleaned = re.sub(r'[^\d.\-]', '', cleaned)
+    return cleaned if cleaned else '0'
+
 
 def clean_pct(text):
     """Extract numeric percentage value, removing any Korean text"""
     if not text:
         return '0'
-    # Extract numeric part only (digits, dots, minus)
-    match = re.search(r'[-+]?[\d.]+', text)
+    match = re.search(r'[-+]?\d+\.?\d*', text)
     return match.group() if match else '0'
+
 
 def fetch_page(url):
     """Fetch page with automatic encoding detection"""
     resp = requests.get(url, headers=HEADERS, timeout=15)
-    # Let requests detect encoding, or try common Korean encodings
     if resp.apparent_encoding:
         resp.encoding = resp.apparent_encoding
-    # If encoding seems wrong, try euc-kr as fallback
     try:
         resp.text.encode('utf-8')
     except (UnicodeEncodeError, UnicodeDecodeError):
         resp.encoding = 'euc-kr'
     return BeautifulSoup(resp.text, 'html.parser')
+
 
 def get_kospi_data():
     """Fetch KOSPI index data from Naver Finance"""
@@ -60,36 +64,29 @@ def get_kospi_data():
     try:
         soup = fetch_page(url)
 
-        # Current index value
         now_val = soup.select_one('#now_value')
         current = clean_number(now_val.text) if now_val else '0'
 
-        # Change value and percentage
         change_val = soup.select_one('#change_value_and_rate')
         change = '0'
         change_pct = '0'
         if change_val:
             full_text = change_val.text.strip()
-            # Extract all numbers from the text
             numbers = re.findall(r'[\d,.]+', full_text)
             if len(numbers) >= 1:
                 change = clean_number(numbers[0])
             if len(numbers) >= 2:
                 change_pct = clean_number(numbers[1])
 
-        # Determine direction (up/down)
         is_up = True
         if change_val:
             parent = change_val.find_parent()
             parent_str = str(parent.get('class', '')) if parent else ''
             if 'down' in parent_str or 'ndn' in parent_str:
                 is_up = False
-            # Also check for Korean text indicators
-            full_text = change_val.text.strip()
-            if 'íë½' in full_text:
+            if '\ud558\ub77d' in change_val.text:
                 is_up = False
 
-        # Additional info
         quant = soup.select_one('#quant')
         volume = clean_number(quant.text) if quant else '0'
 
@@ -109,6 +106,46 @@ def get_kospi_data():
         print(f"[ERROR] Failed to fetch KOSPI data: {e}")
         return None
 
+
+def get_stock_sise_details(code):
+    """Fetch open/high/low/volume from the sise detail page by matching th labels"""
+    details = {'open': '0', 'high': '0', 'low': '0', 'volume': '0', 'marketCap': '0'}
+    try:
+        url = f'https://finance.naver.com/item/sise.naver?code={code}'
+        soup = fetch_page(url)
+
+        # Parse by matching th text labels to their adjacent td values
+        for th in soup.select('th'):
+            th_text = th.get_text(strip=True)
+            td = th.find_next_sibling('td')
+            if not td:
+                continue
+
+            blind = td.select_one('span.blind')
+            raw_text = blind.text if blind else td.get_text(strip=True)
+            val = clean_number(raw_text)
+
+            if val == '0' or not val:
+                continue
+
+            if th_text == '\uc2dc\uac00':      # open price
+                details['open'] = val
+            elif th_text == '\uace0\uac00':    # high price
+                details['high'] = val
+            elif th_text == '\uc800\uac00':    # low price
+                details['low'] = val
+            elif th_text == '\uac70\ub798\ub7c9':  # volume
+                details['volume'] = val
+            elif '\uc2dc\uac00\uce1d\uc561' in th_text:  # market cap
+                details['marketCap'] = val
+
+        print(f"    [SISE] open={details['open']}, high={details['high']}, low={details['low']}, vol={details['volume']}")
+    except Exception as e:
+        print(f"    [WARN] Sise detail fetch failed: {e}")
+
+    return details
+
+
 def get_stock_data(code, name):
     """Fetch individual stock data from Naver Finance"""
     print(f"[INFO] Fetching stock data for {name} ({code})...")
@@ -116,7 +153,7 @@ def get_stock_data(code, name):
     try:
         soup = fetch_page(url)
 
-        # Current price from the today section
+        # Current price
         today = soup.select_one('.today')
         current = '0'
         if today:
@@ -124,7 +161,7 @@ def get_stock_data(code, name):
             if em:
                 current = clean_number(em.text)
 
-        # Korean name - try multiple selectors
+        # Korean name
         kr_name = name
         for selector in ['.wrap_company h2 a', '.wrap_company h2', '#middle h2']:
             tag = soup.select_one(selector)
@@ -139,16 +176,14 @@ def get_stock_data(code, name):
         is_up = True
 
         if no_exday:
-            # Check for blind text elements for change value
             blinds = no_exday.select('span.blind')
             if len(blinds) >= 1:
                 change = clean_number(blinds[0].text)
             if len(blinds) >= 2:
                 change_pct = clean_pct(blinds[1].text)
 
-            # Check direction using various indicators
             full_text = no_exday.text
-            if 'íë½' in full_text:
+            if '\ud558\ub77d' in full_text:
                 is_up = False
             em_tags = no_exday.select('em')
             for em in em_tags:
@@ -157,58 +192,18 @@ def get_stock_data(code, name):
                     is_up = False
                     break
 
-        # Volume and other details - try multiple approaches
-        volume = '0'
-        market_cap = '0'
-        high = '0'
-        low = '0'
-        open_price = '0'
+        # Get detailed data (open/high/low/volume) from sise sub-page
+        details = get_stock_sise_details(code)
 
-        # Approach 1: aside_invest_info table
-        table = soup.select_one('.aside_invest_info table')
-        if table:
-            tds = table.select('td span.blind')
-            if len(tds) >= 10:
-                open_price = clean_number(tds[2].text)
-                high = clean_number(tds[1].text)
-                low = clean_number(tds[5].text)
-                volume = clean_number(tds[3].text)
-                market_cap = clean_number(tds[6].text)
+        # Fallback: try main page aside_invest_info table
+        if details['volume'] == '0':
+            table = soup.select_one('.aside_invest_info table')
+            if table:
+                tds = table.select('td span.blind')
+                if len(tds) >= 4:
+                    details['volume'] = clean_number(tds[3].text)
 
-        # Approach 2: tab_con1 table (alternative layout)
-        if volume == '0' or high == '0':
-            tab_con = soup.select_one('#tab_con1')
-            if tab_con:
-                tds = tab_con.select('td span.blind')
-                if len(tds) >= 6:
-                    open_price = clean_number(tds[2].text) if open_price == '0' else open_price
-                    high = clean_number(tds[1].text) if high == '0' else high
-                    low = clean_number(tds[5].text) if low == '0' else low
-                    volume = clean_number(tds[3].text) if volume == '0' else volume
-
-        # Approach 3: Try getting volume from rate_info
-        if volume == '0':
-            vol_tag = soup.select_one('.rate_info tr:nth-child(3) td span.blind')
-            if vol_tag:
-                volume = clean_number(vol_tag.text)
-
-        # Approach 4: Try sub page for details
-        if high == '0':
-            try:
-                sub_url = f'https://finance.naver.com/item/sise.naver?code={code}'
-                sub_soup = fetch_page(sub_url)
-                # Look for table with price details
-                table_tags = sub_soup.select('#content table td span.tah')
-                if not table_tags:
-                    table_tags = sub_soup.select('table.type2 td span')
-                for i, tag in enumerate(table_tags):
-                    val = clean_number(tag.text)
-                    if val != '0':
-                        print(f"    [DEBUG] sise td[{i}]: {tag.text.strip()} -> {val}")
-            except Exception:
-                pass
-
-        print(f"    [DEBUG] {name}: current={current}, open={open_price}, high={high}, low={low}, vol={volume}")
+        print(f"  [OK] {kr_name}: {current}")
 
         return {
             'code': code,
@@ -218,15 +213,16 @@ def get_stock_data(code, name):
             'change': change if is_up else f'-{change}',
             'changePct': change_pct if is_up else f'-{change_pct}',
             'direction': 'up' if is_up else 'down',
-            'volume': volume,
-            'high': high,
-            'low': low,
-            'open': open_price,
-            'marketCap': market_cap,
+            'volume': details['volume'],
+            'high': details['high'],
+            'low': details['low'],
+            'open': details['open'],
+            'marketCap': details['marketCap'],
         }
     except Exception as e:
         print(f"[ERROR] Failed to fetch stock data for {code}: {e}")
         return None
+
 
 def get_exchange_rates():
     """Fetch exchange rate data from Naver Finance Market Index"""
@@ -236,7 +232,6 @@ def get_exchange_rates():
         soup = fetch_page(url)
 
         rates = []
-        # Exchange rate items
         exchange_items = soup.select('#exchangeList li')
         for item in exchange_items:
             name_tag = item.select_one('.h_lst span.blind')
@@ -250,24 +245,23 @@ def get_exchange_rates():
             change_tag = item.select_one('.change')
             change = clean_number(change_tag.text) if change_tag else '0'
 
-            # Direction
-            blind_tags = item.select('.blind')
             direction = 'up'
+            blind_tags = item.select('.blind')
             for bt in blind_tags:
-                if bt.text.strip() in ['íë½', 'ë³´í©']:
-                    direction = 'down' if bt.text.strip() == 'íë½' else 'flat'
+                txt = bt.text.strip()
+                if txt == '\ud558\ub77d':
+                    direction = 'down'
+                elif txt == '\ubcf4\ud569':
+                    direction = 'flat'
 
-            # Map to currency pair
             pair = ''
-            if 'USD' in name or 'ë¯¸êµ­' in name or 'ë¬ë¬' in name:
+            if 'USD' in name or '\ubbf8\uad6d' in name or '\ub2ec\ub7ec' in name:
                 pair = 'USD/KRW'
-            elif 'EUR' in name or 'ì ë½' in name or 'ì ë¡' in name:
+            elif 'EUR' in name or '\uc720\ub7fd' in name or '\uc720\ub85c' in name:
                 pair = 'EUR/KRW'
-            elif 'JPY' in name or 'ì¼ë³¸' in name or 'ì' in name:
+            elif 'JPY' in name or '\uc77c\ubcf8' in name or '\uc5d4' in name:
                 pair = 'JPY/KRW'
-            elif 'GBP' in name or 'ìêµ­' in name or 'íì´ë' in name:
-                pair = 'GBP/KRW'
-            elif 'CNY' in name or 'ì¤êµ­' in name or 'ìì' in name:
+            elif 'CNY' in name or '\uc911\uad6d' in name or '\uc704\uc548' in name:
                 pair = 'CNY/KRW'
 
             if pair:
@@ -284,38 +278,124 @@ def get_exchange_rates():
         print(f"[ERROR] Failed to fetch exchange rates: {e}")
         return []
 
+
 def get_oil_prices():
-    """Fetch oil price data from Naver Finance"""
+    """Fetch oil and gold prices from Naver Finance marketindex page"""
     print("[INFO] Fetching oil prices...")
     oils = []
+    found_codes = set()
 
-    # WTI
-    oil_codes = {
-        'OIL_CL': {'name': 'WTI', 'unit': 'USD/barrel'},
-        'OIL_BRT': {'name': 'Brent', 'unit': 'USD/barrel'},
-        'OIL_DU': {'name': 'Dubai', 'unit': 'USD/barrel'},
-    }
+    # Approach 1: Get from marketindex main page (oilGoldList section)
+    try:
+        url = 'https://finance.naver.com/marketindex/'
+        soup = fetch_page(url)
 
-    for code, info in oil_codes.items():
-        try:
-            url = f'https://finance.naver.com/marketindex/commodityDetail.naver?marketindexCd={code}'
-            soup = fetch_page(url)
+        oil_items = soup.select('#oilGoldList li')
+        if not oil_items:
+            # Try alternative selectors
+            oil_items = soup.select('.market_data .data_lst li')
 
-            value_tag = soup.select_one('.no_today .no_down em, .no_today .no_up em, .no_today em')
-            if value_tag:
-                blinds = value_tag.select('span.blind')
-                value = clean_number(blinds[0].text) if blinds else clean_number(value_tag.text)
-            else:
-                value = '0'
+        print(f"  [DEBUG] Found {len(oil_items)} items in oilGoldList")
 
-            change_tag = soup.select_one('.no_exday em span.blind')
+        for item in oil_items:
+            name_tag = item.select_one('.h_lst .blind') or item.select_one('.h_lst')
+            if not name_tag:
+                continue
+            name_text = name_tag.text.strip()
+            print(f"  [DEBUG] Oil item: {name_text}")
+
+            value_tag = item.select_one('.value')
+            value = clean_number(value_tag.text) if value_tag else '0'
+
+            change_tag = item.select_one('.change')
             change = clean_number(change_tag.text) if change_tag else '0'
 
             direction = 'up'
-            no_exday = soup.select_one('.no_exday .ico')
-            if no_exday:
-                if 'down' in str(no_exday.get('class', '')) or 'íë½' in no_exday.text:
+            for bt in item.select('.blind'):
+                txt = bt.text.strip()
+                if txt == '\ud558\ub77d':
                     direction = 'down'
+                elif txt == '\ubcf4\ud569':
+                    direction = 'flat'
+
+            code = ''
+            display_name = ''
+            unit = ''
+            if 'WTI' in name_text or '\uc11c\ubd80\ud14d\uc0ac\uc2a4' in name_text:
+                code, display_name, unit = 'OIL_CL', 'WTI', 'USD/barrel'
+            elif '\ube0c\ub80c\ud2b8' in name_text or 'Brent' in name_text:
+                code, display_name, unit = 'OIL_BRT', 'Brent', 'USD/barrel'
+            elif '\ub450\ubc14\uc774' in name_text or 'Dubai' in name_text:
+                code, display_name, unit = 'OIL_DU', 'Dubai', 'USD/barrel'
+            elif '\uad6d\uc81c\uae08' in name_text or '\uae08' in name_text or 'Gold' in name_text:
+                code, display_name, unit = 'GOLD', 'Gold', 'USD/oz'
+
+            if code and value != '0':
+                oils.append({
+                    'code': code,
+                    'name': display_name,
+                    'value': value,
+                    'change': change,
+                    'direction': direction,
+                    'unit': unit,
+                })
+                found_codes.add(code)
+                print(f"  [OK] {display_name}: {value}")
+
+    except Exception as e:
+        print(f"  [WARN] Marketindex main page failed: {e}")
+
+    # Approach 2: Try individual commodity detail pages for any missing items
+    oil_targets = {
+        'OIL_CL': {'name': 'WTI', 'unit': 'USD/barrel',
+                    'url': 'https://finance.naver.com/marketindex/commodityDetail.naver?marketindexCd=OIL_CL'},
+        'OIL_BRT': {'name': 'Brent', 'unit': 'USD/barrel',
+                     'url': 'https://finance.naver.com/marketindex/commodityDetail.naver?marketindexCd=OIL_BRT'},
+        'OIL_DU': {'name': 'Dubai', 'unit': 'USD/barrel',
+                    'url': 'https://finance.naver.com/marketindex/commodityDetail.naver?marketindexCd=OIL_DU'},
+    }
+
+    for code, info in oil_targets.items():
+        if code in found_codes:
+            continue
+        try:
+            soup = fetch_page(info['url'])
+
+            # Try multiple selectors for value
+            value = '0'
+            for sel in ['.no_today .blind', '.no_today em .blind', '.no_today em',
+                        '#currentPrice', '.sise_wont', 'p.no_today']:
+                tags = soup.select(sel)
+                for tag in tags:
+                    v = clean_number(tag.text)
+                    if v != '0' and len(v) > 1:
+                        value = v
+                        break
+                if value != '0':
+                    break
+
+            # Debug: print page structure hints
+            no_today = soup.select_one('.no_today')
+            if no_today:
+                print(f"  [DEBUG] {info['name']} .no_today HTML: {str(no_today)[:200]}")
+            else:
+                print(f"  [DEBUG] {info['name']} no .no_today found")
+
+            change = '0'
+            for sel in ['.no_exday .blind', '.no_exday em .blind']:
+                tags = soup.select(sel)
+                for tag in tags:
+                    c = clean_number(tag.text)
+                    if c != '0':
+                        change = c
+                        break
+                if change != '0':
+                    break
+
+            direction = 'up'
+            ico = soup.select_one('.no_exday .ico')
+            if ico and ('down' in str(ico.get('class', '')) or '\ud558\ub77d' in ico.text):
+                direction = 'down'
 
             oils.append({
                 'code': code,
@@ -325,9 +405,10 @@ def get_oil_prices():
                 'direction': direction,
                 'unit': info['unit'],
             })
+            found_codes.add(code)
             print(f"  [OK] {info['name']}: {value}")
         except Exception as e:
-            print(f"  [ERROR] Failed to fetch {info['name']}: {e}")
+            print(f"  [ERROR] {info['name']}: {e}")
             oils.append({
                 'code': code,
                 'name': info['name'],
@@ -337,60 +418,185 @@ def get_oil_prices():
                 'unit': info['unit'],
             })
 
-    # Gold price
-    try:
-        url = 'https://finance.naver.com/marketindex/goldDetail.naver'
-        soup = fetch_page(url)
+    # Gold (if not already found)
+    if 'GOLD' not in found_codes:
+        try:
+            url = 'https://finance.naver.com/marketindex/goldDetail.naver'
+            soup = fetch_page(url)
 
-        value_tag = soup.select_one('.no_today em')
-        if value_tag:
-            blinds = value_tag.select('span.blind')
-            gold_value = clean_number(blinds[0].text) if blinds else clean_number(value_tag.text)
-        else:
-            gold_value = '0'
+            value = '0'
+            for sel in ['.no_today .blind', '.no_today em .blind', '.no_today em']:
+                tags = soup.select(sel)
+                for tag in tags:
+                    v = clean_number(tag.text)
+                    if v != '0' and len(v) > 1:
+                        value = v
+                        break
+                if value != '0':
+                    break
 
-        change_tag = soup.select_one('.no_exday em span.blind')
-        gold_change = clean_number(change_tag.text) if change_tag else '0'
+            change = '0'
+            for sel in ['.no_exday .blind', '.no_exday em .blind']:
+                tags = soup.select(sel)
+                for tag in tags:
+                    c = clean_number(tag.text)
+                    if c != '0':
+                        change = c
+                        break
+                if change != '0':
+                    break
 
-        oils.append({
-            'code': 'GOLD',
-            'name': 'Gold',
-            'value': gold_value,
-            'change': gold_change,
-            'direction': 'up',
-            'unit': 'KRW/g',
-        })
-        print(f"  [OK] Gold: {gold_value}")
-    except Exception as e:
-        print(f"  [ERROR] Failed to fetch gold price: {e}")
+            oils.append({
+                'code': 'GOLD',
+                'name': 'Gold',
+                'value': value,
+                'change': change,
+                'direction': 'up',
+                'unit': 'KRW/g',
+            })
+            print(f"  [OK] Gold: {value}")
+        except Exception as e:
+            print(f"  [ERROR] Gold: {e}")
 
     return oils
 
+
 def get_news_headlines():
-    """Fetch latest financial news headlines from Naver Finance"""
+    """Fetch latest financial news headlines with multiple fallback approaches"""
     print("[INFO] Fetching financial news...")
-    url = 'https://finance.naver.com/news/mainnews.naver'
+
+    # Approach 1: Naver Finance main news page
     try:
+        url = 'https://finance.naver.com/news/mainnews.naver'
         soup = fetch_page(url)
-
         headlines = []
-        news_items = soup.select('.mainNewsList li')[:8]
-        for item in news_items:
-            a_tag = item.select_one('a')
-            if a_tag:
-                title = a_tag.text.strip()
-                link = a_tag.get('href', '')
-                if link and not link.startswith('http'):
-                    link = 'https://finance.naver.com' + link
-                headlines.append({
-                    'title': title,
-                    'link': link,
-                })
 
-        return headlines
+        news_items = soup.select('.mainNewsList li')
+        if not news_items:
+            news_items = soup.select('.newsList li')
+
+        print(f"  [DEBUG] Found {len(news_items)} news items")
+
+        for item in news_items[:10]:
+            # Try all a tags in the item (some li have image link + title link)
+            a_tags = item.select('a')
+            title = ''
+            link = ''
+
+            for a_tag in a_tags:
+                text = a_tag.get_text(strip=True)
+                href = a_tag.get('href', '')
+
+                # Skip image-only links
+                if not text and a_tag.select_one('img'):
+                    if not link and href:
+                        link = href
+                    continue
+
+                if text and len(text) > 5:
+                    title = text
+                    link = href
+                    break
+
+            # Fallback: check title attribute
+            if not title:
+                for a_tag in a_tags:
+                    t = a_tag.get('title', '')
+                    if t and len(t) > 5:
+                        title = t
+                        link = a_tag.get('href', '')
+                        break
+
+            # Fallback: check dd element
+            if not title:
+                dd = item.select_one('dd, .articleSubject a, .tit')
+                if dd:
+                    title = dd.get_text(strip=True)
+                    a = dd.select_one('a') if dd.name != 'a' else dd
+                    if a:
+                        link = a.get('href', '')
+
+            if not link:
+                continue
+            if link and not link.startswith('http'):
+                link = 'https://finance.naver.com' + link
+
+            headlines.append({
+                'title': title,
+                'link': link,
+            })
+
+        # Filter out items with empty titles
+        headlines = [h for h in headlines if h['title']]
+
+        if headlines:
+            print(f"  [OK] Got {len(headlines)} headlines from mainnews")
+            return headlines[:8]
+        else:
+            print("  [WARN] No headlines extracted from mainnews, trying debug...")
+            # Debug: print first item structure
+            if news_items:
+                print(f"  [DEBUG] First item HTML: {str(news_items[0])[:500]}")
+
     except Exception as e:
-        print(f"[ERROR] Failed to fetch news: {e}")
-        return []
+        print(f"  [WARN] Main news approach failed: {e}")
+
+    # Approach 2: Naver Finance news list page (different layout)
+    try:
+        url = 'https://finance.naver.com/news/news_list.naver?mode=LSS2D&section_id=101&section_id2=258'
+        soup = fetch_page(url)
+        headlines = []
+
+        items = soup.select('.type06_headline li, .realtimeNewsList li')
+        print(f"  [DEBUG] Approach 2: Found {len(items)} items")
+
+        for item in items[:8]:
+            a_tags = item.select('a')
+            for a_tag in a_tags:
+                title = a_tag.get_text(strip=True)
+                if title and len(title) > 5:
+                    link = a_tag.get('href', '')
+                    if link and not link.startswith('http'):
+                        link = 'https://finance.naver.com' + link
+                    headlines.append({'title': title, 'link': link})
+                    break
+
+        if headlines:
+            print(f"  [OK] Got {len(headlines)} headlines from news_list")
+            return headlines[:8]
+
+    except Exception as e:
+        print(f"  [WARN] News list approach failed: {e}")
+
+    # Approach 3: Naver News economy section
+    try:
+        url = 'https://news.naver.com/section/101'
+        soup = fetch_page(url)
+        headlines = []
+
+        # Try multiple selectors for the news section
+        for sel in ['.sa_text_strong', '.sa_text_title .sa_text_strong',
+                    '.cluster_text_headline', '.list_text a']:
+            items = soup.select(sel)
+            if items:
+                for item in items[:8]:
+                    title = item.get_text(strip=True)
+                    a_tag = item if item.name == 'a' else item.find_parent('a')
+                    link = a_tag.get('href', '') if a_tag else ''
+                    if title and len(title) > 5:
+                        headlines.append({'title': title, 'link': link})
+                break
+
+        if headlines:
+            print(f"  [OK] Got {len(headlines)} headlines from news.naver.com")
+            return headlines[:8]
+
+    except Exception as e:
+        print(f"  [WARN] Naver News approach failed: {e}")
+
+    print("  [WARN] All news approaches failed, returning empty list")
+    return []
+
 
 def main():
     """Main function to fetch all data and save as JSON"""
@@ -420,7 +626,6 @@ def main():
         stock = get_stock_data(code, name)
         if stock:
             data['stocks'].append(stock)
-            print(f"  [OK] {stock['name']}: {stock['current']}")
 
     # 3. Fetch exchange rates
     rates = get_exchange_rates()
@@ -448,6 +653,7 @@ def main():
     print(f"  Exchange rates: {len(data['exchangeRates'])} pairs")
     print(f"  Oil prices: {len(data['oilPrices'])} items")
     print(f"  News: {len(data['news'])} headlines")
+
 
 if __name__ == '__main__':
     main()
