@@ -1,90 +1,169 @@
 {
-  "lastUpdated": "2026-03-24 16:10:00",
+  "lastUpdated": "2026-03-24 07:48:40",
   "date": "2026.03.24",
   "kospi": {
     "name": "KOSPI",
-    "current": "2587.43",
-    "change": "37.21",
-    "changePct": "1.46",
+    "current": "5553.92",
+    "change": "148.17",
+    "changePct": "+2.74%상승",
     "direction": "up",
-    "volume": "584320000",
-    "tradeAmount": "8920000"
+    "volume": "1162042",
+    "tradeAmount": "24535549"
   },
   "stocks": [
     {
       "code": "005930",
-      "name": "삼성전자",
+      "name": "��쇱�깆�����",
       "nameEn": "Samsung Electronics",
-      "current": "195500",
-      "change": "6100",
-      "changePct": "3.22",
+      "current": "189700",
+      "change": "3400",
+      "changePct": "1.83",
       "direction": "up",
-      "volume": "18542300",
-      "high": "196000",
-      "low": "192100",
-      "open": "195500",
-      "marketCap": "1165200000000000"
+      "volume": "0",
+      "high": "0",
+      "low": "0",
+      "open": "0",
+      "marketCap": "0"
     },
     {
       "code": "000660",
-      "name": "SK하이닉스",
+      "name": "SK�����대�����",
       "nameEn": "SK Hynix",
-      "current": "1013000",
-      "change": "62000",
-      "changePct": "6.52",
+      "current": "986000",
+      "change": "53000",
+      "changePct": "5.68",
       "direction": "up",
-      "volume": "4253100",
-      "high": "1020000",
-      "low": "965000",
-      "open": "969000",
-      "marketCap": "737200000000000"
+      "volume": "0",
+      "high": "0",
+      "low": "0",
+      "open": "0",
+      "marketCap": "0"
     },
     {
       "code": "003550",
       "name": "LG",
-      "nameEn": "LG Corp",
-      "current": "78500",
-      "change": "-800",
-      "changePct": "-1.01",
-      "direction": "down",
-      "volume": "342500",
-      "high": "79800",
-      "low": "78200",
-      "open": "79400",
-      "marketCap": "12400000000000"
+      "nameEn": "LG",
+      "current": "87500",
+      "change": "700",
+      "changePct": "0.81",
+      "direction": "up",
+      "volume": "0",
+      "high": "0",
+      "low": "0",
+      "open": "0",
+      "marketCap": "0"
     },
     {
       "code": "035420",
       "name": "NAVER",
-      "nameEn": "NAVER Corp",
-      "current": "218500",
-      "change": "3500",
-      "changePct": "1.63",
+      "nameEn": "NAVER",
+      "current": "213500",
+      "change": "4500",
+      "changePct": "2.15",
       "direction": "up",
-      "volume": "1024300",
-      "high": "220000",
-      "low": "215000",
-      "open": "216000",
-      "marketCap": "35800000000000"
+      "volume": "0",
+      "high": "0",
+      "low": "0",
+      "open": "0",
+      "marketCap": "0"
     }
   ],
   "exchangeRates": [
-    {"pair": "USD/KRW", "name": "미국 달러", "value": "1505.55", "change": "16.50", "direction": "up"},
-    {"pair": "EUR/KRW", "name": "유럽연합 유로", "value": "1638.22", "change": "12.30", "direction": "up"},
-    {"pair": "JPY/KRW", "name": "일본 엔 (100엔)", "value": "1005.40", "change": "-3.20", "direction": "down"},
-    {"pair": "CNY/KRW", "name": "중국 위안", "value": "206.85", "change": "1.45", "direction": "up"}
+    {
+      "pair": "USD/KRW",
+      "name": "미국 USD",
+      "value": "1494.50",
+      "change": "5.00",
+      "direction": "up"
+    },
+    {
+      "pair": "JPY/KRW",
+      "name": "일본 JPY(100엔)",
+      "value": "942.43",
+      "change": "1.85",
+      "direction": "up"
+    },
+    {
+      "pair": "EUR/KRW",
+      "name": "유럽연합 EUR",
+      "value": "1734.22",
+      "change": "4.31",
+      "direction": "up"
+    },
+    {
+      "pair": "CNY/KRW",
+      "name": "중국 CNY",
+      "value": "216.98",
+      "change": "0.66",
+      "direction": "up"
+    }
   ],
   "oilPrices": [
-    {"code": "OIL_CL", "name": "WTI", "value": "88.57", "change": "1.23", "direction": "up", "unit": "USD/barrel"},
-    {"code": "OIL_BRT", "name": "Brent", "value": "101.44", "change": "0.89", "direction": "up", "unit": "USD/barrel"},
-    {"code": "OIL_DU", "name": "Dubai", "value": "97.30", "change": "0.65", "direction": "up", "unit": "USD/barrel"},
-    {"code": "GOLD", "name": "Gold", "value": "128500", "change": "2100", "direction": "up", "unit": "KRW/g"}
+    {
+      "code": "OIL_CL",
+      "name": "WTI",
+      "value": "0",
+      "change": "0",
+      "direction": "up",
+      "unit": "USD/barrel"
+    },
+    {
+      "code": "OIL_BRT",
+      "name": "Brent",
+      "value": "0",
+      "change": "0",
+      "direction": "up",
+      "unit": "USD/barrel"
+    },
+    {
+      "code": "OIL_DU",
+      "name": "Dubai",
+      "value": "0",
+      "change": "0",
+      "direction": "up",
+      "unit": "USD/barrel"
+    },
+    {
+      "code": "GOLD",
+      "name": "Gold",
+      "value": "211523.71",
+      "change": "0",
+      "direction": "up",
+      "unit": "KRW/g"
+    }
   ],
   "news": [
-    {"title": "삼성전자 SK하이닉스 증권가 목표주가 줄상향에 상승", "link": "https://finance.naver.com"},
-    {"title": "코스피 중동 긴장 완화 기대감에 반등 외국인 순매수", "link": "https://finance.naver.com"},
-    {"title": "원달러 환율 1500원대 돌파 16년만에 최고치", "link": "https://finance.naver.com"},
-    {"title": "국제유가 WTI 88달러대 상승 중동 리스크 지속", "link": "https://finance.naver.com"},
-    {"title": "SK하이닉스 HBM4 양산 본격화 기대감에 급등", "link": "https://finance.naver.com"}
+    {
+      "title": "",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005334440&office_id=008&mode=mainnews&type=&date=2026-03-24&page=1"
+    },
+    {
+      "title": "",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004602864&office_id=011&mode=mainnews&type=&date=2026-03-24&page=1"
+    },
+    {
+      "title": "",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005496620&office_id=014&mode=mainnews&type=&date=2026-03-24&page=1"
+    },
+    {
+      "title": "",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001151177&office_id=366&mode=mainnews&type=&date=2026-03-24&page=1"
+    },
+    {
+      "title": "",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002221817&office_id=138&mode=mainnews&type=&date=2026-03-24&page=1"
+    },
+    {
+      "title": "",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001151175&office_id=366&mode=mainnews&type=&date=2026-03-24&page=1"
+    },
+    {
+      "title": "",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000484743&office_id=629&mode=mainnews&type=&date=2026-03-24&page=1"
+    },
+    {
+      "title": "",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0015979006&office_id=001&mode=mainnews&type=&date=2026-03-24&page=1"
+    }
   ]
 }
