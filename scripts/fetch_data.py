@@ -348,75 +348,136 @@ def get_oil_prices():
     # Approach 2: Try individual commodity detail pages for any missing items
     oil_targets = {
         'OIL_CL': {'name': 'WTI', 'unit': 'USD/barrel',
-                    'url': 'https://finance.naver.com/marketindex/commodityDetail.naver?marketindexCd=OIL_CL'},
+                    'urls': [
+                        'https://finance.naver.com/marketindex/commodityDetail.naver?marketindexCd=OIL_CL',
+                    ]},
         'OIL_BRT': {'name': 'Brent', 'unit': 'USD/barrel',
-                     'url': 'https://finance.naver.com/marketindex/commodityDetail.naver?marketindexCd=OIL_BRT'},
+                     'urls': [
+                         'https://finance.naver.com/marketindex/commodityDetail.naver?marketindexCd=OIL_BRT',
+                         'https://finance.naver.com/marketindex/worldDailyQuote.naver?marketindexCd=OIL_BRT&fdtc=2',
+                     ]},
         'OIL_DU': {'name': 'Dubai', 'unit': 'USD/barrel',
-                    'url': 'https://finance.naver.com/marketindex/commodityDetail.naver?marketindexCd=OIL_DU'},
+                    'urls': [
+                        'https://finance.naver.com/marketindex/commodityDetail.naver?marketindexCd=OIL_DU',
+                        'https://finance.naver.com/marketindex/worldDailyQuote.naver?marketindexCd=OIL_DU&fdtc=2',
+                    ]},
     }
 
     for code, info in oil_targets.items():
         if code in found_codes:
             continue
-        try:
-            soup = fetch_page(info['url'])
 
-            # Try multiple selectors for value
-            value = '0'
-            for sel in ['.no_today .blind', '.no_today em .blind', '.no_today em',
-                        '#currentPrice', '.sise_wont', 'p.no_today']:
-                tags = soup.select(sel)
-                for tag in tags:
-                    v = clean_number(tag.text)
-                    if v != '0' and len(v) > 1:
-                        value = v
+        value = '0'
+        change = '0'
+        direction = 'flat'
+
+        for url in info['urls']:
+            if value != '0':
+                break
+            try:
+                soup = fetch_page(url)
+
+                # Strategy A: Standard selectors used on most Naver commodity pages
+                for sel in ['.no_today .blind', '.no_today em .blind', '.no_today em',
+                            '#currentPrice', '.sise_wont', 'p.no_today',
+                            '.spot_area .no_today', '.group_spot .current']:
+                    tags = soup.select(sel)
+                    for tag in tags:
+                        v = clean_number(tag.text)
+                        if v != '0' and len(v) > 1:
+                            value = v
+                            break
+                    if value != '0':
                         break
+
+                # Strategy B: Look for table-based data (worldDailyQuote pages)
+                if value == '0':
+                    for tr in soup.select('table tbody tr'):
+                        tds = tr.select('td')
+                        if len(tds) >= 2:
+                            v = clean_number(tds[0].text)
+                            if v != '0' and len(v) > 1:
+                                try:
+                                    float(v)
+                                    value = v
+                                    c = clean_number(tds[1].text)
+                                    if c != '0':
+                                        change = c
+                                    break
+                                except ValueError:
+                                    continue
+
+                # Strategy C: Search for price-like patterns near known class names
+                if value == '0':
+                    for cls in ['spot', 'current', 'price', 'value', 'rate']:
+                        for tag in soup.find_all(class_=re.compile(cls, re.I)):
+                            v = clean_number(tag.get_text())
+                            if v != '0' and len(v) > 1:
+                                try:
+                                    fv = float(v)
+                                    if 10 < fv < 300:
+                                        value = v
+                                        break
+                                except ValueError:
+                                    continue
+                        if value != '0':
+                            break
+
+                # Strategy D: Parse all text for the first number in oil-price range
+                if value == '0':
+                    body_text = soup.get_text()
+                    price_candidates = re.findall(r'\b(\d{2,3}\.\d{1,2})\b', body_text)
+                    for pc in price_candidates:
+                        try:
+                            fv = float(pc)
+                            if 10 < fv < 300:
+                                value = pc
+                                print(f"  [DEBUG] {info['name']} found via regex: {pc}")
+                                break
+                        except ValueError:
+                            continue
+
+                # Get change/direction if we found value but not change
+                if value != '0' and change == '0':
+                    for sel in ['.no_exday .blind', '.no_exday em .blind',
+                                '.change', '.fluctuation']:
+                        tags = soup.select(sel)
+                        for tag in tags:
+                            c = clean_number(tag.text)
+                            if c != '0':
+                                change = c
+                                break
+                        if change != '0':
+                            break
+
                 if value != '0':
-                    break
+                    direction = 'up'
+                    ico = soup.select_one('.no_exday .ico') or soup.select_one('.ico')
+                    if ico:
+                        ico_cls = str(ico.get('class', ''))
+                        ico_txt = ico.text
+                        if 'down' in ico_cls or '\ud558\ub77d' in ico_txt:
+                            direction = 'down'
+                    for blind in soup.select('.blind'):
+                        if blind.text.strip() == '\ud558\ub77d':
+                            direction = 'down'
+                            break
 
-            # Debug: print page structure hints
-            no_today = soup.select_one('.no_today')
-            if no_today:
-                print(f"  [DEBUG] {info['name']} .no_today HTML: {str(no_today)[:200]}")
-            else:
-                print(f"  [DEBUG] {info['name']} no .no_today found")
+                print(f"  [DEBUG] {info['name']} from {url.split('?')[0].split('/')[-1]}: value={value}")
 
-            change = '0'
-            for sel in ['.no_exday .blind', '.no_exday em .blind']:
-                tags = soup.select(sel)
-                for tag in tags:
-                    c = clean_number(tag.text)
-                    if c != '0':
-                        change = c
-                        break
-                if change != '0':
-                    break
+            except Exception as e:
+                print(f"  [WARN] {info['name']} url failed: {e}")
 
-            direction = 'up'
-            ico = soup.select_one('.no_exday .ico')
-            if ico and ('down' in str(ico.get('class', '')) or '\ud558\ub77d' in ico.text):
-                direction = 'down'
-
-            oils.append({
-                'code': code,
-                'name': info['name'],
-                'value': value,
-                'change': change,
-                'direction': direction,
-                'unit': info['unit'],
-            })
-            found_codes.add(code)
-            print(f"  [OK] {info['name']}: {value}")
-        except Exception as e:
-            print(f"  [ERROR] {info['name']}: {e}")
-            oils.append({
-                'code': code,
-                'name': info['name'],
-                'value': '0',
-                'change': '0',
-                'direction': 'flat',
-                'unit': info['unit'],
-            })
+        oils.append({
+            'code': code,
+            'name': info['name'],
+            'value': value,
+            'change': change,
+            'direction': direction,
+            'unit': info['unit'],
+        })
+        found_codes.add(code)
+        print(f"  [OK] {info['name']}: {value}")
 
     # Gold (if not already found)
     if 'GOLD' not in found_codes:
