@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-24 09:24:15",
+  "lastUpdated": "2026-03-24 11:45:14",
   "date": "2026.03.24",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1499.40",
-      "change": "9.90",
+      "value": "1496.60",
+      "change": "7.10",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "944.77",
-      "change": "4.19",
+      "value": "943.10",
+      "change": "2.52",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1736.61",
-      "change": "6.70",
+      "value": "1735.01",
+      "change": "5.10",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "217.52",
-      "change": "1.20",
+      "value": "217.04",
+      "change": "0.72",
       "direction": "up"
     }
   ],
@@ -118,15 +118,15 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "212285.11",
-      "change": "2606.94",
+      "value": "212284.69",
+      "change": "2606.52",
       "direction": "up",
       "unit": "USD/oz"
     },
     {
       "code": "OIL_BRT",
       "name": "Brent",
-      "value": "0",
+      "value": "95.92",
       "change": "0",
       "direction": "up",
       "unit": "USD/barrel"
@@ -134,7 +134,7 @@
     {
       "code": "OIL_DU",
       "name": "Dubai",
-      "value": "0",
+      "value": "131.97",
       "change": "0",
       "direction": "up",
       "unit": "USD/barrel"
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "엔비디아發 광반도체 열풍…관련 테마 6종목 일제히 上[핫종목](종합)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008846597&office_id=421&mode=mainnews&type=&date=2026-03-24&page=1"
+      "title": "트럼프 한마디에 유가 10% 뚝…환율 1500원 밑으로",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006242033&office_id=018&mode=mainnews&type=&date=2026-03-24&page=1"
     },
     {
-      "title": "100만원 찍은 시총 1위 삼천당제약, '코스피 이전' 노릴까[체크!코스닥]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001135749&office_id=417&mode=mainnews&type=&date=2026-03-24&page=1"
+      "title": "최윤범 고려아연 회장 연임 성공…MBK도 영향력 키워(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005739456&office_id=277&mode=mainnews&type=&date=2026-03-24&page=1"
     },
     {
-      "title": "투자부터 승계까지 원스톱… 초고액 자산가 고민 해결한다[증권가 슈퍼리치 지점]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005496683&office_id=014&mode=mainnews&type=&date=2026-03-24&page=1"
+      "title": "코람코 '현대차 리츠' 설립 임박…이르면 4월 초 국토부 인가",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006242024&office_id=018&mode=mainnews&type=&date=2026-03-24&page=1"
     },
     {
-      "title": "한화·한투, '수출 제조업' 액티브 ETF 잇따라 선보여[체크!ETF]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001135748&office_id=417&mode=mainnews&type=&date=2026-03-24&page=1"
+      "title": "“현금배당 규모, 이익 대비 30%까지 늘릴 것”…주총서 포부 밝힌 회장님",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005655513&office_id=009&mode=mainnews&type=&date=2026-03-24&page=1"
     },
     {
-      "title": "판 커지는 액티브 ETF…수출·전략산업 담는다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004602944&office_id=011&mode=mainnews&type=&date=2026-03-24&page=1"
+      "title": "스맥·SNT 분쟁에도 등장한 액트…‘편들기 논란’ 반복되나",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006242015&office_id=018&mode=mainnews&type=&date=2026-03-24&page=1"
     },
     {
-      "title": "고려아연 집중투표 산정 방식 변경 논란…영풍·MBK “의결권 반영 왜곡”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000045624&office_id=648&mode=mainnews&type=&date=2026-03-24&page=1"
+      "title": "노무라證, 내년 SK하닉 영업익 365조 전망…목표가 193만원",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008846622&office_id=421&mode=mainnews&type=&date=2026-03-24&page=1"
     },
     {
-      "title": "유가 뛰자 전기차 뜬다…중국 전기차 산업 ‘반사이익’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002618820&office_id=016&mode=mainnews&type=&date=2026-03-24&page=1"
+      "title": "주식 초심자의 행운[기자수첩]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005496779&office_id=014&mode=mainnews&type=&date=2026-03-24&page=1"
     },
     {
-      "title": "예보채기금 만기 앞두고 자금회수…이란發 시장 불안은 변수[예보, 한화생명 지분 10% 연내 매각]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004602939&office_id=011&mode=mainnews&type=&date=2026-03-24&page=1"
+      "title": "外人 코스피 22조 팔때…개인이 26조 사들여 방어",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004602966&office_id=011&mode=mainnews&type=&date=2026-03-24&page=1"
     }
   ]
 }
