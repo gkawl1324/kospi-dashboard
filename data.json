@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-03-25 03:58:38",
+  "lastUpdated": "2026-03-25 05:26:02",
   "date": "2026.03.25",
   "kospi": {
     "name": "KOSPI",
-    "current": "5657.47",
-    "change": "103.55",
-    "changePct": "1.86",
+    "current": "5656.64",
+    "change": "102.72",
+    "changePct": "1.85",
     "direction": "up",
-    "volume": "576037",
-    "tradeAmount": "16236367"
+    "volume": "673675",
+    "tradeAmount": "20271058"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "191900",
-      "change": "2200",
-      "changePct": "1.16",
+      "current": "191100",
+      "change": "1400",
+      "changePct": "0.74",
       "direction": "up",
-      "volume": "14123160",
+      "volume": "17682769",
       "high": "196400",
-      "low": "191300",
+      "low": "190700",
       "open": "193700",
       "marketCap": "0"
     },
@@ -29,13 +29,13 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1006000",
-      "change": "20000",
-      "changePct": "2.03",
+      "current": "997000",
+      "change": "11000",
+      "changePct": "1.12",
       "direction": "up",
-      "volume": "3082415",
+      "volume": "3748211",
       "high": "1042000",
-      "low": "997000",
+      "low": "993000",
       "open": "1016000",
       "marketCap": "0"
     },
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "88400",
-      "change": "900",
-      "changePct": "1.03",
+      "current": "89000",
+      "change": "1500",
+      "changePct": "1.71",
       "direction": "up",
-      "volume": "139809",
+      "volume": "185728",
       "high": "89900",
       "low": "87800",
       "open": "89600",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "215000",
-      "change": "1500",
-      "changePct": "0.70",
+      "current": "215500",
+      "change": "2000",
+      "changePct": "0.94",
       "direction": "up",
-      "volume": "271951",
+      "volume": "359989",
       "high": "218000",
       "low": "214000",
       "open": "216500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1498.00",
-      "change": "1.00",
+      "value": "1499.20",
+      "change": "2.20",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "943.32",
-      "change": "0.09",
+      "value": "943.31",
+      "change": "0.08",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1738.20",
-      "change": "0.41",
+      "value": "1738.10",
+      "change": "0.31",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "217.25",
-      "change": "0.07",
+      "value": "217.35",
+      "change": "0.17",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "220179.91",
-      "change": "4272.05",
+      "value": "219857.55",
+      "change": "3949.69",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "달러로 '몸값' 재평가 받는다…美 증시 입성 도전에 '100만닉스' 탈환",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005334876&office_id=008&mode=mainnews&type=&date=2026-03-25&page=1"
+      "title": "가덕도신공항 건설사업 본궤도…대우건설이 책임진다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006242558&office_id=018&mode=mainnews&type=&date=2026-03-25&page=1"
     },
     {
-      "title": "국힘, 가상자산 과세 폐지 추진…5대 코인거래소 대표 회동",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0015980530&office_id=001&mode=mainnews&type=&date=2026-03-25&page=1"
+      "title": "중동전쟁 휴전 기대 속 코스피 2%대 상승…ADR 상장 추진에 '백만닉스' 탈환",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006242549&office_id=018&mode=mainnews&type=&date=2026-03-25&page=1"
     },
     {
-      "title": "증권사 치열한 ‘RIA’유치전에도… 서학개미 시큰둥",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002779712&office_id=021&mode=mainnews&type=&date=2026-03-25&page=1"
+      "title": "한미반도체, 세미콘 차이나 참가…2.5D TC 본더 공개",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013845038&office_id=003&mode=mainnews&type=&date=2026-03-25&page=1"
     },
     {
-      "title": "주식 고수들의 원픽은 ‘삼전닉스’ 제치고 현대차 [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004603240&office_id=011&mode=mainnews&type=&date=2026-03-25&page=1"
+      "title": "“올 연말 비트코인 ‘따블’ 간다, 절대 팔지마”…월가 큰손의 파격 전망, 왜?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004603260&office_id=011&mode=mainnews&type=&date=2026-03-25&page=1"
     },
     {
-      "title": "증권사 IMA 3파전 개막…시장 열기 이어갈까",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000485069&office_id=629&mode=mainnews&type=&date=2026-03-25&page=1"
+      "title": "국민연금 반대 소용없나…증권사 반대 안건 '무난' 통과 왜?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000485109&office_id=629&mode=mainnews&type=&date=2026-03-25&page=1"
     },
     {
-      "title": "'HBM 강자' SK하이닉스, 美 입성 추진…\"밸류업 정조준\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013844689&office_id=003&mode=mainnews&type=&date=2026-03-25&page=1"
+      "title": "MBK·영풍, 표 대결 졌지만 이사회 균형…향후 행보 주목",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000485108&office_id=629&mode=mainnews&type=&date=2026-03-25&page=1"
     },
     {
-      "title": "사모펀드 투자로 달라진 ‘K-방산’…돈 되는 진짜 비결[줌-인 딜리전시]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002619281&office_id=016&mode=mainnews&type=&date=2026-03-25&page=1"
+      "title": "“반도체만 들고 있다면”…증권가가 콕 찍은 실적 기대주 3총사",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005655803&office_id=009&mode=mainnews&type=&date=2026-03-25&page=1"
     },
     {
-      "title": "‘안전자산’ 명성에 금간 金, “3900달러까지 대비해야”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002619251&office_id=016&mode=mainnews&type=&date=2026-03-25&page=1"
+      "title": "\"주유소서 돈 더 쓰면 다른 소비 줄어\"…소비재株 '전쟁 불똥'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006242518&office_id=018&mode=mainnews&type=&date=2026-03-25&page=1"
     }
   ]
 }
