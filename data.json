@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-03-25 03:41:04",
+  "lastUpdated": "2026-03-25 03:58:38",
   "date": "2026.03.25",
   "kospi": {
     "name": "KOSPI",
-    "current": "5648.18",
-    "change": "94.26",
-    "changePct": "1.70",
+    "current": "5657.47",
+    "change": "103.55",
+    "changePct": "1.86",
     "direction": "up",
-    "volume": "556908",
-    "tradeAmount": "15570491"
+    "volume": "576037",
+    "tradeAmount": "16236367"
   },
   "stocks": [
     {
@@ -19,9 +19,9 @@
       "change": "2200",
       "changePct": "1.16",
       "direction": "up",
-      "volume": "13452384",
+      "volume": "14123160",
       "high": "196400",
-      "low": "191400",
+      "low": "191300",
       "open": "193700",
       "marketCap": "0"
     },
@@ -29,13 +29,13 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1002000",
-      "change": "16000",
-      "changePct": "1.62",
+      "current": "1006000",
+      "change": "20000",
+      "changePct": "2.03",
       "direction": "up",
-      "volume": "2933135",
+      "volume": "3082415",
       "high": "1042000",
-      "low": "1000000",
+      "low": "997000",
       "open": "1016000",
       "marketCap": "0"
     },
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "88500",
-      "change": "1000",
-      "changePct": "1.14",
+      "current": "88400",
+      "change": "900",
+      "changePct": "1.03",
       "direction": "up",
-      "volume": "134028",
+      "volume": "139809",
       "high": "89900",
       "low": "87800",
       "open": "89600",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "214500",
-      "change": "1000",
-      "changePct": "0.47",
+      "current": "215000",
+      "change": "1500",
+      "changePct": "0.70",
       "direction": "up",
-      "volume": "262384",
+      "volume": "271951",
       "high": "218000",
       "low": "214000",
       "open": "216500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1497.50",
-      "change": "0.50",
+      "value": "1498.00",
+      "change": "1.00",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "943.13",
-      "change": "0.10",
-      "direction": "down"
+      "value": "943.32",
+      "change": "0.09",
+      "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1737.62",
-      "change": "0.17",
-      "direction": "down"
+      "value": "1738.20",
+      "change": "0.41",
+      "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "217.23",
-      "change": "0.05",
+      "value": "217.25",
+      "change": "0.07",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "220210.99",
-      "change": "4303.13",
+      "value": "220179.91",
+      "change": "4272.05",
       "direction": "up",
       "unit": "USD/oz"
     },
