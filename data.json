@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-03-25 05:42:49",
+  "lastUpdated": "2026-03-25 07:12:31",
   "date": "2026.03.25",
   "kospi": {
     "name": "KOSPI",
-    "current": "5644.13",
-    "change": "90.21",
-    "changePct": "1.62",
+    "current": "5642.21",
+    "change": "88.29",
+    "changePct": "1.59",
     "direction": "up",
-    "volume": "693082",
-    "tradeAmount": "21141413"
+    "volume": "756354",
+    "tradeAmount": "24365497"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "190600",
-      "change": "900",
-      "changePct": "0.47",
-      "direction": "up",
-      "volume": "18695419",
+      "current": "189000",
+      "change": "-700",
+      "changePct": "-0.37",
+      "direction": "down",
+      "volume": "22763057",
       "high": "196400",
-      "low": "190000",
+      "low": "189000",
       "open": "193700",
       "marketCap": "0"
     },
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "996000",
-      "change": "10000",
-      "changePct": "1.01",
+      "current": "995000",
+      "change": "9000",
+      "changePct": "0.91",
       "direction": "up",
-      "volume": "3933792",
+      "volume": "4445194",
       "high": "1042000",
       "low": "988000",
       "open": "1016000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "88900",
-      "change": "1400",
-      "changePct": "1.60",
+      "current": "88800",
+      "change": "1300",
+      "changePct": "1.49",
       "direction": "up",
-      "volume": "195606",
+      "volume": "269788",
       "high": "89900",
       "low": "87800",
       "open": "89600",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "215000",
-      "change": "1500",
-      "changePct": "0.70",
+      "current": "215500",
+      "change": "2000",
+      "changePct": "0.94",
       "direction": "up",
-      "volume": "378845",
+      "volume": "464317",
       "high": "218000",
       "low": "214000",
       "open": "216500",
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1497.70",
-      "change": "0.70",
+      "value": "1497.90",
+      "change": "0.90",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "942.33",
-      "change": "0.90",
+      "value": "942.22",
+      "change": "1.01",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1736.88",
-      "change": "0.91",
+      "value": "1737.34",
+      "change": "0.45",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "217.18",
-      "change": "0.00",
-      "direction": "flat"
+      "value": "217.16",
+      "change": "0.02",
+      "direction": "down"
     }
   ],
   "oilPrices": [
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "219507.0",
-      "change": "3599.14",
+      "value": "219201.68",
+      "change": "3293.82",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "라인·카카오게임즈 합병 수순 밟나…앵커PE 유일한 엑시트 통로",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005655853&office_id=009&mode=mainnews&type=&date=2026-03-25&page=1"
+      "title": "韓 최초 로테이션 ETF…SOL 코리아메가테크액티브, 순자산 7000억 넘겼다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005266824&office_id=015&mode=mainnews&type=&date=2026-03-25&page=1"
     },
     {
-      "title": "가덕도신공항 건설사업 본궤도…대우건설이 책임진다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006242558&office_id=018&mode=mainnews&type=&date=2026-03-25&page=1"
+      "title": "국민의힘 \"집값 치솟고 코인엔 세금…청년 자산 증식 가로막는 과세 정비해야\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000485210&office_id=629&mode=mainnews&type=&date=2026-03-25&page=1"
     },
     {
-      "title": "중동전쟁 휴전 기대 속 코스피 2%대 상승…ADR 상장 추진에 '백만닉스' 탈환",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006242549&office_id=018&mode=mainnews&type=&date=2026-03-25&page=1"
+      "title": "중동발 종전 기대감에 웃었다…코스피 5640선 안착",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000485208&office_id=629&mode=mainnews&type=&date=2026-03-25&page=1"
     },
     {
-      "title": "한미반도체, 세미콘 차이나 참가…2.5D TC 본더 공개",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013845038&office_id=003&mode=mainnews&type=&date=2026-03-25&page=1"
+      "title": "\"실적 최악인데 대표는 돈방석\"…다원시스 소액주주, 주총 앞두고 결집",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006242662&office_id=018&mode=mainnews&type=&date=2026-03-25&page=1"
     },
     {
-      "title": "“올 연말 비트코인 ‘따블’ 간다, 절대 팔지마”…월가 큰손의 파격 전망, 왜?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004603260&office_id=011&mode=mainnews&type=&date=2026-03-25&page=1"
+      "title": "'천당과 지옥' 오가는 증시에…안정형 ETF로 피신",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005497305&office_id=014&mode=mainnews&type=&date=2026-03-25&page=1"
     },
     {
-      "title": "국민연금 반대 소용없나…증권사 반대 안건 '무난' 통과 왜?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000485109&office_id=629&mode=mainnews&type=&date=2026-03-25&page=1"
+      "title": "휴전 제안 소식에 \"휴~\"…코스피 한때 5700대 회복",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005335006&office_id=008&mode=mainnews&type=&date=2026-03-25&page=1"
     },
     {
-      "title": "MBK·영풍, 표 대결 졌지만 이사회 균형…향후 행보 주목",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000485108&office_id=629&mode=mainnews&type=&date=2026-03-25&page=1"
+      "title": "코스피, 美·이란 협상 기대감에 5600선 회복…코스닥 3%↑",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005266802&office_id=015&mode=mainnews&type=&date=2026-03-25&page=1"
     },
     {
-      "title": "“반도체만 들고 있다면”…증권가가 콕 찍은 실적 기대주 3총사",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005655803&office_id=009&mode=mainnews&type=&date=2026-03-25&page=1"
+      "title": "[속보] 미·이란 휴전 기대감…코스피, 기관 2.3조 '사자'에 5640선 안착",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001246600&office_id=215&mode=mainnews&type=&date=2026-03-25&page=1"
     }
   ]
 }
