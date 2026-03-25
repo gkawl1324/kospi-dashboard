@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-03-25 05:26:02",
+  "lastUpdated": "2026-03-25 05:42:49",
   "date": "2026.03.25",
   "kospi": {
     "name": "KOSPI",
-    "current": "5656.64",
-    "change": "102.72",
-    "changePct": "1.85",
+    "current": "5644.13",
+    "change": "90.21",
+    "changePct": "1.62",
     "direction": "up",
-    "volume": "673675",
-    "tradeAmount": "20271058"
+    "volume": "693082",
+    "tradeAmount": "21141413"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "191100",
-      "change": "1400",
-      "changePct": "0.74",
+      "current": "190600",
+      "change": "900",
+      "changePct": "0.47",
       "direction": "up",
-      "volume": "17682769",
+      "volume": "18695419",
       "high": "196400",
-      "low": "190700",
+      "low": "190000",
       "open": "193700",
       "marketCap": "0"
     },
@@ -29,13 +29,13 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "997000",
-      "change": "11000",
-      "changePct": "1.12",
+      "current": "996000",
+      "change": "10000",
+      "changePct": "1.01",
       "direction": "up",
-      "volume": "3748211",
+      "volume": "3933792",
       "high": "1042000",
-      "low": "993000",
+      "low": "988000",
       "open": "1016000",
       "marketCap": "0"
     },
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "89000",
-      "change": "1500",
-      "changePct": "1.71",
+      "current": "88900",
+      "change": "1400",
+      "changePct": "1.60",
       "direction": "up",
-      "volume": "185728",
+      "volume": "195606",
       "high": "89900",
       "low": "87800",
       "open": "89600",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "215500",
-      "change": "2000",
-      "changePct": "0.94",
+      "current": "215000",
+      "change": "1500",
+      "changePct": "0.70",
       "direction": "up",
-      "volume": "359989",
+      "volume": "378845",
       "high": "218000",
       "low": "214000",
       "open": "216500",
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1499.20",
-      "change": "2.20",
+      "value": "1497.70",
+      "change": "0.70",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "943.31",
-      "change": "0.08",
-      "direction": "up"
+      "value": "942.33",
+      "change": "0.90",
+      "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1738.10",
-      "change": "0.31",
-      "direction": "up"
+      "value": "1736.88",
+      "change": "0.91",
+      "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "217.35",
-      "change": "0.17",
-      "direction": "up"
+      "value": "217.18",
+      "change": "0.00",
+      "direction": "flat"
     }
   ],
   "oilPrices": [
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "219857.55",
-      "change": "3949.69",
+      "value": "219507.0",
+      "change": "3599.14",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -141,6 +141,10 @@
     }
   ],
   "news": [
+    {
+      "title": "라인·카카오게임즈 합병 수순 밟나…앵커PE 유일한 엑시트 통로",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005655853&office_id=009&mode=mainnews&type=&date=2026-03-25&page=1"
+    },
     {
       "title": "가덕도신공항 건설사업 본궤도…대우건설이 책임진다",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0006242558&office_id=018&mode=mainnews&type=&date=2026-03-25&page=1"
@@ -168,10 +172,6 @@
     {
       "title": "“반도체만 들고 있다면”…증권가가 콕 찍은 실적 기대주 3총사",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005655803&office_id=009&mode=mainnews&type=&date=2026-03-25&page=1"
-    },
-    {
-      "title": "\"주유소서 돈 더 쓰면 다른 소비 줄어\"…소비재株 '전쟁 불똥'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006242518&office_id=018&mode=mainnews&type=&date=2026-03-25&page=1"
     }
   ]
 }
