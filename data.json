@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-25 07:12:31",
+  "lastUpdated": "2026-03-25 07:34:23",
   "date": "2026.03.25",
   "kospi": {
     "name": "KOSPI",
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1497.90",
-      "change": "0.90",
+      "value": "1501.60",
+      "change": "4.60",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "942.22",
-      "change": "1.01",
-      "direction": "down"
+      "value": "943.96",
+      "change": "0.73",
+      "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1737.34",
-      "change": "0.45",
-      "direction": "down"
+      "value": "1741.03",
+      "change": "3.24",
+      "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "217.16",
-      "change": "0.02",
-      "direction": "down"
+      "value": "217.58",
+      "change": "0.40",
+      "direction": "up"
     }
   ],
   "oilPrices": [
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "219201.68",
-      "change": "3293.82",
+      "value": "219954.84",
+      "change": "4046.98",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,6 +142,26 @@
   ],
   "news": [
     {
+      "title": "전쟁 종식 기대에 코스피 5600선 탈환...삼천당제약 19% 급등",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002221990&office_id=138&mode=mainnews&type=&date=2026-03-25&page=1"
+    },
+    {
+      "title": "“진작 팔 걸, 전쟁 끝나면 오르려나?”…깜짝 반등한 금값 전문가 전망은",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005655999&office_id=009&mode=mainnews&type=&date=2026-03-25&page=1"
+    },
+    {
+      "title": "‘중동 리스크’에 에너지株 강세…신재생이 끌어올린 유틸리티",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005497327&office_id=014&mode=mainnews&type=&date=2026-03-25&page=1"
+    },
+    {
+      "title": "美·이란 종전 기대감에 상승 마감한 코스피·코스닥…‘황제주’ 등극한 삼천당제약[마켓뷰]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001151535&office_id=366&mode=mainnews&type=&date=2026-03-25&page=1"
+    },
+    {
+      "title": "개인 월 순매수 24조 ‘사상 최대’…동학개미 기록 넘어 ‘30조’ 가시권",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000095101&office_id=243&mode=mainnews&type=&date=2026-03-25&page=1"
+    },
+    {
       "title": "韓 최초 로테이션 ETF…SOL 코리아메가테크액티브, 순자산 7000억 넘겼다",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005266824&office_id=015&mode=mainnews&type=&date=2026-03-25&page=1"
     },
@@ -152,26 +172,6 @@
     {
       "title": "중동발 종전 기대감에 웃었다…코스피 5640선 안착",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000485208&office_id=629&mode=mainnews&type=&date=2026-03-25&page=1"
-    },
-    {
-      "title": "\"실적 최악인데 대표는 돈방석\"…다원시스 소액주주, 주총 앞두고 결집",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006242662&office_id=018&mode=mainnews&type=&date=2026-03-25&page=1"
-    },
-    {
-      "title": "'천당과 지옥' 오가는 증시에…안정형 ETF로 피신",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005497305&office_id=014&mode=mainnews&type=&date=2026-03-25&page=1"
-    },
-    {
-      "title": "휴전 제안 소식에 \"휴~\"…코스피 한때 5700대 회복",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005335006&office_id=008&mode=mainnews&type=&date=2026-03-25&page=1"
-    },
-    {
-      "title": "코스피, 美·이란 협상 기대감에 5600선 회복…코스닥 3%↑",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005266802&office_id=015&mode=mainnews&type=&date=2026-03-25&page=1"
-    },
-    {
-      "title": "[속보] 미·이란 휴전 기대감…코스피, 기관 2.3조 '사자'에 5640선 안착",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001246600&office_id=215&mode=mainnews&type=&date=2026-03-25&page=1"
     }
   ]
 }
