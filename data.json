@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-26 07:20:42",
+  "lastUpdated": "2026-03-26 07:40:49",
   "date": "2026.03.26",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1504.70",
-      "change": "0.20",
-      "direction": "up"
+      "value": "1503.90",
+      "change": "0.60",
+      "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "944.01",
-      "change": "0.19",
-      "direction": "up"
+      "value": "943.24",
+      "change": "0.58",
+      "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1739.06",
-      "change": "0.37",
+      "value": "1738.06",
+      "change": "1.37",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "217.83",
-      "change": "0.13",
+      "value": "217.71",
+      "change": "0.25",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "214930.17",
-      "change": "5236.35",
+      "value": "215443.56",
+      "change": "4722.96",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,6 +142,18 @@
   ],
   "news": [
     {
+      "title": "중동발 불확실성에 외국인 3조원 팔자…코스피 5500선 반납",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005656606&office_id=009&mode=mainnews&type=&date=2026-03-26&page=1"
+    },
+    {
+      "title": "SK하이닉스, ADR 발행으로 삼전과 동반 주가 상승 기대",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006243576&office_id=018&mode=mainnews&type=&date=2026-03-26&page=1"
+    },
+    {
+      "title": "'원전·재건·저PBR' 3박자 맞은 건설주 더 갈까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005335697&office_id=008&mode=mainnews&type=&date=2026-03-26&page=1"
+    },
+    {
       "title": "사상 첫 6일 연속 '셀 코리아'… 코스피 3.2% 급락·환율 1507원",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000921850&office_id=469&mode=mainnews&type=&date=2026-03-26&page=1"
     },
@@ -160,18 +172,6 @@
     {
       "title": "중동 리스크·메모리 우려 겹쳤다…코스피 5460선으로 밀려",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0006243564&office_id=018&mode=mainnews&type=&date=2026-03-26&page=1"
-    },
-    {
-      "title": "오락가락 증시에 외인 역대급 순매도… 고환율까지 ‘첩첩산중’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001151893&office_id=366&mode=mainnews&type=&date=2026-03-26&page=1"
-    },
-    {
-      "title": "코스피, 3% 떨어지며 5400대로…코스닥도 하락",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005740762&office_id=277&mode=mainnews&type=&date=2026-03-26&page=1"
-    },
-    {
-      "title": "고수들, 美 증시서 반도체주 대거 순매도…위성기업은 '사자' [마켓PRO]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005267396&office_id=015&mode=mainnews&type=&date=2026-03-26&page=1"
     }
   ]
 }
