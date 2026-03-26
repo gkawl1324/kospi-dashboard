@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-03-26 03:50:16",
+  "lastUpdated": "2026-03-26 05:44:12",
   "date": "2026.03.26",
   "kospi": {
     "name": "KOSPI",
-    "current": "5518.39",
-    "change": "123.82",
-    "changePct": "2.19",
+    "current": "5473.93",
+    "change": "168.28",
+    "changePct": "2.98",
     "direction": "up",
-    "volume": "673303",
-    "tradeAmount": "15781524"
+    "volume": "832906",
+    "tradeAmount": "20330716"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "182500",
-      "change": "-6500",
-      "changePct": "-3.44",
+      "current": "180500",
+      "change": "-8500",
+      "changePct": "-4.50",
       "direction": "down",
-      "volume": "22518502",
+      "volume": "27671984",
       "high": "185900",
       "low": "178900",
       "open": "185500",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "948000",
-      "change": "-47000",
-      "changePct": "-4.72",
+      "current": "938000",
+      "change": "-57000",
+      "changePct": "-5.73",
       "direction": "down",
-      "volume": "2890595",
+      "volume": "3706982",
       "high": "973000",
       "low": "931000",
       "open": "965000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "88200",
-      "change": "-600",
-      "changePct": "-0.68",
+      "current": "87600",
+      "change": "-1200",
+      "changePct": "-1.35",
       "direction": "down",
-      "volume": "115852",
+      "volume": "154411",
       "high": "89200",
       "low": "87400",
       "open": "89000",
@@ -57,13 +57,13 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "213500",
-      "change": "-2000",
-      "changePct": "-0.93",
+      "current": "212000",
+      "change": "-3500",
+      "changePct": "-1.62",
       "direction": "down",
-      "volume": "222960",
+      "volume": "315584",
       "high": "218500",
-      "low": "212000",
+      "low": "211000",
       "open": "216500",
       "marketCap": "0"
     }
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1505.20",
-      "change": "0.70",
+      "value": "1506.10",
+      "change": "1.60",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "943.82",
-      "change": "0.00",
-      "direction": "flat"
+      "value": "944.65",
+      "change": "0.83",
+      "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1741.06",
-      "change": "1.63",
+      "value": "1741.96",
+      "change": "2.53",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "218.00",
-      "change": "0.04",
+      "value": "218.07",
+      "change": "0.11",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "218491.97",
-      "change": "1674.55",
+      "value": "217486.39",
+      "change": "2680.13",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "코스피 9배 오르더니, 하루 만에 '급락'…증권 우선주 '주의보'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008850590&office_id=421&mode=mainnews&type=&date=2026-03-26&page=1"
+      "title": "\"성과 부족한데 보수는 수십억?\"…현대차증권 주총서 주주 반발",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000045694&office_id=648&mode=mainnews&type=&date=2026-03-26&page=1"
     },
     {
-      "title": "명노현 LS 부회장 \"중복상장 없이도 투자여력 충분…정부지침 따를 것\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0015983258&office_id=001&mode=mainnews&type=&date=2026-03-26&page=1"
+      "title": "코스피 5500선 턱걸이…외국인 3조원 팔자에 반도체주 약세",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006243436&office_id=018&mode=mainnews&type=&date=2026-03-26&page=1"
     },
     {
-      "title": "증권사 당기순익 9.6조… 불장 타고 38%↑",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002780001&office_id=021&mode=mainnews&type=&date=2026-03-26&page=1"
+      "title": "NH투자증권 '속전속결' 주총, 윤병운 대표 \"주어진 시간에 최선\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000045693&office_id=648&mode=mainnews&type=&date=2026-03-26&page=1"
     },
     {
-      "title": "구글, 메모리 사용 대폭 줄이는 기술 공개… 반도체주 ‘급락’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001151750&office_id=366&mode=mainnews&type=&date=2026-03-26&page=1"
+      "title": "미래에셋 ‘TIGER 반도체TOP10’ ETF, 개인 순매수 2조 돌파",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004603728&office_id=011&mode=mainnews&type=&date=2026-03-26&page=1"
     },
     {
-      "title": "SK하닉은 사고, 삼전은 팔고…터보퀀트 충격에도 엇갈린 투심 [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004603691&office_id=011&mode=mainnews&type=&date=2026-03-26&page=1"
+      "title": "코스피 2%대 급락…노무라는 “AI 사이클로 8000” [이런국장 저런주식]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004603727&office_id=011&mode=mainnews&type=&date=2026-03-26&page=1"
     },
     {
-      "title": "'AI 신기술' 위협에…고수들, 삼전은 팔고 닉스는 쓸어 담았다 [마켓PRO]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005267215&office_id=015&mode=mainnews&type=&date=2026-03-26&page=1"
+      "title": "코스피 5530선 등락…반도체 약세 속 외인 3조 가까이 매도[티타임]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001136071&office_id=417&mode=mainnews&type=&date=2026-03-26&page=1"
     },
     {
-      "title": "국민연금, LS 구자열·경동나비엔 손연호·다우기술 김동현 이사 선임 반대",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001016937&office_id=031&mode=mainnews&type=&date=2026-03-26&page=1"
+      "title": "삼전·닉스 급락에도 5500선 사수…스페이스X·바이오 '순환매'로 버티기",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008850853&office_id=421&mode=mainnews&type=&date=2026-03-26&page=1"
     },
     {
-      "title": "韓美 3월 ‘신상 ETF’ 수익률 국내 ETF가 미국 앞질렀다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002619863&office_id=016&mode=mainnews&type=&date=2026-03-26&page=1"
+      "title": "“20% 넘기면 팔아라” 가상자산거래소 지분 규제…헌법논쟁 번지나",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005656440&office_id=009&mode=mainnews&type=&date=2026-03-26&page=1"
     }
   ]
 }
