@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-03-27 03:52:15",
+  "lastUpdated": "2026-03-27 05:45:12",
   "date": "2026.03.27",
   "kospi": {
     "name": "KOSPI",
-    "current": "5350.95",
-    "change": "109.51",
-    "changePct": "2.01",
+    "current": "5434.29",
+    "change": "26.17",
+    "changePct": "0.48",
     "direction": "up",
-    "volume": "671146",
-    "tradeAmount": "14283841"
+    "volume": "822110",
+    "tradeAmount": "19893821"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "174900",
-      "change": "-5200",
-      "changePct": "-2.89",
+      "current": "179900",
+      "change": "-200",
+      "changePct": "-0.11",
       "direction": "down",
-      "volume": "17410925",
-      "high": "175400",
+      "volume": "24959461",
+      "high": "181700",
       "low": "172000",
       "open": "172100",
       "marketCap": "0"
@@ -29,12 +29,12 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "908000",
-      "change": "-25000",
-      "changePct": "-2.68",
+      "current": "922000",
+      "change": "-11000",
+      "changePct": "-1.18",
       "direction": "down",
-      "volume": "2680188",
-      "high": "909000",
+      "volume": "3816496",
+      "high": "934000",
       "low": "880000",
       "open": "890000",
       "marketCap": "0"
@@ -43,12 +43,12 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "86800",
-      "change": "-700",
-      "changePct": "-0.80",
-      "direction": "down",
-      "volume": "117918",
-      "high": "87100",
+      "current": "88600",
+      "change": "1100",
+      "changePct": "1.26",
+      "direction": "up",
+      "volume": "202909",
+      "high": "89000",
       "low": "84800",
       "open": "85800",
       "marketCap": "0"
@@ -57,12 +57,12 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "210500",
-      "change": "-1000",
-      "changePct": "-0.47",
-      "direction": "down",
-      "volume": "286033",
-      "high": "211500",
+      "current": "212250",
+      "change": "750",
+      "changePct": "0.35",
+      "direction": "up",
+      "volume": "362884",
+      "high": "213000",
       "low": "206000",
       "open": "208000",
       "marketCap": "0"
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1506.00",
-      "change": "2.00",
+      "value": "1507.10",
+      "change": "0.90",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "943.67",
-      "change": "0.78",
+      "value": "944.27",
+      "change": "0.18",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1737.62",
-      "change": "2.39",
+      "value": "1739.42",
+      "change": "0.59",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "217.69",
-      "change": "0.36",
+      "value": "217.89",
+      "change": "0.16",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "214716.29",
-      "change": "1639.31",
+      "value": "216557.3",
+      "change": "3480.32",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "90만 닉스도 깨졌는데…\"지금이다\" 개미들 1.8조 매수",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005336094&office_id=008&mode=mainnews&type=&date=2026-03-27&page=1"
+      "title": "이틀간 주가 20%넘게↓ 한화솔루션···자본시장 반응 '싸늘'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005336168&office_id=008&mode=mainnews&type=&date=2026-03-27&page=1"
     },
     {
-      "title": "外人 이달 30조 순매도…환율은 악순환",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002620564&office_id=016&mode=mainnews&type=&date=2026-03-27&page=1"
+      "title": "터보퀀트 하나에 '반도체 버블' 터질까...\"오히려 좋아\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005498534&office_id=014&mode=mainnews&type=&date=2026-03-27&page=1"
     },
     {
-      "title": "로보티즈 사고, 셀트리온 팔고… 고수들 급락장 ‘남다른 보법’ [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004604147&office_id=011&mode=mainnews&type=&date=2026-03-27&page=1"
+      "title": "90조 몰려온다…환율 20~30원 하락 '기대' [마켓딥다이브]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001246883&office_id=215&mode=mainnews&type=&date=2026-03-27&page=1"
     },
     {
-      "title": "코스피, 이란전·터보퀀트에 5,300선 공방…코스닥 1.3% 하락",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0015985828&office_id=001&mode=mainnews&type=&date=2026-03-27&page=1"
+      "title": "비트코인 주춤해도 세일러는 ‘직진’…11% 고배당에 개미들 몰렸다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005657120&office_id=009&mode=mainnews&type=&date=2026-03-27&page=1"
     },
     {
-      "title": "\"망작이다\" 하한가 치더니...'붉은사막' 열풍에 17% 급등한 펄어비스",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005498458&office_id=014&mode=mainnews&type=&date=2026-03-27&page=1"
+      "title": "규제 불확실성의 악재, 국내 가상자산 산업 골든타임을 잃나[엠블록레터]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005657119&office_id=009&mode=mainnews&type=&date=2026-03-27&page=1"
     },
     {
-      "title": "\"주주가 ATM이냐\"… 한화솔루션 '2.4조 기습 유증' 개미들 공분",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008853065&office_id=421&mode=mainnews&type=&date=2026-03-27&page=1"
+      "title": "미·이란·AI 변수 충돌…차주 코스피 5300~6000 박스권 ‘고변동성 장세’ 전망",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000095252&office_id=243&mode=mainnews&type=&date=2026-03-27&page=1"
     },
     {
-      "title": "10년 동안 안 담고 뭐한거니…뒤늦은 월가 큰손들의 자산대이동",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005657023&office_id=009&mode=mainnews&type=&date=2026-03-27&page=1"
+      "title": "이부진 '통큰 결단'에 호텔신라 주가 급등…주주들 '땡큐'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000095251&office_id=243&mode=mainnews&type=&date=2026-03-27&page=1"
     },
     {
-      "title": "쏘카 이재웅 경영 복귀 후 지분 확대?왜?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001017351&office_id=031&mode=mainnews&type=&date=2026-03-27&page=1"
+      "title": "“이때다”…개미들 2.6조 저가 매수에 코스피 낙폭 축소",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006244249&office_id=018&mode=mainnews&type=&date=2026-03-27&page=1"
     }
   ]
 }
