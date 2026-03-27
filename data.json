@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-03-27 05:45:12",
+  "lastUpdated": "2026-03-27 05:55:39",
   "date": "2026.03.27",
   "kospi": {
     "name": "KOSPI",
-    "current": "5434.29",
-    "change": "26.17",
+    "current": "5434.49",
+    "change": "25.97",
     "changePct": "0.48",
     "direction": "up",
-    "volume": "822110",
-    "tradeAmount": "19893821"
+    "volume": "833783",
+    "tradeAmount": "20348821"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "179900",
-      "change": "-200",
-      "changePct": "-0.11",
+      "current": "179800",
+      "change": "-300",
+      "changePct": "-0.17",
       "direction": "down",
-      "volume": "24959461",
+      "volume": "25485065",
       "high": "181700",
       "low": "172000",
       "open": "172100",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "922000",
-      "change": "-11000",
-      "changePct": "-1.18",
+      "current": "921000",
+      "change": "-12000",
+      "changePct": "-1.29",
       "direction": "down",
-      "volume": "3816496",
+      "volume": "3900738",
       "high": "934000",
       "low": "880000",
       "open": "890000",
@@ -43,12 +43,12 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "88600",
-      "change": "1100",
-      "changePct": "1.26",
+      "current": "88900",
+      "change": "1400",
+      "changePct": "1.60",
       "direction": "up",
-      "volume": "202909",
-      "high": "89000",
+      "volume": "250406",
+      "high": "89100",
       "low": "84800",
       "open": "85800",
       "marketCap": "0"
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "212250",
-      "change": "750",
-      "changePct": "0.35",
+      "current": "212000",
+      "change": "500",
+      "changePct": "0.24",
       "direction": "up",
-      "volume": "362884",
+      "volume": "373505",
       "high": "213000",
       "low": "206000",
       "open": "208000",
@@ -79,22 +79,22 @@
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "944.27",
-      "change": "0.18",
+      "value": "944.36",
+      "change": "0.09",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1739.42",
-      "change": "0.59",
-      "direction": "down"
+      "value": "1740.02",
+      "change": "0.01",
+      "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "217.89",
-      "change": "0.16",
+      "value": "217.91",
+      "change": "0.14",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "216557.3",
-      "change": "3480.32",
+      "value": "216109.72",
+      "change": "3032.74",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,7 +142,11 @@
   ],
   "news": [
     {
-      "title": "이틀간 주가 20%넘게↓ 한화솔루션···자본시장 반응 '싸늘'",
+      "title": "‘안전자산’도 안 통했다…귀금속 급락에 증권가 “조정 국면”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005498544&office_id=014&mode=mainnews&type=&date=2026-03-27&page=1"
+    },
+    {
+      "title": "주가 20% '뚝', 증권가도 \"팔아라\"…뿔난 한화솔루션 개미, 탄원서까지",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005336168&office_id=008&mode=mainnews&type=&date=2026-03-27&page=1"
     },
     {
@@ -168,10 +172,6 @@
     {
       "title": "이부진 '통큰 결단'에 호텔신라 주가 급등…주주들 '땡큐'",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000095251&office_id=243&mode=mainnews&type=&date=2026-03-27&page=1"
-    },
-    {
-      "title": "“이때다”…개미들 2.6조 저가 매수에 코스피 낙폭 축소",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006244249&office_id=018&mode=mainnews&type=&date=2026-03-27&page=1"
     }
   ]
 }
