@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-30 06:55:31",
+  "lastUpdated": "2026-03-30 08:07:43",
   "date": "2026.03.30",
   "kospi": {
     "name": "KOSPI",
@@ -19,7 +19,7 @@
       "change": "-3400",
       "changePct": "-1.89",
       "direction": "down",
-      "volume": "22024484",
+      "volume": "22024888",
       "high": "176650",
       "low": "170600",
       "open": "171000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1516.00",
-      "change": "7.00",
+      "value": "1518.50",
+      "change": "9.50",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "948.66",
-      "change": "7.21",
+      "value": "950.34",
+      "change": "8.89",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1745.30",
-      "change": "8.21",
+      "value": "1745.52",
+      "change": "8.43",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "219.35",
-      "change": "1.27",
+      "value": "219.49",
+      "change": "1.41",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "221128.0",
-      "change": "1587.42",
+      "value": "220894.27",
+      "change": "1353.69",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "코스피, 유가 급등·전쟁 우려에 2.97% 급락…5277선 마감[오늘증시]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001136619&office_id=417&mode=mainnews&type=&date=2026-03-30&page=1"
+      "title": "외국인 매도·고유가 겹치며…환율 1520원 돌파, 천장이 안 보인다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000922541&office_id=469&mode=mainnews&type=&date=2026-03-30&page=1"
     },
     {
-      "title": "삼전 1.89%↓·SK하닉 5.31%↓마감…증권가 \"매수기회\"[핫스탁](종합)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013854982&office_id=003&mode=mainnews&type=&date=2026-03-30&page=1"
+      "title": "중동發 유가 폭등에 증시 흔들…\"이익 보는 눈 더 중요해졌다\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006245722&office_id=018&mode=mainnews&type=&date=2026-03-30&page=1"
     },
     {
-      "title": "변동성 증시에 ‘각개전투’…ETF 대신 개별 종목 담는 개미들",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001152737&office_id=366&mode=mainnews&type=&date=2026-03-30&page=1"
+      "title": "중동 정세·마지막 FOMC 남은 파월…코스피 야간선물 주목",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005337131&office_id=008&mode=mainnews&type=&date=2026-03-30&page=1"
     },
     {
-      "title": "하이닉스 비중 30% 초과…‘TIGER 반도체TOP10’ 규정 위반 논란",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005268606&office_id=015&mode=mainnews&type=&date=2026-03-30&page=1"
+      "title": "증시 악재 한꺼번에...\"월요일만 되면 돈 삭제\" 개미들 공포",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005337126&office_id=008&mode=mainnews&type=&date=2026-03-30&page=1"
     },
     {
-      "title": "\"석유 불안, 배터리 재평가\"…2차전지株, '나홀로 질주' [핫종목]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008857973&office_id=421&mode=mainnews&type=&date=2026-03-30&page=1"
+      "title": "재무개선 수단으로 ‘자산 재평가’ 확산…저PBR 정책에 속도 더 붙을까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006245708&office_id=018&mode=mainnews&type=&date=2026-03-30&page=1"
     },
     {
-      "title": "서학개미 주춤···RIA까지 더해지며 국내 '유턴'↑",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005337016&office_id=008&mode=mainnews&type=&date=2026-03-30&page=1"
+      "title": "\"500만원 예치하려다 130억 맡겼다\"…한투 영PB들 투자 전략은?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005337118&office_id=008&mode=mainnews&type=&date=2026-03-30&page=1"
     },
     {
-      "title": "초대형 IB 향하는 진승욱號 대신증권…‘우발부채의 벽’ 넘을까",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002222563&office_id=138&mode=mainnews&type=&date=2026-03-30&page=1"
+      "title": "고유가·고환율에 짓눌린 증시…증권가 \"반도체주 유효, 항공주는 타격\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005268667&office_id=015&mode=mainnews&type=&date=2026-03-30&page=1"
     },
     {
-      "title": "거버넌스포럼 “한화솔루션 유증, 주주 충실의무 위반 우려”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006245586&office_id=018&mode=mainnews&type=&date=2026-03-30&page=1"
+      "title": "삼천당제약, 美 ‘경구용 GLP-1’ 독점 계약…“순이익 9:1배분”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005499579&office_id=014&mode=mainnews&type=&date=2026-03-30&page=1"
     }
   ]
 }
