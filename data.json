@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-03-30 03:46:56",
+  "lastUpdated": "2026-03-30 04:10:55",
   "date": "2026.03.30",
   "kospi": {
     "name": "KOSPI",
-    "current": "5287.98",
-    "change": "150.89",
-    "changePct": "2.77",
+    "current": "5284.79",
+    "change": "154.08",
+    "changePct": "2.83",
     "direction": "up",
-    "volume": "527624",
-    "tradeAmount": "13249686"
+    "volume": "547839",
+    "tradeAmount": "14041001"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "175200",
-      "change": "-4500",
-      "changePct": "-2.50",
+      "current": "175800",
+      "change": "-3900",
+      "changePct": "-2.17",
       "direction": "down",
-      "volume": "14162207",
-      "high": "175800",
+      "volume": "15046638",
+      "high": "176000",
       "low": "170600",
       "open": "171000",
       "marketCap": "0"
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "878000",
-      "change": "-44000",
-      "changePct": "-4.77",
+      "current": "881000",
+      "change": "-41000",
+      "changePct": "-4.45",
       "direction": "down",
-      "volume": "2920954",
+      "volume": "3084493",
       "high": "883000",
       "low": "862000",
       "open": "867000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "85500",
-      "change": "-3500",
-      "changePct": "-3.93",
+      "current": "85400",
+      "change": "-3600",
+      "changePct": "-4.04",
       "direction": "down",
-      "volume": "123421",
+      "volume": "135363",
       "high": "85600",
       "low": "83400",
       "open": "84400",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "207500",
-      "change": "-5000",
-      "changePct": "-2.35",
+      "current": "207000",
+      "change": "-5500",
+      "changePct": "-2.59",
       "direction": "down",
-      "volume": "226641",
+      "volume": "236594",
       "high": "208500",
       "low": "204000",
       "open": "205500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1512.30",
-      "change": "3.30",
+      "value": "1512.10",
+      "change": "3.10",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "946.49",
-      "change": "5.04",
+      "value": "946.63",
+      "change": "5.18",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1741.56",
-      "change": "4.47",
+      "value": "1741.26",
+      "change": "4.17",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "218.64",
-      "change": "0.56",
+      "value": "218.72",
+      "change": "0.64",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "218971.16",
-      "change": "569.42",
+      "value": "218257.72",
+      "change": "1282.86",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -158,6 +158,10 @@
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0004604918&office_id=011&mode=mainnews&type=&date=2026-03-30&page=1"
     },
     {
+      "title": "금감원 \"신규 상장사도 5% 보고·소유상황보고 대상\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005336898&office_id=008&mode=mainnews&type=&date=2026-03-30&page=1"
+    },
+    {
       "title": "안철수 \"한화솔루션이 아니라 한화트러블… 주주를 '물주'로만 봐\"",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000922446&office_id=469&mode=mainnews&type=&date=2026-03-30&page=1"
     },
@@ -168,10 +172,6 @@
     {
       "title": "“시장 저점은 전문가도 몰라”…부자는 ‘한방’을 노리지 않는다",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002621508&office_id=016&mode=mainnews&type=&date=2026-03-30&page=1"
-    },
-    {
-      "title": "외인 고환율에 삼전닉스 21조 ‘매물 폭탄’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002621485&office_id=016&mode=mainnews&type=&date=2026-03-30&page=1"
     }
   ]
 }
