@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-03-30 04:10:55",
+  "lastUpdated": "2026-03-30 06:14:02",
   "date": "2026.03.30",
   "kospi": {
     "name": "KOSPI",
-    "current": "5284.79",
-    "change": "154.08",
-    "changePct": "2.83",
+    "current": "5258.94",
+    "change": "179.93",
+    "changePct": "3.31",
     "direction": "up",
-    "volume": "547839",
-    "tradeAmount": "14041001"
+    "volume": "695948",
+    "tradeAmount": "18814787"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "175800",
-      "change": "-3900",
-      "changePct": "-2.17",
+      "current": "175600",
+      "change": "-4100",
+      "changePct": "-2.28",
       "direction": "down",
-      "volume": "15046638",
-      "high": "176000",
+      "volume": "19849225",
+      "high": "176650",
       "low": "170600",
       "open": "171000",
       "marketCap": "0"
@@ -29,12 +29,12 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "881000",
-      "change": "-41000",
-      "changePct": "-4.45",
+      "current": "873500",
+      "change": "-48500",
+      "changePct": "-5.26",
       "direction": "down",
-      "volume": "3084493",
-      "high": "883000",
+      "volume": "3981292",
+      "high": "884000",
       "low": "862000",
       "open": "867000",
       "marketCap": "0"
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "85400",
-      "change": "-3600",
-      "changePct": "-4.04",
+      "current": "84200",
+      "change": "-4800",
+      "changePct": "-5.39",
       "direction": "down",
-      "volume": "135363",
+      "volume": "208575",
       "high": "85600",
       "low": "83400",
       "open": "84400",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "207000",
-      "change": "-5500",
-      "changePct": "-2.59",
+      "current": "206000",
+      "change": "-6500",
+      "changePct": "-3.06",
       "direction": "down",
-      "volume": "236594",
+      "volume": "312427",
       "high": "208500",
       "low": "204000",
       "open": "205500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1512.10",
-      "change": "3.10",
+      "value": "1515.00",
+      "change": "6.00",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "946.63",
-      "change": "5.18",
+      "value": "948.86",
+      "change": "7.41",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1741.26",
-      "change": "4.17",
+      "value": "1744.75",
+      "change": "7.66",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "218.72",
-      "change": "0.64",
+      "value": "219.23",
+      "change": "1.15",
       "direction": "up"
     }
   ],
@@ -118,9 +118,9 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "218257.72",
-      "change": "1282.86",
-      "direction": "down",
+      "value": "220636.47",
+      "change": "1095.89",
+      "direction": "up",
       "unit": "USD/oz"
     },
     {
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "여의도 '왕개미' 제대로 뿔났다…\"한화트러블\" 직격",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001247116&office_id=215&mode=mainnews&type=&date=2026-03-30&page=1"
+      "title": "거버넌스포럼 “한화솔루션 유증, 주주 충실의무 위반 우려”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006245586&office_id=018&mode=mainnews&type=&date=2026-03-30&page=1"
     },
     {
-      "title": "곽동신 한미반도체 회장, 30억 규모 자사주 취득",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013854271&office_id=003&mode=mainnews&type=&date=2026-03-30&page=1"
+      "title": "한화운용, 기술·글로벌 향하는 43명 '설계자'[펀드매니저 리포트]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000081833&office_id=293&mode=mainnews&type=&date=2026-03-30&page=1"
     },
     {
-      "title": "\"임직원, 퇴사 후에도 차익 반환해야\"…단기매매차익 주의보",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006245444&office_id=018&mode=mainnews&type=&date=2026-03-30&page=1"
+      "title": "시총 10조 기업이 10% 급락…널뛰는 변동성에 증권株 외면 [이런국장 저런주식]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004604972&office_id=011&mode=mainnews&type=&date=2026-03-30&page=1"
     },
     {
-      "title": "끝나지 않는 전쟁…수익률 상위 투자자는 바이오·VC株 담닸다 [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004604918&office_id=011&mode=mainnews&type=&date=2026-03-30&page=1"
+      "title": "투자 고수들, 유가 뛰자 서둘러 쓸어담았다…'뭉칫돈' 몰린 종목 [마켓PRO]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005268576&office_id=015&mode=mainnews&type=&date=2026-03-30&page=1"
     },
     {
-      "title": "금감원 \"신규 상장사도 5% 보고·소유상황보고 대상\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005336898&office_id=008&mode=mainnews&type=&date=2026-03-30&page=1"
+      "title": "아이엠티, 주총서 주주와 질의응답…\"SK하이닉스에 HBM용 세라믹 기판 공급중\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006245558&office_id=018&mode=mainnews&type=&date=2026-03-30&page=1"
     },
     {
-      "title": "안철수 \"한화솔루션이 아니라 한화트러블… 주주를 '물주'로만 봐\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000922446&office_id=469&mode=mainnews&type=&date=2026-03-30&page=1"
+      "title": "“1인당 4500만원 쐈다”... 토스증권, 183명에 83억 스톡옵션 부여",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001152713&office_id=366&mode=mainnews&type=&date=2026-03-30&page=1"
     },
     {
-      "title": "비트코인 투자 신호, ‘기관의 수급’을 주목하라",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002621512&office_id=016&mode=mainnews&type=&date=2026-03-30&page=1"
+      "title": "주가 19만원→1만원…금양, 2년 연속 감사의견 거절에 상폐 '초읽기'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000486475&office_id=629&mode=mainnews&type=&date=2026-03-30&page=1"
     },
     {
-      "title": "“시장 저점은 전문가도 몰라”…부자는 ‘한방’을 노리지 않는다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002621508&office_id=016&mode=mainnews&type=&date=2026-03-30&page=1"
+      "title": "기관 ‘사자’ 전환…코스피, 낙폭 줄여 5200선 회복",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006245512&office_id=018&mode=mainnews&type=&date=2026-03-30&page=1"
     }
   ]
 }
