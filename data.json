@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-03-31 03:52:57",
+  "lastUpdated": "2026-03-31 05:47:36",
   "date": "2026.03.31",
   "kospi": {
     "name": "KOSPI",
-    "current": "5118.46",
-    "change": "158.84",
-    "changePct": "3.01",
+    "current": "5106.17",
+    "change": "171.13",
+    "changePct": "3.24",
     "direction": "up",
-    "volume": "664564",
-    "tradeAmount": "17053347"
+    "volume": "1022666",
+    "tradeAmount": "23348647"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "169400",
-      "change": "-6900",
-      "changePct": "-3.91",
+      "current": "169500",
+      "change": "-6800",
+      "changePct": "-3.86",
       "direction": "down",
-      "volume": "22027327",
+      "volume": "29074323",
       "high": "174700",
       "low": "167500",
       "open": "170000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "825000",
-      "change": "-48000",
-      "changePct": "-5.50",
+      "current": "823000",
+      "change": "-50000",
+      "changePct": "-5.73",
       "direction": "down",
-      "volume": "4129836",
+      "volume": "5480791",
       "high": "852000",
       "low": "806000",
       "open": "817000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "83200",
-      "change": "-1600",
-      "changePct": "-1.89",
+      "current": "83400",
+      "change": "-1400",
+      "changePct": "-1.65",
       "direction": "down",
-      "volume": "166087",
+      "volume": "237581",
       "high": "84500",
       "low": "81800",
       "open": "83200",
@@ -61,9 +61,9 @@
       "change": "-6000",
       "changePct": "-2.90",
       "direction": "down",
-      "volume": "465217",
+      "volume": "653465",
       "high": "205500",
-      "low": "200500",
+      "low": "200000",
       "open": "202500",
       "marketCap": "0"
     }
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1533.70",
-      "change": "16.20",
+      "value": "1535.00",
+      "change": "17.50",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "960.30",
-      "change": "10.38",
+      "value": "961.75",
+      "change": "11.83",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1758.92",
-      "change": "19.49",
+      "value": "1760.03",
+      "change": "20.60",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "221.81",
-      "change": "2.40",
+      "value": "222.01",
+      "change": "2.60",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "224535.47",
-      "change": "3526.60",
+      "value": "225902.83",
+      "change": "4893.96",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "“비트코인·금만이 당신을 지켜줄 것”…중동전쟁에 ‘부자 아빠’ 꺼낸 한마디",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004605401&office_id=011&mode=mainnews&type=&date=2026-03-31&page=1"
+      "title": "60여개社 무더기 상폐 위기…사업보고서 제출 마감 [마켓딥다이브]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001247317&office_id=215&mode=mainnews&type=&date=2026-03-31&page=1"
     },
     {
-      "title": "\"순익 줄었는데 보수 역대급\"…두나무 직원 평균 2.5억·송치형 60억 '연봉 잔치'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000486878&office_id=629&mode=mainnews&type=&date=2026-03-31&page=1"
+      "title": "삼천당제약, 하한가 직행...나흘 만에 ‘황제주’ 반납 [이런국장 저런주식]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004605433&office_id=011&mode=mainnews&type=&date=2026-03-31&page=1"
     },
     {
-      "title": "\"은퇴하면 뭐 먹고 사나\"…중요성 커진 '생애주기펀드' 운용",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001136753&office_id=417&mode=mainnews&type=&date=2026-03-31&page=1"
+      "title": "“1분기 실적 나오면 분위기 바뀔 것”…삼전닉스 저가매수 타이밍이라는데",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005658728&office_id=009&mode=mainnews&type=&date=2026-03-31&page=1"
     },
     {
-      "title": "'황제주 사일천하' 삼천당제약 주가 폭락…“美 독점계약 실망\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006246277&office_id=018&mode=mainnews&type=&date=2026-03-31&page=1"
+      "title": "“끝까지 믿었는데” 금 13%·은 24% 급락 ‘낙폭 기준 최악의 한달’…안전자산의 배신",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002622312&office_id=016&mode=mainnews&type=&date=2026-03-31&page=1"
     },
     {
-      "title": "“지금이 우량주 최고 매수 타이밍… 약세론자 말 무시하라”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002781135&office_id=021&mode=mainnews&type=&date=2026-03-31&page=1"
+      "title": "1분기 주가상승률 상위 보니…주가 7배 뛴 종목도",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013857074&office_id=003&mode=mainnews&type=&date=2026-03-31&page=1"
     },
     {
-      "title": "급락해도 믿음의 ‘삼전·닉스’…초고수 순매수 1·2위 [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004605382&office_id=011&mode=mainnews&type=&date=2026-03-31&page=1"
+      "title": "할머니 따라 산 개미 날벼락...삼천당제약, 미국 계약 실망감 '하한가'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005337591&office_id=008&mode=mainnews&type=&date=2026-03-31&page=1"
     },
     {
-      "title": "터보퀀트 여진 오래가네…삼전닉스 연일 하락세",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005337507&office_id=008&mode=mainnews&type=&date=2026-03-31&page=1"
+      "title": "삼미금속, 두산에너빌리티향 총 108억원 규모 원전 터빈 블레이드 수주",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006246339&office_id=018&mode=mainnews&type=&date=2026-03-31&page=1"
     },
     {
-      "title": "비트코인 투입 연산량, 6년 만에 분기 하락…약세장·채굴자 이탈 동반 악재",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005658638&office_id=009&mode=mainnews&type=&date=2026-03-31&page=1"
+      "title": "中 텐센트, 'AI 에이전트 몰빵'에 투자자들 불만 커져",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005269091&office_id=015&mode=mainnews&type=&date=2026-03-31&page=1"
     }
   ]
 }
