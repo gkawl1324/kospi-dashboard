@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-03-31 05:59:16",
+  "lastUpdated": "2026-03-31 07:39:21",
   "date": "2026.03.31",
   "kospi": {
     "name": "KOSPI",
-    "current": "5099.24",
-    "change": "178.06",
-    "changePct": "3.37",
+    "current": "5052.46",
+    "change": "224.84",
+    "changePct": "4.26",
     "direction": "up",
-    "volume": "1051060",
-    "tradeAmount": "24032725"
+    "volume": "1148107",
+    "tradeAmount": "28234840"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "169000",
-      "change": "-7300",
-      "changePct": "-4.14",
+      "current": "167200",
+      "change": "-9100",
+      "changePct": "-5.16",
       "direction": "down",
-      "volume": "29821071",
+      "volume": "35417129",
       "high": "174700",
-      "low": "167500",
+      "low": "167000",
       "open": "170000",
       "marketCap": "0"
     },
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "821000",
-      "change": "-52000",
-      "changePct": "-5.96",
+      "current": "807000",
+      "change": "-66000",
+      "changePct": "-7.56",
       "direction": "down",
-      "volume": "5617993",
+      "volume": "6743938",
       "high": "852000",
       "low": "806000",
       "open": "817000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "83300",
-      "change": "-1500",
-      "changePct": "-1.77",
+      "current": "82800",
+      "change": "-2000",
+      "changePct": "-2.36",
       "direction": "down",
-      "volume": "248510",
+      "volume": "321221",
       "high": "84500",
       "low": "81800",
       "open": "83200",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "202000",
-      "change": "-5000",
-      "changePct": "-2.42",
+      "current": "201500",
+      "change": "-5500",
+      "changePct": "-2.66",
       "direction": "down",
-      "volume": "672778",
+      "volume": "822757",
       "high": "205500",
       "low": "200000",
       "open": "202500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1535.50",
-      "change": "18.00",
+      "value": "1531.60",
+      "change": "14.10",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "962.06",
-      "change": "12.14",
+      "value": "958.90",
+      "change": "8.98",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1760.30",
-      "change": "20.87",
+      "value": "1756.52",
+      "change": "17.09",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "222.10",
-      "change": "2.69",
+      "value": "221.59",
+      "change": "2.18",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "225796.15",
-      "change": "4787.28",
+      "value": "223996.64",
+      "change": "2987.77",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "'장중 1,530원' 환율 상승 부추기는 외인…이달 들어 35조 투매",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0015992805&office_id=001&mode=mainnews&type=&date=2026-03-31&page=1"
+      "title": "외국인 이탈에 달러·원 1530원 돌파…\"1550원 뚫리면 상단 무의미\"(종합2보)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008861098&office_id=421&mode=mainnews&type=&date=2026-03-31&page=1"
     },
     {
-      "title": "트러스톤, 태광산업 주총서 0.3% 차 '석패’…“결과 떠나 소액주주의 승리” [fn마켓워치]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005500173&office_id=014&mode=mainnews&type=&date=2026-03-31&page=1"
+      "title": "전쟁에 발목 잡힌 현대차, 5%대 급락…시총 4위로 밀려 [종목Pick]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002622451&office_id=016&mode=mainnews&type=&date=2026-03-31&page=1"
     },
     {
-      "title": "60여개社 무더기 상폐 위기…사업보고서 제출 마감 [마켓딥다이브]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001247317&office_id=215&mode=mainnews&type=&date=2026-03-31&page=1"
+      "title": "멈춰선 코스피 반등 엔진… 외인 역대급 투매에 5000선 간신히 사수[마켓뷰]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001153074&office_id=366&mode=mainnews&type=&date=2026-03-31&page=1"
     },
     {
-      "title": "삼천당제약, 하한가 직행...나흘 만에 ‘황제주’ 반납 [이런국장 저런주식]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004605433&office_id=011&mode=mainnews&type=&date=2026-03-31&page=1"
+      "title": "전쟁 한달만 국내증시 시총 1천조원 증발…'삼전닉스' 473조원↓(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0015993384&office_id=001&mode=mainnews&type=&date=2026-03-31&page=1"
     },
     {
-      "title": "“1분기 실적 나오면 분위기 바뀔 것”…삼전닉스 저가매수 타이밍이라는데",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005658728&office_id=009&mode=mainnews&type=&date=2026-03-31&page=1"
+      "title": "\"빛났던 한국 증시, 부진한 투자처로\" 블룸버그",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005742836&office_id=277&mode=mainnews&type=&date=2026-03-31&page=1"
     },
     {
-      "title": "“끝까지 믿었는데” 금 13%·은 24% 급락 ‘낙폭 기준 최악의 한달’…안전자산의 배신",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002622312&office_id=016&mode=mainnews&type=&date=2026-03-31&page=1"
+      "title": "오르비텍에 둥지 튼 파인테크닉스, 100억원 추가 조달",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005337736&office_id=008&mode=mainnews&type=&date=2026-03-31&page=1"
     },
     {
-      "title": "1분기 주가상승률 상위 보니…주가 7배 뛴 종목도",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013857074&office_id=003&mode=mainnews&type=&date=2026-03-31&page=1"
+      "title": "코스피, 4.26% 급락 마감…外人 3.8조 매도에 반도체 '투톱' 흔들(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013857780&office_id=003&mode=mainnews&type=&date=2026-03-31&page=1"
     },
     {
-      "title": "할머니 따라 산 개미 날벼락...삼천당제약, 미국 계약 실망감 '하한가'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005337591&office_id=008&mode=mainnews&type=&date=2026-03-31&page=1"
+      "title": "코스피, 5000포인트 사수...外人, 이달 35조 투매 역대 최대 [마켓시그널]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004605511&office_id=011&mode=mainnews&type=&date=2026-03-31&page=1"
     }
   ]
 }
