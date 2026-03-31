@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-31 07:39:21",
+  "lastUpdated": "2026-03-31 07:49:46",
   "date": "2026.03.31",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1531.60",
-      "change": "14.10",
+      "value": "1530.70",
+      "change": "13.20",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "958.90",
-      "change": "8.98",
+      "value": "958.69",
+      "change": "8.77",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1756.52",
-      "change": "17.09",
+      "value": "1755.87",
+      "change": "16.44",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "221.59",
-      "change": "2.18",
+      "value": "221.48",
+      "change": "2.07",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "223996.64",
-      "change": "2987.77",
+      "value": "224348.53",
+      "change": "3339.66",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,6 +142,18 @@
   ],
   "news": [
     {
+      "title": "코스닥 시총 1위 삼천당제약, 주가 조작 의혹에 하한가",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005269215&office_id=015&mode=mainnews&type=&date=2026-03-31&page=1"
+    },
+    {
+      "title": "삼전닉스, 한 달 만에 '471조' 날렸는데…\"그래도 사라\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005269209&office_id=015&mode=mainnews&type=&date=2026-03-31&page=1"
+    },
+    {
+      "title": "“중동 리스크는 단기 변수…반도체 중심 대응해야”[센터장의 뷰]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006246593&office_id=018&mode=mainnews&type=&date=2026-03-31&page=1"
+    },
+    {
       "title": "외국인 이탈에 달러·원 1530원 돌파…\"1550원 뚫리면 상단 무의미\"(종합2보)",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0008861098&office_id=421&mode=mainnews&type=&date=2026-03-31&page=1"
     },
@@ -158,20 +170,8 @@
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0015993384&office_id=001&mode=mainnews&type=&date=2026-03-31&page=1"
     },
     {
-      "title": "\"빛났던 한국 증시, 부진한 투자처로\" 블룸버그",
+      "title": "\"빛났던 한국 증시, 부진한 투자처로 밀려났다\" 블룸버그 분석",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005742836&office_id=277&mode=mainnews&type=&date=2026-03-31&page=1"
-    },
-    {
-      "title": "오르비텍에 둥지 튼 파인테크닉스, 100억원 추가 조달",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005337736&office_id=008&mode=mainnews&type=&date=2026-03-31&page=1"
-    },
-    {
-      "title": "코스피, 4.26% 급락 마감…外人 3.8조 매도에 반도체 '투톱' 흔들(종합)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013857780&office_id=003&mode=mainnews&type=&date=2026-03-31&page=1"
-    },
-    {
-      "title": "코스피, 5000포인트 사수...外人, 이달 35조 투매 역대 최대 [마켓시그널]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004605511&office_id=011&mode=mainnews&type=&date=2026-03-31&page=1"
     }
   ]
 }
