@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-03-31 03:37:45",
+  "lastUpdated": "2026-03-31 03:52:57",
   "date": "2026.03.31",
   "kospi": {
     "name": "KOSPI",
-    "current": "5127.27",
-    "change": "150.03",
-    "changePct": "2.84",
+    "current": "5118.46",
+    "change": "158.84",
+    "changePct": "3.01",
     "direction": "up",
-    "volume": "642855",
-    "tradeAmount": "16379995"
+    "volume": "664564",
+    "tradeAmount": "17053347"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "169500",
-      "change": "-6800",
-      "changePct": "-3.86",
+      "current": "169400",
+      "change": "-6900",
+      "changePct": "-3.91",
       "direction": "down",
-      "volume": "21193987",
+      "volume": "22027327",
       "high": "174700",
       "low": "167500",
       "open": "170000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "827000",
-      "change": "-46000",
-      "changePct": "-5.27",
+      "current": "825000",
+      "change": "-48000",
+      "changePct": "-5.50",
       "direction": "down",
-      "volume": "3945993",
+      "volume": "4129836",
       "high": "852000",
       "low": "806000",
       "open": "817000",
@@ -47,7 +47,7 @@
       "change": "-1600",
       "changePct": "-1.89",
       "direction": "down",
-      "volume": "159879",
+      "volume": "166087",
       "high": "84500",
       "low": "81800",
       "open": "83200",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "201500",
-      "change": "-5500",
-      "changePct": "-2.66",
+      "current": "201000",
+      "change": "-6000",
+      "changePct": "-2.90",
       "direction": "down",
-      "volume": "439300",
+      "volume": "465217",
       "high": "205500",
       "low": "200500",
       "open": "202500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1531.50",
-      "change": "14.00",
+      "value": "1533.70",
+      "change": "16.20",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "959.17",
-      "change": "9.25",
+      "value": "960.30",
+      "change": "10.38",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1757.01",
-      "change": "17.58",
+      "value": "1758.92",
+      "change": "19.49",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "221.55",
-      "change": "2.14",
+      "value": "221.81",
+      "change": "2.40",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "224542.61",
-      "change": "3533.74",
+      "value": "224535.47",
+      "change": "3526.60",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -141,6 +141,10 @@
     }
   ],
   "news": [
+    {
+      "title": "“비트코인·금만이 당신을 지켜줄 것”…중동전쟁에 ‘부자 아빠’ 꺼낸 한마디",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004605401&office_id=011&mode=mainnews&type=&date=2026-03-31&page=1"
+    },
     {
       "title": "\"순익 줄었는데 보수 역대급\"…두나무 직원 평균 2.5억·송치형 60억 '연봉 잔치'",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000486878&office_id=629&mode=mainnews&type=&date=2026-03-31&page=1"
@@ -168,10 +172,6 @@
     {
       "title": "비트코인 투입 연산량, 6년 만에 분기 하락…약세장·채굴자 이탈 동반 악재",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005658638&office_id=009&mode=mainnews&type=&date=2026-03-31&page=1"
-    },
-    {
-      "title": "외국인 ‘매물 폭탄’에 파업 리스크까지…‘17만전자’도 무너졌다 [투자360]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002622160&office_id=016&mode=mainnews&type=&date=2026-03-31&page=1"
     }
   ]
 }
