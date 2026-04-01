@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-04-01 03:48:45",
+  "lastUpdated": "2026-04-01 04:14:46",
   "date": "2026.04.01",
   "kospi": {
     "name": "KOSPI",
-    "current": "5409.71",
-    "change": "357.25",
-    "changePct": "7.07",
+    "current": "5417.42",
+    "change": "364.96",
+    "changePct": "7.22",
     "direction": "up",
-    "volume": "692501",
-    "tradeAmount": "16350910"
+    "volume": "722718",
+    "tradeAmount": "17421414"
   },
   "stocks": [
     {
@@ -19,7 +19,7 @@
       "change": "18800",
       "changePct": "11.24",
       "direction": "up",
-      "volume": "17619766",
+      "volume": "18940369",
       "high": "186400",
       "low": "178000",
       "open": "179000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "881500",
-      "change": "74500",
-      "changePct": "9.23",
+      "current": "881000",
+      "change": "74000",
+      "changePct": "9.17",
       "direction": "up",
-      "volume": "2955445",
+      "volume": "3135845",
       "high": "884000",
       "low": "858000",
       "open": "884000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "86000",
-      "change": "3200",
-      "changePct": "3.86",
+      "current": "86100",
+      "change": "3300",
+      "changePct": "3.99",
       "direction": "up",
-      "volume": "156136",
+      "volume": "164842",
       "high": "87200",
       "low": "85000",
       "open": "86900",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "209000",
-      "change": "7500",
-      "changePct": "3.72",
+      "current": "208500",
+      "change": "7000",
+      "changePct": "3.47",
       "direction": "up",
-      "volume": "297024",
+      "volume": "308130",
       "high": "209500",
       "low": "205500",
       "open": "208500",
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1509.80",
-      "change": "0.70",
-      "direction": "down"
+      "value": "1510.90",
+      "change": "0.40",
+      "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "950.97",
-      "change": "0.62",
+      "value": "951.06",
+      "change": "0.53",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1745.71",
-      "change": "0.20",
-      "direction": "down"
+      "value": "1746.83",
+      "change": "0.92",
+      "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "219.22",
-      "change": "0.07",
-      "direction": "down"
+      "value": "219.31",
+      "change": "0.02",
+      "direction": "up"
     }
   ],
   "oilPrices": [
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "227468.39",
-      "change": "1993.32",
+      "value": "226955.37",
+      "change": "1480.30",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -141,6 +141,10 @@
     }
   ],
   "news": [
+    {
+      "title": "'순익 2조' 한투증권, 사상 최대 실적에도 기부 축소…사회환원 ‘역주행’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000487377&office_id=629&mode=mainnews&type=&date=2026-04-01&page=1"
+    },
     {
       "title": "2008년 연상시키는 ‘美 사모대출 위기론’…확대 해석은 경계",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002623010&office_id=016&mode=mainnews&type=&date=2026-04-01&page=1"
@@ -168,10 +172,6 @@
     {
       "title": "“하루만에 천지개벽” 매수 타이밍 놓쳤나…단숨에 ‘18만전자’ 등극 [투자360]",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002622926&office_id=016&mode=mainnews&type=&date=2026-04-01&page=1"
-    },
-    {
-      "title": "종전 기대에 ‘18만전자·86만닉스’ 회복",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002622924&office_id=016&mode=mainnews&type=&date=2026-04-01&page=1"
     }
   ]
 }
