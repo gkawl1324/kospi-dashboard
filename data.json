@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-04-01 04:14:46",
+  "lastUpdated": "2026-04-01 06:09:55",
   "date": "2026.04.01",
   "kospi": {
     "name": "KOSPI",
-    "current": "5417.42",
-    "change": "364.96",
-    "changePct": "7.22",
+    "current": "5488.90",
+    "change": "436.44",
+    "changePct": "8.64",
     "direction": "up",
-    "volume": "722718",
-    "tradeAmount": "17421414"
+    "volume": "902629",
+    "tradeAmount": "25070151"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "186000",
-      "change": "18800",
-      "changePct": "11.24",
+      "current": "189400",
+      "change": "22200",
+      "changePct": "13.28",
       "direction": "up",
-      "volume": "18940369",
-      "high": "186400",
+      "volume": "28568102",
+      "high": "190800",
       "low": "178000",
       "open": "179000",
       "marketCap": "0"
@@ -29,12 +29,12 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "881000",
-      "change": "74000",
-      "changePct": "9.17",
+      "current": "897000",
+      "change": "90000",
+      "changePct": "11.15",
       "direction": "up",
-      "volume": "3135845",
-      "high": "884000",
+      "volume": "4658812",
+      "high": "905000",
       "low": "858000",
       "open": "884000",
       "marketCap": "0"
@@ -43,12 +43,12 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "86100",
-      "change": "3300",
-      "changePct": "3.99",
+      "current": "88000",
+      "change": "5200",
+      "changePct": "6.28",
       "direction": "up",
-      "volume": "164842",
-      "high": "87200",
+      "volume": "284128",
+      "high": "88500",
       "low": "85000",
       "open": "86900",
       "marketCap": "0"
@@ -57,12 +57,12 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "208500",
-      "change": "7000",
-      "changePct": "3.47",
+      "current": "211000",
+      "change": "9500",
+      "changePct": "4.71",
       "direction": "up",
-      "volume": "308130",
-      "high": "209500",
+      "volume": "494224",
+      "high": "212000",
       "low": "205500",
       "open": "208500",
       "marketCap": "0"
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1510.90",
-      "change": "0.40",
-      "direction": "up"
+      "value": "1506.90",
+      "change": "3.60",
+      "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "951.06",
-      "change": "0.53",
+      "value": "949.80",
+      "change": "1.79",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1746.83",
-      "change": "0.92",
-      "direction": "up"
+      "value": "1742.81",
+      "change": "3.10",
+      "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "219.31",
-      "change": "0.02",
-      "direction": "up"
+      "value": "218.85",
+      "change": "0.44",
+      "direction": "down"
     }
   ],
   "oilPrices": [
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "226955.37",
-      "change": "1480.30",
+      "value": "227099.9",
+      "change": "1624.83",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "'순익 2조' 한투증권, 사상 최대 실적에도 기부 축소…사회환원 ‘역주행’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000487377&office_id=629&mode=mainnews&type=&date=2026-04-01&page=1"
+      "title": "‘깜짝 후보’ 등장한 홈플 익스프레스 매각…추가 원매자 나올까[마켓인]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006247447&office_id=018&mode=mainnews&type=&date=2026-04-01&page=1"
     },
     {
-      "title": "2008년 연상시키는 ‘美 사모대출 위기론’…확대 해석은 경계",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002623010&office_id=016&mode=mainnews&type=&date=2026-04-01&page=1"
+      "title": "메리츠금융그룹, EOD ‘이오타2 프로젝트’에 3600억 지원 [시그널]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004605972&office_id=011&mode=mainnews&type=&date=2026-04-01&page=1"
     },
     {
-      "title": "국내 게임사 현금배당 규모 1년 사이 100% 늘었다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005659336&office_id=009&mode=mainnews&type=&date=2026-04-01&page=1"
+      "title": "'하한가 직행' 삼천당제약, 장중 또 급락…\"허위사실 유포자 고소\" [종목+]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005269659&office_id=015&mode=mainnews&type=&date=2026-04-01&page=1"
     },
     {
-      "title": "초고수들 ‘LIG넥스원’ 쓸어담아...종전 기대감에 돈 몰렸다[주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004605903&office_id=011&mode=mainnews&type=&date=2026-04-01&page=1"
+      "title": "중동戰이 할퀸 3월 코스피, 시총 1000조 증발…4월 대반등 '주목'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008863530&office_id=421&mode=mainnews&type=&date=2026-04-01&page=1"
     },
     {
-      "title": "RIA 복귀금액, 美 주식 보관액 0.1%",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002622934&office_id=016&mode=mainnews&type=&date=2026-04-01&page=1"
+      "title": "코스닥, 급등장에 사이드카 발동…5분간 효력 정지",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001137005&office_id=417&mode=mainnews&type=&date=2026-04-01&page=1"
     },
     {
-      "title": "고환율 ‘타는 목’에 WGBI 편입 ‘오아시스’ 될까",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002622933&office_id=016&mode=mainnews&type=&date=2026-04-01&page=1"
+      "title": "'급락' 삼천당제약, 긴급공지…\"주주 여러분 재산 지키겠다\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000095533&office_id=243&mode=mainnews&type=&date=2026-04-01&page=1"
     },
     {
-      "title": "'틈새' 담아야 산다…'저작권·은·두산그룹주' ETF도 등장[체크!ETF]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001136975&office_id=417&mode=mainnews&type=&date=2026-04-01&page=1"
+      "title": "삼천당제약, 전날 하한가 이어 이틀째 약세…11%대 급락",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013860334&office_id=003&mode=mainnews&type=&date=2026-04-01&page=1"
     },
     {
-      "title": "“하루만에 천지개벽” 매수 타이밍 놓쳤나…단숨에 ‘18만전자’ 등극 [투자360]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002622926&office_id=016&mode=mainnews&type=&date=2026-04-01&page=1"
+      "title": "증시는 요동쳐도, 증권사 1Q실적은 '봄날'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005338345&office_id=008&mode=mainnews&type=&date=2026-04-01&page=1"
     }
   ]
 }
