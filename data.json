@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-04-01 06:09:55",
+  "lastUpdated": "2026-04-01 06:49:18",
   "date": "2026.04.01",
   "kospi": {
     "name": "KOSPI",
-    "current": "5488.90",
-    "change": "436.44",
-    "changePct": "8.64",
+    "current": "5478.70",
+    "change": "426.24",
+    "changePct": "8.44",
     "direction": "up",
-    "volume": "902629",
-    "tradeAmount": "25070151"
+    "volume": "942926",
+    "tradeAmount": "27309413"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "189400",
-      "change": "22200",
-      "changePct": "13.28",
+      "current": "189600",
+      "change": "22400",
+      "changePct": "13.40",
       "direction": "up",
-      "volume": "28568102",
+      "volume": "31314852",
       "high": "190800",
       "low": "178000",
       "open": "179000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "897000",
-      "change": "90000",
-      "changePct": "11.15",
+      "current": "893000",
+      "change": "86000",
+      "changePct": "10.66",
       "direction": "up",
-      "volume": "4658812",
+      "volume": "5290669",
       "high": "905000",
       "low": "858000",
       "open": "884000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "88000",
-      "change": "5200",
-      "changePct": "6.28",
+      "current": "87200",
+      "change": "4400",
+      "changePct": "5.31",
       "direction": "up",
-      "volume": "284128",
+      "volume": "333995",
       "high": "88500",
       "low": "85000",
       "open": "86900",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "211000",
-      "change": "9500",
-      "changePct": "4.71",
+      "current": "210000",
+      "change": "8500",
+      "changePct": "4.22",
       "direction": "up",
-      "volume": "494224",
+      "volume": "574338",
       "high": "212000",
       "low": "205500",
       "open": "208500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1506.90",
-      "change": "3.60",
+      "value": "1500.00",
+      "change": "10.50",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "949.80",
-      "change": "1.79",
+      "value": "947.48",
+      "change": "4.11",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1742.81",
-      "change": "3.10",
+      "value": "1738.28",
+      "change": "7.63",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "218.85",
-      "change": "0.44",
+      "value": "218.13",
+      "change": "1.16",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "227099.9",
-      "change": "1624.83",
+      "value": "227437.03",
+      "change": "1961.96",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "‘깜짝 후보’ 등장한 홈플 익스프레스 매각…추가 원매자 나올까[마켓인]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006247447&office_id=018&mode=mainnews&type=&date=2026-04-01&page=1"
+      "title": "\"고환율 뉴노멀 시대...수출 강한 '국가대표' ETF로 대응해야\" [인터뷰]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005501010&office_id=014&mode=mainnews&type=&date=2026-04-01&page=1"
     },
     {
-      "title": "메리츠금융그룹, EOD ‘이오타2 프로젝트’에 3600억 지원 [시그널]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004605972&office_id=011&mode=mainnews&type=&date=2026-04-01&page=1"
+      "title": "삼천당제약, 오늘도 10%대 급락…\"iM증권 고소\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000850470&office_id=422&mode=mainnews&type=&date=2026-04-01&page=1"
     },
     {
-      "title": "'하한가 직행' 삼천당제약, 장중 또 급락…\"허위사실 유포자 고소\" [종목+]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005269659&office_id=015&mode=mainnews&type=&date=2026-04-01&page=1"
+      "title": "케이프, 케이프證과 자사주 동반 소각·감액배당 나선다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004605989&office_id=011&mode=mainnews&type=&date=2026-04-01&page=1"
     },
     {
-      "title": "중동戰이 할퀸 3월 코스피, 시총 1000조 증발…4월 대반등 '주목'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008863530&office_id=421&mode=mainnews&type=&date=2026-04-01&page=1"
+      "title": "토모큐브 “첫 분기 흑자 전환…반도체 검사 장비로 사업 다변화”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001153397&office_id=366&mode=mainnews&type=&date=2026-04-01&page=1"
     },
     {
-      "title": "코스닥, 급등장에 사이드카 발동…5분간 효력 정지",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001137005&office_id=417&mode=mainnews&type=&date=2026-04-01&page=1"
+      "title": "\"2~3주 내 이란서 철수\"…월가, 연내 금리인상 우려 '소멸'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001247495&office_id=215&mode=mainnews&type=&date=2026-04-01&page=1"
     },
     {
-      "title": "'급락' 삼천당제약, 긴급공지…\"주주 여러분 재산 지키겠다\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000095533&office_id=243&mode=mainnews&type=&date=2026-04-01&page=1"
+      "title": "코스피 9% 폭등 5500 뚫었다…삼전 14% ‘불기둥’[이런국장 저런주식]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004605976&office_id=011&mode=mainnews&type=&date=2026-04-01&page=1"
     },
     {
-      "title": "삼천당제약, 전날 하한가 이어 이틀째 약세…11%대 급락",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013860334&office_id=003&mode=mainnews&type=&date=2026-04-01&page=1"
+      "title": "스틱인베, 곽동걸號 닻 올렸다…'전문경영 체제' 본격화",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000487440&office_id=629&mode=mainnews&type=&date=2026-04-01&page=1"
     },
     {
-      "title": "증시는 요동쳐도, 증권사 1Q실적은 '봄날'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005338345&office_id=008&mode=mainnews&type=&date=2026-04-01&page=1"
+      "title": "메리츠 소방수 등장…초대형 개발 '이오타 서울' 생존가능성 높아졌다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006247458&office_id=018&mode=mainnews&type=&date=2026-04-01&page=1"
     }
   ]
 }
