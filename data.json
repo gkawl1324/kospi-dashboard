@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02 07:24:14",
+  "lastUpdated": "2026-04-02 07:45:57",
   "date": "2026.04.02",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1514.70",
-      "change": "1.70",
+      "value": "1516.90",
+      "change": "3.90",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "949.15",
-      "change": "4.73",
+      "value": "950.23",
+      "change": "3.65",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1746.75",
-      "change": "7.20",
+      "value": "1747.70",
+      "change": "6.25",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "219.76",
-      "change": "0.25",
+      "value": "219.95",
+      "change": "0.06",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "225358.21",
-      "change": "7577.06",
+      "value": "226141.61",
+      "change": "6793.66",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "\"코스닥ETF에 삼성전자 담아도 된다\" [수상한액티브③]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001247679&office_id=215&mode=mainnews&type=&date=2026-04-02&page=1"
+      "title": "연이은 해명·강경 대응에도 ‘역부족’…삼천당제약, 사흘만에 주가 ‘반토막’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003019668&office_id=029&mode=mainnews&type=&date=2026-04-02&page=1"
     },
     {
-      "title": "출렁이는 코스피…단타성 매매 늘었다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006248570&office_id=018&mode=mainnews&type=&date=2026-04-02&page=1"
+      "title": "오전엔 ‘환호’, 오후엔 ‘비명’…트럼프 발언에 증시 급락, 사이드카까지",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002223127&office_id=138&mode=mainnews&type=&date=2026-04-02&page=1"
     },
     {
-      "title": "\"종전 선언 없었다\"…국내 증시 매도 사이드카 발동·환율 급등",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005270254&office_id=015&mode=mainnews&type=&date=2026-04-02&page=1"
+      "title": "종전 아닌 확전? 트럼프 입에 하락한 코스피…\"섣불리 팔지 마라\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005339101&office_id=008&mode=mainnews&type=&date=2026-04-02&page=1"
     },
     {
-      "title": "인텔, 아일랜드 공장 2년 만에 '다시 내 품으로'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005270253&office_id=015&mode=mainnews&type=&date=2026-04-02&page=1"
+      "title": "트럼프 '석기시대' 엄포에 코스피 4%대 급락",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000045937&office_id=648&mode=mainnews&type=&date=2026-04-02&page=1"
     },
     {
-      "title": "코스피 4%대 급락해 5200선 후퇴…아시아 주요증시 동반 약세",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000173660&office_id=654&mode=mainnews&type=&date=2026-04-02&page=1"
+      "title": "“로보틱스 간판 달았다”…코스닥사 사명 변경도 테마 반영",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006248588&office_id=018&mode=mainnews&type=&date=2026-04-02&page=1"
     },
     {
-      "title": "“하루 만에 분위기 급반전”…트럼프 한마디에 코스피 4.47% 급락",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005660138&office_id=009&mode=mainnews&type=&date=2026-04-02&page=1"
+      "title": "‘2660조’ 스페이스X, 6월 상장 본격화…국내 투자사도 ‘1조’ 잭팟?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003019661&office_id=029&mode=mainnews&type=&date=2026-04-02&page=1"
     },
     {
-      "title": "트럼프 한마디에 '안전자산'도 흔들…금·은 ETF, 한달새 순자산 1조 증발",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005501719&office_id=014&mode=mainnews&type=&date=2026-04-02&page=1"
+      "title": "'호르무즈 우회' 송유관 검토說…관련주 '들썩'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001247682&office_id=215&mode=mainnews&type=&date=2026-04-02&page=1"
     },
     {
-      "title": "'트럼프 입'에 코스피 -4.47%…어제는 매수 오늘은 매도사이드카",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006248541&office_id=018&mode=mainnews&type=&date=2026-04-02&page=1"
+      "title": "코스피, 5230선 마감…트럼프 회견 실망감에 4%대 급락[오늘증시]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001137253&office_id=417&mode=mainnews&type=&date=2026-04-02&page=1"
     }
   ]
 }
