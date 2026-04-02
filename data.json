@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-04-02 03:46:44",
+  "lastUpdated": "2026-04-02 05:44:45",
   "date": "2026.04.02",
   "kospi": {
     "name": "KOSPI",
-    "current": "5252.92",
-    "change": "225.78",
-    "changePct": "4.12",
+    "current": "5205.49",
+    "change": "273.21",
+    "changePct": "4.99",
     "direction": "up",
-    "volume": "1101295",
-    "tradeAmount": "23588731"
+    "volume": "1298282",
+    "tradeAmount": "28740288"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "178800",
-      "change": "-10800",
-      "changePct": "-5.70",
+      "current": "176900",
+      "change": "-12700",
+      "changePct": "-6.70",
       "direction": "down",
-      "volume": "27643903",
+      "volume": "33132062",
       "high": "193600",
-      "low": "177300",
+      "low": "176600",
       "open": "192600",
       "marketCap": "0"
     },
@@ -29,13 +29,13 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "842000",
-      "change": "-51000",
-      "changePct": "-5.71",
+      "current": "826000",
+      "change": "-67000",
+      "changePct": "-7.50",
       "direction": "down",
-      "volume": "3920688",
+      "volume": "4843168",
       "high": "914000",
-      "low": "838000",
+      "low": "824000",
       "open": "912000",
       "marketCap": "0"
     },
@@ -43,13 +43,13 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "85200",
-      "change": "-2000",
-      "changePct": "-2.29",
+      "current": "84800",
+      "change": "-2400",
+      "changePct": "-2.75",
       "direction": "down",
-      "volume": "145814",
+      "volume": "198978",
       "high": "89000",
-      "low": "85000",
+      "low": "84600",
       "open": "87600",
       "marketCap": "0"
     },
@@ -57,13 +57,13 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "198400",
-      "change": "-11600",
-      "changePct": "-5.52",
+      "current": "195300",
+      "change": "-14700",
+      "changePct": "-7.00",
       "direction": "down",
-      "volume": "886941",
+      "volume": "1245732",
       "high": "212000",
-      "low": "198200",
+      "low": "195300",
       "open": "211500",
       "marketCap": "0"
     }
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1521.70",
-      "change": "8.70",
+      "value": "1522.70",
+      "change": "9.70",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "955.09",
-      "change": "1.21",
+      "value": "955.30",
+      "change": "1.42",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1757.34",
-      "change": "3.39",
+      "value": "1756.36",
+      "change": "2.41",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "220.95",
-      "change": "0.94",
+      "value": "221.01",
+      "change": "1.00",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "229207.12",
-      "change": "3728.15",
+      "value": "227542.49",
+      "change": "5392.78",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "코스피 상장사, 1000원 팔면 61원 남겼다…코스닥은 18원[2025 결산실적]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006248356&office_id=018&mode=mainnews&type=&date=2026-04-02&page=1"
+      "title": "\"기대했던 종전 없다\" 亞증시 '우수수'…트럼프 \"극도로 강하게 이란 타격\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000095597&office_id=243&mode=mainnews&type=&date=2026-04-02&page=1"
     },
     {
-      "title": "종전 발표 없었다…트럼프 \"2~3주 더 강하게 타격\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001247638&office_id=215&mode=mainnews&type=&date=2026-04-02&page=1"
+      "title": "코스피 영업이익 25% 늘었지만…삼성전자·SK하이닉스 빼면 '반토막'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000045923&office_id=648&mode=mainnews&type=&date=2026-04-02&page=1"
     },
     {
-      "title": "기대와 달랐던 트럼프 연설…\"당분간 위험 회피심리 커질 듯\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0015998045&office_id=001&mode=mainnews&type=&date=2026-04-02&page=1"
+      "title": "‘불장’에 증권사 보수도 껑충…메리츠는 직원 평균연봉 2억 돌파",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003019601&office_id=029&mode=mainnews&type=&date=2026-04-02&page=1"
     },
     {
-      "title": "③ KB증권, 증시 활황 올라타고 10배 '점프'[증권사 단기투자]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000082063&office_id=293&mode=mainnews&type=&date=2026-04-02&page=1"
+      "title": "아르테미스 2호 발사...우주항공ETF '들썩' [마켓딥다이브]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001247655&office_id=215&mode=mainnews&type=&date=2026-04-02&page=1"
     },
     {
-      "title": "\"전쟁 더\" 트럼프 말폭탄에 국장 초토화…\"지금 탈출?\" 전문가 조언은",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005338914&office_id=008&mode=mainnews&type=&date=2026-04-02&page=1"
+      "title": "증시 전문가들 \"상장사 1분기 실적 개선 전망…반도체 쏠림 심화\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013863197&office_id=003&mode=mainnews&type=&date=2026-04-02&page=1"
     },
     {
-      "title": "“그래도 결국 금이야, 의심하지마”…주춤하던 금값 다시 100만원대 탈환",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005660012&office_id=009&mode=mainnews&type=&date=2026-04-02&page=1"
+      "title": "자사주 소각하고 이사회 손질…주총 표 대결 이끈 행동주의 펀드, 성과는",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000487794&office_id=629&mode=mainnews&type=&date=2026-04-02&page=1"
     },
     {
-      "title": "'미국은 석유 수입 필요 없다'…트럼프 \"너희가 알아서 해\" 출구 안보이는 고유가[미국-이란 전쟁]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005744061&office_id=277&mode=mainnews&type=&date=2026-04-02&page=1"
+      "title": "사라진 종전 기대감에 무너진 亞증시…코스피 낙폭 키워 4%↓(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013863172&office_id=003&mode=mainnews&type=&date=2026-04-02&page=1"
     },
     {
-      "title": "코스피가 비트코인보다 더 요동쳤다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002623697&office_id=016&mode=mainnews&type=&date=2026-04-02&page=1"
+      "title": "트럼프 연설 후 급전직하...코스피·코스닥 4%대 급락",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006248398&office_id=018&mode=mainnews&type=&date=2026-04-02&page=1"
     }
   ]
 }
