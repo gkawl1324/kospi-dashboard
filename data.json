@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-04-02 05:55:20",
+  "lastUpdated": "2026-04-02 07:24:14",
   "date": "2026.04.02",
   "kospi": {
     "name": "KOSPI",
-    "current": "5173.41",
-    "change": "305.29",
-    "changePct": "5.57",
+    "current": "5234.05",
+    "change": "244.65",
+    "changePct": "4.47",
     "direction": "up",
-    "volume": "1330976",
-    "tradeAmount": "29729221"
+    "volume": "1417257",
+    "tradeAmount": "32950103"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "175400",
-      "change": "-14200",
-      "changePct": "-7.49",
+      "current": "178400",
+      "change": "-11200",
+      "changePct": "-5.91",
       "direction": "down",
-      "volume": "34480120",
+      "volume": "38524084",
       "high": "193600",
       "low": "175000",
       "open": "192600",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "820000",
-      "change": "-73000",
-      "changePct": "-8.17",
+      "current": "830000",
+      "change": "-63000",
+      "changePct": "-7.05",
       "direction": "down",
-      "volume": "5025566",
+      "volume": "5881045",
       "high": "914000",
       "low": "818000",
       "open": "912000",
@@ -43,13 +43,13 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "84500",
-      "change": "-2700",
-      "changePct": "-3.10",
+      "current": "84800",
+      "change": "-2400",
+      "changePct": "-2.75",
       "direction": "down",
-      "volume": "212684",
+      "volume": "250668",
       "high": "89000",
-      "low": "84200",
+      "low": "84100",
       "open": "87600",
       "marketCap": "0"
     },
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "194800",
-      "change": "-15200",
-      "changePct": "-7.24",
+      "current": "195800",
+      "change": "-14200",
+      "changePct": "-6.76",
       "direction": "down",
-      "volume": "1308922",
+      "volume": "1464904",
       "high": "212000",
       "low": "194600",
       "open": "211500",
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1522.10",
-      "change": "9.10",
+      "value": "1514.70",
+      "change": "1.70",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "954.89",
-      "change": "1.01",
-      "direction": "up"
+      "value": "949.15",
+      "change": "4.73",
+      "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1754.91",
-      "change": "0.96",
-      "direction": "up"
+      "value": "1746.75",
+      "change": "7.20",
+      "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "220.93",
-      "change": "0.92",
-      "direction": "up"
+      "value": "219.76",
+      "change": "0.25",
+      "direction": "down"
     }
   ],
   "oilPrices": [
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "225201.39",
-      "change": "7733.88",
+      "value": "225358.21",
+      "change": "7577.06",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "작년 코스피·코스닥 상장사 영업익 256조…'삼전닉스'만 91조원(종합)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0015998609&office_id=001&mode=mainnews&type=&date=2026-04-02&page=1"
+      "title": "\"코스닥ETF에 삼성전자 담아도 된다\" [수상한액티브③]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001247679&office_id=215&mode=mainnews&type=&date=2026-04-02&page=1"
     },
     {
-      "title": "\"기대했던 종전 없다\" 亞증시 '우수수'…트럼프 \"극도로 강하게 이란 타격\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000095597&office_id=243&mode=mainnews&type=&date=2026-04-02&page=1"
+      "title": "출렁이는 코스피…단타성 매매 늘었다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006248570&office_id=018&mode=mainnews&type=&date=2026-04-02&page=1"
     },
     {
-      "title": "코스피 영업이익 25% 늘었지만…삼성전자·SK하이닉스 빼면 '반토막'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000045923&office_id=648&mode=mainnews&type=&date=2026-04-02&page=1"
+      "title": "\"종전 선언 없었다\"…국내 증시 매도 사이드카 발동·환율 급등",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005270254&office_id=015&mode=mainnews&type=&date=2026-04-02&page=1"
     },
     {
-      "title": "‘불장’에 증권사 보수도 껑충…메리츠는 직원 평균연봉 2억 돌파",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003019601&office_id=029&mode=mainnews&type=&date=2026-04-02&page=1"
+      "title": "인텔, 아일랜드 공장 2년 만에 '다시 내 품으로'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005270253&office_id=015&mode=mainnews&type=&date=2026-04-02&page=1"
     },
     {
-      "title": "아르테미스 2호 발사...우주항공ETF '들썩' [마켓딥다이브]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001247655&office_id=215&mode=mainnews&type=&date=2026-04-02&page=1"
+      "title": "코스피 4%대 급락해 5200선 후퇴…아시아 주요증시 동반 약세",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000173660&office_id=654&mode=mainnews&type=&date=2026-04-02&page=1"
     },
     {
-      "title": "증시 전문가들 \"상장사 1분기 실적 개선 전망…반도체 쏠림 심화\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013863197&office_id=003&mode=mainnews&type=&date=2026-04-02&page=1"
+      "title": "“하루 만에 분위기 급반전”…트럼프 한마디에 코스피 4.47% 급락",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005660138&office_id=009&mode=mainnews&type=&date=2026-04-02&page=1"
     },
     {
-      "title": "자사주 소각하고 이사회 손질…주총 표 대결 이끈 행동주의 펀드, 성과는",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000487794&office_id=629&mode=mainnews&type=&date=2026-04-02&page=1"
+      "title": "트럼프 한마디에 '안전자산'도 흔들…금·은 ETF, 한달새 순자산 1조 증발",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005501719&office_id=014&mode=mainnews&type=&date=2026-04-02&page=1"
     },
     {
-      "title": "사라진 종전 기대감에 무너진 亞증시…코스피 낙폭 키워 4%↓(종합)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013863172&office_id=003&mode=mainnews&type=&date=2026-04-02&page=1"
+      "title": "'트럼프 입'에 코스피 -4.47%…어제는 매수 오늘은 매도사이드카",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006248541&office_id=018&mode=mainnews&type=&date=2026-04-02&page=1"
     }
   ]
 }
