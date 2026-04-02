@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-04-02 05:44:45",
+  "lastUpdated": "2026-04-02 05:55:20",
   "date": "2026.04.02",
   "kospi": {
     "name": "KOSPI",
-    "current": "5205.49",
-    "change": "273.21",
-    "changePct": "4.99",
+    "current": "5173.41",
+    "change": "305.29",
+    "changePct": "5.57",
     "direction": "up",
-    "volume": "1298282",
-    "tradeAmount": "28740288"
+    "volume": "1330976",
+    "tradeAmount": "29729221"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "176900",
-      "change": "-12700",
-      "changePct": "-6.70",
+      "current": "175400",
+      "change": "-14200",
+      "changePct": "-7.49",
       "direction": "down",
-      "volume": "33132062",
+      "volume": "34480120",
       "high": "193600",
-      "low": "176600",
+      "low": "175000",
       "open": "192600",
       "marketCap": "0"
     },
@@ -29,13 +29,13 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "826000",
-      "change": "-67000",
-      "changePct": "-7.50",
+      "current": "820000",
+      "change": "-73000",
+      "changePct": "-8.17",
       "direction": "down",
-      "volume": "4843168",
+      "volume": "5025566",
       "high": "914000",
-      "low": "824000",
+      "low": "818000",
       "open": "912000",
       "marketCap": "0"
     },
@@ -43,13 +43,13 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "84800",
-      "change": "-2400",
-      "changePct": "-2.75",
+      "current": "84500",
+      "change": "-2700",
+      "changePct": "-3.10",
       "direction": "down",
-      "volume": "198978",
+      "volume": "212684",
       "high": "89000",
-      "low": "84600",
+      "low": "84200",
       "open": "87600",
       "marketCap": "0"
     },
@@ -57,13 +57,13 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "195300",
-      "change": "-14700",
-      "changePct": "-7.00",
+      "current": "194800",
+      "change": "-15200",
+      "changePct": "-7.24",
       "direction": "down",
-      "volume": "1245732",
+      "volume": "1308922",
       "high": "212000",
-      "low": "195300",
+      "low": "194600",
       "open": "211500",
       "marketCap": "0"
     }
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1522.70",
-      "change": "9.70",
+      "value": "1522.10",
+      "change": "9.10",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "955.30",
-      "change": "1.42",
+      "value": "954.89",
+      "change": "1.01",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1756.36",
-      "change": "2.41",
+      "value": "1754.91",
+      "change": "0.96",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "221.01",
-      "change": "1.00",
+      "value": "220.93",
+      "change": "0.92",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "227542.49",
-      "change": "5392.78",
+      "value": "225201.39",
+      "change": "7733.88",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -141,6 +141,10 @@
     }
   ],
   "news": [
+    {
+      "title": "작년 코스피·코스닥 상장사 영업익 256조…'삼전닉스'만 91조원(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0015998609&office_id=001&mode=mainnews&type=&date=2026-04-02&page=1"
+    },
     {
       "title": "\"기대했던 종전 없다\" 亞증시 '우수수'…트럼프 \"극도로 강하게 이란 타격\"",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000095597&office_id=243&mode=mainnews&type=&date=2026-04-02&page=1"
@@ -168,10 +172,6 @@
     {
       "title": "사라진 종전 기대감에 무너진 亞증시…코스피 낙폭 키워 4%↓(종합)",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0013863172&office_id=003&mode=mainnews&type=&date=2026-04-02&page=1"
-    },
-    {
-      "title": "트럼프 연설 후 급전직하...코스피·코스닥 4%대 급락",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006248398&office_id=018&mode=mainnews&type=&date=2026-04-02&page=1"
     }
   ]
 }
