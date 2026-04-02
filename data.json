@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-04-02 03:30:25",
+  "lastUpdated": "2026-04-02 03:46:44",
   "date": "2026.04.02",
   "kospi": {
     "name": "KOSPI",
-    "current": "5278.35",
-    "change": "200.35",
-    "changePct": "3.66",
+    "current": "5252.92",
+    "change": "225.78",
+    "changePct": "4.12",
     "direction": "up",
-    "volume": "1072198",
-    "tradeAmount": "22904870"
+    "volume": "1101295",
+    "tradeAmount": "23588731"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "179850",
-      "change": "-9750",
-      "changePct": "-5.14",
+      "current": "178800",
+      "change": "-10800",
+      "changePct": "-5.70",
       "direction": "down",
-      "volume": "26842617",
+      "volume": "27643903",
       "high": "193600",
       "low": "177300",
       "open": "192600",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "848000",
-      "change": "-45000",
-      "changePct": "-5.04",
+      "current": "842000",
+      "change": "-51000",
+      "changePct": "-5.71",
       "direction": "down",
-      "volume": "3825619",
+      "volume": "3920688",
       "high": "914000",
       "low": "838000",
       "open": "912000",
@@ -43,13 +43,13 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "85400",
-      "change": "-1800",
-      "changePct": "-2.06",
+      "current": "85200",
+      "change": "-2000",
+      "changePct": "-2.29",
       "direction": "down",
-      "volume": "140403",
+      "volume": "145814",
       "high": "89000",
-      "low": "85100",
+      "low": "85000",
       "open": "87600",
       "marketCap": "0"
     },
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "198700",
-      "change": "-11300",
-      "changePct": "-5.38",
+      "current": "198400",
+      "change": "-11600",
+      "changePct": "-5.52",
       "direction": "down",
-      "volume": "844990",
+      "volume": "886941",
       "high": "212000",
       "low": "198200",
       "open": "211500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1522.00",
-      "change": "9.00",
+      "value": "1521.70",
+      "change": "8.70",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "955.01",
-      "change": "1.13",
+      "value": "955.09",
+      "change": "1.21",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1757.30",
-      "change": "3.35",
+      "value": "1757.34",
+      "change": "3.39",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "221.01",
-      "change": "1.00",
+      "value": "220.95",
+      "change": "0.94",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "229591.22",
-      "change": "3344.05",
+      "value": "229207.12",
+      "change": "3728.15",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -166,7 +166,7 @@
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005660012&office_id=009&mode=mainnews&type=&date=2026-04-02&page=1"
     },
     {
-      "title": "\"에너지 안보 알아서 해라\"…출구 안보이는 고유가[미국-이란 전쟁]",
+      "title": "'미국은 석유 수입 필요 없다'…트럼프 \"너희가 알아서 해\" 출구 안보이는 고유가[미국-이란 전쟁]",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005744061&office_id=277&mode=mainnews&type=&date=2026-04-02&page=1"
     },
     {
