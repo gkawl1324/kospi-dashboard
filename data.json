@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-04-03 03:32:38",
+  "lastUpdated": "2026-04-03 03:47:40",
   "date": "2026.04.03",
   "kospi": {
     "name": "KOSPI",
-    "current": "5365.47",
-    "change": "131.42",
-    "changePct": "2.51",
+    "current": "5373.29",
+    "change": "139.24",
+    "changePct": "2.66",
     "direction": "up",
-    "volume": "909525",
-    "tradeAmount": "14551714"
+    "volume": "933347",
+    "tradeAmount": "15047717"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "184700",
-      "change": "6300",
-      "changePct": "3.53",
+      "current": "185000",
+      "change": "6600",
+      "changePct": "3.70",
       "direction": "up",
-      "volume": "12439127",
+      "volume": "12763440",
       "high": "187200",
       "low": "182700",
       "open": "184200",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "872000",
-      "change": "42000",
-      "changePct": "5.06",
+      "current": "875000",
+      "change": "45000",
+      "changePct": "5.42",
       "direction": "up",
-      "volume": "1875330",
+      "volume": "1915999",
       "high": "885000",
       "low": "860000",
       "open": "867000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "86800",
-      "change": "2000",
-      "changePct": "2.36",
+      "current": "86500",
+      "change": "1700",
+      "changePct": "2.00",
       "direction": "up",
-      "volume": "95954",
+      "volume": "99141",
       "high": "87800",
       "low": "85900",
       "open": "86400",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "198400",
-      "change": "2600",
-      "changePct": "1.33",
+      "current": "198700",
+      "change": "2900",
+      "changePct": "1.48",
       "direction": "up",
-      "volume": "403379",
+      "volume": "439048",
       "high": "200000",
       "low": "196600",
       "open": "198900",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1508.90",
-      "change": "3.60",
+      "value": "1508.80",
+      "change": "3.70",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "945.04",
-      "change": "2.97",
+      "value": "945.10",
+      "change": "2.91",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1740.74",
-      "change": "4.61",
+      "value": "1740.48",
+      "change": "4.87",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "219.18",
-      "change": "0.33",
+      "value": "219.21",
+      "change": "0.30",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "226946.01",
-      "change": "388.84",
+      "value": "226855.81",
+      "change": "298.64",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -141,6 +141,10 @@
     }
   ],
   "news": [
+    {
+      "title": "\"전쟁 리스크 바닥 찍었다\" 무섭게 팔던 외인 돌아왔다...'순매수' 전환",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005339483&office_id=008&mode=mainnews&type=&date=2026-04-03&page=1"
+    },
     {
       "title": "풍산 \"매각 위한 기업 밸류에이션 평가 돌입\"",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005339480&office_id=008&mode=mainnews&type=&date=2026-04-03&page=1"
@@ -168,10 +172,6 @@
     {
       "title": "광통신 관련주, 번갈아 '상한가' 행진…한국첨단소재 上[핫종목]",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0008868108&office_id=421&mode=mainnews&type=&date=2026-04-03&page=1"
-    },
-    {
-      "title": "“코스피 25% 폭락이 맞다” 월가 비관론자, 증시 반등에 ‘분통’ [마켓 시그널]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004606751&office_id=011&mode=mainnews&type=&date=2026-04-03&page=1"
     }
   ]
 }
