@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03 07:20:48",
+  "lastUpdated": "2026-04-03 07:42:55",
   "date": "2026.04.03",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1507.10",
-      "change": "5.40",
+      "value": "1506.80",
+      "change": "5.70",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "944.21",
-      "change": "3.80",
+      "value": "944.44",
+      "change": "3.57",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1739.42",
-      "change": "5.93",
+      "value": "1739.68",
+      "change": "5.67",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "219.02",
-      "change": "0.49",
+      "value": "219.00",
+      "change": "0.51",
       "direction": "down"
     }
   ],
@@ -142,6 +142,10 @@
   ],
   "news": [
     {
+      "title": "'주가 반토막' 삼천당제약 몰빵 최후…비중 따라 ETF도 울고 웃었다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005339585&office_id=008&mode=mainnews&type=&date=2026-04-03&page=1"
+    },
+    {
       "title": "변동성 큰 증시...\"저평가 중소형주 ETF 관심 가져야\"",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005502246&office_id=014&mode=mainnews&type=&date=2026-04-03&page=1"
     },
@@ -168,10 +172,6 @@
     {
       "title": "“100만닉스 또 언제 오나”…하이닉스 담은 개미 10명 중 6명 ‘물렸다’",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0004606876&office_id=011&mode=mainnews&type=&date=2026-04-03&page=1"
-    },
-    {
-      "title": "\"돌아온 '18만전자'\"…삼전 4%·SK하닉 5% 급등 마감[핫스탁](종합)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013866277&office_id=003&mode=mainnews&type=&date=2026-04-03&page=1"
     }
   ]
 }
