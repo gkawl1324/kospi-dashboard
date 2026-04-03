@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-04-03 03:47:40",
+  "lastUpdated": "2026-04-03 05:45:10",
   "date": "2026.04.03",
   "kospi": {
     "name": "KOSPI",
-    "current": "5373.29",
-    "change": "139.24",
-    "changePct": "2.66",
+    "current": "5378.61",
+    "change": "144.56",
+    "changePct": "2.76",
     "direction": "up",
-    "volume": "933347",
-    "tradeAmount": "15047717"
+    "volume": "1103992",
+    "tradeAmount": "19712441"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "185000",
-      "change": "6600",
-      "changePct": "3.70",
+      "current": "186300",
+      "change": "7900",
+      "changePct": "4.43",
       "direction": "up",
-      "volume": "12763440",
+      "volume": "17303410",
       "high": "187200",
       "low": "182700",
       "open": "184200",
@@ -29,12 +29,12 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "875000",
-      "change": "45000",
-      "changePct": "5.42",
+      "current": "880000",
+      "change": "50000",
+      "changePct": "6.02",
       "direction": "up",
-      "volume": "1915999",
-      "high": "885000",
+      "volume": "2530342",
+      "high": "886000",
       "low": "860000",
       "open": "867000",
       "marketCap": "0"
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "86500",
-      "change": "1700",
-      "changePct": "2.00",
+      "current": "86400",
+      "change": "1600",
+      "changePct": "1.89",
       "direction": "up",
-      "volume": "99141",
+      "volume": "133581",
       "high": "87800",
       "low": "85900",
       "open": "86400",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "198700",
-      "change": "2900",
-      "changePct": "1.48",
+      "current": "198200",
+      "change": "2400",
+      "changePct": "1.23",
       "direction": "up",
-      "volume": "439048",
+      "volume": "576460",
       "high": "200000",
       "low": "196600",
       "open": "198900",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1508.80",
-      "change": "3.70",
+      "value": "1507.10",
+      "change": "5.40",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "945.10",
-      "change": "2.91",
+      "value": "944.09",
+      "change": "3.92",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1740.48",
-      "change": "4.87",
+      "value": "1738.06",
+      "change": "7.29",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "219.21",
-      "change": "0.30",
+      "value": "218.92",
+      "change": "0.59",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "226855.81",
-      "change": "298.64",
+      "value": "226600.24",
+      "change": "43.07",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "\"전쟁 리스크 바닥 찍었다\" 무섭게 팔던 외인 돌아왔다...'순매수' 전환",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005339483&office_id=008&mode=mainnews&type=&date=2026-04-03&page=1"
+      "title": "한투-코인원 vs 미래-코빗…디지털로 전장 '확대'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001247793&office_id=215&mode=mainnews&type=&date=2026-04-03&page=1"
     },
     {
-      "title": "풍산 \"매각 위한 기업 밸류에이션 평가 돌입\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005339480&office_id=008&mode=mainnews&type=&date=2026-04-03&page=1"
+      "title": "'상위 1%' 투자 고수, '삼전닉스' 팔고 담은 종목이…'깜짝' [마켓PRO]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005270663&office_id=015&mode=mainnews&type=&date=2026-04-03&page=1"
     },
     {
-      "title": "'트럼프 입'에 요동치는 삼성전자, '20만 벽' 갇히나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000488123&office_id=629&mode=mainnews&type=&date=2026-04-03&page=1"
+      "title": "메리츠 참전에 숨통 트인 ‘이오타2’…KB금융 2000억 회수 부담도 덜까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002223230&office_id=138&mode=mainnews&type=&date=2026-04-03&page=1"
     },
     {
-      "title": "대한광통신·삼양식품 산 고수들, 삼전·닉스는 팔았다 [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004606793&office_id=011&mode=mainnews&type=&date=2026-04-03&page=1"
+      "title": "亞, 또 한국만…중동戰 우려에 3월 급락장 악몽 재현한 코스피[투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002624414&office_id=016&mode=mainnews&type=&date=2026-04-03&page=1"
     },
     {
-      "title": "스페이스X IPO 임박, 美 ETF 시장 지각변동 예고",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002624333&office_id=016&mode=mainnews&type=&date=2026-04-03&page=1"
+      "title": "널뛰는 주식시장에서 역사상 가장 큰돈 번 투자자",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003968677&office_id=023&mode=mainnews&type=&date=2026-04-03&page=1"
     },
     {
-      "title": "“떨어질수록 더 샀다”…서학개미, 레버리지 ETF에 ‘집중 베팅’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005660562&office_id=009&mode=mainnews&type=&date=2026-04-03&page=1"
+      "title": "“어제는 지옥, 오늘은 천당”…사이드카 12번 터진 코스피, 비트코인보다 출렁였다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004606812&office_id=011&mode=mainnews&type=&date=2026-04-03&page=1"
     },
     {
-      "title": "에이텀, 현대차 차세대 전기차 뚫었다…모비스·조선·AI '3축 성장' 시동",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005339470&office_id=008&mode=mainnews&type=&date=2026-04-03&page=1"
+      "title": "벚꽃 타고 돌아온 외국인에 삼전·닉스 봄바람… 코스피 3% 반등 [이런국장 저런주식]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004606811&office_id=011&mode=mainnews&type=&date=2026-04-03&page=1"
     },
     {
-      "title": "광통신 관련주, 번갈아 '상한가' 행진…한국첨단소재 上[핫종목]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008868108&office_id=421&mode=mainnews&type=&date=2026-04-03&page=1"
+      "title": "현금 확보 vs 비트코인 집중, 어느 쪽이 맞는가?[엠블록레터]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005660576&office_id=009&mode=mainnews&type=&date=2026-04-03&page=1"
     }
   ]
 }
