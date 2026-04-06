@@ -1,70 +1,70 @@
 {
-  "lastUpdated": "2026-04-03 07:42:55",
-  "date": "2026.04.03",
+  "lastUpdated": "2026-04-06 03:45:29",
+  "date": "2026.04.06",
   "kospi": {
     "name": "KOSPI",
-    "current": "5377.30",
-    "change": "143.25",
-    "changePct": "2.74",
+    "current": "5413.94",
+    "change": "36.64",
+    "changePct": "0.68",
     "direction": "up",
-    "volume": "1177298",
-    "tradeAmount": "22126679"
+    "volume": "793059",
+    "tradeAmount": "13834534"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "186200",
-      "change": "7800",
-      "changePct": "4.37",
+      "current": "191400",
+      "change": "5200",
+      "changePct": "2.79",
       "direction": "up",
-      "volume": "20194447",
-      "high": "187200",
-      "low": "182700",
-      "open": "184200",
+      "volume": "14178348",
+      "high": "194600",
+      "low": "190100",
+      "open": "190900",
       "marketCap": "0"
     },
     {
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "876000",
-      "change": "46000",
-      "changePct": "5.54",
+      "current": "878000",
+      "change": "2000",
+      "changePct": "0.23",
       "direction": "up",
-      "volume": "2927164",
-      "high": "886000",
-      "low": "860000",
-      "open": "867000",
+      "volume": "1793112",
+      "high": "901500",
+      "low": "877000",
+      "open": "877000",
       "marketCap": "0"
     },
     {
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "86500",
-      "change": "1700",
-      "changePct": "2.00",
+      "current": "87850",
+      "change": "1350",
+      "changePct": "1.56",
       "direction": "up",
-      "volume": "178655",
-      "high": "87800",
+      "volume": "90233",
+      "high": "89500",
       "low": "85900",
-      "open": "86400",
+      "open": "86500",
       "marketCap": "0"
     },
     {
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "197500",
-      "change": "1700",
-      "changePct": "0.87",
-      "direction": "up",
-      "volume": "659137",
-      "high": "200000",
-      "low": "196600",
-      "open": "198900",
+      "current": "196300",
+      "change": "-1200",
+      "changePct": "-0.61",
+      "direction": "down",
+      "volume": "494534",
+      "high": "199400",
+      "low": "194200",
+      "open": "197100",
       "marketCap": "0"
     }
   ],
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1506.80",
-      "change": "5.70",
+      "value": "1507.80",
+      "change": "2.30",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "944.44",
-      "change": "3.57",
+      "value": "944.77",
+      "change": "1.38",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1739.68",
-      "change": "5.67",
+      "value": "1736.99",
+      "change": "2.49",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "219.00",
-      "change": "0.51",
+      "value": "218.95",
+      "change": "0.33",
       "direction": "down"
     }
   ],
@@ -118,9 +118,9 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "226600.24",
-      "change": "43.07",
-      "direction": "up",
+      "value": "224575.91",
+      "change": "2730.91",
+      "direction": "down",
       "unit": "USD/oz"
     },
     {
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "'주가 반토막' 삼천당제약 몰빵 최후…비중 따라 ETF도 울고 웃었다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005339585&office_id=008&mode=mainnews&type=&date=2026-04-03&page=1"
+      "title": "\"스페이스X 상장하면 엔비디아 꺾고 시총 1위\" 전망 나와",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005271373&office_id=015&mode=mainnews&type=&date=2026-04-06&page=1"
     },
     {
-      "title": "변동성 큰 증시...\"저평가 중소형주 ETF 관심 가져야\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005502246&office_id=014&mode=mainnews&type=&date=2026-04-03&page=1"
+      "title": "삼성전자 내일 '50조 잭팟' 터지나…'상위 1%' 이미 쓸어담았다 [마켓PRO]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005271369&office_id=015&mode=mainnews&type=&date=2026-04-06&page=1"
     },
     {
-      "title": "돌아온 외국인에 코스피 '질주'…삼천당제약 6% 반등[마감]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006249483&office_id=018&mode=mainnews&type=&date=2026-04-03&page=1"
+      "title": "반도체 ‘피크아웃’ 우려 지웠나...SK하닉, 삼전 나란히 순매수 1·2위 [주식 초고수는 지금]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004607497&office_id=011&mode=mainnews&type=&date=2026-04-06&page=1"
     },
     {
-      "title": "외국인, 12일 만에 귀환…코스피, 2%대 상승 마감(종합)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013866344&office_id=003&mode=mainnews&type=&date=2026-04-03&page=1"
+      "title": "‘롤러코스터’ 장세, 하루만 맡겨도 이자 나오는 CMA 활용",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002625284&office_id=016&mode=mainnews&type=&date=2026-04-06&page=1"
     },
     {
-      "title": "반도체 랠리에 호르무즈 기대까지…코스피 2% 급등, 5300선 탈환",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005660683&office_id=009&mode=mainnews&type=&date=2026-04-03&page=1"
+      "title": "\"'증설하면 팔아라' 이젠 옛말...메모리 '다운턴 충격' 없을 것\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005271367&office_id=015&mode=mainnews&type=&date=2026-04-06&page=1"
     },
     {
-      "title": "'롤러코스터' 코스피, 5300선 탈환…호르무즈 통항 기대감에 반등",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000488216&office_id=629&mode=mainnews&type=&date=2026-04-03&page=1"
+      "title": "④ NH투자증권, 불장 덕에 1조 벌었다[증권사 단기투자]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000082231&office_id=293&mode=mainnews&type=&date=2026-04-06&page=1"
     },
     {
-      "title": "\"호르무즈 열리나\" 지갑도 열렸다…외인 \"사자\" 돌변, 양시장 '빨간불'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005339555&office_id=008&mode=mainnews&type=&date=2026-04-03&page=1"
+      "title": "삼전 ‘어닝 서프라이즈’ 전망에 외국인 돌아오나",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002625256&office_id=016&mode=mainnews&type=&date=2026-04-06&page=1"
     },
     {
-      "title": "“100만닉스 또 언제 오나”…하이닉스 담은 개미 10명 중 6명 ‘물렸다’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004606876&office_id=011&mode=mainnews&type=&date=2026-04-03&page=1"
+      "title": "환율·금리 압박에 외인 이탈 가속화…'셀 코리아' 장기화 우려",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000488609&office_id=629&mode=mainnews&type=&date=2026-04-06&page=1"
     }
   ]
 }
