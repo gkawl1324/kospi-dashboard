@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-04-06 06:14:55",
+  "lastUpdated": "2026-04-06 06:56:51",
   "date": "2026.04.06",
   "kospi": {
     "name": "KOSPI",
-    "current": "5450.20",
-    "change": "72.90",
+    "current": "5450.33",
+    "change": "73.03",
     "changePct": "1.36",
     "direction": "up",
-    "volume": "1058305",
-    "tradeAmount": "18906343"
+    "volume": "1083112",
+    "tradeAmount": "19898360"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "193250",
-      "change": "7050",
-      "changePct": "3.79",
+      "current": "193100",
+      "change": "6900",
+      "changePct": "3.71",
       "direction": "up",
-      "volume": "19296007",
+      "volume": "20635819",
       "high": "194600",
       "low": "190100",
       "open": "190900",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "883000",
-      "change": "7000",
-      "changePct": "0.80",
+      "current": "886000",
+      "change": "10000",
+      "changePct": "1.14",
       "direction": "up",
-      "volume": "2791224",
+      "volume": "3000976",
       "high": "901500",
       "low": "869000",
       "open": "877000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "87800",
-      "change": "1300",
-      "changePct": "1.50",
+      "current": "88400",
+      "change": "1900",
+      "changePct": "2.20",
       "direction": "up",
-      "volume": "140029",
+      "volume": "160578",
       "high": "89500",
       "low": "85900",
       "open": "86500",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "196600",
-      "change": "-900",
-      "changePct": "-0.46",
+      "current": "196800",
+      "change": "-700",
+      "changePct": "-0.35",
       "direction": "down",
-      "volume": "682071",
+      "volume": "717175",
       "high": "199400",
       "low": "194200",
       "open": "197100",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1505.20",
-      "change": "4.90",
+      "value": "1503.70",
+      "change": "6.40",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "943.26",
-      "change": "2.89",
+      "value": "942.08",
+      "change": "4.07",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1734.97",
-      "change": "4.51",
+      "value": "1733.99",
+      "change": "5.49",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "218.61",
-      "change": "0.67",
+      "value": "218.44",
+      "change": "0.84",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "225540.28",
-      "change": "1766.54",
+      "value": "225537.32",
+      "change": "1769.50",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,6 +142,18 @@
   ],
   "news": [
     {
+      "title": "“10% 넘게 쌓아둔 곳 많다”…자사주 소각 ‘다음 타자’ 리스트 부각",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005503186&office_id=014&mode=mainnews&type=&date=2026-04-06&page=1"
+    },
+    {
+      "title": "상법 개정 한 달...자사주 소각 15.8조 ‘폭증’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005503185&office_id=014&mode=mainnews&type=&date=2026-04-06&page=1"
+    },
+    {
+      "title": "“주말이 무섭다”… 트럼프 공포에 금요일엔 주식 대신 현금 채우는 개미들",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001154586&office_id=366&mode=mainnews&type=&date=2026-04-06&page=1"
+    },
+    {
       "title": "높아진 눈높이의 역설…삼전 ‘역대급’ 실적이라도 “50조원 넘어야 인정”",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0003514239&office_id=025&mode=mainnews&type=&date=2026-04-06&page=1"
     },
@@ -150,28 +162,16 @@
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0008872754&office_id=421&mode=mainnews&type=&date=2026-04-06&page=1"
     },
     {
+      "title": "빗썸뿐 아니다…코인거래소, 내부통제 총체적 난국",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000046005&office_id=648&mode=mainnews&type=&date=2026-04-06&page=1"
+    },
+    {
       "title": "\"삼성전자 1분기 영업익 50조 가능\"…증권가, 목표가 줄상향",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0016004904&office_id=001&mode=mainnews&type=&date=2026-04-06&page=1"
     },
     {
       "title": "전쟁 공포 뚫고 19만전자...\"내일 역대급 실적\" 외국인도 돌아올까",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005340297&office_id=008&mode=mainnews&type=&date=2026-04-06&page=1"
-    },
-    {
-      "title": "코스피, 장중 5500선 터치 후 상승폭 줄여…경계심리 여전",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006251166&office_id=018&mode=mainnews&type=&date=2026-04-06&page=1"
-    },
-    {
-      "title": "전쟁 터지고 20% 넘게 폭락했는데…전문가 \"반등 가능성 있다\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005271385&office_id=015&mode=mainnews&type=&date=2026-04-06&page=1"
-    },
-    {
-      "title": "\"스페이스X 상장하면 엔비디아 꺾고 시총 1위\" 전망 나와",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005271373&office_id=015&mode=mainnews&type=&date=2026-04-06&page=1"
-    },
-    {
-      "title": "\"삼성전자 내일 50조 터진다\"…상위 1% 투자 고수들 '싹쓸이' [마켓PRO]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005271369&office_id=015&mode=mainnews&type=&date=2026-04-06&page=1"
     }
   ]
 }
