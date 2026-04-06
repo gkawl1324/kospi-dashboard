@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-04-06 06:56:51",
+  "lastUpdated": "2026-04-06 08:09:00",
   "date": "2026.04.06",
   "kospi": {
     "name": "KOSPI",
-    "current": "5450.33",
-    "change": "73.03",
-    "changePct": "1.36",
+    "current": "0",
+    "change": "0",
+    "changePct": "0",
     "direction": "up",
-    "volume": "1083112",
-    "tradeAmount": "19898360"
+    "volume": "0",
+    "tradeAmount": "0"
   },
   "stocks": [
     {
@@ -19,7 +19,7 @@
       "change": "6900",
       "changePct": "3.71",
       "direction": "up",
-      "volume": "20635819",
+      "volume": "20635958",
       "high": "194600",
       "low": "190100",
       "open": "190900",
@@ -33,7 +33,7 @@
       "change": "10000",
       "changePct": "1.14",
       "direction": "up",
-      "volume": "3000976",
+      "volume": "3000989",
       "high": "901500",
       "low": "869000",
       "open": "877000",
@@ -61,7 +61,7 @@
       "change": "-700",
       "changePct": "-0.35",
       "direction": "down",
-      "volume": "717175",
+      "volume": "717180",
       "high": "199400",
       "low": "194200",
       "open": "197100",
@@ -72,8 +72,8 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1503.70",
-      "change": "6.40",
+      "value": "1502.00",
+      "change": "8.10",
       "direction": "down"
     },
     {
@@ -86,15 +86,15 @@
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1733.99",
-      "change": "5.49",
+      "value": "1735.94",
+      "change": "3.54",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "218.44",
-      "change": "0.84",
+      "value": "218.41",
+      "change": "0.87",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "225537.32",
-      "change": "1769.50",
+      "value": "226030.0",
+      "change": "1276.82",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "“10% 넘게 쌓아둔 곳 많다”…자사주 소각 ‘다음 타자’ 리스트 부각",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005503186&office_id=014&mode=mainnews&type=&date=2026-04-06&page=1"
+      "title": "스페이스X 투자 유치전…우주항공 ETF 베끼기 판친다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006251385&office_id=018&mode=mainnews&type=&date=2026-04-06&page=1"
     },
     {
-      "title": "상법 개정 한 달...자사주 소각 15.8조 ‘폭증’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005503185&office_id=014&mode=mainnews&type=&date=2026-04-06&page=1"
+      "title": "\"환율 상승=수출주 수혜?…'가격전가력' 따라 성과 갈린다'\"[인터뷰]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006251374&office_id=018&mode=mainnews&type=&date=2026-04-06&page=1"
     },
     {
-      "title": "“주말이 무섭다”… 트럼프 공포에 금요일엔 주식 대신 현금 채우는 개미들",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001154586&office_id=366&mode=mainnews&type=&date=2026-04-06&page=1"
+      "title": "이란발 증시 충격파 실적으로 극복…증권가 '25만전자' 베팅",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005340451&office_id=008&mode=mainnews&type=&date=2026-04-06&page=1"
     },
     {
-      "title": "높아진 눈높이의 역설…삼전 ‘역대급’ 실적이라도 “50조원 넘어야 인정”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003514239&office_id=025&mode=mainnews&type=&date=2026-04-06&page=1"
+      "title": "전쟁 공포에 채권형펀드 자금 썰물…한 달 만에 2.7조 순유출",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005340445&office_id=008&mode=mainnews&type=&date=2026-04-06&page=1"
     },
     {
-      "title": "이란 전쟁에도 간 큰 개미…美 레버리지 ETF에 10억달러 베팅[서학망원경]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008872754&office_id=421&mode=mainnews&type=&date=2026-04-06&page=1"
+      "title": "'의혹 해소' 나선 전인석 삼천당제약 대표 “S-PASS, 미국FDA·유럽 EMA 절차 진행 중”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005503246&office_id=014&mode=mainnews&type=&date=2026-04-06&page=1"
     },
     {
-      "title": "빗썸뿐 아니다…코인거래소, 내부통제 총체적 난국",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000046005&office_id=648&mode=mainnews&type=&date=2026-04-06&page=1"
+      "title": "중동 전운에도 코스피 반등…삼성전자 실적 기대에 1%대 상승",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002223476&office_id=138&mode=mainnews&type=&date=2026-04-06&page=1"
     },
     {
-      "title": "\"삼성전자 1분기 영업익 50조 가능\"…증권가, 목표가 줄상향",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016004904&office_id=001&mode=mainnews&type=&date=2026-04-06&page=1"
+      "title": "삼천당제약, 4%대 하락 마감…블록딜 이슈에 롤러코스터(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013870745&office_id=003&mode=mainnews&type=&date=2026-04-06&page=1"
     },
     {
-      "title": "전쟁 공포 뚫고 19만전자...\"내일 역대급 실적\" 외국인도 돌아올까",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005340297&office_id=008&mode=mainnews&type=&date=2026-04-06&page=1"
+      "title": "'코스닥 특례', 채비 1890억 적자 누적… 최대주주 보증·풋옵션 3300억",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005340441&office_id=008&mode=mainnews&type=&date=2026-04-06&page=1"
     }
   ]
 }
