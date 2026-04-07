@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-04-07 06:03:19",
+  "lastUpdated": "2026-04-07 07:42:57",
   "date": "2026.04.07",
   "kospi": {
     "name": "KOSPI",
-    "current": "5496.88",
-    "change": "46.55",
-    "changePct": "0.85",
+    "current": "5494.78",
+    "change": "44.45",
+    "changePct": "0.82",
     "direction": "up",
-    "volume": "942914",
-    "tradeAmount": "21095888"
+    "volume": "979324",
+    "tradeAmount": "23112575"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "196800",
-      "change": "3700",
-      "changePct": "1.92",
+      "current": "196500",
+      "change": "3400",
+      "changePct": "1.76",
       "direction": "up",
-      "volume": "27049459",
+      "volume": "29795287",
       "high": "202500",
       "low": "192400",
       "open": "202000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "914000",
-      "change": "28000",
-      "changePct": "3.16",
+      "current": "916000",
+      "change": "30000",
+      "changePct": "3.39",
       "direction": "up",
-      "volume": "2863843",
+      "volume": "3301429",
       "high": "933000",
       "low": "888000",
       "open": "917000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "87300",
-      "change": "-1100",
-      "changePct": "-1.24",
+      "current": "87600",
+      "change": "-800",
+      "changePct": "-0.90",
       "direction": "down",
-      "volume": "184616",
+      "volume": "210941",
       "high": "89400",
       "low": "86400",
       "open": "87300",
@@ -61,7 +61,7 @@
       "change": "-900",
       "changePct": "-0.46",
       "direction": "down",
-      "volume": "605210",
+      "volume": "668729",
       "high": "202000",
       "low": "195100",
       "open": "197200",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1503.70",
-      "change": "4.80",
+      "value": "1501.90",
+      "change": "6.60",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "941.11",
-      "change": "3.56",
+      "value": "939.63",
+      "change": "5.04",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1734.44",
-      "change": "6.97",
+      "value": "1733.57",
+      "change": "7.84",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "218.64",
-      "change": "0.73",
+      "value": "218.61",
+      "change": "0.76",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "224457.62",
-      "change": "1488.82",
+      "value": "224373.39",
+      "change": "1573.05",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "AI 패닉에 美운송주 170억 달러 증발…\"근거보다 공포에 움직여\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005271906&office_id=015&mode=mainnews&type=&date=2026-04-07&page=1"
+      "title": "삼성전자 '슈퍼 어닝 서프라이즈'에 반도체 소부장도 '함박웃음'(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016007720&office_id=001&mode=mainnews&type=&date=2026-04-07&page=1"
     },
     {
-      "title": "“삼성닉스 덕분” 코스피까지 믿기 힘든 대기록 세운다 [투자360]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002626009&office_id=016&mode=mainnews&type=&date=2026-04-07&page=1"
+      "title": "대형증권사 기업금융 위험노출액 42조…\"리스크 관리 중요\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013873328&office_id=003&mode=mainnews&type=&date=2026-04-07&page=1"
     },
     {
-      "title": "최대주주 넷마블 매수에 코웨이 9% 상승…밸류업도 나설까 [마켓시그널]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004608019&office_id=011&mode=mainnews&type=&date=2026-04-07&page=1"
+      "title": "\"36만 전자 간다\"…삼성전자 역대급 실적에 장중 '20만 전자'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000924083&office_id=469&mode=mainnews&type=&date=2026-04-07&page=1"
     },
     {
-      "title": "서학개미가 사랑하는 ‘QQQ’ 대체재 생길까, 블랙록 새 ETF 출시 나서",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003710436&office_id=020&mode=mainnews&type=&date=2026-04-07&page=1"
+      "title": "삼전닉스에 쏠린 눈…채권혼합 ETF도 판 커진다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006252167&office_id=018&mode=mainnews&type=&date=2026-04-07&page=1"
     },
     {
-      "title": "삼천당제약 대표 대출받겠다는데…증권가 \"고이자 감수해야\" [종목+]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005271891&office_id=015&mode=mainnews&type=&date=2026-04-07&page=1"
+      "title": "\"57조 벌었는데 왜 떨어져?\" 삼전, 역대급 성적표에도 개미 '당혹'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008875828&office_id=421&mode=mainnews&type=&date=2026-04-07&page=1"
     },
     {
-      "title": "'57조 잭팟' 큰형님 깜짝 실적에 '덩달아' 들썩인다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001248160&office_id=215&mode=mainnews&type=&date=2026-04-07&page=1"
+      "title": "내일 정규장 개장시각=중동 협상 시한…증시 변동성 예고",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005341024&office_id=008&mode=mainnews&type=&date=2026-04-07&page=1"
     },
     {
-      "title": "너무 자주 울리는 증시 '사이드카'…변동성 장세 속 제도 개선 목소리",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013872568&office_id=003&mode=mainnews&type=&date=2026-04-07&page=1"
+      "title": "\"퇴직연금에 삼성전자 더 담자\"…채권혼합 ETF 자금 몰려",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005341014&office_id=008&mode=mainnews&type=&date=2026-04-07&page=1"
     },
     {
-      "title": "‘3만전자’ 비웃음 뚫고 ’30만전자' 대망론… 목표주가 상향 근거는",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001154827&office_id=366&mode=mainnews&type=&date=2026-04-07&page=1"
+      "title": "조용하게 상승하는 밸류업 지수···추종 ETF도 코스피 넘었다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005341012&office_id=008&mode=mainnews&type=&date=2026-04-07&page=1"
     }
   ]
 }
