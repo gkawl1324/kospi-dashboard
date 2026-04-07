@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-04-07 03:51:32",
+  "lastUpdated": "2026-04-07 05:49:56",
   "date": "2026.04.07",
   "kospi": {
     "name": "KOSPI",
-    "current": "5458.69",
-    "change": "8.36",
-    "changePct": "0.15",
+    "current": "5462.58",
+    "change": "12.25",
+    "changePct": "0.22",
     "direction": "up",
-    "volume": "739015",
-    "tradeAmount": "16176008"
+    "volume": "921866",
+    "tradeAmount": "20240498"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "193800",
-      "change": "700",
-      "changePct": "0.36",
+      "current": "194800",
+      "change": "1700",
+      "changePct": "0.88",
       "direction": "up",
-      "volume": "21280950",
+      "volume": "25799330",
       "high": "202500",
       "low": "192400",
       "open": "202000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "900000",
-      "change": "14000",
-      "changePct": "1.58",
+      "current": "905000",
+      "change": "19000",
+      "changePct": "2.14",
       "direction": "up",
-      "volume": "2271491",
+      "volume": "2721234",
       "high": "933000",
       "low": "888000",
       "open": "917000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "87200",
-      "change": "-1200",
-      "changePct": "-1.36",
+      "current": "86900",
+      "change": "-1500",
+      "changePct": "-1.70",
       "direction": "down",
-      "volume": "112265",
+      "volume": "178503",
       "high": "89400",
       "low": "86400",
       "open": "87300",
@@ -57,13 +57,13 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "196800",
-      "change": "0",
-      "changePct": "0.00",
-      "direction": "up",
-      "volume": "446321",
+      "current": "195300",
+      "change": "-1500",
+      "changePct": "-0.76",
+      "direction": "down",
+      "volume": "587886",
       "high": "202000",
-      "low": "195800",
+      "low": "195100",
       "open": "197200",
       "marketCap": "0"
     }
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1508.30",
-      "change": "0.20",
+      "value": "1507.00",
+      "change": "1.50",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "943.69",
-      "change": "0.98",
+      "value": "943.08",
+      "change": "1.59",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1739.82",
-      "change": "1.59",
+      "value": "1737.80",
+      "change": "3.61",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "219.24",
-      "change": "0.13",
+      "value": "219.09",
+      "change": "0.28",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "225444.88",
-      "change": "501.56",
+      "value": "224679.05",
+      "change": "1267.39",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "이익은 엔비디아급, 몸값은 5분의 1… 삼성전자 ‘PER 10배’ 역대급 저평가",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001154814&office_id=366&mode=mainnews&type=&date=2026-04-07&page=1"
+      "title": "“삼성닉스 덕분” 코스피까지 믿기 힘든 대기록 세운다 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002626009&office_id=016&mode=mainnews&type=&date=2026-04-07&page=1"
     },
     {
-      "title": "액티브 ETF에 돈 몰리는데…변동성 장세에 수익률은 부진",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013872270&office_id=003&mode=mainnews&type=&date=2026-04-07&page=1"
+      "title": "최대주주 넷마블 매수에 코웨이 9% 상승…밸류업도 나설까 [마켓시그널]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004608019&office_id=011&mode=mainnews&type=&date=2026-04-07&page=1"
     },
     {
-      "title": "삼전 역대 최고 실적에도…수익률 상위 1%는 하이닉스 선택 [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004607959&office_id=011&mode=mainnews&type=&date=2026-04-07&page=1"
+      "title": "서학개미가 사랑하는 ‘QQQ’ 대체재 생길까, 블랙록 새 ETF 출시 나서",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003710436&office_id=020&mode=mainnews&type=&date=2026-04-07&page=1"
     },
     {
-      "title": "해명에도 식은 투심…삼천당제약, 10% 넘게 '뚝'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000489017&office_id=629&mode=mainnews&type=&date=2026-04-07&page=1"
+      "title": "삼천당제약 대표 대출받겠다는데…증권가 \"고이자 감수해야\" [종목+]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005271891&office_id=015&mode=mainnews&type=&date=2026-04-07&page=1"
     },
     {
-      "title": "전쟁통에도 7만달러 안정… 달라진 비트코인 왜",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002782865&office_id=021&mode=mainnews&type=&date=2026-04-07&page=1"
+      "title": "'57조 잭팟' 큰형님 깜짝 실적에 '덩달아' 들썩인다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001248160&office_id=215&mode=mainnews&type=&date=2026-04-07&page=1"
     },
     {
-      "title": "코스피, 장중 약보합 전환해 5,440대…코스닥도 하락세로",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016006731&office_id=001&mode=mainnews&type=&date=2026-04-07&page=1"
+      "title": "너무 자주 울리는 증시 '사이드카'…변동성 장세 속 제도 개선 목소리",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013872568&office_id=003&mode=mainnews&type=&date=2026-04-07&page=1"
     },
     {
-      "title": "삼성전자, 증권가도 깜짝 놀라…\"선반영? 우려할 상황 아니다\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000095886&office_id=243&mode=mainnews&type=&date=2026-04-07&page=1"
+      "title": "‘3만전자’ 비웃음 뚫고 ’30만전자' 대망론… 목표주가 상향 근거는",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001154827&office_id=366&mode=mainnews&type=&date=2026-04-07&page=1"
     },
     {
-      "title": "삼성운용도 ‘삼전닉스’에 채권 섞었다…KB운용에 도전장",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003020365&office_id=029&mode=mainnews&type=&date=2026-04-07&page=1"
+      "title": "JP모건 목표가 60% 하향 충격에…테슬라 2.15% 하락",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005271866&office_id=015&mode=mainnews&type=&date=2026-04-07&page=1"
     }
   ]
 }
