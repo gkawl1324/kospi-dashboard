@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-04-07 03:36:30",
+  "lastUpdated": "2026-04-07 03:51:32",
   "date": "2026.04.07",
   "kospi": {
     "name": "KOSPI",
-    "current": "5467.09",
-    "change": "16.76",
-    "changePct": "0.31",
+    "current": "5458.69",
+    "change": "8.36",
+    "changePct": "0.15",
     "direction": "up",
-    "volume": "722721",
-    "tradeAmount": "15717900"
+    "volume": "739015",
+    "tradeAmount": "16176008"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "194400",
-      "change": "1300",
-      "changePct": "0.67",
+      "current": "193800",
+      "change": "700",
+      "changePct": "0.36",
       "direction": "up",
-      "volume": "20924144",
+      "volume": "21280950",
       "high": "202500",
       "low": "192400",
       "open": "202000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "902000",
-      "change": "16000",
-      "changePct": "1.81",
+      "current": "900000",
+      "change": "14000",
+      "changePct": "1.58",
       "direction": "up",
-      "volume": "2238377",
+      "volume": "2271491",
       "high": "933000",
       "low": "888000",
       "open": "917000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "87050",
-      "change": "-1350",
-      "changePct": "-1.53",
+      "current": "87200",
+      "change": "-1200",
+      "changePct": "-1.36",
       "direction": "down",
-      "volume": "105133",
+      "volume": "112265",
       "high": "89400",
       "low": "86400",
       "open": "87300",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "197100",
-      "change": "300",
-      "changePct": "0.15",
+      "current": "196800",
+      "change": "0",
+      "changePct": "0.00",
       "direction": "up",
-      "volume": "433810",
+      "volume": "446321",
       "high": "202000",
       "low": "195800",
       "open": "197200",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1508.50",
-      "change": "0.00",
-      "direction": "flat"
+      "value": "1508.30",
+      "change": "0.20",
+      "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "943.61",
-      "change": "1.06",
+      "value": "943.69",
+      "change": "0.98",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1739.45",
-      "change": "1.96",
+      "value": "1739.82",
+      "change": "1.59",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "219.22",
-      "change": "0.15",
+      "value": "219.24",
+      "change": "0.13",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "225324.49",
-      "change": "621.95",
+      "value": "225444.88",
+      "change": "501.56",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -141,6 +141,10 @@
     }
   ],
   "news": [
+    {
+      "title": "이익은 엔비디아급, 몸값은 5분의 1… 삼성전자 ‘PER 10배’ 역대급 저평가",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001154814&office_id=366&mode=mainnews&type=&date=2026-04-07&page=1"
+    },
     {
       "title": "액티브 ETF에 돈 몰리는데…변동성 장세에 수익률은 부진",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0013872270&office_id=003&mode=mainnews&type=&date=2026-04-07&page=1"
@@ -168,10 +172,6 @@
     {
       "title": "삼성운용도 ‘삼전닉스’에 채권 섞었다…KB운용에 도전장",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0003020365&office_id=029&mode=mainnews&type=&date=2026-04-07&page=1"
-    },
-    {
-      "title": "메모리 아직도 사이클 진행중…증권가 “36만전자 가능” 상향 [새역사 쓰는 삼성전자]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002625877&office_id=016&mode=mainnews&type=&date=2026-04-07&page=1"
     }
   ]
 }
