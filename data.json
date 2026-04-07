@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-04-07 05:49:56",
+  "lastUpdated": "2026-04-07 06:03:19",
   "date": "2026.04.07",
   "kospi": {
     "name": "KOSPI",
-    "current": "5462.58",
-    "change": "12.25",
-    "changePct": "0.22",
+    "current": "5496.88",
+    "change": "46.55",
+    "changePct": "0.85",
     "direction": "up",
-    "volume": "921866",
-    "tradeAmount": "20240498"
+    "volume": "942914",
+    "tradeAmount": "21095888"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "194800",
-      "change": "1700",
-      "changePct": "0.88",
+      "current": "196800",
+      "change": "3700",
+      "changePct": "1.92",
       "direction": "up",
-      "volume": "25799330",
+      "volume": "27049459",
       "high": "202500",
       "low": "192400",
       "open": "202000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "905000",
-      "change": "19000",
-      "changePct": "2.14",
+      "current": "914000",
+      "change": "28000",
+      "changePct": "3.16",
       "direction": "up",
-      "volume": "2721234",
+      "volume": "2863843",
       "high": "933000",
       "low": "888000",
       "open": "917000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "86900",
-      "change": "-1500",
-      "changePct": "-1.70",
+      "current": "87300",
+      "change": "-1100",
+      "changePct": "-1.24",
       "direction": "down",
-      "volume": "178503",
+      "volume": "184616",
       "high": "89400",
       "low": "86400",
       "open": "87300",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "195300",
-      "change": "-1500",
-      "changePct": "-0.76",
+      "current": "195900",
+      "change": "-900",
+      "changePct": "-0.46",
       "direction": "down",
-      "volume": "587886",
+      "volume": "605210",
       "high": "202000",
       "low": "195100",
       "open": "197200",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1507.00",
-      "change": "1.50",
+      "value": "1503.70",
+      "change": "4.80",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "943.08",
-      "change": "1.59",
+      "value": "941.11",
+      "change": "3.56",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1737.80",
-      "change": "3.61",
+      "value": "1734.44",
+      "change": "6.97",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "219.09",
-      "change": "0.28",
+      "value": "218.64",
+      "change": "0.73",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "224679.05",
-      "change": "1267.39",
+      "value": "224457.62",
+      "change": "1488.82",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -141,6 +141,10 @@
     }
   ],
   "news": [
+    {
+      "title": "AI 패닉에 美운송주 170억 달러 증발…\"근거보다 공포에 움직여\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005271906&office_id=015&mode=mainnews&type=&date=2026-04-07&page=1"
+    },
     {
       "title": "“삼성닉스 덕분” 코스피까지 믿기 힘든 대기록 세운다 [투자360]",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002626009&office_id=016&mode=mainnews&type=&date=2026-04-07&page=1"
@@ -168,10 +172,6 @@
     {
       "title": "‘3만전자’ 비웃음 뚫고 ’30만전자' 대망론… 목표주가 상향 근거는",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0001154827&office_id=366&mode=mainnews&type=&date=2026-04-07&page=1"
-    },
-    {
-      "title": "JP모건 목표가 60% 하향 충격에…테슬라 2.15% 하락",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005271866&office_id=015&mode=mainnews&type=&date=2026-04-07&page=1"
     }
   ]
 }
