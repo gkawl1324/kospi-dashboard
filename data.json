@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-07 07:42:57",
+  "lastUpdated": "2026-04-07 07:54:54",
   "date": "2026.04.07",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1501.90",
-      "change": "6.60",
+      "value": "1502.70",
+      "change": "5.80",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "939.63",
-      "change": "5.04",
+      "value": "940.10",
+      "change": "4.57",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1733.57",
-      "change": "7.84",
+      "value": "1734.57",
+      "change": "6.84",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "218.61",
-      "change": "0.76",
+      "value": "218.75",
+      "change": "0.62",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "224373.39",
-      "change": "1573.05",
+      "value": "224104.55",
+      "change": "1841.89",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
+      "title": "118만→51만원 ‘삼천당제약 반토막’…대표가 나섰지만 투심은 싸늘 [종목Pick]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002626093&office_id=016&mode=mainnews&type=&date=2026-04-07&page=1"
+    },
+    {
+      "title": "삼성전자 깜짝 실적에…SK하이닉스 기대치도 높아진다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005341044&office_id=008&mode=mainnews&type=&date=2026-04-07&page=1"
+    },
+    {
+      "title": "고배당 분리과세로 밸류업 공시 급증...저PBR 딱지 효과도 곧 온다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000046048&office_id=648&mode=mainnews&type=&date=2026-04-07&page=1"
+    },
+    {
+      "title": "\"1Q만에 작년 영업익 뛰어넘어\" 증권가, 삼성전자 주가 눈높이 높인다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005341035&office_id=008&mode=mainnews&type=&date=2026-04-07&page=1"
+    },
+    {
+      "title": "중동 재건 기대감에 건설주 '들썩'…호르무즈 해협 개방 협상 '변수'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006252177&office_id=018&mode=mainnews&type=&date=2026-04-07&page=1"
+    },
+    {
+      "title": "수수료 2~4배 더 받는데…시장 수익률 못 따라간 펀드매니저",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003514549&office_id=025&mode=mainnews&type=&date=2026-04-07&page=1"
+    },
+    {
       "title": "삼성전자 '슈퍼 어닝 서프라이즈'에 반도체 소부장도 '함박웃음'(종합)",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0016007720&office_id=001&mode=mainnews&type=&date=2026-04-07&page=1"
     },
     {
       "title": "대형증권사 기업금융 위험노출액 42조…\"리스크 관리 중요\"",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0013873328&office_id=003&mode=mainnews&type=&date=2026-04-07&page=1"
-    },
-    {
-      "title": "\"36만 전자 간다\"…삼성전자 역대급 실적에 장중 '20만 전자'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000924083&office_id=469&mode=mainnews&type=&date=2026-04-07&page=1"
-    },
-    {
-      "title": "삼전닉스에 쏠린 눈…채권혼합 ETF도 판 커진다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006252167&office_id=018&mode=mainnews&type=&date=2026-04-07&page=1"
-    },
-    {
-      "title": "\"57조 벌었는데 왜 떨어져?\" 삼전, 역대급 성적표에도 개미 '당혹'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008875828&office_id=421&mode=mainnews&type=&date=2026-04-07&page=1"
-    },
-    {
-      "title": "내일 정규장 개장시각=중동 협상 시한…증시 변동성 예고",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005341024&office_id=008&mode=mainnews&type=&date=2026-04-07&page=1"
-    },
-    {
-      "title": "\"퇴직연금에 삼성전자 더 담자\"…채권혼합 ETF 자금 몰려",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005341014&office_id=008&mode=mainnews&type=&date=2026-04-07&page=1"
-    },
-    {
-      "title": "조용하게 상승하는 밸류업 지수···추종 ETF도 코스피 넘었다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005341012&office_id=008&mode=mainnews&type=&date=2026-04-07&page=1"
     }
   ]
 }
