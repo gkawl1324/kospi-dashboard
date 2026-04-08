@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-08 07:46:35",
+  "lastUpdated": "2026-04-08 07:57:50",
   "date": "2026.04.08",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1476.00",
-      "change": "21.00",
+      "value": "1476.70",
+      "change": "20.30",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "933.03",
-      "change": "7.18",
+      "value": "933.73",
+      "change": "6.48",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1726.18",
-      "change": "14.76",
+      "value": "1727.59",
+      "change": "13.35",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "216.30",
-      "change": "2.19",
+      "value": "216.45",
+      "change": "2.04",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "228164.65",
-      "change": "43.54",
+      "value": "228649.19",
+      "change": "528.08",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,6 +142,18 @@
   ],
   "news": [
     {
+      "title": "코스피 6% 급등 5870선 마감…외인·기관 5조원대 매수[오늘증시]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001138090&office_id=417&mode=mainnews&type=&date=2026-04-08&page=1"
+    },
+    {
+      "title": "휴전 이후 전고점 '6300피' 탈환 노린다…\"흔들릴 때 분할매수\" 조언",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005341620&office_id=008&mode=mainnews&type=&date=2026-04-08&page=1"
+    },
+    {
+      "title": "비트코인 방향 틀었다…미·이란 휴전에 3%대 강세(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013875924&office_id=003&mode=mainnews&type=&date=2026-04-08&page=1"
+    },
+    {
       "title": "중동戰 막바지?…재건 수혜 기대로 건설·에너지株 '벌떡'",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005341612&office_id=008&mode=mainnews&type=&date=2026-04-08&page=1"
     },
@@ -160,18 +172,6 @@
     {
       "title": "코스피, 이란전 휴전에 7% 올라 6,000선 가시권…코스닥도 급등(종합)",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0016010219&office_id=001&mode=mainnews&type=&date=2026-04-08&page=1"
-    },
-    {
-      "title": "미·이란 휴전에 증시 환호...코스피·코스닥 나란히 '불기둥'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005504593&office_id=014&mode=mainnews&type=&date=2026-04-08&page=1"
-    },
-    {
-      "title": "전쟁 중에도 '과열' 경고 뜬 이 주식들...\"-17% 대폭락\" 비명",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005341591&office_id=008&mode=mainnews&type=&date=2026-04-08&page=1"
-    },
-    {
-      "title": "하락 베팅한 개미들 어쩌나…휴전 소식에 희비 교차",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000852902&office_id=422&mode=mainnews&type=&date=2026-04-08&page=1"
     }
   ]
 }
