@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-04-08 03:53:49",
+  "lastUpdated": "2026-04-08 05:50:56",
   "date": "2026.04.08",
   "kospi": {
     "name": "KOSPI",
-    "current": "5847.21",
-    "change": "352.43",
-    "changePct": "6.41",
+    "current": "5860.72",
+    "change": "365.94",
+    "changePct": "6.66",
     "direction": "up",
-    "volume": "676503",
-    "tradeAmount": "23046770"
+    "volume": "871470",
+    "tradeAmount": "31861495"
   },
   "stocks": [
     {
@@ -19,7 +19,7 @@
       "change": "14000",
       "changePct": "7.12",
       "direction": "up",
-      "volume": "21816900",
+      "volume": "32155969",
       "high": "214500",
       "low": "207500",
       "open": "214000",
@@ -29,12 +29,12 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1016000",
-      "change": "100000",
-      "changePct": "10.92",
+      "current": "1038000",
+      "change": "122000",
+      "changePct": "13.32",
       "direction": "up",
-      "volume": "3653131",
-      "high": "1018000",
+      "volume": "5607351",
+      "high": "1056000",
       "low": "992000",
       "open": "1007000",
       "marketCap": "0"
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "91200",
-      "change": "3600",
-      "changePct": "4.11",
+      "current": "91300",
+      "change": "3700",
+      "changePct": "4.22",
       "direction": "up",
-      "volume": "164723",
+      "volume": "234966",
       "high": "93000",
       "low": "90000",
       "open": "92400",
@@ -61,7 +61,7 @@
       "change": "5100",
       "changePct": "2.60",
       "direction": "up",
-      "volume": "405674",
+      "volume": "570963",
       "high": "204000",
       "low": "200000",
       "open": "202500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1476.70",
-      "change": "20.30",
+      "value": "1473.20",
+      "change": "23.80",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "932.41",
-      "change": "7.80",
+      "value": "930.49",
+      "change": "9.72",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1723.53",
-      "change": "17.41",
+      "value": "1722.98",
+      "change": "17.96",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "216.14",
-      "change": "2.35",
+      "value": "215.84",
+      "change": "2.65",
       "direction": "down"
     }
   ],
@@ -118,9 +118,9 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "227928.48",
-      "change": "192.63",
-      "direction": "down",
+      "value": "228754.33",
+      "change": "633.22",
+      "direction": "up",
       "unit": "USD/oz"
     },
     {
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "휴전 소식에 삼성전자 쓸어담았다…초고수, 현대차·LG엔솔도 ‘픽’ [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004608446&office_id=011&mode=mainnews&type=&date=2026-04-08&page=1"
+      "title": "\"삼전-닉스 포기 못해\" 채권혼합 ETF까지 '후끈'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005504504&office_id=014&mode=mainnews&type=&date=2026-04-08&page=1"
     },
     {
-      "title": "‘휴전’에 투심 대폭발… 코스피 개장 6분·코스닥 13분만에 사이드카",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002783230&office_id=021&mode=mainnews&type=&date=2026-04-08&page=1"
+      "title": "코스피 7% 급등해 5900선 터치…외인·기관 4.4조원 매수[티타임]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001138052&office_id=417&mode=mainnews&type=&date=2026-04-08&page=1"
     },
     {
-      "title": "코스피, 장중 6% 올라 5,800대 강세 지속…코스닥도 급등",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016009152&office_id=001&mode=mainnews&type=&date=2026-04-08&page=1"
+      "title": "'21만전자·110만닉스' 쌍끌이 랠리…휴전·실적 겹호재에 반도체 폭주",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000489492&office_id=629&mode=mainnews&type=&date=2026-04-08&page=1"
     },
     {
-      "title": "‘극적 휴전’에 코스피 급등…돌아온 외인 ‘육천피’ 재탈환 이끈다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002626541&office_id=016&mode=mainnews&type=&date=2026-04-08&page=1"
+      "title": "삼천당제약 따라 코스닥·바이오 액티브도 '황천길'…엇갈린 성적표",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000489485&office_id=629&mode=mainnews&type=&date=2026-04-08&page=1"
     },
     {
-      "title": "중동사태에 ‘에너지 자립’ 테마주 주목",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002626532&office_id=016&mode=mainnews&type=&date=2026-04-08&page=1"
+      "title": "코스피, 5900선 회복…21만전자·100만닉스 '활활'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005746628&office_id=277&mode=mainnews&type=&date=2026-04-08&page=1"
     },
     {
-      "title": "⑥ 키움증권, 주식·채권 약세에도 펀드로 '역전'[증권사 단기투자]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000082380&office_id=293&mode=mainnews&type=&date=2026-04-08&page=1"
+      "title": "“육천피 돌아오나”…개인 5조 매도에도 5900선 탈환",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006252855&office_id=018&mode=mainnews&type=&date=2026-04-08&page=1"
     },
     {
-      "title": "항공유 가격 두배 ‘껑충’…LCC품은 사모펀드, 엑시트 전략 고심",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002626524&office_id=016&mode=mainnews&type=&date=2026-04-08&page=1"
+      "title": "“반갑다 외국인” 간만에 코스피 투자 싹쓸이…이제 ‘6천피’ 가나",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002626655&office_id=016&mode=mainnews&type=&date=2026-04-08&page=1"
     },
     {
-      "title": "종전 후 재건 기대감 '훈풍'…달리는 건설·에너지株",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005341399&office_id=008&mode=mainnews&type=&date=2026-04-08&page=1"
+      "title": "\"이게 무슨 일이야\"…재건 기대감에 줄줄이 '상한가'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001248323&office_id=215&mode=mainnews&type=&date=2026-04-08&page=1"
     }
   ]
 }
