@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-04-08 06:04:50",
+  "lastUpdated": "2026-04-08 07:46:35",
   "date": "2026.04.08",
   "kospi": {
     "name": "KOSPI",
-    "current": "5879.73",
-    "change": "384.95",
-    "changePct": "7.01",
+    "current": "5872.34",
+    "change": "377.56",
+    "changePct": "6.87",
     "direction": "up",
-    "volume": "888438",
-    "tradeAmount": "32725033"
+    "volume": "926231",
+    "tradeAmount": "35603671"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "210750",
-      "change": "14250",
-      "changePct": "7.25",
+      "current": "210500",
+      "change": "14000",
+      "changePct": "7.12",
       "direction": "up",
-      "volume": "32868242",
+      "volume": "35865614",
       "high": "214500",
       "low": "207500",
       "open": "214000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1041500",
-      "change": "125500",
-      "changePct": "13.70",
+      "current": "1033000",
+      "change": "117000",
+      "changePct": "12.77",
       "direction": "up",
-      "volume": "5779938",
+      "volume": "6603509",
       "high": "1056000",
       "low": "992000",
       "open": "1007000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "91400",
-      "change": "3800",
-      "changePct": "4.34",
+      "current": "91800",
+      "change": "4200",
+      "changePct": "4.79",
       "direction": "up",
-      "volume": "244883",
+      "volume": "292549",
       "high": "93000",
       "low": "90000",
       "open": "92400",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "202000",
-      "change": "6100",
-      "changePct": "3.11",
+      "current": "201500",
+      "change": "5600",
+      "changePct": "2.86",
       "direction": "up",
-      "volume": "600772",
+      "volume": "699966",
       "high": "204000",
       "low": "200000",
       "open": "202500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1472.90",
-      "change": "24.10",
+      "value": "1476.00",
+      "change": "21.00",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "930.18",
-      "change": "10.03",
+      "value": "933.03",
+      "change": "7.18",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1721.16",
-      "change": "19.78",
+      "value": "1726.18",
+      "change": "14.76",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "215.76",
-      "change": "2.73",
+      "value": "216.30",
+      "change": "2.19",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "228747.03",
-      "change": "625.92",
+      "value": "228164.65",
+      "change": "43.54",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "김상훈 KB증권 WM본부장 “韓증시, W자 흐름 전망…유가·반도체에 달렸다”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003020594&office_id=029&mode=mainnews&type=&date=2026-04-08&page=1"
+      "title": "중동戰 막바지?…재건 수혜 기대로 건설·에너지株 '벌떡'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005341612&office_id=008&mode=mainnews&type=&date=2026-04-08&page=1"
     },
     {
-      "title": "\"삼전-닉스 포기 못해\" 채권혼합 ETF까지 '후끈'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005504504&office_id=014&mode=mainnews&type=&date=2026-04-08&page=1"
+      "title": "“상장 전부터 줄섰다”…스페이스X 겨냥 ‘우주 ETF’ 봇물",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005663009&office_id=009&mode=mainnews&type=&date=2026-04-08&page=1"
     },
     {
-      "title": "코스피 7% 급등해 5900선 터치…외인·기관 4.4조원 매수[티타임]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001138052&office_id=417&mode=mainnews&type=&date=2026-04-08&page=1"
+      "title": "코스피 '수급 주체' 바뀌었다…외국인→개인·ETF",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000046087&office_id=648&mode=mainnews&type=&date=2026-04-08&page=1"
     },
     {
-      "title": "'21만전자·110만닉스' 쌍끌이 랠리…휴전·실적 겹호재에 반도체 폭주",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000489492&office_id=629&mode=mainnews&type=&date=2026-04-08&page=1"
+      "title": "테슬라·엔비디아 쏠림 주춤…서학개미도 ETF로 이동",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006252987&office_id=018&mode=mainnews&type=&date=2026-04-08&page=1"
     },
     {
-      "title": "삼천당제약 따라 코스닥·바이오 액티브도 '황천길'…엇갈린 성적표",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000489485&office_id=629&mode=mainnews&type=&date=2026-04-08&page=1"
+      "title": "코스피, 이란전 휴전에 7% 올라 6,000선 가시권…코스닥도 급등(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016010219&office_id=001&mode=mainnews&type=&date=2026-04-08&page=1"
     },
     {
-      "title": "코스피, 5900선 회복…21만전자·100만닉스 '활활'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005746628&office_id=277&mode=mainnews&type=&date=2026-04-08&page=1"
+      "title": "미·이란 휴전에 증시 환호...코스피·코스닥 나란히 '불기둥'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005504593&office_id=014&mode=mainnews&type=&date=2026-04-08&page=1"
     },
     {
-      "title": "“육천피 돌아오나”…개인 5조 매도에도 5900선 탈환",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006252855&office_id=018&mode=mainnews&type=&date=2026-04-08&page=1"
+      "title": "전쟁 중에도 '과열' 경고 뜬 이 주식들...\"-17% 대폭락\" 비명",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005341591&office_id=008&mode=mainnews&type=&date=2026-04-08&page=1"
     },
     {
-      "title": "“반갑다 외국인” 간만에 코스피 투자 싹쓸이…이제 ‘6천피’ 가나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002626655&office_id=016&mode=mainnews&type=&date=2026-04-08&page=1"
+      "title": "하락 베팅한 개미들 어쩌나…휴전 소식에 희비 교차",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000852902&office_id=422&mode=mainnews&type=&date=2026-04-08&page=1"
     }
   ]
 }
