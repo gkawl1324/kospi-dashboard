@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-04-08 03:37:49",
+  "lastUpdated": "2026-04-08 03:53:49",
   "date": "2026.04.08",
   "kospi": {
     "name": "KOSPI",
-    "current": "5839.21",
-    "change": "344.43",
-    "changePct": "6.27",
+    "current": "5847.21",
+    "change": "352.43",
+    "changePct": "6.41",
     "direction": "up",
-    "volume": "649155",
-    "tradeAmount": "21965451"
+    "volume": "676503",
+    "tradeAmount": "23046770"
   },
   "stocks": [
     {
@@ -19,7 +19,7 @@
       "change": "14000",
       "changePct": "7.12",
       "direction": "up",
-      "volume": "21089774",
+      "volume": "21816900",
       "high": "214500",
       "low": "207500",
       "open": "214000",
@@ -29,12 +29,12 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1009000",
-      "change": "93000",
-      "changePct": "10.15",
+      "current": "1016000",
+      "change": "100000",
+      "changePct": "10.92",
       "direction": "up",
-      "volume": "3438601",
-      "high": "1013000",
+      "volume": "3653131",
+      "high": "1018000",
       "low": "992000",
       "open": "1007000",
       "marketCap": "0"
@@ -47,7 +47,7 @@
       "change": "3600",
       "changePct": "4.11",
       "direction": "up",
-      "volume": "157446",
+      "volume": "164723",
       "high": "93000",
       "low": "90000",
       "open": "92400",
@@ -61,7 +61,7 @@
       "change": "5100",
       "changePct": "2.60",
       "direction": "up",
-      "volume": "382371",
+      "volume": "405674",
       "high": "204000",
       "low": "200000",
       "open": "202500",
@@ -72,8 +72,8 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1477.40",
-      "change": "19.60",
+      "value": "1476.70",
+      "change": "20.30",
       "direction": "down"
     },
     {
@@ -86,15 +86,15 @@
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1723.83",
-      "change": "17.11",
+      "value": "1723.53",
+      "change": "17.41",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "216.20",
-      "change": "2.29",
+      "value": "216.14",
+      "change": "2.35",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "227923.69",
-      "change": "197.42",
+      "value": "227928.48",
+      "change": "192.63",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -141,6 +141,10 @@
     }
   ],
   "news": [
+    {
+      "title": "휴전 소식에 삼성전자 쓸어담았다…초고수, 현대차·LG엔솔도 ‘픽’ [주식 초고수는 지금]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004608446&office_id=011&mode=mainnews&type=&date=2026-04-08&page=1"
+    },
     {
       "title": "‘휴전’에 투심 대폭발… 코스피 개장 6분·코스닥 13분만에 사이드카",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002783230&office_id=021&mode=mainnews&type=&date=2026-04-08&page=1"
@@ -168,10 +172,6 @@
     {
       "title": "종전 후 재건 기대감 '훈풍'…달리는 건설·에너지株",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005341399&office_id=008&mode=mainnews&type=&date=2026-04-08&page=1"
-    },
-    {
-      "title": "트럼프 \"호르무즈 완전 개방\" vs 이란 \"자국군 통제 속 통행\"[미국-이란 전쟁]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005746532&office_id=277&mode=mainnews&type=&date=2026-04-08&page=1"
     }
   ]
 }
