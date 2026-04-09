@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09 07:49:10",
+  "lastUpdated": "2026-04-09 07:59:47",
   "date": "2026.04.09",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1481.70",
-      "change": "0.70",
+      "value": "1481.60",
+      "change": "0.60",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "932.44",
-      "change": "1.47",
+      "value": "932.15",
+      "change": "1.76",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1727.74",
-      "change": "0.52",
+      "value": "1727.99",
+      "change": "0.77",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "216.67",
-      "change": "0.09",
+      "value": "216.68",
+      "change": "0.08",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "224985.1",
-      "change": "160.37",
+      "value": "224828.54",
+      "change": "316.93",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,6 +142,26 @@
   ],
   "news": [
     {
+      "title": "휴전에도 막힌 바닷길…떨어졌던 테마주까지 반등",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005342206&office_id=008&mode=mainnews&type=&date=2026-04-09&page=1"
+    },
+    {
+      "title": "휴전은 시작일 뿐…코스피, 올라탈까 갈아탈까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006253794&office_id=018&mode=mainnews&type=&date=2026-04-09&page=1"
+    },
+    {
+      "title": "[단독] 가격도 모르고 ‘묻지마 주문’… 美 주식 주간거래 ‘깜깜이’ 혼란",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001155631&office_id=366&mode=mainnews&type=&date=2026-04-09&page=1"
+    },
+    {
+      "title": "어제 2조 산 외인 \"다시 팔았다\" 돌변...가장 많이 판 종목은?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005342195&office_id=008&mode=mainnews&type=&date=2026-04-09&page=1"
+    },
+    {
+      "title": "'삼바 신화' 김태한 회장 \"삼성서 못한 신약 꿈, HLB서 완성하겠다\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005342194&office_id=008&mode=mainnews&type=&date=2026-04-09&page=1"
+    },
+    {
       "title": "꾸준한 코스피 투심...삼성운용 ‘KODEX 200’ 국내 최초 20조 돌파",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000046125&office_id=648&mode=mainnews&type=&date=2026-04-09&page=1"
     },
@@ -152,26 +172,6 @@
     {
       "title": "“HLB, 간암·담관암 치료제 FDA 허가 등 빅 이벤트 차질 없을 것”",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0004609024&office_id=011&mode=mainnews&type=&date=2026-04-09&page=1"
-    },
-    {
-      "title": "주말 미-이란 협상을 기다리며…시장 경계 지속할 때",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005342178&office_id=008&mode=mainnews&type=&date=2026-04-09&page=1"
-    },
-    {
-      "title": "‘스페이스X 효과’ 미래에셋증권…상승 여력 vs 밸류 부담 ‘엇갈린 시선’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006253749&office_id=018&mode=mainnews&type=&date=2026-04-09&page=1"
-    },
-    {
-      "title": "반토막 난 핀플루언서 추천주… 금융당국, 불공정거래 점검",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001842261&office_id=005&mode=mainnews&type=&date=2026-04-09&page=1"
-    },
-    {
-      "title": "반도체 팔고 이차전지 산 외국인…LG엔솔·삼성SDI 동반 강세[핫종목]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008880793&office_id=421&mode=mainnews&type=&date=2026-04-09&page=1"
-    },
-    {
-      "title": "코스피, 1.6% 하락 마감해 5,800선 내줘…외인 이틀만에 변심(종합)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016012746&office_id=001&mode=mainnews&type=&date=2026-04-09&page=1"
     }
   ]
 }
