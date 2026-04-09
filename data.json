@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-04-09 05:52:39",
+  "lastUpdated": "2026-04-09 06:06:00",
   "date": "2026.04.09",
   "kospi": {
     "name": "KOSPI",
-    "current": "5760.82",
-    "change": "111.52",
-    "changePct": "1.90",
+    "current": "5764.48",
+    "change": "107.86",
+    "changePct": "1.84",
     "direction": "up",
-    "volume": "927929",
-    "tradeAmount": "23732664"
+    "volume": "946732",
+    "tradeAmount": "24638439"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "203750",
-      "change": "-6750",
-      "changePct": "-3.21",
+      "current": "204000",
+      "change": "-6500",
+      "changePct": "-3.09",
       "direction": "down",
-      "volume": "21414519",
+      "volume": "21872064",
       "high": "207500",
       "low": "202000",
       "open": "207000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "995000",
-      "change": "-38000",
-      "changePct": "-3.68",
+      "current": "997000",
+      "change": "-36000",
+      "changePct": "-3.48",
       "direction": "down",
-      "volume": "3205745",
+      "volume": "3393526",
       "high": "1025000",
       "low": "990000",
       "open": "1015000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "89700",
-      "change": "-2100",
-      "changePct": "-2.29",
+      "current": "90000",
+      "change": "-1800",
+      "changePct": "-1.96",
       "direction": "down",
-      "volume": "189926",
+      "volume": "204373",
       "high": "91000",
       "low": "89300",
       "open": "90200",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "200000",
-      "change": "-1500",
-      "changePct": "-0.74",
+      "current": "199900",
+      "change": "-1600",
+      "changePct": "-0.79",
       "direction": "down",
-      "volume": "1044180",
+      "volume": "1071667",
       "high": "206500",
       "low": "198600",
       "open": "200000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1481.60",
-      "change": "0.60",
+      "value": "1481.40",
+      "change": "0.40",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "932.70",
-      "change": "1.21",
+      "value": "932.67",
+      "change": "1.24",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1727.77",
-      "change": "0.55",
+      "value": "1727.76",
+      "change": "0.54",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "216.73",
-      "change": "0.03",
+      "value": "216.74",
+      "change": "0.02",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "224795.22",
-      "change": "350.25",
+      "value": "224877.18",
+      "change": "268.29",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -141,6 +141,10 @@
     }
   ],
   "news": [
+    {
+      "title": "재건 기대에 상한가 갔던 건설주…손바뀜 단타자금 '차익실현' 하락",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008880386&office_id=421&mode=mainnews&type=&date=2026-04-09&page=1"
+    },
     {
       "title": "상폐 경고 쏟아졌다…코스피 12곳·코스닥 42곳 '퇴출 사유'",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000489894&office_id=629&mode=mainnews&type=&date=2026-04-09&page=1"
@@ -168,10 +172,6 @@
     {
       "title": "이스타코·STX 등 코스피·코스닥 54곳, 상장폐지 위기",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0001155487&office_id=366&mode=mainnews&type=&date=2026-04-09&page=1"
-    },
-    {
-      "title": "비트코인 실패한 ‘화폐 3대 기능’…스테이블코인, 지급결제 왕좌 노린다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005663464&office_id=009&mode=mainnews&type=&date=2026-04-09&page=1"
     }
   ]
 }
