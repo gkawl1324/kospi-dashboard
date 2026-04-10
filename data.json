@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-04-10 04:10:35",
+  "lastUpdated": "2026-04-10 06:14:14",
   "date": "2026.04.10",
   "kospi": {
     "name": "KOSPI",
-    "current": "5874.08",
-    "change": "96.07",
-    "changePct": "1.66",
+    "current": "5860.87",
+    "change": "82.86",
+    "changePct": "1.43",
     "direction": "up",
-    "volume": "757926",
-    "tradeAmount": "16059936"
+    "volume": "959302",
+    "tradeAmount": "21175305"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "207000",
-      "change": "3000",
-      "changePct": "1.47",
+      "current": "206500",
+      "change": "2500",
+      "changePct": "1.23",
       "direction": "up",
-      "volume": "11834137",
+      "volume": "15942480",
       "high": "211000",
       "low": "206000",
       "open": "208500",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1031000",
-      "change": "33000",
-      "changePct": "3.31",
+      "current": "1026000",
+      "change": "28000",
+      "changePct": "2.81",
       "direction": "up",
-      "volume": "1725665",
+      "volume": "2372923",
       "high": "1042000",
       "low": "1025000",
       "open": "1030000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "93400",
-      "change": "2800",
-      "changePct": "3.09",
+      "current": "93200",
+      "change": "2600",
+      "changePct": "2.87",
       "direction": "up",
-      "volume": "147666",
+      "volume": "228419",
       "high": "93800",
       "low": "90900",
       "open": "90900",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "203000",
-      "change": "1500",
-      "changePct": "0.74",
+      "current": "202000",
+      "change": "500",
+      "changePct": "0.25",
       "direction": "up",
-      "volume": "334196",
+      "volume": "455310",
       "high": "205000",
       "low": "201000",
       "open": "202500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1480.00",
-      "change": "4.00",
+      "value": "1481.20",
+      "change": "5.20",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "929.94",
-      "change": "1.96",
+      "value": "929.85",
+      "change": "1.87",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1730.93",
-      "change": "4.60",
+      "value": "1731.23",
+      "change": "4.90",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "216.68",
-      "change": "0.52",
+      "value": "216.85",
+      "change": "0.69",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "226761.9",
-      "change": "246.23",
+      "value": "226610.97",
+      "change": "95.30",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
+      "title": "\"해외서 잘 나가\" 대장주 신고가 찍자 K뷰티 줄상승…증권가도 \"사라\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005342598&office_id=008&mode=mainnews&type=&date=2026-04-10&page=1"
+    },
+    {
+      "title": "SK하이닉스, 호실적 기대감 '솔솔'…'200만닉스' 현실 될까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000490319&office_id=629&mode=mainnews&type=&date=2026-04-10&page=1"
+    },
+    {
+      "title": "‘급락장서 50% 육박’ 정규장 NXT 비중…변동장선 KRX로 쏠렸다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002627903&office_id=016&mode=mainnews&type=&date=2026-04-10&page=1"
+    },
+    {
+      "title": "서진시스템, 전공정 내재화로 ESS·반도체 대응…비중국 반사수혜 기대-삼성",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006254626&office_id=018&mode=mainnews&type=&date=2026-04-10&page=1"
+    },
+    {
+      "title": "'295만원→400만원 간다'…국내서 가장 비싼 주식 '깜짝 전망'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005273440&office_id=015&mode=mainnews&type=&date=2026-04-10&page=1"
+    },
+    {
+      "title": "퇴임 앞둔 이창용 한은총재 \"금리 결정 잘해왔다고 생각\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016014422&office_id=001&mode=mainnews&type=&date=2026-04-10&page=1"
+    },
+    {
+      "title": "포스코홀딩스 쓸어담은 초고수…상위 1%, 소재株로 베팅[주식 초고수는 지금]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004609355&office_id=011&mode=mainnews&type=&date=2026-04-10&page=1"
+    },
+    {
       "title": "3년째 상폐 경고인데도 안 나간다…한창에 갇힌 개미들 '분통'",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000490260&office_id=629&mode=mainnews&type=&date=2026-04-10&page=1"
-    },
-    {
-      "title": "“전쟁 끝나기 전에 미리미리 사 둬라”…증권가가 금 대신 주목한 ‘이것’ 뭐길래",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004609346&office_id=011&mode=mainnews&type=&date=2026-04-10&page=1"
-    },
-    {
-      "title": "같은 코스닥 액티브 ETF, 종목 선택이 성패 갈랐다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000082520&office_id=293&mode=mainnews&type=&date=2026-04-10&page=1"
-    },
-    {
-      "title": "스페이스X 상장땐 미래에셋증권 ‘초대박’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002783773&office_id=021&mode=mainnews&type=&date=2026-04-10&page=1"
-    },
-    {
-      "title": "캠시스, 유증 청약률 67% 그쳐… 구주주 외면에 475만주 실권",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002224031&office_id=138&mode=mainnews&type=&date=2026-04-10&page=1"
-    },
-    {
-      "title": "코스피, 장중 5,900대 터치 후 2% 오름세 지속…코스닥도 상승",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016013978&office_id=001&mode=mainnews&type=&date=2026-04-10&page=1"
-    },
-    {
-      "title": "금 쓸어담는 ‘큰손’ 중국…금값 반등 이끌까",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002627758&office_id=016&mode=mainnews&type=&date=2026-04-10&page=1"
-    },
-    {
-      "title": "상폐 우회로 ‘포괄적 주식교환’…法 “문제없다”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002627757&office_id=016&mode=mainnews&type=&date=2026-04-10&page=1"
     }
   ]
 }
