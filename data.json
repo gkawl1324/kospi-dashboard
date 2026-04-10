@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-04-10 06:14:14",
+  "lastUpdated": "2026-04-10 06:55:21",
   "date": "2026.04.10",
   "kospi": {
     "name": "KOSPI",
-    "current": "5860.87",
-    "change": "82.86",
-    "changePct": "1.43",
+    "current": "5858.87",
+    "change": "80.86",
+    "changePct": "1.40",
     "direction": "up",
-    "volume": "959302",
-    "tradeAmount": "21175305"
+    "volume": "989955",
+    "tradeAmount": "23426541"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "206500",
-      "change": "2500",
-      "changePct": "1.23",
+      "current": "206000",
+      "change": "2000",
+      "changePct": "0.98",
       "direction": "up",
-      "volume": "15942480",
+      "volume": "18226406",
       "high": "211000",
-      "low": "206000",
+      "low": "205500",
       "open": "208500",
       "marketCap": "0"
     },
@@ -29,13 +29,13 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1026000",
-      "change": "28000",
-      "changePct": "2.81",
+      "current": "1027000",
+      "change": "29000",
+      "changePct": "2.91",
       "direction": "up",
-      "volume": "2372923",
+      "volume": "3037994",
       "high": "1042000",
-      "low": "1025000",
+      "low": "1024000",
       "open": "1030000",
       "marketCap": "0"
     },
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "93200",
-      "change": "2600",
-      "changePct": "2.87",
+      "current": "93000",
+      "change": "2400",
+      "changePct": "2.65",
       "direction": "up",
-      "volume": "228419",
+      "volume": "258727",
       "high": "93800",
       "low": "90900",
       "open": "90900",
@@ -61,7 +61,7 @@
       "change": "500",
       "changePct": "0.25",
       "direction": "up",
-      "volume": "455310",
+      "volume": "525138",
       "high": "205000",
       "low": "201000",
       "open": "202500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1481.20",
-      "change": "5.20",
+      "value": "1484.30",
+      "change": "8.30",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "929.85",
-      "change": "1.87",
+      "value": "931.94",
+      "change": "3.96",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1731.23",
-      "change": "4.90",
+      "value": "1734.63",
+      "change": "8.30",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "216.85",
-      "change": "0.69",
+      "value": "217.22",
+      "change": "1.06",
       "direction": "up"
     }
   ],
@@ -118,9 +118,9 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "226610.97",
-      "change": "95.30",
-      "direction": "up",
+      "value": "226438.9",
+      "change": "76.77",
+      "direction": "down",
       "unit": "USD/oz"
     },
     {
@@ -142,6 +142,26 @@
   ],
   "news": [
     {
+      "title": "풍산홀딩스, 탄약사업부 매각 무산에 14%대 급락...오너가 승계 이슈는?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006254681&office_id=018&mode=mainnews&type=&date=2026-04-10&page=1"
+    },
+    {
+      "title": "‘한탕’ 레버리지 vs ‘안전’ 파킹…혼란장에 갈린 개미 투심",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001155919&office_id=366&mode=mainnews&type=&date=2026-04-10&page=1"
+    },
+    {
+      "title": "하나투어 매각 숨고르기 나선 IMM PE…마지막 퍼즐은 주가",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005664169&office_id=009&mode=mainnews&type=&date=2026-04-10&page=1"
+    },
+    {
+      "title": "금감원, 한화솔루션 유상증자 반려 왜…한화에어로 전철 밟나",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013880713&office_id=003&mode=mainnews&type=&date=2026-04-10&page=1"
+    },
+    {
+      "title": "“금 쌓고 거래소 키운다”…큰 손 中, 금값 반등 변수 될까 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002627911&office_id=016&mode=mainnews&type=&date=2026-04-10&page=1"
+    },
+    {
       "title": "\"해외서 잘 나가\" 대장주 신고가 찍자 K뷰티 줄상승…증권가도 \"사라\"",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005342598&office_id=008&mode=mainnews&type=&date=2026-04-10&page=1"
     },
@@ -152,26 +172,6 @@
     {
       "title": "‘급락장서 50% 육박’ 정규장 NXT 비중…변동장선 KRX로 쏠렸다",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002627903&office_id=016&mode=mainnews&type=&date=2026-04-10&page=1"
-    },
-    {
-      "title": "서진시스템, 전공정 내재화로 ESS·반도체 대응…비중국 반사수혜 기대-삼성",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006254626&office_id=018&mode=mainnews&type=&date=2026-04-10&page=1"
-    },
-    {
-      "title": "'295만원→400만원 간다'…국내서 가장 비싼 주식 '깜짝 전망'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005273440&office_id=015&mode=mainnews&type=&date=2026-04-10&page=1"
-    },
-    {
-      "title": "퇴임 앞둔 이창용 한은총재 \"금리 결정 잘해왔다고 생각\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016014422&office_id=001&mode=mainnews&type=&date=2026-04-10&page=1"
-    },
-    {
-      "title": "포스코홀딩스 쓸어담은 초고수…상위 1%, 소재株로 베팅[주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004609355&office_id=011&mode=mainnews&type=&date=2026-04-10&page=1"
-    },
-    {
-      "title": "3년째 상폐 경고인데도 안 나간다…한창에 갇힌 개미들 '분통'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000490260&office_id=629&mode=mainnews&type=&date=2026-04-10&page=1"
     }
   ]
 }
