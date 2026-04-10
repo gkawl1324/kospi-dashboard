@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-04-10 03:45:30",
+  "lastUpdated": "2026-04-10 04:10:35",
   "date": "2026.04.10",
   "kospi": {
     "name": "KOSPI",
-    "current": "5876.12",
-    "change": "98.11",
-    "changePct": "1.70",
+    "current": "5874.08",
+    "change": "96.07",
+    "changePct": "1.66",
     "direction": "up",
-    "volume": "718322",
-    "tradeAmount": "15213324"
+    "volume": "757926",
+    "tradeAmount": "16059936"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "208000",
-      "change": "4000",
-      "changePct": "1.96",
+      "current": "207000",
+      "change": "3000",
+      "changePct": "1.47",
       "direction": "up",
-      "volume": "11076491",
+      "volume": "11834137",
       "high": "211000",
       "low": "206000",
       "open": "208500",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1029000",
-      "change": "31000",
-      "changePct": "3.11",
+      "current": "1031000",
+      "change": "33000",
+      "changePct": "3.31",
       "direction": "up",
-      "volume": "1644132",
+      "volume": "1725665",
       "high": "1042000",
       "low": "1025000",
       "open": "1030000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "93500",
-      "change": "2900",
-      "changePct": "3.20",
+      "current": "93400",
+      "change": "2800",
+      "changePct": "3.09",
       "direction": "up",
-      "volume": "140823",
+      "volume": "147666",
       "high": "93800",
       "low": "90900",
       "open": "90900",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "202500",
-      "change": "1000",
-      "changePct": "0.50",
+      "current": "203000",
+      "change": "1500",
+      "changePct": "0.74",
       "direction": "up",
-      "volume": "308074",
+      "volume": "334196",
       "high": "205000",
       "low": "201000",
       "open": "202500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1480.30",
-      "change": "4.30",
+      "value": "1480.00",
+      "change": "4.00",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "930.22",
-      "change": "2.24",
+      "value": "929.94",
+      "change": "1.96",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1731.21",
-      "change": "4.88",
+      "value": "1730.93",
+      "change": "4.60",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "216.74",
-      "change": "0.58",
+      "value": "216.68",
+      "change": "0.52",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "226823.25",
-      "change": "307.58",
+      "value": "226761.9",
+      "change": "246.23",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -141,6 +141,10 @@
     }
   ],
   "news": [
+    {
+      "title": "3년째 상폐 경고인데도 안 나간다…한창에 갇힌 개미들 '분통'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000490260&office_id=629&mode=mainnews&type=&date=2026-04-10&page=1"
+    },
     {
       "title": "“전쟁 끝나기 전에 미리미리 사 둬라”…증권가가 금 대신 주목한 ‘이것’ 뭐길래",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0004609346&office_id=011&mode=mainnews&type=&date=2026-04-10&page=1"
@@ -168,10 +172,6 @@
     {
       "title": "상폐 우회로 ‘포괄적 주식교환’…法 “문제없다”",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002627757&office_id=016&mode=mainnews&type=&date=2026-04-10&page=1"
-    },
-    {
-      "title": "제이지·한화운용 ‘K-컬처 펀드’ 연내 출격",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002627756&office_id=016&mode=mainnews&type=&date=2026-04-10&page=1"
     }
   ]
 }
