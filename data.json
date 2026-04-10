@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10 06:55:21",
+  "lastUpdated": "2026-04-10 08:05:57",
   "date": "2026.04.10",
   "kospi": {
     "name": "KOSPI",
@@ -19,7 +19,7 @@
       "change": "2000",
       "changePct": "0.98",
       "direction": "up",
-      "volume": "18226406",
+      "volume": "18229163",
       "high": "211000",
       "low": "205500",
       "open": "208500",
@@ -33,7 +33,7 @@
       "change": "29000",
       "changePct": "2.91",
       "direction": "up",
-      "volume": "3037994",
+      "volume": "3038008",
       "high": "1042000",
       "low": "1024000",
       "open": "1030000",
@@ -61,7 +61,7 @@
       "change": "500",
       "changePct": "0.25",
       "direction": "up",
-      "volume": "525138",
+      "volume": "525142",
       "high": "205000",
       "low": "201000",
       "open": "202500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1484.30",
-      "change": "8.30",
+      "value": "1487.00",
+      "change": "11.00",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "931.94",
-      "change": "3.96",
+      "value": "933.25",
+      "change": "5.27",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1734.63",
-      "change": "8.30",
+      "value": "1736.52",
+      "change": "10.19",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "217.22",
-      "change": "1.06",
+      "value": "217.59",
+      "change": "1.43",
       "direction": "up"
     }
   ],
@@ -118,9 +118,9 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "226438.9",
-      "change": "76.77",
-      "direction": "down",
+      "value": "226934.39",
+      "change": "418.72",
+      "direction": "up",
       "unit": "USD/oz"
     },
     {
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "풍산홀딩스, 탄약사업부 매각 무산에 14%대 급락...오너가 승계 이슈는?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006254681&office_id=018&mode=mainnews&type=&date=2026-04-10&page=1"
+      "title": "'제약 이슈'에 못 가는 코스닥…외국인 수급이 올릴까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005505874&office_id=014&mode=mainnews&type=&date=2026-04-10&page=1"
     },
     {
-      "title": "‘한탕’ 레버리지 vs ‘안전’ 파킹…혼란장에 갈린 개미 투심",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001155919&office_id=366&mode=mainnews&type=&date=2026-04-10&page=1"
+      "title": "\"스페이스X 효과에 3배 뛰었다\"…미래에셋증권 주가 더 갈까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005505873&office_id=014&mode=mainnews&type=&date=2026-04-10&page=1"
     },
     {
-      "title": "하나투어 매각 숨고르기 나선 IMM PE…마지막 퍼즐은 주가",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005664169&office_id=009&mode=mainnews&type=&date=2026-04-10&page=1"
+      "title": "‘돌아온 외인’ 1조 사자…코스피 5900선 겨냥 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002627941&office_id=016&mode=mainnews&type=&date=2026-04-10&page=1"
     },
     {
-      "title": "금감원, 한화솔루션 유상증자 반려 왜…한화에어로 전철 밟나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013880713&office_id=003&mode=mainnews&type=&date=2026-04-10&page=1"
+      "title": "\"스페이스X 잡아라\" 금투업계, 마케팅전 '앗! 뜨거워'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005505860&office_id=014&mode=mainnews&type=&date=2026-04-10&page=1"
     },
     {
-      "title": "“금 쌓고 거래소 키운다”…큰 손 中, 금값 반등 변수 될까 [투자360]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002627911&office_id=016&mode=mainnews&type=&date=2026-04-10&page=1"
+      "title": "'돌아온 외국인' 이번 주 삼전하닉 4.2조 순매수",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008882952&office_id=421&mode=mainnews&type=&date=2026-04-10&page=1"
     },
     {
-      "title": "\"해외서 잘 나가\" 대장주 신고가 찍자 K뷰티 줄상승…증권가도 \"사라\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005342598&office_id=008&mode=mainnews&type=&date=2026-04-10&page=1"
+      "title": "美·이란 1차 회담 앞두고 외국인 1조원 순매수…코스피 1.4% 상승[마켓뷰]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001155944&office_id=366&mode=mainnews&type=&date=2026-04-10&page=1"
     },
     {
-      "title": "SK하이닉스, 호실적 기대감 '솔솔'…'200만닉스' 현실 될까",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000490319&office_id=629&mode=mainnews&type=&date=2026-04-10&page=1"
+      "title": "퇴임 앞둔 이창용 한은총재 \"금리 결정 잘해왔다고 생각\"(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016014854&office_id=001&mode=mainnews&type=&date=2026-04-10&page=1"
     },
     {
-      "title": "‘급락장서 50% 육박’ 정규장 NXT 비중…변동장선 KRX로 쏠렸다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002627903&office_id=016&mode=mainnews&type=&date=2026-04-10&page=1"
+      "title": "코스피, 주말 美·이란 종전협상 앞두고 1.4% 올라 5,850대 마감(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016014800&office_id=001&mode=mainnews&type=&date=2026-04-10&page=1"
     }
   ]
 }
