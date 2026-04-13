@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-04-13 06:29:36",
+  "lastUpdated": "2026-04-13 07:18:23",
   "date": "2026.04.13",
   "kospi": {
     "name": "KOSPI",
-    "current": "5803.80",
-    "change": "55.07",
-    "changePct": "0.94",
+    "current": "5808.62",
+    "change": "50.25",
+    "changePct": "0.86",
     "direction": "up",
-    "volume": "1055879",
-    "tradeAmount": "19357132"
+    "volume": "1074177",
+    "tradeAmount": "21053123"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "201500",
-      "change": "-4500",
-      "changePct": "-2.18",
+      "current": "201000",
+      "change": "-5000",
+      "changePct": "-2.43",
       "direction": "down",
-      "volume": "16776282",
+      "volume": "18853050",
       "high": "203000",
       "low": "198200",
       "open": "198200",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1037000",
-      "change": "10000",
-      "changePct": "0.97",
+      "current": "1040000",
+      "change": "13000",
+      "changePct": "1.27",
       "direction": "up",
-      "volume": "2453770",
+      "volume": "2769188",
       "high": "1043000",
       "low": "996000",
       "open": "999000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "90900",
-      "change": "-2100",
-      "changePct": "-2.26",
+      "current": "91000",
+      "change": "-2000",
+      "changePct": "-2.15",
       "direction": "down",
-      "volume": "206858",
+      "volume": "227644",
       "high": "92000",
       "low": "90500",
       "open": "91700",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "198200",
-      "change": "-3800",
-      "changePct": "-1.88",
+      "current": "199000",
+      "change": "-3000",
+      "changePct": "-1.49",
       "direction": "down",
-      "volume": "461108",
+      "volume": "514728",
       "high": "199500",
       "low": "196800",
       "open": "197700",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1490.20",
-      "change": "4.70",
+      "value": "1488.80",
+      "change": "3.30",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "933.27",
-      "change": "0.58",
-      "direction": "up"
+      "value": "932.10",
+      "change": "0.59",
+      "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1741.89",
-      "change": "0.60",
+      "value": "1740.11",
+      "change": "2.38",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "218.15",
-      "change": "0.47",
+      "value": "217.86",
+      "change": "0.18",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "226501.3",
-      "change": "787.39",
+      "value": "226209.32",
+      "change": "1079.37",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
+      "title": "\"쌀 때 담자\"…개미들 1조 순매수에 코스피 5800선 사수",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006256433&office_id=018&mode=mainnews&type=&date=2026-04-13&page=1"
+    },
+    {
+      "title": "코스피, 5800선 턱걸이…중동 종전 협상 결렬에도 '버티기'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000490910&office_id=629&mode=mainnews&type=&date=2026-04-13&page=1"
+    },
+    {
+      "title": "'이란 노딜'에 물러선 코스피…5808.62 마감",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005343446&office_id=008&mode=mainnews&type=&date=2026-04-13&page=1"
+    },
+    {
+      "title": "‘스페이스X 편입’ 과장광고 논란…금감원, 하나운용 현장점검",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006256420&office_id=018&mode=mainnews&type=&date=2026-04-13&page=1"
+    },
+    {
+      "title": "[속보] 큰손 압박에도 5,800p 사수…협상 결렬 '희비'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001248826&office_id=215&mode=mainnews&type=&date=2026-04-13&page=1"
+    },
+    {
+      "title": "실적시즌 앞두고 미리 담아볼까…계좌 불려줄 탄탄한 종목은",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005274236&office_id=015&mode=mainnews&type=&date=2026-04-13&page=1"
+    },
+    {
       "title": "‘1조 패키지 딜’의 유혹…애큐온에 베팅한 금융지주들[마켓인]",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0006256385&office_id=018&mode=mainnews&type=&date=2026-04-13&page=1"
     },
     {
       "title": "호르무즈 봉쇄에도 시장 '절제'…\"공포의 정점은 지났다\"",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0006256378&office_id=018&mode=mainnews&type=&date=2026-04-13&page=1"
-    },
-    {
-      "title": "반도체 중심으로 그룹 재편… 한솔테크닉스는 ‘부채 딜레마’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001156460&office_id=366&mode=mainnews&type=&date=2026-04-13&page=1"
-    },
-    {
-      "title": "수요는 폭발, 공급은 멈춰…채비의 'J커브' 시작[전기차, 이제는 인프라다⑤]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005748723&office_id=277&mode=mainnews&type=&date=2026-04-13&page=1"
-    },
-    {
-      "title": "'롤러코스피'에도 국내 증권사 10곳 중 9곳 매도 리포트 '제로'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000082650&office_id=293&mode=mainnews&type=&date=2026-04-13&page=1"
-    },
-    {
-      "title": "스페이스X에 ‘우주 ETF’ 열풍…미래에셋까지 가세",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003079976&office_id=119&mode=mainnews&type=&date=2026-04-13&page=1"
-    },
-    {
-      "title": "분산투자 ETF의 반전 실체…\"현실은 60%가 삼전닉스\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005274205&office_id=015&mode=mainnews&type=&date=2026-04-13&page=1"
-    },
-    {
-      "title": "개미 '곱버스'vs외인 '레버리지' 승자는?…종전협상 '안갯속'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008886438&office_id=421&mode=mainnews&type=&date=2026-04-13&page=1"
     }
   ]
 }
