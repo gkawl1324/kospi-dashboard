@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-13 07:18:23",
+  "lastUpdated": "2026-04-13 08:30:39",
   "date": "2026.04.13",
   "kospi": {
     "name": "KOSPI",
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1488.80",
-      "change": "3.30",
-      "direction": "up"
+      "value": "1485.20",
+      "change": "0.30",
+      "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "932.10",
-      "change": "0.59",
+      "value": "930.31",
+      "change": "2.38",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1740.11",
-      "change": "2.38",
+      "value": "1736.42",
+      "change": "6.07",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "217.86",
-      "change": "0.18",
-      "direction": "up"
+      "value": "217.36",
+      "change": "0.32",
+      "direction": "down"
     }
   ],
   "oilPrices": [
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "226209.32",
-      "change": "1079.37",
+      "value": "226034.12",
+      "change": "1254.57",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "\"쌀 때 담자\"…개미들 1조 순매수에 코스피 5800선 사수",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006256433&office_id=018&mode=mainnews&type=&date=2026-04-13&page=1"
+      "title": "2차전지 ETF, 한 달간 수익률 11%대 쑥…ESS 바람 타고 반등 조짐",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005343546&office_id=008&mode=mainnews&type=&date=2026-04-13&page=1"
     },
     {
-      "title": "코스피, 5800선 턱걸이…중동 종전 협상 결렬에도 '버티기'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000490910&office_id=629&mode=mainnews&type=&date=2026-04-13&page=1"
+      "title": "미래·한투, 스페이스X 상장 앞두고 '미국 우주 ETF' 맞대결[체크!ETF]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001138794&office_id=417&mode=mainnews&type=&date=2026-04-13&page=1"
     },
     {
-      "title": "'이란 노딜'에 물러선 코스피…5808.62 마감",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005343446&office_id=008&mode=mainnews&type=&date=2026-04-13&page=1"
+      "title": "효성重, 역대 세번째 '300만 황제주' 등극…증권가 “400만원 간다”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006256493&office_id=018&mode=mainnews&type=&date=2026-04-13&page=1"
     },
     {
-      "title": "‘스페이스X 편입’ 과장광고 논란…금감원, 하나운용 현장점검",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006256420&office_id=018&mode=mainnews&type=&date=2026-04-13&page=1"
+      "title": "\"글로벌 제약사 특허절벽 시작…기술이전 바이오주 주목해야\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005343542&office_id=008&mode=mainnews&type=&date=2026-04-13&page=1"
     },
     {
-      "title": "[속보] 큰손 압박에도 5,800p 사수…협상 결렬 '희비'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001248826&office_id=215&mode=mainnews&type=&date=2026-04-13&page=1"
+      "title": "삼전닉스 12조 팔고 방산·에너지 샀다…외국인 '환승 쇼핑'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006256491&office_id=018&mode=mainnews&type=&date=2026-04-13&page=1"
     },
     {
-      "title": "실적시즌 앞두고 미리 담아볼까…계좌 불려줄 탄탄한 종목은",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005274236&office_id=015&mode=mainnews&type=&date=2026-04-13&page=1"
+      "title": "옅어지는 코스피 ‘주말 효과’…실적 장세 오나",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006256485&office_id=018&mode=mainnews&type=&date=2026-04-13&page=1"
     },
     {
-      "title": "‘1조 패키지 딜’의 유혹…애큐온에 베팅한 금융지주들[마켓인]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006256385&office_id=018&mode=mainnews&type=&date=2026-04-13&page=1"
+      "title": "'따따블 새내기주' 한 달새 급락…케이뱅크는 공모가 밑으로",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006256481&office_id=018&mode=mainnews&type=&date=2026-04-13&page=1"
     },
     {
-      "title": "호르무즈 봉쇄에도 시장 '절제'…\"공포의 정점은 지났다\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006256378&office_id=018&mode=mainnews&type=&date=2026-04-13&page=1"
+      "title": "중동 전쟁 협상 결렬, 여전한 변동성···방어주 한 번 볼까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005343523&office_id=008&mode=mainnews&type=&date=2026-04-13&page=1"
     }
   ]
 }
