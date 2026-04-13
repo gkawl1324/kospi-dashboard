@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-04-13 04:23:16",
+  "lastUpdated": "2026-04-13 06:29:36",
   "date": "2026.04.13",
   "kospi": {
     "name": "KOSPI",
-    "current": "5790.56",
-    "change": "68.31",
-    "changePct": "1.17",
+    "current": "5803.80",
+    "change": "55.07",
+    "changePct": "0.94",
     "direction": "up",
-    "volume": "824134",
-    "tradeAmount": "14712645"
+    "volume": "1055879",
+    "tradeAmount": "19357132"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "200750",
-      "change": "-5250",
-      "changePct": "-2.55",
+      "current": "201500",
+      "change": "-4500",
+      "changePct": "-2.18",
       "direction": "down",
-      "volume": "12427974",
+      "volume": "16776282",
       "high": "203000",
       "low": "198200",
       "open": "198200",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1031000",
-      "change": "4000",
-      "changePct": "0.39",
+      "current": "1037000",
+      "change": "10000",
+      "changePct": "0.97",
       "direction": "up",
-      "volume": "1892179",
+      "volume": "2453770",
       "high": "1043000",
       "low": "996000",
       "open": "999000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "91000",
-      "change": "-2000",
-      "changePct": "-2.15",
+      "current": "90900",
+      "change": "-2100",
+      "changePct": "-2.26",
       "direction": "down",
-      "volume": "136932",
+      "volume": "206858",
       "high": "92000",
       "low": "90500",
       "open": "91700",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "198700",
-      "change": "-3300",
-      "changePct": "-1.63",
+      "current": "198200",
+      "change": "-3800",
+      "changePct": "-1.88",
       "direction": "down",
-      "volume": "341125",
+      "volume": "461108",
       "high": "199500",
       "low": "196800",
       "open": "197700",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1487.50",
-      "change": "2.00",
+      "value": "1490.20",
+      "change": "4.70",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "931.35",
-      "change": "1.34",
-      "direction": "down"
+      "value": "933.27",
+      "change": "0.58",
+      "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1738.74",
-      "change": "3.75",
+      "value": "1741.89",
+      "change": "0.60",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "217.77",
-      "change": "0.09",
+      "value": "218.15",
+      "change": "0.47",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "225368.1",
-      "change": "1920.59",
+      "value": "226501.3",
+      "change": "787.39",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "스페이스X 나스닥 데뷔전…'국장 개미' 청약 열릴까",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013883840&office_id=003&mode=mainnews&type=&date=2026-04-13&page=1"
+      "title": "‘1조 패키지 딜’의 유혹…애큐온에 베팅한 금융지주들[마켓인]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006256385&office_id=018&mode=mainnews&type=&date=2026-04-13&page=1"
     },
     {
-      "title": "한은 \"코인 거래소에도 '서킷 브레이커' 도입 검토해야\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016017967&office_id=001&mode=mainnews&type=&date=2026-04-13&page=1"
+      "title": "호르무즈 봉쇄에도 시장 '절제'…\"공포의 정점은 지났다\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006256378&office_id=018&mode=mainnews&type=&date=2026-04-13&page=1"
     },
     {
-      "title": "안갯속 코스닥 '왕좌의 게임'…삼천당제약 이어 이차전지·바이오 3파전",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000490789&office_id=629&mode=mainnews&type=&date=2026-04-13&page=1"
+      "title": "반도체 중심으로 그룹 재편… 한솔테크닉스는 ‘부채 딜레마’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001156460&office_id=366&mode=mainnews&type=&date=2026-04-13&page=1"
     },
     {
-      "title": "삼성전자, TSMC 매출은 2배 시총은 절반",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002628787&office_id=016&mode=mainnews&type=&date=2026-04-13&page=1"
+      "title": "수요는 폭발, 공급은 멈춰…채비의 'J커브' 시작[전기차, 이제는 인프라다⑤]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005748723&office_id=277&mode=mainnews&type=&date=2026-04-13&page=1"
     },
     {
-      "title": "종전 기대 식었다...유가 뛰고 재건 멀어져, 뼈 아픈 항공·건설주",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005343305&office_id=008&mode=mainnews&type=&date=2026-04-13&page=1"
+      "title": "'롤러코스피'에도 국내 증권사 10곳 중 9곳 매도 리포트 '제로'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000082650&office_id=293&mode=mainnews&type=&date=2026-04-13&page=1"
     },
     {
-      "title": "\"40만전자 가나\"…주가 하락에도 삼전 '풀매수'한 초고수들 [마켓PRO]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005274142&office_id=015&mode=mainnews&type=&date=2026-04-13&page=1"
+      "title": "스페이스X에 ‘우주 ETF’ 열풍…미래에셋까지 가세",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003079976&office_id=119&mode=mainnews&type=&date=2026-04-13&page=1"
     },
     {
-      "title": "소액주주 ‘축출’ 논란…기로에 선 사모펀드 ‘포괄적 주식교환’ 전략",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002628737&office_id=016&mode=mainnews&type=&date=2026-04-13&page=1"
+      "title": "분산투자 ETF의 반전 실체…\"현실은 60%가 삼전닉스\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005274205&office_id=015&mode=mainnews&type=&date=2026-04-13&page=1"
     },
     {
-      "title": "“20만전자 깨졌을 때 사자”…초고수, 삼성전자 순매수 1위 [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004610074&office_id=011&mode=mainnews&type=&date=2026-04-13&page=1"
+      "title": "개미 '곱버스'vs외인 '레버리지' 승자는?…종전협상 '안갯속'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008886438&office_id=421&mode=mainnews&type=&date=2026-04-13&page=1"
     }
   ]
 }
