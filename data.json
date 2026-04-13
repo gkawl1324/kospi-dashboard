@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-04-13 03:57:07",
+  "lastUpdated": "2026-04-13 04:23:16",
   "date": "2026.04.13",
   "kospi": {
     "name": "KOSPI",
-    "current": "5788.97",
-    "change": "69.90",
-    "changePct": "1.19",
+    "current": "5790.56",
+    "change": "68.31",
+    "changePct": "1.17",
     "direction": "up",
-    "volume": "786679",
-    "tradeAmount": "13902602"
+    "volume": "824134",
+    "tradeAmount": "14712645"
   },
   "stocks": [
     {
@@ -19,7 +19,7 @@
       "change": "-5250",
       "changePct": "-2.55",
       "direction": "down",
-      "volume": "11608728",
+      "volume": "12427974",
       "high": "203000",
       "low": "198200",
       "open": "198200",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1030500",
-      "change": "3500",
-      "changePct": "0.34",
+      "current": "1031000",
+      "change": "4000",
+      "changePct": "0.39",
       "direction": "up",
-      "volume": "1821410",
+      "volume": "1892179",
       "high": "1043000",
       "low": "996000",
       "open": "999000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "90900",
-      "change": "-2100",
-      "changePct": "-2.26",
+      "current": "91000",
+      "change": "-2000",
+      "changePct": "-2.15",
       "direction": "down",
-      "volume": "131010",
+      "volume": "136932",
       "high": "92000",
       "low": "90500",
       "open": "91700",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "199000",
-      "change": "-3000",
-      "changePct": "-1.49",
+      "current": "198700",
+      "change": "-3300",
+      "changePct": "-1.63",
       "direction": "down",
-      "volume": "321408",
+      "volume": "341125",
       "high": "199500",
       "low": "196800",
       "open": "197700",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1488.30",
-      "change": "2.80",
+      "value": "1487.50",
+      "change": "2.00",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "931.85",
-      "change": "0.84",
+      "value": "931.35",
+      "change": "1.34",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1739.53",
-      "change": "2.96",
+      "value": "1738.74",
+      "change": "3.75",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "217.87",
-      "change": "0.19",
+      "value": "217.77",
+      "change": "0.09",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "225834.3",
-      "change": "1454.39",
+      "value": "225368.1",
+      "change": "1920.59",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -141,6 +141,10 @@
     }
   ],
   "news": [
+    {
+      "title": "스페이스X 나스닥 데뷔전…'국장 개미' 청약 열릴까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013883840&office_id=003&mode=mainnews&type=&date=2026-04-13&page=1"
+    },
     {
       "title": "한은 \"코인 거래소에도 '서킷 브레이커' 도입 검토해야\"",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0016017967&office_id=001&mode=mainnews&type=&date=2026-04-13&page=1"
@@ -168,10 +172,6 @@
     {
       "title": "“20만전자 깨졌을 때 사자”…초고수, 삼성전자 순매수 1위 [주식 초고수는 지금]",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0004610074&office_id=011&mode=mainnews&type=&date=2026-04-13&page=1"
-    },
-    {
-      "title": "SK텔레콤, KT 가입자 흡수로 실적 개선 기대… HD현대일렉트릭, 목표가 122만원 상향 \"놓치기 아까운 주식\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005506621&office_id=014&mode=mainnews&type=&date=2026-04-13&page=1"
     }
   ]
 }
