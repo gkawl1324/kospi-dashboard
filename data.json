@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-14 06:55:10",
+  "lastUpdated": "2026-04-14 08:10:14",
   "date": "2026.04.14",
   "kospi": {
     "name": "KOSPI",
@@ -19,7 +19,7 @@
       "change": "5500",
       "changePct": "2.74",
       "direction": "up",
-      "volume": "22682894",
+      "volume": "22682923",
       "high": "210000",
       "low": "205500",
       "open": "208000",
@@ -33,7 +33,7 @@
       "change": "63000",
       "changePct": "6.06",
       "direction": "up",
-      "volume": "4710296",
+      "volume": "4710738",
       "high": "1128000",
       "low": "1078000",
       "open": "1092000",
@@ -61,7 +61,7 @@
       "change": "2500",
       "changePct": "1.26",
       "direction": "up",
-      "volume": "623469",
+      "volume": "623470",
       "high": "206500",
       "low": "201000",
       "open": "203500",
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1479.70",
-      "change": "0.80",
+      "value": "1478.00",
+      "change": "2.50",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "929.55",
-      "change": "0.73",
+      "value": "929.24",
+      "change": "0.42",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1741.98",
-      "change": "0.91",
-      "direction": "up"
+      "value": "1740.79",
+      "change": "0.28",
+      "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "217.19",
-      "change": "0.03",
-      "direction": "up"
+      "value": "216.90",
+      "change": "0.26",
+      "direction": "down"
     }
   ],
   "oilPrices": [
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "227086.31",
-      "change": "1240.81",
+      "value": "226828.6",
+      "change": "983.10",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "전쟁 공포 잦아들자… ‘육천피’ 다시 눈앞[마켓뷰]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001156771&office_id=366&mode=mainnews&type=&date=2026-04-14&page=1"
+      "title": "주식 거래시간 확대에 ETF '비상'…괴리율 관리 어쩌나",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006257208&office_id=018&mode=mainnews&type=&date=2026-04-14&page=1"
     },
     {
-      "title": "외인 2.7조 순매수에 '육천피' 턱밑까지…'110만닉스' 달성",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005274805&office_id=015&mode=mainnews&type=&date=2026-04-14&page=1"
+      "title": "박현주 회장 \"머스크, 스페이스X 지분 43%인데 의결권 70%...우린 왜?\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000046250&office_id=648&mode=mainnews&type=&date=2026-04-14&page=1"
     },
     {
-      "title": "스페이스X 상장 임박…서학개미·운용사 ‘우주 베팅’ 확산, ETF 경쟁 본격화",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000096322&office_id=243&mode=mainnews&type=&date=2026-04-14&page=1"
+      "title": "\"16일 종전 재협상 가능성\"… 전쟁에 억눌린 코스피, 상승세 탈까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005344101&office_id=008&mode=mainnews&type=&date=2026-04-14&page=1"
     },
     {
-      "title": "총성 잦아들자 가상자산 뜬다… 호르무즈 '코인 통행료' 기대에 들썩",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000925363&office_id=469&mode=mainnews&type=&date=2026-04-14&page=1"
+      "title": "SK하닉 '신고가' 썼는데…'상위 1%' 초고수들 팔아치운 이유 [마켓PRO]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005274843&office_id=015&mode=mainnews&type=&date=2026-04-14&page=1"
     },
     {
-      "title": "6000피 복귀했는데 화장품株는 ‘울상’…“밸류에이션 매력은 여전히 부각” [이런국장 저런주식]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004610574&office_id=011&mode=mainnews&type=&date=2026-04-14&page=1"
+      "title": "채비, '전기차 급증·충전 인프라 부족'은 기회…흑자전환 자신감",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001138976&office_id=417&mode=mainnews&type=&date=2026-04-14&page=1"
     },
     {
-      "title": "110만원 돌파한 SK하이닉스, 증권가 목표가도 줄상향",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000491276&office_id=629&mode=mainnews&type=&date=2026-04-14&page=1"
+      "title": "코스피 6000 터치, 종전협상 기대에 증권가 \"7500 가시권\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000046248&office_id=648&mode=mainnews&type=&date=2026-04-14&page=1"
     },
     {
-      "title": "주주는 무배당 견디는데...\"3000만원 격려금·성과급 달라\"는 삼바 노조",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005344001&office_id=008&mode=mainnews&type=&date=2026-04-14&page=1"
+      "title": "미래에셋운용 '우주테크 ETF', 상장 1시간 만에 300억 '완판'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008889373&office_id=421&mode=mainnews&type=&date=2026-04-14&page=1"
     },
     {
-      "title": "명품도 이란 전쟁 직격탄…LVMH 매출 제자리걸음",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006257103&office_id=018&mode=mainnews&type=&date=2026-04-14&page=1"
+      "title": "‘중동 협상’ 기대에 코스피 2.74% 급등…SK하이닉스 장중 112만원 돌파",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002224462&office_id=138&mode=mainnews&type=&date=2026-04-14&page=1"
     }
   ]
 }
