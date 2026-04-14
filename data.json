@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-04-14 03:47:50",
+  "lastUpdated": "2026-04-14 04:12:15",
   "date": "2026.04.14",
   "kospi": {
     "name": "KOSPI",
-    "current": "6001.84",
-    "change": "193.22",
-    "changePct": "3.33",
+    "current": "6015.50",
+    "change": "206.88",
+    "changePct": "3.56",
     "direction": "up",
-    "volume": "695252",
-    "tradeAmount": "18475342"
+    "volume": "721445",
+    "tradeAmount": "19397205"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "209000",
-      "change": "8000",
-      "changePct": "3.98",
+      "current": "209250",
+      "change": "8250",
+      "changePct": "4.10",
       "direction": "up",
-      "volume": "14885184",
+      "volume": "15857612",
       "high": "210000",
       "low": "205500",
       "open": "208000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1116000",
-      "change": "76000",
-      "changePct": "7.31",
+      "current": "1122000",
+      "change": "82000",
+      "changePct": "7.88",
       "direction": "up",
-      "volume": "3208676",
+      "volume": "3362912",
       "high": "1128000",
       "low": "1078000",
       "open": "1092000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "91800",
-      "change": "800",
-      "changePct": "0.88",
+      "current": "92000",
+      "change": "1000",
+      "changePct": "1.10",
       "direction": "up",
-      "volume": "172015",
+      "volume": "183271",
       "high": "92500",
       "low": "91500",
       "open": "91900",
@@ -61,7 +61,7 @@
       "change": "4000",
       "changePct": "2.01",
       "direction": "up",
-      "volume": "345932",
+      "volume": "390655",
       "high": "206500",
       "low": "202000",
       "open": "203500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1483.10",
-      "change": "2.60",
+      "value": "1482.10",
+      "change": "1.60",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "932.06",
-      "change": "3.24",
+      "value": "931.46",
+      "change": "2.64",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1744.72",
-      "change": "3.65",
+      "value": "1743.84",
+      "change": "2.77",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "217.59",
-      "change": "0.43",
+      "value": "217.52",
+      "change": "0.36",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "227382.07",
-      "change": "1536.57",
+      "value": "227283.58",
+      "change": "1438.08",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -141,6 +141,14 @@
     }
   ],
   "news": [
+    {
+      "title": "차보험료, 인상 두 달 만에 다시 깎나…손보株 '정책 할인' 우려",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000491200&office_id=629&mode=mainnews&type=&date=2026-04-14&page=1"
+    },
+    {
+      "title": "“엔비디아 팔고 여기로 다 갔다”…서학개미들 제일 많이 산 국내 주식은 바로",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004610517&office_id=011&mode=mainnews&type=&date=2026-04-14&page=1"
+    },
     {
       "title": "스테이블코인 패권 경쟁 한창인데…한국, 중국식 CBDC 전략 '엇박자'",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000491185&office_id=629&mode=mainnews&type=&date=2026-04-14&page=1"
@@ -164,14 +172,6 @@
     {
       "title": "수십조 재건 ‘큰장’선다…건설주 수혜 기대",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002629340&office_id=016&mode=mainnews&type=&date=2026-04-14&page=1"
-    },
-    {
-      "title": "서학개미 ‘스페이스X 테마주’ 로켓랩·ASTS에 1000억 베팅",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002629339&office_id=016&mode=mainnews&type=&date=2026-04-14&page=1"
-    },
-    {
-      "title": "오락가락 이란전쟁…이번엔 협상기대감에 비트코인 7만4천달러선 회복 [매일코인]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005665602&office_id=009&mode=mainnews&type=&date=2026-04-14&page=1"
     }
   ]
 }
