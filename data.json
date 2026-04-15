@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-04-15 03:46:28",
+  "lastUpdated": "2026-04-15 04:11:14",
   "date": "2026.04.15",
   "kospi": {
     "name": "KOSPI",
-    "current": "6138.44",
-    "change": "170.69",
-    "changePct": "2.86",
+    "current": "6145.17",
+    "change": "177.42",
+    "changePct": "2.97",
     "direction": "up",
-    "volume": "655248",
-    "tradeAmount": "20353705"
+    "volume": "681783",
+    "tradeAmount": "21274356"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "214250",
-      "change": "7750",
-      "changePct": "3.75",
+      "current": "214500",
+      "change": "8000",
+      "changePct": "3.87",
       "direction": "up",
-      "volume": "13229625",
+      "volume": "13861942",
       "high": "215500",
       "low": "213000",
       "open": "215000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1159000",
-      "change": "56000",
-      "changePct": "5.08",
+      "current": "1161000",
+      "change": "58000",
+      "changePct": "5.26",
       "direction": "up",
-      "volume": "2414733",
+      "volume": "2495031",
       "high": "1173000",
       "low": "1151000",
       "open": "1165000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "92800",
-      "change": "1400",
-      "changePct": "1.53",
+      "current": "92900",
+      "change": "1500",
+      "changePct": "1.64",
       "direction": "up",
-      "volume": "147081",
+      "volume": "153025",
       "high": "94000",
       "low": "92500",
       "open": "92600",
@@ -61,7 +61,7 @@
       "change": "9500",
       "changePct": "4.71",
       "direction": "up",
-      "volume": "666564",
+      "volume": "697900",
       "high": "214500",
       "low": "205000",
       "open": "206000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1472.90",
-      "change": "0.60",
+      "value": "1472.40",
+      "change": "1.10",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "926.47",
-      "change": "1.28",
+      "value": "926.13",
+      "change": "1.62",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1736.03",
-      "change": "1.89",
+      "value": "1735.67",
+      "change": "2.25",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "216.12",
-      "change": "0.23",
+      "value": "216.06",
+      "change": "0.29",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "228660.47",
-      "change": "472.46",
+      "value": "228249.25",
+      "change": "61.24",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -141,6 +141,10 @@
     }
   ],
   "news": [
+    {
+      "title": "‘코스닥 성장주’ 쓸어담은 초고수...알테오젠·파두 나란히 순매수 1·2위[주식 초고수는 지금]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004610967&office_id=011&mode=mainnews&type=&date=2026-04-15&page=1"
+    },
     {
       "title": "외인, 3달 만에 코스피 '사자' 전환…6000 너머 '랠리 2막' 열까",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000491599&office_id=629&mode=mainnews&type=&date=2026-04-15&page=1"
@@ -168,10 +172,6 @@
     {
       "title": "엔비디아·AMD, 10일 연속 상승…AI 투자심리 되살아나나",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0006257680&office_id=018&mode=mainnews&type=&date=2026-04-15&page=1"
-    },
-    {
-      "title": "돌아온 外人, 이달만 ‘삼전닉스’ 5조 담았다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002630013&office_id=016&mode=mainnews&type=&date=2026-04-15&page=1"
     }
   ]
 }
