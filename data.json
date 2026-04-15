@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-04-15 06:16:00",
+  "lastUpdated": "2026-04-15 06:56:38",
   "date": "2026.04.15",
   "kospi": {
     "name": "KOSPI",
-    "current": "6095.56",
-    "change": "127.81",
-    "changePct": "2.14",
+    "current": "6091.39",
+    "change": "123.64",
+    "changePct": "2.07",
     "direction": "up",
-    "volume": "890836",
-    "tradeAmount": "29458700"
+    "volume": "915032",
+    "tradeAmount": "31365047"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "211750",
-      "change": "5250",
-      "changePct": "2.54",
+      "current": "211000",
+      "change": "4500",
+      "changePct": "2.18",
       "direction": "up",
-      "volume": "21515717",
+      "volume": "23966128",
       "high": "215500",
       "low": "210000",
       "open": "215000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1138000",
-      "change": "35000",
-      "changePct": "3.17",
+      "current": "1136000",
+      "change": "33000",
+      "changePct": "2.99",
       "direction": "up",
-      "volume": "3636310",
+      "volume": "4043045",
       "high": "1173000",
       "low": "1130000",
       "open": "1165000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "93500",
-      "change": "2100",
-      "changePct": "2.30",
+      "current": "93300",
+      "change": "1900",
+      "changePct": "2.08",
       "direction": "up",
-      "volume": "228386",
+      "volume": "248598",
       "high": "94000",
       "low": "92500",
       "open": "92600",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "211500",
-      "change": "10000",
-      "changePct": "4.96",
+      "current": "211000",
+      "change": "9500",
+      "changePct": "4.71",
       "direction": "up",
-      "volume": "932672",
+      "volume": "992297",
       "high": "214500",
       "low": "205000",
       "open": "206000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1474.80",
-      "change": "1.30",
+      "value": "1475.10",
+      "change": "1.60",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "927.98",
-      "change": "0.23",
+      "value": "927.77",
+      "change": "0.02",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1739.31",
-      "change": "1.39",
+      "value": "1738.48",
+      "change": "0.56",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "216.41",
-      "change": "0.06",
+      "value": "216.42",
+      "change": "0.07",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "228418.72",
-      "change": "230.71",
+      "value": "228280.74",
+      "change": "92.73",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,8 +142,20 @@
   ],
   "news": [
     {
+      "title": "\"주가 반토막 났는데\"…삼천당제약 회장, 한국 부자 10위 등극",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005275277&office_id=015&mode=mainnews&type=&date=2026-04-15&page=1"
+    },
+    {
+      "title": "‘0.01% 보수’ 시대 저무나… ETF 시장, 비가격 경쟁 ‘2라운드’ 개막",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003021837&office_id=029&mode=mainnews&type=&date=2026-04-15&page=1"
+    },
+    {
       "title": "외국인 ‘사자’ vs 공매도 ‘역대 최대’…엇갈린 신호에 코스피 ‘긴장’",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0001157108&office_id=366&mode=mainnews&type=&date=2026-04-15&page=1"
+    },
+    {
+      "title": "4월 들어 외화증권 결제 순매도세···서학개미가 드디어?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005344612&office_id=008&mode=mainnews&type=&date=2026-04-15&page=1"
     },
     {
       "title": "'마진율 1%'…건설주, 이란 재건 기대 '과도' [마켓딥다이브]",
@@ -160,18 +172,6 @@
     {
       "title": "적자 늪 빠진 고팍스·코빗…코인거래소 양극화 굳어지나",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0013889217&office_id=003&mode=mainnews&type=&date=2026-04-15&page=1"
-    },
-    {
-      "title": "\"삼천당제약 회장, 한국 10대 부자\"…미래에셋 박현주·카카오 김범수 제쳐",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000855323&office_id=422&mode=mainnews&type=&date=2026-04-15&page=1"
-    },
-    {
-      "title": "전쟁 분쟁 국면 지나나...로봇株 부활 언제쯤?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005508082&office_id=014&mode=mainnews&type=&date=2026-04-15&page=1"
-    },
-    {
-      "title": "1년 만에 무려 26배 뛰었다…초고수들 쓸어담은 종목 [마켓PRO]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005275226&office_id=015&mode=mainnews&type=&date=2026-04-15&page=1"
     }
   ]
 }
