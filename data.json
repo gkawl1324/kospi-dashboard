@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-04-15 04:11:14",
+  "lastUpdated": "2026-04-15 06:16:00",
   "date": "2026.04.15",
   "kospi": {
     "name": "KOSPI",
-    "current": "6145.17",
-    "change": "177.42",
-    "changePct": "2.97",
+    "current": "6095.56",
+    "change": "127.81",
+    "changePct": "2.14",
     "direction": "up",
-    "volume": "681783",
-    "tradeAmount": "21274356"
+    "volume": "890836",
+    "tradeAmount": "29458700"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "214500",
-      "change": "8000",
-      "changePct": "3.87",
+      "current": "211750",
+      "change": "5250",
+      "changePct": "2.54",
       "direction": "up",
-      "volume": "13861942",
+      "volume": "21515717",
       "high": "215500",
-      "low": "213000",
+      "low": "210000",
       "open": "215000",
       "marketCap": "0"
     },
@@ -29,13 +29,13 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1161000",
-      "change": "58000",
-      "changePct": "5.26",
+      "current": "1138000",
+      "change": "35000",
+      "changePct": "3.17",
       "direction": "up",
-      "volume": "2495031",
+      "volume": "3636310",
       "high": "1173000",
-      "low": "1151000",
+      "low": "1130000",
       "open": "1165000",
       "marketCap": "0"
     },
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "92900",
-      "change": "1500",
-      "changePct": "1.64",
+      "current": "93500",
+      "change": "2100",
+      "changePct": "2.30",
       "direction": "up",
-      "volume": "153025",
+      "volume": "228386",
       "high": "94000",
       "low": "92500",
       "open": "92600",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "211000",
-      "change": "9500",
-      "changePct": "4.71",
+      "current": "211500",
+      "change": "10000",
+      "changePct": "4.96",
       "direction": "up",
-      "volume": "697900",
+      "volume": "932672",
       "high": "214500",
       "low": "205000",
       "open": "206000",
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1472.40",
-      "change": "1.10",
-      "direction": "down"
+      "value": "1474.80",
+      "change": "1.30",
+      "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "926.13",
-      "change": "1.62",
-      "direction": "down"
+      "value": "927.98",
+      "change": "0.23",
+      "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1735.67",
-      "change": "2.25",
-      "direction": "down"
+      "value": "1739.31",
+      "change": "1.39",
+      "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "216.06",
-      "change": "0.29",
-      "direction": "down"
+      "value": "216.41",
+      "change": "0.06",
+      "direction": "up"
     }
   ],
   "oilPrices": [
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "228249.25",
-      "change": "61.24",
+      "value": "228418.72",
+      "change": "230.71",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "‘코스닥 성장주’ 쓸어담은 초고수...알테오젠·파두 나란히 순매수 1·2위[주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004610967&office_id=011&mode=mainnews&type=&date=2026-04-15&page=1"
+      "title": "외국인 ‘사자’ vs 공매도 ‘역대 최대’…엇갈린 신호에 코스피 ‘긴장’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001157108&office_id=366&mode=mainnews&type=&date=2026-04-15&page=1"
     },
     {
-      "title": "외인, 3달 만에 코스피 '사자' 전환…6000 너머 '랠리 2막' 열까",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000491599&office_id=629&mode=mainnews&type=&date=2026-04-15&page=1"
+      "title": "'마진율 1%'…건설주, 이란 재건 기대 '과도' [마켓딥다이브]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001249100&office_id=215&mode=mainnews&type=&date=2026-04-15&page=1"
     },
     {
-      "title": "‘백기사’ 아닌 ‘전당포’…메리츠, 고려아연 딜의 영리한 셈법[마켓인]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006257712&office_id=018&mode=mainnews&type=&date=2026-04-15&page=1"
+      "title": "“한 달 만에 600% 폭주” 엔비디아가 콕 찍은 ‘광통신’…또 개미 잡을까 우려도",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004610999&office_id=011&mode=mainnews&type=&date=2026-04-15&page=1"
     },
     {
-      "title": "한국 증권사의 '호의' 걷어차는 개미들[취재수첩]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005275198&office_id=015&mode=mainnews&type=&date=2026-04-15&page=1"
+      "title": "메리츠, 고려아연 지분 더 담나…한화 변수에 경영권 셈법 꼬였다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002224567&office_id=138&mode=mainnews&type=&date=2026-04-15&page=1"
     },
     {
-      "title": "190만닉스 넘어 200만닉스까지…깜짝 전망의 이유",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001249076&office_id=215&mode=mainnews&type=&date=2026-04-15&page=1"
+      "title": "적자 늪 빠진 고팍스·코빗…코인거래소 양극화 굳어지나",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013889217&office_id=003&mode=mainnews&type=&date=2026-04-15&page=1"
     },
     {
-      "title": "신흥 부자 반열 오른 '서울 사는 51세 부장님'…60억 자산, 이렇게 모았다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000925534&office_id=469&mode=mainnews&type=&date=2026-04-15&page=1"
+      "title": "\"삼천당제약 회장, 한국 10대 부자\"…미래에셋 박현주·카카오 김범수 제쳐",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000855323&office_id=422&mode=mainnews&type=&date=2026-04-15&page=1"
     },
     {
-      "title": "상법 개정에 ‘포괄적 주식교환’ 법적 다툼 늘어난다 [줌-인 딜리전시]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002630029&office_id=016&mode=mainnews&type=&date=2026-04-15&page=1"
+      "title": "전쟁 분쟁 국면 지나나...로봇株 부활 언제쯤?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005508082&office_id=014&mode=mainnews&type=&date=2026-04-15&page=1"
     },
     {
-      "title": "엔비디아·AMD, 10일 연속 상승…AI 투자심리 되살아나나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006257680&office_id=018&mode=mainnews&type=&date=2026-04-15&page=1"
+      "title": "1년 만에 무려 26배 뛰었다…초고수들 쓸어담은 종목 [마켓PRO]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005275226&office_id=015&mode=mainnews&type=&date=2026-04-15&page=1"
     }
   ]
 }
