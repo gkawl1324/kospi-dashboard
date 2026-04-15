@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-15 06:56:38",
+  "lastUpdated": "2026-04-15 08:11:51",
   "date": "2026.04.15",
   "kospi": {
     "name": "KOSPI",
@@ -19,7 +19,7 @@
       "change": "4500",
       "changePct": "2.18",
       "direction": "up",
-      "volume": "23966128",
+      "volume": "23966133",
       "high": "215500",
       "low": "210000",
       "open": "215000",
@@ -33,7 +33,7 @@
       "change": "33000",
       "changePct": "2.99",
       "direction": "up",
-      "volume": "4043045",
+      "volume": "4043703",
       "high": "1173000",
       "low": "1130000",
       "open": "1165000",
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1475.10",
-      "change": "1.60",
+      "value": "1474.60",
+      "change": "1.10",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "927.77",
-      "change": "0.02",
+      "value": "928.36",
+      "change": "0.61",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1738.48",
-      "change": "0.56",
+      "value": "1738.41",
+      "change": "0.49",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "216.42",
-      "change": "0.07",
-      "direction": "up"
+      "value": "216.34",
+      "change": "0.01",
+      "direction": "down"
     }
   ],
   "oilPrices": [
@@ -118,9 +118,9 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "228280.74",
-      "change": "92.73",
-      "direction": "up",
+      "value": "228184.33",
+      "change": "3.68",
+      "direction": "down",
       "unit": "USD/oz"
     },
     {
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "\"주가 반토막 났는데\"…삼천당제약 회장, 한국 부자 10위 등극",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005275277&office_id=015&mode=mainnews&type=&date=2026-04-15&page=1"
+      "title": "종전 기대감에 기지개 켠 반도체주… 배당 매력도 따져볼까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000925643&office_id=469&mode=mainnews&type=&date=2026-04-15&page=1"
     },
     {
-      "title": "‘0.01% 보수’ 시대 저무나… ETF 시장, 비가격 경쟁 ‘2라운드’ 개막",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003021837&office_id=029&mode=mainnews&type=&date=2026-04-15&page=1"
+      "title": "올해만 646% 뛴 대우건설…이란 '재건 기대' 21% 또 급등[핫종목](종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008892006&office_id=421&mode=mainnews&type=&date=2026-04-15&page=1"
     },
     {
-      "title": "외국인 ‘사자’ vs 공매도 ‘역대 최대’…엇갈린 신호에 코스피 ‘긴장’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001157108&office_id=366&mode=mainnews&type=&date=2026-04-15&page=1"
+      "title": "코스피, 전쟁 이후 첫 '6000피'…반도체 주도장 이어질까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006257983&office_id=018&mode=mainnews&type=&date=2026-04-15&page=1"
     },
     {
-      "title": "4월 들어 외화증권 결제 순매도세···서학개미가 드디어?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005344612&office_id=008&mode=mainnews&type=&date=2026-04-15&page=1"
+      "title": "ETF 시장 400조원 눈앞…반등장에 자금 몰렸다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006257981&office_id=018&mode=mainnews&type=&date=2026-04-15&page=1"
     },
     {
-      "title": "'마진율 1%'…건설주, 이란 재건 기대 '과도' [마켓딥다이브]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001249100&office_id=215&mode=mainnews&type=&date=2026-04-15&page=1"
+      "title": "‘113만 닉스’ ‘21만전자’ 안착…코스피 장중 6100선 회복",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003712636&office_id=020&mode=mainnews&type=&date=2026-04-15&page=1"
     },
     {
-      "title": "“한 달 만에 600% 폭주” 엔비디아가 콕 찍은 ‘광통신’…또 개미 잡을까 우려도",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004610999&office_id=011&mode=mainnews&type=&date=2026-04-15&page=1"
+      "title": "우리 집은 '찐부자'일까?…상위 1% 들려면 ○○억 있어야",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005750038&office_id=277&mode=mainnews&type=&date=2026-04-15&page=1"
     },
     {
-      "title": "메리츠, 고려아연 지분 더 담나…한화 변수에 경영권 셈법 꼬였다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002224567&office_id=138&mode=mainnews&type=&date=2026-04-15&page=1"
+      "title": "\"돈 벌었다, 빼자\" 개미 팔고 나가도 '육천피' 복귀...종전 기대감에 '껑충'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005344723&office_id=008&mode=mainnews&type=&date=2026-04-15&page=1"
     },
     {
-      "title": "적자 늪 빠진 고팍스·코빗…코인거래소 양극화 굳어지나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013889217&office_id=003&mode=mainnews&type=&date=2026-04-15&page=1"
+      "title": "[단독] 거래소, 삼천당제약 불성실공시 ‘중대’ 판단…공시위 회부 결정",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005666438&office_id=009&mode=mainnews&type=&date=2026-04-15&page=1"
     }
   ]
 }
