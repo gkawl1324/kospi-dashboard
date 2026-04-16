@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-16 06:58:47",
+  "lastUpdated": "2026-04-16 08:11:38",
   "date": "2026.04.16",
   "kospi": {
     "name": "KOSPI",
@@ -19,7 +19,7 @@
       "change": "6500",
       "changePct": "3.08",
       "direction": "up",
-      "volume": "21339257",
+      "volume": "21339292",
       "high": "218000",
       "low": "210500",
       "open": "212000",
@@ -33,7 +33,7 @@
       "change": "19000",
       "changePct": "1.67",
       "direction": "up",
-      "volume": "2627653",
+      "volume": "2627654",
       "high": "1161000",
       "low": "1130000",
       "open": "1141000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1472.70",
-      "change": "3.80",
+      "value": "1474.40",
+      "change": "2.10",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "927.45",
-      "change": "1.31",
+      "value": "927.79",
+      "change": "0.97",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1738.52",
-      "change": "3.53",
+      "value": "1738.24",
+      "change": "3.81",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "216.08",
-      "change": "0.48",
+      "value": "216.29",
+      "change": "0.27",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "228517.38",
-      "change": "614.07",
+      "value": "228051.27",
+      "change": "147.96",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "“60조 빚투 온다”…코스피 반등에 다시 불붙은 ‘신용 레버리지’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000096465&office_id=243&mode=mainnews&type=&date=2026-04-16&page=1"
+      "title": "'반도체 호황, 연금 투자 쌍끌이…' ETF 400조 시대",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005345332&office_id=008&mode=mainnews&type=&date=2026-04-16&page=1"
     },
     {
-      "title": "코스피 6000에도 PER은 역대급 저점...\"코로나 때보다 싸다\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005508892&office_id=014&mode=mainnews&type=&date=2026-04-16&page=1"
+      "title": "ETF 시장 400조 시대 개막…지수 베팅 쏠림·대형사 편중은 과제",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006258726&office_id=018&mode=mainnews&type=&date=2026-04-16&page=1"
     },
     {
-      "title": "'육천피' 회복했지만 하락베팅…'공매도 실탄' 최대치 쌓였다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005508888&office_id=014&mode=mainnews&type=&date=2026-04-16&page=1"
+      "title": "이제 121포인트 남았다…코스피, 반도체 업고 더 간다?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003022117&office_id=029&mode=mainnews&type=&date=2026-04-16&page=1"
     },
     {
-      "title": "중동 전쟁 공포 걷히자… 다시 '금리' 향하는 시장의 눈",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005345254&office_id=008&mode=mainnews&type=&date=2026-04-16&page=1"
+      "title": "눈 뜨면 바뀌는 코스닥 시총…공시는 깜깜이, 리포트는 실종, 피해는 개미 몫",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003516726&office_id=025&mode=mainnews&type=&date=2026-04-16&page=1"
     },
     {
-      "title": "\"BTS 보러 왔어요\" 속속 한국 오더니…신고가 뚫었다 [종목+]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005275856&office_id=015&mode=mainnews&type=&date=2026-04-16&page=1"
+      "title": "“주주권 강화가 곧 수익률 제고 아닌데”… 국민연금의 딜레마",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001157505&office_id=366&mode=mainnews&type=&date=2026-04-16&page=1"
     },
     {
-      "title": "안전자산 아닌 위험자산이었나…국제 금·은값, 저점서 일제히 두자릿수 회복",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005666968&office_id=009&mode=mainnews&type=&date=2026-04-16&page=1"
+      "title": "“신흥국 주식 사세요, 한국 증시 더 갈거니까”…세계 최대 운용사가 ‘사자’ 외친 이유",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005667047&office_id=009&mode=mainnews&type=&date=2026-04-16&page=1"
     },
     {
-      "title": "중복상장, 모회사 일반주주 동의 얻어야 허용…M&A·IPO시장 위축 우려도(종합)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006258625&office_id=018&mode=mainnews&type=&date=2026-04-16&page=1"
+      "title": "'한국판 코첼라'에 엔터4사 합심…주가도 손잡고 ↑",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005345298&office_id=008&mode=mainnews&type=&date=2026-04-16&page=1"
     },
     {
-      "title": "\"엔비디아 팔았어요\"…고수들 美 증시서 쓸어담은 종목 [마켓PRO]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005275825&office_id=015&mode=mainnews&type=&date=2026-04-16&page=1"
+      "title": "반도체 '투톱' 강세 마감…外人 삼전 사고 SK하닉 팔았다[핫스탁](종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013892430&office_id=003&mode=mainnews&type=&date=2026-04-16&page=1"
     }
   ]
 }
