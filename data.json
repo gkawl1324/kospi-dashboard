@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-04-17 06:18:20",
+  "lastUpdated": "2026-04-17 06:59:37",
   "date": "2026.04.17",
   "kospi": {
     "name": "KOSPI",
-    "current": "6203.83",
-    "change": "22.22",
-    "changePct": "0.36",
+    "current": "6191.92",
+    "change": "34.13",
+    "changePct": "0.55",
     "direction": "up",
-    "volume": "660503",
-    "tradeAmount": "21378091"
+    "volume": "680214",
+    "tradeAmount": "22830685"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "216750",
-      "change": "-750",
-      "changePct": "-0.34",
+      "current": "216000",
+      "change": "-1500",
+      "changePct": "-0.69",
       "direction": "down",
-      "volume": "14231634",
+      "volume": "15537866",
       "high": "218000",
       "low": "215000",
       "open": "217000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1134000",
-      "change": "-21000",
-      "changePct": "-1.82",
+      "current": "1128000",
+      "change": "-27000",
+      "changePct": "-2.34",
       "direction": "down",
-      "volume": "2472356",
+      "volume": "2713364",
       "high": "1155000",
       "low": "1121000",
       "open": "1149000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "94500",
-      "change": "700",
-      "changePct": "0.75",
+      "current": "94800",
+      "change": "1000",
+      "changePct": "1.07",
       "direction": "up",
-      "volume": "174376",
+      "volume": "209232",
       "high": "95000",
       "low": "93700",
       "open": "94800",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "216000",
-      "change": "-2500",
-      "changePct": "-1.14",
+      "current": "216500",
+      "change": "-2000",
+      "changePct": "-0.92",
       "direction": "down",
-      "volume": "590303",
+      "volume": "636792",
       "high": "219000",
       "low": "214500",
       "open": "218500",
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1480.60",
-      "change": "0.20",
-      "direction": "down"
+      "value": "1485.30",
+      "change": "4.50",
+      "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "928.42",
-      "change": "1.88",
-      "direction": "down"
+      "value": "931.72",
+      "change": "1.42",
+      "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1743.85",
-      "change": "0.90",
-      "direction": "down"
+      "value": "1749.09",
+      "change": "4.34",
+      "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "216.97",
-      "change": "0.07",
-      "direction": "down"
+      "value": "217.60",
+      "change": "0.56",
+      "direction": "up"
     }
   ],
   "oilPrices": [
@@ -118,9 +118,9 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "227878.98",
-      "change": "279.28",
-      "direction": "down",
+      "value": "228409.84",
+      "change": "251.58",
+      "direction": "up",
       "unit": "USD/oz"
     },
     {
@@ -141,6 +141,10 @@
     }
   ],
   "news": [
+    {
+      "title": "조선·엔진주 뜨겁네…18% 급등 한화엔진, 신고가 경신 [매경 자이앤트]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005667569&office_id=009&mode=mainnews&type=&date=2026-04-17&page=1"
+    },
     {
       "title": "외국인의 '귀환'…\"코스피 7,500 간다\" [마켓딥다이브]",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0001249376&office_id=215&mode=mainnews&type=&date=2026-04-17&page=1"
@@ -168,10 +172,6 @@
     {
       "title": "“불장 대박이야” 개미들, ‘빚투’로 23조 쓸어갔다...코스피 담은 종목은",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0004611785&office_id=011&mode=mainnews&type=&date=2026-04-17&page=1"
-    },
-    {
-      "title": "피지컬AI 모멘텀에 '들썩'…현대차그룹株, 주가 탄력받나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000492357&office_id=629&mode=mainnews&type=&date=2026-04-17&page=1"
     }
   ]
 }
