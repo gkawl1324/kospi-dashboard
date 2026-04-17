@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-17 06:59:37",
+  "lastUpdated": "2026-04-17 08:10:18",
   "date": "2026.04.17",
   "kospi": {
     "name": "KOSPI",
@@ -19,7 +19,7 @@
       "change": "-1500",
       "changePct": "-0.69",
       "direction": "down",
-      "volume": "15537866",
+      "volume": "15537867",
       "high": "218000",
       "low": "215000",
       "open": "217000",
@@ -33,7 +33,7 @@
       "change": "-27000",
       "changePct": "-2.34",
       "direction": "down",
-      "volume": "2713364",
+      "volume": "2713367",
       "high": "1155000",
       "low": "1121000",
       "open": "1149000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1485.30",
-      "change": "4.50",
+      "value": "1482.10",
+      "change": "1.30",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "931.72",
-      "change": "1.42",
+      "value": "930.68",
+      "change": "0.38",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1749.09",
-      "change": "4.34",
+      "value": "1746.36",
+      "change": "1.61",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "217.60",
-      "change": "0.56",
+      "value": "217.09",
+      "change": "0.05",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "228409.84",
-      "change": "251.58",
+      "value": "228189.04",
+      "change": "30.78",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "조선·엔진주 뜨겁네…18% 급등 한화엔진, 신고가 경신 [매경 자이앤트]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005667569&office_id=009&mode=mainnews&type=&date=2026-04-17&page=1"
+      "title": "SK하닉보다 많이 샀다…'1%' 투자 고수들 찜한 뜻밖의 회사 [마켓 PRO]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005276370&office_id=015&mode=mainnews&type=&date=2026-04-17&page=1"
     },
     {
-      "title": "외국인의 '귀환'…\"코스피 7,500 간다\" [마켓딥다이브]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001249376&office_id=215&mode=mainnews&type=&date=2026-04-17&page=1"
+      "title": "채권 혼합 ETF 연이어 출격…신한운용 우주항공 ETF도 새로 상장",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001139529&office_id=417&mode=mainnews&type=&date=2026-04-17&page=1"
     },
     {
-      "title": "\"코스피보다 더 올랐네\"…밸류업 타고 ETF도 웃었다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005276310&office_id=015&mode=mainnews&type=&date=2026-04-17&page=1"
+      "title": "코로나 변이 백신·진단키트 테마에 제약 관련株 '들썩'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005345814&office_id=008&mode=mainnews&type=&date=2026-04-17&page=1"
     },
     {
-      "title": "[단독] 꽃놀이패 쥔 F&F, 테일러메이드 인수 ‘JV 설립’ 검토",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002631428&office_id=016&mode=mainnews&type=&date=2026-04-17&page=1"
+      "title": "“요즘 누가 독한 백주 마셔요”…中 명주 마오타이도 꺾였다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006259612&office_id=018&mode=mainnews&type=&date=2026-04-17&page=1"
     },
     {
-      "title": "예별손보서 확인된 의지…KDB생명 '나비효과'[한투 보험사 M&A]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000082939&office_id=293&mode=mainnews&type=&date=2026-04-17&page=1"
+      "title": "원전 모멘텀 본격화에 목표가 줄상향…현대건설 '재평가'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005509480&office_id=014&mode=mainnews&type=&date=2026-04-17&page=1"
     },
     {
-      "title": "\"27억이 658억으로\"...성호전자의 기막힌 메자닌 활용법[딜 워치]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000046351&office_id=648&mode=mainnews&type=&date=2026-04-17&page=1"
+      "title": "\"상승장 지속될까\"…기관·외인, 곱버스 팔고 레버리지로",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005509479&office_id=014&mode=mainnews&type=&date=2026-04-17&page=1"
     },
     {
-      "title": "한국서도 코로나 변이 '매미' 확인...진원생과 '상한가'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005345693&office_id=008&mode=mainnews&type=&date=2026-04-17&page=1"
+      "title": "코스피, 외국인 2조 매도에 4거래일 만에 하락…하이닉스 2%대 약세 [이런국장 저런주식]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004611851&office_id=011&mode=mainnews&type=&date=2026-04-17&page=1"
     },
     {
-      "title": "“불장 대박이야” 개미들, ‘빚투’로 23조 쓸어갔다...코스피 담은 종목은",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004611785&office_id=011&mode=mainnews&type=&date=2026-04-17&page=1"
+      "title": "외국인 2조 팔고 나갔다…코스피 약보합 마감 이유는",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005345784&office_id=008&mode=mainnews&type=&date=2026-04-17&page=1"
     }
   ]
 }
