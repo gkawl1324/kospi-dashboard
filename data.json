@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-04-20 04:23:01",
+  "lastUpdated": "2026-04-20 06:30:34",
   "date": "2026.04.20",
   "kospi": {
     "name": "KOSPI",
-    "current": "6255.17",
-    "change": "63.25",
-    "changePct": "1.02",
+    "current": "6238.41",
+    "change": "46.49",
+    "changePct": "0.75",
     "direction": "up",
-    "volume": "512397",
-    "tradeAmount": "15787123"
+    "volume": "672378",
+    "tradeAmount": "21201956"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "216250",
-      "change": "250",
-      "changePct": "0.12",
+      "current": "216000",
+      "change": "0",
+      "changePct": "0.00",
       "direction": "up",
-      "volume": "10854947",
+      "volume": "15049875",
       "high": "219000",
       "low": "213000",
       "open": "214500",
@@ -29,12 +29,12 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1173000",
-      "change": "45000",
-      "changePct": "3.99",
+      "current": "1167000",
+      "change": "39000",
+      "changePct": "3.46",
       "direction": "up",
-      "volume": "2091603",
-      "high": "1174000",
+      "volume": "2805329",
+      "high": "1175000",
       "low": "1141000",
       "open": "1148000",
       "marketCap": "0"
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "94300",
-      "change": "-500",
-      "changePct": "-0.53",
+      "current": "93900",
+      "change": "-900",
+      "changePct": "-0.95",
       "direction": "down",
-      "volume": "78856",
+      "volume": "116231",
       "high": "95000",
       "low": "93300",
       "open": "94800",
@@ -57,13 +57,13 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "214000",
-      "change": "-2500",
-      "changePct": "-1.15",
+      "current": "213000",
+      "change": "-3500",
+      "changePct": "-1.62",
       "direction": "down",
-      "volume": "251764",
+      "volume": "410561",
       "high": "217500",
-      "low": "213000",
+      "low": "212500",
       "open": "216000",
       "marketCap": "0"
     }
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1476.10",
-      "change": "8.30",
+      "value": "1478.80",
+      "change": "11.00",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "929.04",
-      "change": "3.60",
+      "value": "930.09",
+      "change": "4.65",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1735.75",
-      "change": "9.03",
+      "value": "1737.29",
+      "change": "10.57",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "216.47",
-      "change": "1.17",
+      "value": "216.76",
+      "change": "1.46",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "227409.79",
-      "change": "1636.91",
+      "value": "227443.42",
+      "change": "1603.28",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "미래에셋운용, 반도체·커버드콜 새 ETF로 '두마리 토끼' 추구",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000046399&office_id=648&mode=mainnews&type=&date=2026-04-20&page=1"
+      "title": "‘120만닉스’ 향해 달리는 SK하이닉스...엔비디아 납품 양산에 신고가[이런국장 저런주식]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004612568&office_id=011&mode=mainnews&type=&date=2026-04-20&page=1"
     },
     {
-      "title": "\"지금이 싸게 살 기회\"…'상위 1%' 서학개미 쓸어담은 종목 [마켓PRO]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005277039&office_id=015&mode=mainnews&type=&date=2026-04-20&page=1"
+      "title": "상신이디피, 주식전환 어려운 CB 금리가 2％…덤핑발행 논란도",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005346587&office_id=008&mode=mainnews&type=&date=2026-04-20&page=1"
     },
     {
-      "title": "코스피, 그렇게 출렁였지만 “상승률 전 세계 1위”…7000시대 이끌 주인공은 역시",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004612515&office_id=011&mode=mainnews&type=&date=2026-04-20&page=1"
+      "title": "이오타2 정상화 ‘도루묵’…한투리얼 몽니에 KB금융 2000억원 묶였다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002225125&office_id=138&mode=mainnews&type=&date=2026-04-20&page=1"
     },
     {
-      "title": "핀텔, 최대주주 엑시트 불발",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001023317&office_id=031&mode=mainnews&type=&date=2026-04-20&page=1"
+      "title": "중동사태 '분수령'...시장은 'TACO' 베팅 [월가딥다이브]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001249584&office_id=215&mode=mainnews&type=&date=2026-04-20&page=1"
     },
     {
-      "title": "“환희에 팔았다”…상위 1%, SK하닉 신고가에 팔고 대한전선 담아 [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004612511&office_id=011&mode=mainnews&type=&date=2026-04-20&page=1"
+      "title": "골드만삭스 220%로 또 올렸다…\"코스피 8000 간다, 반도체가 주도\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005751974&office_id=277&mode=mainnews&type=&date=2026-04-20&page=1"
     },
     {
-      "title": "코스피·코스닥 현금배당 38조원 돌파…밸류업 기업 중심 고배당 기조",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008899720&office_id=421&mode=mainnews&type=&date=2026-04-20&page=1"
+      "title": "③ GKL, 여행객 발길 주춤한 외국인 전용 카지노[전쟁 후 공매도]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000083054&office_id=293&mode=mainnews&type=&date=2026-04-20&page=1"
     },
     {
-      "title": "“AI 열풍 식을 줄 모르네” 1년 새 주가 1500% 폭등…중국서 ‘가장 비싼 주식’은",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004612503&office_id=011&mode=mainnews&type=&date=2026-04-20&page=1"
+      "title": "SK하이닉스 신고가에 코스피 1%대 강세…코스닥도 강보합권",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005346544&office_id=008&mode=mainnews&type=&date=2026-04-20&page=1"
     },
     {
-      "title": "호르무즈 위기 '면역력' 강해진 코스피…SK하이닉스 4%대 상승",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008899662&office_id=421&mode=mainnews&type=&date=2026-04-20&page=1"
+      "title": "코스피 지난해 현금배당 35조..역대 최고치 경신",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005346537&office_id=008&mode=mainnews&type=&date=2026-04-20&page=1"
     }
   ]
 }
