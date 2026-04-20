@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-04-20 03:56:17",
+  "lastUpdated": "2026-04-20 04:23:01",
   "date": "2026.04.20",
   "kospi": {
     "name": "KOSPI",
-    "current": "6257.95",
-    "change": "66.03",
-    "changePct": "1.07",
+    "current": "6255.17",
+    "change": "63.25",
+    "changePct": "1.02",
     "direction": "up",
-    "volume": "476420",
-    "tradeAmount": "14769536"
+    "volume": "512397",
+    "tradeAmount": "15787123"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "216000",
-      "change": "0",
-      "changePct": "0.00",
+      "current": "216250",
+      "change": "250",
+      "changePct": "0.12",
       "direction": "up",
-      "volume": "10258380",
+      "volume": "10854947",
       "high": "219000",
       "low": "213000",
       "open": "214500",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1172000",
-      "change": "44000",
-      "changePct": "3.90",
+      "current": "1173000",
+      "change": "45000",
+      "changePct": "3.99",
       "direction": "up",
-      "volume": "1968579",
+      "volume": "2091603",
       "high": "1174000",
       "low": "1141000",
       "open": "1148000",
@@ -47,7 +47,7 @@
       "change": "-500",
       "changePct": "-0.53",
       "direction": "down",
-      "volume": "71905",
+      "volume": "78856",
       "high": "95000",
       "low": "93300",
       "open": "94800",
@@ -61,7 +61,7 @@
       "change": "-2500",
       "changePct": "-1.15",
       "direction": "down",
-      "volume": "223341",
+      "volume": "251764",
       "high": "217500",
       "low": "213000",
       "open": "216000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1474.60",
-      "change": "6.80",
+      "value": "1476.10",
+      "change": "8.30",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "928.24",
-      "change": "2.80",
+      "value": "929.04",
+      "change": "3.60",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1734.28",
-      "change": "7.56",
+      "value": "1735.75",
+      "change": "9.03",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "216.28",
-      "change": "0.98",
+      "value": "216.47",
+      "change": "1.17",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "227159.75",
-      "change": "1886.95",
+      "value": "227409.79",
+      "change": "1636.91",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -141,6 +141,14 @@
     }
   ],
   "news": [
+    {
+      "title": "미래에셋운용, 반도체·커버드콜 새 ETF로 '두마리 토끼' 추구",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000046399&office_id=648&mode=mainnews&type=&date=2026-04-20&page=1"
+    },
+    {
+      "title": "\"지금이 싸게 살 기회\"…'상위 1%' 서학개미 쓸어담은 종목 [마켓PRO]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005277039&office_id=015&mode=mainnews&type=&date=2026-04-20&page=1"
+    },
     {
       "title": "코스피, 그렇게 출렁였지만 “상승률 전 세계 1위”…7000시대 이끌 주인공은 역시",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0004612515&office_id=011&mode=mainnews&type=&date=2026-04-20&page=1"
@@ -164,14 +172,6 @@
     {
       "title": "호르무즈 위기 '면역력' 강해진 코스피…SK하이닉스 4%대 상승",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0008899662&office_id=421&mode=mainnews&type=&date=2026-04-20&page=1"
-    },
-    {
-      "title": "중동 불확실성에도 코스피는 1% 상승… 6270선",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001158200&office_id=366&mode=mainnews&type=&date=2026-04-20&page=1"
-    },
-    {
-      "title": "수퍼 싸이클 올라탄 SK하닉, 200만원 간다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002632252&office_id=016&mode=mainnews&type=&date=2026-04-20&page=1"
     }
   ]
 }
