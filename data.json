@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-04-21 04:14:40",
+  "lastUpdated": "2026-04-21 06:18:53",
   "date": "2026.04.21",
   "kospi": {
     "name": "KOSPI",
-    "current": "6354.55",
-    "change": "135.46",
-    "changePct": "2.18",
+    "current": "6379.88",
+    "change": "160.79",
+    "changePct": "2.59",
     "direction": "up",
-    "volume": "622104",
-    "tradeAmount": "21792833"
+    "volume": "766569",
+    "tradeAmount": "28847834"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "217750",
-      "change": "3250",
-      "changePct": "1.52",
+      "current": "218500",
+      "change": "4000",
+      "changePct": "1.86",
       "direction": "up",
-      "volume": "11079149",
+      "volume": "14927888",
       "high": "220000",
       "low": "216000",
       "open": "218000",
@@ -29,12 +29,12 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1219500",
-      "change": "53500",
-      "changePct": "4.59",
+      "current": "1224000",
+      "change": "58000",
+      "changePct": "4.97",
       "direction": "up",
-      "volume": "2245758",
-      "high": "1227000",
+      "volume": "2866138",
+      "high": "1228000",
       "low": "1193000",
       "open": "1196000",
       "marketCap": "0"
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "94900",
-      "change": "1400",
-      "changePct": "1.50",
+      "current": "94100",
+      "change": "600",
+      "changePct": "0.64",
       "direction": "up",
-      "volume": "145250",
+      "volume": "196574",
       "high": "95700",
       "low": "93600",
       "open": "93600",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "213250",
-      "change": "-250",
-      "changePct": "-0.12",
-      "direction": "down",
-      "volume": "341855",
+      "current": "214000",
+      "change": "500",
+      "changePct": "0.23",
+      "direction": "up",
+      "volume": "504945",
       "high": "215500",
       "low": "211500",
       "open": "215000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1471.00",
-      "change": "1.30",
+      "value": "1469.70",
+      "change": "2.60",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "925.27",
-      "change": "1.84",
+      "value": "924.89",
+      "change": "2.22",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1732.10",
-      "change": "3.23",
+      "value": "1730.42",
+      "change": "4.91",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "215.87",
-      "change": "0.14",
+      "value": "215.69",
+      "change": "0.32",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "226725.23",
-      "change": "1038.38",
+      "value": "225902.58",
+      "change": "1861.03",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "코스피 6361 돌파…  이란전 딛고 날았다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002786283&office_id=021&mode=mainnews&type=&date=2026-04-21&page=1"
+      "title": "미국 우주산업부터 K반도체까지…ETF 4종 신규 상장",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005347197&office_id=008&mode=mainnews&type=&date=2026-04-21&page=1"
     },
     {
-      "title": "‘반도체 슈퍼사이클’의 힘… ‘고유가·노동이슈’ 악재 뚫고 랠리",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002786269&office_id=021&mode=mainnews&type=&date=2026-04-21&page=1"
+      "title": "코스피, 휴전 불안 딛고 사상 최고치 경신…6370선 고지 넘어",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000493341&office_id=629&mode=mainnews&type=&date=2026-04-21&page=1"
     },
     {
-      "title": "벤츠 수혜에도 갈렸다…초고수, LG엔솔 매수·삼성SDI 매도 [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004612951&office_id=011&mode=mainnews&type=&date=2026-04-21&page=1"
+      "title": "AI 반도체 훈풍…한화운용, ‘PLUS 글로벌HBM반도체’ 1년 수익률 374%",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004613002&office_id=011&mode=mainnews&type=&date=2026-04-21&page=1"
     },
     {
-      "title": "\"삼성도 벤츠 뚫었는데 왜?\"…고수들, LG만 쓸어담은 이유 [마켓PRO]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005277590&office_id=015&mode=mainnews&type=&date=2026-04-21&page=1"
+      "title": "美, 이란戰 계기 안두릴·팔란티어·스페이스X ‘신흥 방산 3인방’ 부상",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006262706&office_id=018&mode=mainnews&type=&date=2026-04-21&page=1"
     },
     {
-      "title": "‘7000피’도 꿈 아니다…‘삼전·하닉 레버리지 ETF’로 날개 단 코스피, 해외 투자금 유턴 기대",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002632964&office_id=016&mode=mainnews&type=&date=2026-04-21&page=1"
+      "title": "'삼전닉스' 3.5조 담은 외국인…코스피 '역대 최고' 이끌었다 [강진규의 데이터너머]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005277650&office_id=015&mode=mainnews&type=&date=2026-04-21&page=1"
     },
     {
-      "title": "‘株마’코스피 사상최고치 찍고 ‘가편’삼전닉스 레버리지 ETF 출시",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002632963&office_id=016&mode=mainnews&type=&date=2026-04-21&page=1"
+      "title": "조선주 실적 청신호…HD현대重 8%·삼성重 5%↑[핫종목]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008902811&office_id=421&mode=mainnews&type=&date=2026-04-21&page=1"
     },
     {
-      "title": "이르면 5월 22일부터 삼성전자·SK하이닉스 레버리지 ETF 나온다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001158477&office_id=366&mode=mainnews&type=&date=2026-04-21&page=1"
+      "title": "내달 22일부터 삼전·닉스 레버리지 ETF 출시 가능",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006262654&office_id=018&mode=mainnews&type=&date=2026-04-21&page=1"
     },
     {
-      "title": "홍콩 CSOP자산운용 세계 첫 삼전닉스 레버리지 ETF 출시 “韓투자 접근성 높여 자긍심” [코스피 사상 최고치]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002632956&office_id=016&mode=mainnews&type=&date=2026-04-21&page=1"
+      "title": "삼전·하닉 2배 베팅 국내 ETF, 출시일 정해졌다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003082903&office_id=119&mode=mainnews&type=&date=2026-04-21&page=1"
     }
   ]
 }
