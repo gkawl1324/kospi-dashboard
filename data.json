@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21 07:00:02",
+  "lastUpdated": "2026-04-21 08:15:43",
   "date": "2026.04.21",
   "kospi": {
     "name": "KOSPI",
@@ -19,7 +19,7 @@
       "change": "4500",
       "changePct": "2.10",
       "direction": "up",
-      "volume": "16705234",
+      "volume": "16705245",
       "high": "220000",
       "low": "216000",
       "open": "218000",
@@ -33,7 +33,7 @@
       "change": "58000",
       "changePct": "4.97",
       "direction": "up",
-      "volume": "3135000",
+      "volume": "3135003",
       "high": "1228000",
       "low": "1193000",
       "open": "1196000",
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1469.80",
-      "change": "2.50",
-      "direction": "down"
+      "value": "1472.80",
+      "change": "0.50",
+      "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "925.48",
-      "change": "1.63",
+      "value": "925.33",
+      "change": "1.78",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1730.76",
-      "change": "4.57",
+      "value": "1731.72",
+      "change": "3.61",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "215.73",
-      "change": "0.28",
-      "direction": "down"
+      "value": "216.03",
+      "change": "0.02",
+      "direction": "up"
     }
   ],
   "oilPrices": [
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "225775.08",
-      "change": "1988.53",
+      "value": "226347.65",
+      "change": "1415.96",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "美 개별주식은 팔고 ETF는 담는 개미들…美상품 순매수 상위권 싹쓸이",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005511073&office_id=014&mode=mainnews&type=&date=2026-04-21&page=1"
+      "title": "미·이란 협상 타결에 베팅한 외환시장…“환율, 1450원대 진입 전망”(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006262854&office_id=018&mode=mainnews&type=&date=2026-04-21&page=1"
     },
     {
-      "title": "\"땡큐 엔비디아\" 美 양자컴 ETF, 잘 나가네",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005511064&office_id=014&mode=mainnews&type=&date=2026-04-21&page=1"
+      "title": "‘8500피’ 전망까지…삼전닉스 탄 코스피 ‘더 달린다’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003022947&office_id=029&mode=mainnews&type=&date=2026-04-21&page=1"
     },
     {
-      "title": "“7천 부르더니 이번엔 8천?” 골드만의 놀라운 코스피 전망",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002786341&office_id=021&mode=mainnews&type=&date=2026-04-21&page=1"
+      "title": "코스피, 전쟁 딛고 ‘사상 최고치’…시장선 “8000 간다”(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006262845&office_id=018&mode=mainnews&type=&date=2026-04-21&page=1"
     },
     {
-      "title": "액티브 ETF, 이제는 '주연'...국내 증시 흔드는 23조 시장",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005511055&office_id=014&mode=mainnews&type=&date=2026-04-21&page=1"
+      "title": "메리츠증권, 신용한도 4배 늘려 영업 드라이브",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006262842&office_id=018&mode=mainnews&type=&date=2026-04-21&page=1"
     },
     {
-      "title": "금융위 “대주주 강제 청산 시 개미 눈물 없게”…주식매수가격 산정 방식 손본다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005669211&office_id=009&mode=mainnews&type=&date=2026-04-21&page=1"
+      "title": "“전쟁 악재 비켜갔나”…코스피, 사상 최고치 경신·하이닉스 122만원 돌파",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002225345&office_id=138&mode=mainnews&type=&date=2026-04-21&page=1"
     },
     {
-      "title": "적자 기업에 120억원 태운 YG플러스... FNC엔터 유통권 노린 전략적 투자",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001158572&office_id=366&mode=mainnews&type=&date=2026-04-21&page=1"
+      "title": "상법 개정發 정관변경 봇물...취지 벗어난 '꼼수'도 다수",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006262839&office_id=018&mode=mainnews&type=&date=2026-04-21&page=1"
     },
     {
-      "title": "코스피 6400 근접 '사상 최고'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000046459&office_id=648&mode=mainnews&type=&date=2026-04-21&page=1"
+      "title": "삼전·닉스 다시 담는 외국인…증권가선 장밋빛 전망 ‘솔솔’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006262837&office_id=018&mode=mainnews&type=&date=2026-04-21&page=1"
     },
     {
-      "title": "하이닉스 주주들만 웃는 게 아니었다...코스피 신고가 종목 이렇게 많다고?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004613007&office_id=011&mode=mainnews&type=&date=2026-04-21&page=1"
+      "title": "코스피 전쟁 딛고 최고치… 'SK하이닉스 40조' 기대 업고 질주",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000926700&office_id=469&mode=mainnews&type=&date=2026-04-21&page=1"
     }
   ]
 }
