@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-04-22 04:10:47",
+  "lastUpdated": "2026-04-22 06:17:49",
   "date": "2026.04.22",
   "kospi": {
     "name": "KOSPI",
-    "current": "6382.80",
-    "change": "5.67",
-    "changePct": "0.09",
+    "current": "6412.84",
+    "change": "24.37",
+    "changePct": "0.38",
     "direction": "up",
-    "volume": "709423",
-    "tradeAmount": "21736070"
+    "volume": "875285",
+    "tradeAmount": "29321754"
   },
   "stocks": [
     {
@@ -19,7 +19,7 @@
       "change": "-1500",
       "changePct": "-0.68",
       "direction": "down",
-      "volume": "11310111",
+      "volume": "15677455",
       "high": "222500",
       "low": "215500",
       "open": "218500",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1216000",
-      "change": "-8000",
-      "changePct": "-0.65",
+      "current": "1222000",
+      "change": "-2000",
+      "changePct": "-0.16",
       "direction": "down",
-      "volume": "1896965",
+      "volume": "2650918",
       "high": "1233000",
       "low": "1195000",
       "open": "1227000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "95100",
-      "change": "100",
-      "changePct": "0.11",
+      "current": "95500",
+      "change": "500",
+      "changePct": "0.53",
       "direction": "up",
-      "volume": "178476",
+      "volume": "238881",
       "high": "97600",
       "low": "93600",
       "open": "93800",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "213500",
-      "change": "-500",
-      "changePct": "-0.23",
-      "direction": "down",
-      "volume": "223526",
+      "current": "214000",
+      "change": "0",
+      "changePct": "0.00",
+      "direction": "up",
+      "volume": "321693",
       "high": "216000",
       "low": "212500",
       "open": "215000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1479.20",
-      "change": "2.80",
+      "value": "1477.50",
+      "change": "4.50",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "928.13",
-      "change": "1.69",
+      "value": "928.05",
+      "change": "1.77",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1736.65",
-      "change": "3.22",
+      "value": "1736.14",
+      "change": "3.73",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "216.77",
-      "change": "0.29",
+      "value": "216.52",
+      "change": "0.54",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "226307.68",
-      "change": "1646.30",
+      "value": "226299.38",
+      "change": "1638.00",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "돈 몰린 액티브 ETF, 수익률 46% vs -11%로 극과 극…이유는? [THE FINANCE]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003023091&office_id=029&mode=mainnews&type=&date=2026-04-22&page=1"
+      "title": "\"연초에 이거 안 사고 뭐했지\"…'수익률 대박' ETF 뭐길래",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005278201&office_id=015&mode=mainnews&type=&date=2026-04-22&page=1"
     },
     {
-      "title": "NH-아문디 \"피지컬AI 이제 시작\"…광통신 등 5대 테마 제시",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013902688&office_id=003&mode=mainnews&type=&date=2026-04-22&page=1"
+      "title": "이름까지 바꾼 '초강수' 통했다…주가 급등에 개미들 '환호' [종목+]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005278200&office_id=015&mode=mainnews&type=&date=2026-04-22&page=1"
     },
     {
-      "title": "“어제 손절했는데 어떡해”…1분기 바닥 찍고 V자 반등 시작된다는 ‘이 섹터’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004613398&office_id=011&mode=mainnews&type=&date=2026-04-22&page=1"
+      "title": "中, 황산 수출 중단...복병 등장에 K배터리 '비상' [마켓딥다이브]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001249845&office_id=215&mode=mainnews&type=&date=2026-04-22&page=1"
     },
     {
-      "title": "주춤할 때 삼전·하닉 담는 초고수…시총 10위 오른 삼성전기는 ‘팔자’ [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004613393&office_id=011&mode=mainnews&type=&date=2026-04-22&page=1"
+      "title": "미국 우주테크 ETF 자금 유입에 한투·미래에셋운용 '함박웃음'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001140126&office_id=417&mode=mainnews&type=&date=2026-04-22&page=1"
     },
     {
-      "title": "반도체 커버드콜 진검승부…미래 '액티브 고수익' vs 삼성 '목표수익률'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005278139&office_id=015&mode=mainnews&type=&date=2026-04-22&page=1"
+      "title": "KB자산운용 ‘세미콜론 문래’ 새 주인 되나…묶인 KB증권 자금 엑시트는 덤",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002225475&office_id=138&mode=mainnews&type=&date=2026-04-22&page=1"
     },
     {
-      "title": "코스피 6400 돌파에도 코스닥은 '박스권'…증시 양극화 '심화'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013902576&office_id=003&mode=mainnews&type=&date=2026-04-22&page=1"
+      "title": "NH아문디 \"피지컬 AI 유망 섹터, 서로 유기적으로 영향\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001140115&office_id=417&mode=mainnews&type=&date=2026-04-22&page=1"
     },
     {
-      "title": "“와우 고점에 산 것도 다 회복”…주식으로 돈 날렸다던 미나, 대박났나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005669669&office_id=009&mode=mainnews&type=&date=2026-04-22&page=1"
+      "title": "종전 불확실성에 10%대↑…LIG D&A, 10번째 황제주 등극 [줍줍 리포트]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004613429&office_id=011&mode=mainnews&type=&date=2026-04-22&page=1"
     },
     {
-      "title": "전쟁도 못 막은 코스피 질주…중동 리스크 상수 됐나?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000493601&office_id=629&mode=mainnews&type=&date=2026-04-22&page=1"
+      "title": "코스피, 6400선 돌파 후 숨고르기…개인 1.6조 '사자'로 지수 방어",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006263431&office_id=018&mode=mainnews&type=&date=2026-04-22&page=1"
     }
   ]
 }
