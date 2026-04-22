@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22 06:59:10",
+  "lastUpdated": "2026-04-22 08:13:59",
   "date": "2026.04.22",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1476.90",
-      "change": "5.10",
+      "value": "1476.20",
+      "change": "5.80",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "928.02",
-      "change": "1.80",
+      "value": "927.09",
+      "change": "2.73",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1735.51",
-      "change": "4.36",
+      "value": "1735.64",
+      "change": "4.23",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "216.41",
-      "change": "0.65",
+      "value": "216.36",
+      "change": "0.70",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "226387.21",
-      "change": "1725.83",
+      "value": "226024.39",
+      "change": "1363.01",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "스페이스X 기대감에 우주 ETF로 들썩…운용사 경쟁 본격화",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005511738&office_id=014&mode=mainnews&type=&date=2026-04-22&page=1"
+      "title": "패시브 가고 액티브 온다…410조 돌파한 ETF, 이젠 ‘질’로 승부한다 [THE FINANCE]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003023181&office_id=029&mode=mainnews&type=&date=2026-04-22&page=1"
     },
     {
-      "title": "코스피 지수, 또 사상 최고… 6400포인트 돌파[마켓뷰]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001158901&office_id=366&mode=mainnews&type=&date=2026-04-22&page=1"
+      "title": "결국 또 '타코'…\"최악 피했다\" 시장 잠잠",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001249859&office_id=215&mode=mainnews&type=&date=2026-04-22&page=1"
     },
     {
-      "title": "중복상장 '철퇴'에 HD현대로보·CJ올영 '제동'…IPO 씨마르나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000493733&office_id=629&mode=mainnews&type=&date=2026-04-22&page=1"
+      "title": "코스피 연일 최고치 경신에 경계심도…공매도 대기자금 최고치",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016036703&office_id=001&mode=mainnews&type=&date=2026-04-22&page=1"
     },
     {
-      "title": "피지컬AI에 숨은 '진짜 돈맥'…NH아문디 선택은 광통신 [현장+]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000083231&office_id=293&mode=mainnews&type=&date=2026-04-22&page=1"
+      "title": "BTS도, 한국판 코첼라도 역부족…지수 랠리에 소외된 엔터株",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001158935&office_id=366&mode=mainnews&type=&date=2026-04-22&page=1"
     },
     {
-      "title": "\"연초에 이거 안 사고 뭐했지\"…'수익률 대박' ETF 뭐길래",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005278201&office_id=015&mode=mainnews&type=&date=2026-04-22&page=1"
+      "title": "코스피, 종가 6400선 첫 돌파…다시 ‘칠천피’ 향해 뛴다 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002633783&office_id=016&mode=mainnews&type=&date=2026-04-22&page=1"
     },
     {
-      "title": "이름까지 바꾼 '초강수' 통했다…주가 급등에 개미들 '환호' [종목+]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005278200&office_id=015&mode=mainnews&type=&date=2026-04-22&page=1"
+      "title": "양자컴으로 옮겨붙은 투심…테마주 ‘롤러코스터’ 경고등",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006263618&office_id=018&mode=mainnews&type=&date=2026-04-22&page=1"
     },
     {
-      "title": "中, 황산 수출 중단...복병 등장에 K배터리 '비상' [마켓딥다이브]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001249845&office_id=215&mode=mainnews&type=&date=2026-04-22&page=1"
+      "title": "삼전닉스 급등에 ‘10억 임원’ 5배 급증…노태문 200억 넘겼다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001158917&office_id=366&mode=mainnews&type=&date=2026-04-22&page=1"
     },
     {
-      "title": "미국 우주테크 ETF 자금 유입에 한투·미래에셋운용 '함박웃음'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001140126&office_id=417&mode=mainnews&type=&date=2026-04-22&page=1"
+      "title": "개인 ‘폭풍 매수’ 트럼프 ‘타코’ 이겼다…코스피 SK하닉·현대차 실적 발표 앞두고 또 최고치",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003023154&office_id=029&mode=mainnews&type=&date=2026-04-22&page=1"
     }
   ]
 }
