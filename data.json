@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-04-22 03:46:31",
+  "lastUpdated": "2026-04-22 04:10:47",
   "date": "2026.04.22",
   "kospi": {
     "name": "KOSPI",
-    "current": "6377.38",
-    "change": "11.09",
-    "changePct": "0.17",
+    "current": "6382.80",
+    "change": "5.67",
+    "changePct": "0.09",
     "direction": "up",
-    "volume": "685666",
-    "tradeAmount": "20828857"
+    "volume": "709423",
+    "tradeAmount": "21736070"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "217000",
-      "change": "-2000",
-      "changePct": "-0.91",
+      "current": "217500",
+      "change": "-1500",
+      "changePct": "-0.68",
       "direction": "down",
-      "volume": "11026888",
+      "volume": "11310111",
       "high": "222500",
       "low": "215500",
       "open": "218500",
@@ -33,7 +33,7 @@
       "change": "-8000",
       "changePct": "-0.65",
       "direction": "down",
-      "volume": "1854431",
+      "volume": "1896965",
       "high": "1233000",
       "low": "1195000",
       "open": "1227000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "94900",
-      "change": "-100",
-      "changePct": "-0.11",
-      "direction": "down",
-      "volume": "172930",
+      "current": "95100",
+      "change": "100",
+      "changePct": "0.11",
+      "direction": "up",
+      "volume": "178476",
       "high": "97600",
       "low": "93600",
       "open": "93800",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "214000",
-      "change": "0",
-      "changePct": "0.00",
-      "direction": "up",
-      "volume": "210346",
+      "current": "213500",
+      "change": "-500",
+      "changePct": "-0.23",
+      "direction": "down",
+      "volume": "223526",
       "high": "216000",
       "low": "212500",
       "open": "215000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1480.30",
-      "change": "1.70",
+      "value": "1479.20",
+      "change": "2.80",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "928.70",
-      "change": "1.12",
+      "value": "928.13",
+      "change": "1.69",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1737.87",
-      "change": "2.00",
+      "value": "1736.65",
+      "change": "3.22",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "216.91",
-      "change": "0.15",
+      "value": "216.77",
+      "change": "0.29",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "226475.68",
-      "change": "1814.30",
+      "value": "226307.68",
+      "change": "1646.30",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -141,6 +141,10 @@
     }
   ],
   "news": [
+    {
+      "title": "돈 몰린 액티브 ETF, 수익률 46% vs -11%로 극과 극…이유는? [THE FINANCE]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003023091&office_id=029&mode=mainnews&type=&date=2026-04-22&page=1"
+    },
     {
       "title": "NH-아문디 \"피지컬AI 이제 시작\"…광통신 등 5대 테마 제시",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0013902688&office_id=003&mode=mainnews&type=&date=2026-04-22&page=1"
@@ -168,10 +172,6 @@
     {
       "title": "전쟁도 못 막은 코스피 질주…중동 리스크 상수 됐나?",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000493601&office_id=629&mode=mainnews&type=&date=2026-04-22&page=1"
-    },
-    {
-      "title": "코스피 상장사 64% PBR  1배도 안된다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002633531&office_id=016&mode=mainnews&type=&date=2026-04-22&page=1"
     }
   ]
 }
