@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-04-22 06:17:49",
+  "lastUpdated": "2026-04-22 06:59:10",
   "date": "2026.04.22",
   "kospi": {
     "name": "KOSPI",
-    "current": "6412.84",
-    "change": "24.37",
-    "changePct": "0.38",
+    "current": "6417.93",
+    "change": "29.46",
+    "changePct": "0.46",
     "direction": "up",
-    "volume": "875285",
-    "tradeAmount": "29321754"
+    "volume": "892383",
+    "tradeAmount": "30741462"
   },
   "stocks": [
     {
@@ -19,7 +19,7 @@
       "change": "-1500",
       "changePct": "-0.68",
       "direction": "down",
-      "volume": "15677455",
+      "volume": "16732867",
       "high": "222500",
       "low": "215500",
       "open": "218500",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1222000",
-      "change": "-2000",
-      "changePct": "-0.16",
+      "current": "1223000",
+      "change": "-1000",
+      "changePct": "-0.08",
       "direction": "down",
-      "volume": "2650918",
+      "volume": "2868962",
       "high": "1233000",
       "low": "1195000",
       "open": "1227000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "95500",
-      "change": "500",
-      "changePct": "0.53",
+      "current": "95700",
+      "change": "700",
+      "changePct": "0.74",
       "direction": "up",
-      "volume": "238881",
+      "volume": "265866",
       "high": "97600",
       "low": "93600",
       "open": "93800",
@@ -61,7 +61,7 @@
       "change": "0",
       "changePct": "0.00",
       "direction": "up",
-      "volume": "321693",
+      "volume": "364648",
       "high": "216000",
       "low": "212500",
       "open": "215000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1477.50",
-      "change": "4.50",
+      "value": "1476.90",
+      "change": "5.10",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "928.05",
-      "change": "1.77",
+      "value": "928.02",
+      "change": "1.80",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1736.14",
-      "change": "3.73",
+      "value": "1735.51",
+      "change": "4.36",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "216.52",
-      "change": "0.54",
+      "value": "216.41",
+      "change": "0.65",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "226299.38",
-      "change": "1638.00",
+      "value": "226387.21",
+      "change": "1725.83",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,6 +142,22 @@
   ],
   "news": [
     {
+      "title": "스페이스X 기대감에 우주 ETF로 들썩…운용사 경쟁 본격화",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005511738&office_id=014&mode=mainnews&type=&date=2026-04-22&page=1"
+    },
+    {
+      "title": "코스피 지수, 또 사상 최고… 6400포인트 돌파[마켓뷰]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001158901&office_id=366&mode=mainnews&type=&date=2026-04-22&page=1"
+    },
+    {
+      "title": "중복상장 '철퇴'에 HD현대로보·CJ올영 '제동'…IPO 씨마르나",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000493733&office_id=629&mode=mainnews&type=&date=2026-04-22&page=1"
+    },
+    {
+      "title": "피지컬AI에 숨은 '진짜 돈맥'…NH아문디 선택은 광통신 [현장+]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000083231&office_id=293&mode=mainnews&type=&date=2026-04-22&page=1"
+    },
+    {
       "title": "\"연초에 이거 안 사고 뭐했지\"…'수익률 대박' ETF 뭐길래",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005278201&office_id=015&mode=mainnews&type=&date=2026-04-22&page=1"
     },
@@ -156,22 +172,6 @@
     {
       "title": "미국 우주테크 ETF 자금 유입에 한투·미래에셋운용 '함박웃음'",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0001140126&office_id=417&mode=mainnews&type=&date=2026-04-22&page=1"
-    },
-    {
-      "title": "KB자산운용 ‘세미콜론 문래’ 새 주인 되나…묶인 KB증권 자금 엑시트는 덤",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002225475&office_id=138&mode=mainnews&type=&date=2026-04-22&page=1"
-    },
-    {
-      "title": "NH아문디 \"피지컬 AI 유망 섹터, 서로 유기적으로 영향\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001140115&office_id=417&mode=mainnews&type=&date=2026-04-22&page=1"
-    },
-    {
-      "title": "종전 불확실성에 10%대↑…LIG D&A, 10번째 황제주 등극 [줍줍 리포트]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004613429&office_id=011&mode=mainnews&type=&date=2026-04-22&page=1"
-    },
-    {
-      "title": "코스피, 6400선 돌파 후 숨고르기…개인 1.6조 '사자'로 지수 방어",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006263431&office_id=018&mode=mainnews&type=&date=2026-04-22&page=1"
     }
   ]
 }
