@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-04-23 04:15:21",
+  "lastUpdated": "2026-04-23 06:21:43",
   "date": "2026.04.23",
   "kospi": {
     "name": "KOSPI",
-    "current": "6393.85",
-    "change": "24.08",
-    "changePct": "0.38",
+    "current": "6465.26",
+    "change": "47.33",
+    "changePct": "0.74",
     "direction": "up",
-    "volume": "855696",
-    "tradeAmount": "31008830"
+    "volume": "1016201",
+    "tradeAmount": "38498152"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "220500",
-      "change": "3000",
-      "changePct": "1.38",
+      "current": "224500",
+      "change": "7000",
+      "changePct": "3.22",
       "direction": "up",
-      "volume": "25927869",
+      "volume": "32202180",
       "high": "229500",
       "low": "216000",
       "open": "223000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1203000",
-      "change": "-20000",
-      "changePct": "-1.64",
+      "current": "1222000",
+      "change": "-1000",
+      "changePct": "-0.08",
       "direction": "down",
-      "volume": "4204596",
+      "volume": "5050365",
       "high": "1267000",
       "low": "1183000",
       "open": "1220000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "95200",
-      "change": "-500",
-      "changePct": "-0.52",
-      "direction": "down",
-      "volume": "159428",
+      "current": "96500",
+      "change": "800",
+      "changePct": "0.84",
+      "direction": "up",
+      "volume": "228002",
       "high": "98900",
       "low": "94200",
       "open": "98800",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "214500",
-      "change": "500",
-      "changePct": "0.23",
+      "current": "217500",
+      "change": "3500",
+      "changePct": "1.64",
       "direction": "up",
-      "volume": "550622",
+      "volume": "756561",
       "high": "221000",
       "low": "213000",
       "open": "220500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1482.30",
-      "change": "2.80",
+      "value": "1480.70",
+      "change": "1.20",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "928.93",
-      "change": "1.37",
+      "value": "927.76",
+      "change": "0.20",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1733.85",
-      "change": "1.95",
+      "value": "1732.86",
+      "change": "0.96",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "216.85",
-      "change": "0.32",
+      "value": "216.70",
+      "change": "0.17",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "224365.28",
-      "change": "1253.13",
+      "value": "224181.96",
+      "change": "1436.45",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "사라진 대주단과 깜깜이 공시…고려아연·메리츠의 ‘촌극’[마켓인]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006264227&office_id=018&mode=mainnews&type=&date=2026-04-23&page=1"
+      "title": "반도체 호황에 공모펀드도 '활짝'…유리운용 첫 1조 펀드 나왔다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005512329&office_id=014&mode=mainnews&type=&date=2026-04-23&page=1"
     },
     {
-      "title": "‘양극화 불장’…7000피 코앞인데 반도체 대형주만 활활",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002786872&office_id=021&mode=mainnews&type=&date=2026-04-23&page=1"
+      "title": "성호전자 \"ADS테크, 엔비디아 이어 브로드컴과 계약…AI 반도체 '양대 산맥' 잡았다\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005348389&office_id=008&mode=mainnews&type=&date=2026-04-23&page=1"
     },
     {
-      "title": "홈플러스 회생 물꼬 텄지만…익스프레스 대금 배분이 변수",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002634285&office_id=016&mode=mainnews&type=&date=2026-04-23&page=1"
+      "title": "\"돈 벌었다, 일단 챙겨\" 차익실현 우르르...코스피 신고가 찍고 등락",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005348371&office_id=008&mode=mainnews&type=&date=2026-04-23&page=1"
     },
     {
-      "title": "'곱버스' 팔고 레버리지 매수…ETF 주도권 개인에 넘어가 '고위험' 베팅",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008907259&office_id=421&mode=mainnews&type=&date=2026-04-23&page=1"
+      "title": "\"엔비디아 잡는다\"…'상위 1%' 서학개미 쓸어담은 종목 [마켓PRO]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005278752&office_id=015&mode=mainnews&type=&date=2026-04-23&page=1"
     },
     {
-      "title": "\"역대 최대 실적인데\"…초고수들 '삼전닉스' 서둘러 던진 이유 [마켓PRO]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005278694&office_id=015&mode=mainnews&type=&date=2026-04-23&page=1"
+      "title": "코스피, 6450선 등락…개인 8200억원대 매수에 지수 방어[티타임]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001140312&office_id=417&mode=mainnews&type=&date=2026-04-23&page=1"
     },
     {
-      "title": "‘삼전닉스’ 달리니 소부장株도 날았다…반도체 온기 확산",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002634213&office_id=016&mode=mainnews&type=&date=2026-04-23&page=1"
+      "title": "K-원전 베트남 진출…대장주 두산에너빌리티 5%대 상승세",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005670344&office_id=009&mode=mainnews&type=&date=2026-04-23&page=1"
     },
     {
-      "title": "코스피 사상최고에 삼전닉스 빚투만 5.7조",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002634211&office_id=016&mode=mainnews&type=&date=2026-04-23&page=1"
+      "title": "삼성바이오로직스, 호실적에도 주가 내려가는 까닭",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001249953&office_id=215&mode=mainnews&type=&date=2026-04-23&page=1"
     },
     {
-      "title": "두산에너빌리티·셀트리온 쓸어담은 초고수…SK하이닉스는 ‘팔자’ [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004613859&office_id=011&mode=mainnews&type=&date=2026-04-23&page=1"
+      "title": "⑤ 영진약품, '10년 내리막' 투심 위축 '이중고'[전쟁 후 공매도]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000083296&office_id=293&mode=mainnews&type=&date=2026-04-23&page=1"
     }
   ]
 }
