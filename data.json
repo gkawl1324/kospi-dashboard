@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23 07:02:56",
+  "lastUpdated": "2026-04-23 08:17:07",
   "date": "2026.04.23",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1482.00",
-      "change": "2.50",
+      "value": "1482.50",
+      "change": "3.00",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "928.08",
-      "change": "0.52",
+      "value": "928.77",
+      "change": "1.21",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1734.16",
-      "change": "2.26",
+      "value": "1734.82",
+      "change": "2.92",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "216.83",
-      "change": "0.30",
+      "value": "216.87",
+      "change": "0.34",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "224572.01",
-      "change": "1046.40",
+      "value": "225016.62",
+      "change": "601.79",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "엔비디아 넘은 이익률 …최고 200만원 SK하이닉스 목표가 고공행진",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005348468&office_id=008&mode=mainnews&type=&date=2026-04-23&page=1"
+      "title": "“외면받던 2차전지도 다시 보자”…반등 넘어 ‘회복 국면’ 가나",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005670490&office_id=009&mode=mainnews&type=&date=2026-04-23&page=1"
     },
     {
-      "title": "코스피, 사흘 연속 사상 최고치 경신 행진…장중 6500선 넘기도",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005278828&office_id=015&mode=mainnews&type=&date=2026-04-23&page=1"
+      "title": "전쟁 약발 떨어지자 ‘그룹주 ETF’ 희비…삼성 웃었다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006264566&office_id=018&mode=mainnews&type=&date=2026-04-23&page=1"
     },
     {
-      "title": "[단독] 에코비트, 창원에너텍 인수 재추진한다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002634415&office_id=016&mode=mainnews&type=&date=2026-04-23&page=1"
+      "title": "RIA 한달, 1조 모여…돌아온 개미 엔비디아 팔고 삼전·하닉 샀다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005348557&office_id=008&mode=mainnews&type=&date=2026-04-23&page=1"
     },
     {
-      "title": "5.56%↑ 12만3900원 '원전 대장주' 저력…두산에너빌리티 '초강세' [신Go가]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000096898&office_id=243&mode=mainnews&type=&date=2026-04-23&page=1"
+      "title": "삼성전자 '22만전자' 안착 신고가…노조 파업 추가상승 '분수령'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008908495&office_id=421&mode=mainnews&type=&date=2026-04-23&page=1"
     },
     {
-      "title": "반도체 호황에 공모펀드도 '활짝'…유리운용 첫 1조 펀드 나왔다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005512329&office_id=014&mode=mainnews&type=&date=2026-04-23&page=1"
+      "title": "반도체도 GDP도 ‘슈퍼 서프’…6500 찍은 코스피, 7000 향해 뛴다 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002634464&office_id=016&mode=mainnews&type=&date=2026-04-23&page=1"
     },
     {
-      "title": "성호전자 \"ADS테크, 엔비디아 이어 브로드컴과 계약…AI 반도체 '양대 산맥' 잡았다\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005348389&office_id=008&mode=mainnews&type=&date=2026-04-23&page=1"
+      "title": "원전으로 볕 드나 했더니…이란발 삭풍에 한국전력 목표가↓",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005348537&office_id=008&mode=mainnews&type=&date=2026-04-23&page=1"
     },
     {
-      "title": "\"돈 벌었다, 일단 챙겨\" 차익실현 우르르...코스피 신고가 찍고 등락",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005348371&office_id=008&mode=mainnews&type=&date=2026-04-23&page=1"
+      "title": "랠리서 소외된 바이오株…바닥 찍고 반등할까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006264500&office_id=018&mode=mainnews&type=&date=2026-04-23&page=1"
     },
     {
-      "title": "\"엔비디아 잡는다\"…'상위 1%' 서학개미 쓸어담은 종목 [마켓PRO]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005278752&office_id=015&mode=mainnews&type=&date=2026-04-23&page=1"
+      "title": "1분기 실적 확인한 삼전·SK하닉… ‘상승랠리’ 이어질까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003023433&office_id=029&mode=mainnews&type=&date=2026-04-23&page=1"
     }
   ]
 }
