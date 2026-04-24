@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24 07:06:03",
+  "lastUpdated": "2026-04-24 08:29:16",
   "date": "2026.04.24",
   "kospi": {
     "name": "KOSPI",
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1485.00",
-      "change": "1.00",
-      "direction": "up"
+      "value": "1483.10",
+      "change": "0.90",
+      "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "929.90",
-      "change": "0.54",
-      "direction": "up"
+      "value": "928.68",
+      "change": "0.68",
+      "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1734.18",
-      "change": "0.02",
-      "direction": "down"
+      "value": "1734.26",
+      "change": "0.06",
+      "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "217.15",
-      "change": "0.03",
-      "direction": "up"
+      "value": "216.96",
+      "change": "0.16",
+      "direction": "down"
     }
   ],
   "oilPrices": [
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "223216.87",
-      "change": "1898.02",
+      "value": "223822.36",
+      "change": "1292.53",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "코스피, 6500선 찍고 6400선 후반 마감…코스닥은 2.5% 급등",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006265518&office_id=018&mode=mainnews&type=&date=2026-04-24&page=1"
+      "title": "주총 땐 아무말 않더니…지분 8631억 판다는 시총 9조 기업 최대주주 [이런국장 저런주식]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004614431&office_id=011&mode=mainnews&type=&date=2026-04-24&page=1"
     },
     {
-      "title": "드디어 코스닥까지…‘반도체·소부장’의 힘, 25년여만에 최고치 찍었다 [투자360]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002635013&office_id=016&mode=mainnews&type=&date=2026-04-24&page=1"
+      "title": "이제 외국인이 살 차례다[마켓칼럼]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005279350&office_id=015&mode=mainnews&type=&date=2026-04-24&page=1"
     },
     {
-      "title": "중동 긴장감 고조 속 삼전 2%↓…SK하이닉스도 약세로 마감[핫스탁](종합)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013908457&office_id=003&mode=mainnews&type=&date=2026-04-24&page=1"
+      "title": "삼성전자 노조 총파업 예고에 “내 주식 괜찮을까”…증권가도 ‘주가 영향’ 주시",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004614424&office_id=011&mode=mainnews&type=&date=2026-04-24&page=1"
     },
     {
-      "title": "코스닥, 25년여만에 최고치 찍었다…반도체 소부장·바이오 견인",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016041568&office_id=001&mode=mainnews&type=&date=2026-04-24&page=1"
+      "title": "거래소, 투자위험종목까지 ‘외상 거래’ 빗장 푼다... 시장경보 ‘증거금 100%’ 폐지",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001159612&office_id=366&mode=mainnews&type=&date=2026-04-24&page=1"
     },
     {
-      "title": "이엠텍, 제로금리 EB 발행…시총 육박하는 잉여금 눈길",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000046578&office_id=648&mode=mainnews&type=&date=2026-04-24&page=1"
+      "title": "K증시 상승세 계속…전력설비·반도체·조선주에 시선 집중 [매경 자이앤트]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005671037&office_id=009&mode=mainnews&type=&date=2026-04-24&page=1"
     },
     {
-      "title": "레거시 반도체도 '품귀'…DB하이텍, 파운드리 단가 인상 기대감 [마켓딥다이브]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001250097&office_id=215&mode=mainnews&type=&date=2026-04-24&page=1"
+      "title": "반도체가 하방 지지…다음주 증시, 고점 부담 속 숨고르기",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000096966&office_id=243&mode=mainnews&type=&date=2026-04-24&page=1"
     },
     {
-      "title": "\"외국인, 코스피 던지고 여기로\"...코스닥 1200 터치",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005348993&office_id=008&mode=mainnews&type=&date=2026-04-24&page=1"
+      "title": "\"26년 만에 1200 뚫었다\"…봄바람 불어오는 코스닥 시장",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013908583&office_id=003&mode=mainnews&type=&date=2026-04-24&page=1"
     },
     {
-      "title": "나스닥·테슬라 24시간 거래한다…코인판 덮친 ‘新 서학개미’ 돌풍",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005670948&office_id=009&mode=mainnews&type=&date=2026-04-24&page=1"
+      "title": "숨고르기 들어간 코스피…코스닥은 25년여만에 1200선 넘어(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013908570&office_id=003&mode=mainnews&type=&date=2026-04-24&page=1"
     }
   ]
 }
