@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-04-24 06:23:46",
+  "lastUpdated": "2026-04-24 07:06:03",
   "date": "2026.04.24",
   "kospi": {
     "name": "KOSPI",
-    "current": "6481.33",
-    "change": "5.52",
-    "changePct": "0.09",
+    "current": "6475.63",
+    "change": "0.18",
+    "changePct": "0.00",
     "direction": "up",
-    "volume": "859259",
-    "tradeAmount": "28675937"
+    "volume": "871049",
+    "tradeAmount": "29817196"
   },
   "stocks": [
     {
@@ -19,7 +19,7 @@
       "change": "-5000",
       "changePct": "-2.23",
       "direction": "down",
-      "volume": "18126651",
+      "volume": "19165257",
       "high": "225000",
       "low": "216500",
       "open": "224000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1225000",
-      "change": "0",
-      "changePct": "0.00",
-      "direction": "up",
-      "volume": "2852234",
+      "current": "1222000",
+      "change": "-3000",
+      "changePct": "-0.24",
+      "direction": "down",
+      "volume": "3055534",
       "high": "1242000",
       "low": "1193000",
       "open": "1237000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "96200",
-      "change": "-1200",
-      "changePct": "-1.23",
+      "current": "96000",
+      "change": "-1400",
+      "changePct": "-1.44",
       "direction": "down",
-      "volume": "156787",
+      "volume": "170339",
       "high": "97800",
       "low": "95800",
       "open": "97400",
@@ -61,7 +61,7 @@
       "change": "-3500",
       "changePct": "-1.61",
       "direction": "down",
-      "volume": "446076",
+      "volume": "476096",
       "high": "216500",
       "low": "213000",
       "open": "216000",
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1483.80",
-      "change": "0.20",
-      "direction": "down"
+      "value": "1485.00",
+      "change": "1.00",
+      "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "928.65",
-      "change": "0.71",
-      "direction": "down"
+      "value": "929.90",
+      "change": "0.54",
+      "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1732.78",
-      "change": "1.42",
+      "value": "1734.18",
+      "change": "0.02",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "217.04",
-      "change": "0.08",
-      "direction": "down"
+      "value": "217.15",
+      "change": "0.03",
+      "direction": "up"
     }
   ],
   "oilPrices": [
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "223106.19",
-      "change": "2008.70",
+      "value": "223216.87",
+      "change": "1898.02",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,6 +142,22 @@
   ],
   "news": [
     {
+      "title": "코스피, 6500선 찍고 6400선 후반 마감…코스닥은 2.5% 급등",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006265518&office_id=018&mode=mainnews&type=&date=2026-04-24&page=1"
+    },
+    {
+      "title": "드디어 코스닥까지…‘반도체·소부장’의 힘, 25년여만에 최고치 찍었다 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002635013&office_id=016&mode=mainnews&type=&date=2026-04-24&page=1"
+    },
+    {
+      "title": "중동 긴장감 고조 속 삼전 2%↓…SK하이닉스도 약세로 마감[핫스탁](종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013908457&office_id=003&mode=mainnews&type=&date=2026-04-24&page=1"
+    },
+    {
+      "title": "코스닥, 25년여만에 최고치 찍었다…반도체 소부장·바이오 견인",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016041568&office_id=001&mode=mainnews&type=&date=2026-04-24&page=1"
+    },
+    {
       "title": "이엠텍, 제로금리 EB 발행…시총 육박하는 잉여금 눈길",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000046578&office_id=648&mode=mainnews&type=&date=2026-04-24&page=1"
     },
@@ -156,22 +172,6 @@
     {
       "title": "나스닥·테슬라 24시간 거래한다…코인판 덮친 ‘新 서학개미’ 돌풍",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005670948&office_id=009&mode=mainnews&type=&date=2026-04-24&page=1"
-    },
-    {
-      "title": "곱버스 ETF '만년 동전주' 됐는데…제도에 막힌 액면병합",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013908131&office_id=003&mode=mainnews&type=&date=2026-04-24&page=1"
-    },
-    {
-      "title": "\"개미 다 죽는다\"…주식 거래시간 12시간 확대 '반발'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001250090&office_id=215&mode=mainnews&type=&date=2026-04-24&page=1"
-    },
-    {
-      "title": "승계 순항·방산주 재점화…한화그룹주 잘나가네",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005348965&office_id=008&mode=mainnews&type=&date=2026-04-24&page=1"
-    },
-    {
-      "title": "삼전닉스 던지고 '풀매수'…상위 1% 초고수들 쓸어담은 종목 [마켓PRO]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005279265&office_id=015&mode=mainnews&type=&date=2026-04-24&page=1"
     }
   ]
 }
