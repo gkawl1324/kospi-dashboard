@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-04-24 04:19:54",
+  "lastUpdated": "2026-04-24 06:23:46",
   "date": "2026.04.24",
   "kospi": {
     "name": "KOSPI",
-    "current": "6444.72",
-    "change": "31.09",
-    "changePct": "0.48",
+    "current": "6481.33",
+    "change": "5.52",
+    "changePct": "0.09",
     "direction": "up",
-    "volume": "664076",
-    "tradeAmount": "21781023"
+    "volume": "859259",
+    "tradeAmount": "28675937"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "218500",
-      "change": "-6000",
-      "changePct": "-2.67",
+      "current": "219500",
+      "change": "-5000",
+      "changePct": "-2.23",
       "direction": "down",
-      "volume": "14660568",
+      "volume": "18126651",
       "high": "225000",
       "low": "216500",
       "open": "224000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1205000",
-      "change": "-20000",
-      "changePct": "-1.63",
-      "direction": "down",
-      "volume": "2185488",
+      "current": "1225000",
+      "change": "0",
+      "changePct": "0.00",
+      "direction": "up",
+      "volume": "2852234",
       "high": "1242000",
       "low": "1193000",
       "open": "1237000",
@@ -47,7 +47,7 @@
       "change": "-1200",
       "changePct": "-1.23",
       "direction": "down",
-      "volume": "111940",
+      "volume": "156787",
       "high": "97800",
       "low": "95800",
       "open": "97400",
@@ -61,7 +61,7 @@
       "change": "-3500",
       "changePct": "-1.61",
       "direction": "down",
-      "volume": "303517",
+      "volume": "446076",
       "high": "216500",
       "low": "213000",
       "open": "216000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1482.50",
-      "change": "1.50",
+      "value": "1483.80",
+      "change": "0.20",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "927.81",
-      "change": "1.55",
+      "value": "928.65",
+      "change": "0.71",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1731.34",
-      "change": "2.86",
+      "value": "1732.78",
+      "change": "1.42",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "216.82",
-      "change": "0.30",
+      "value": "217.04",
+      "change": "0.08",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "222490.07",
-      "change": "2624.82",
+      "value": "223106.19",
+      "change": "2008.70",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "주식 고수들 ‘삼전닉스’ 던졌다…순매수 1위는 현대로템 [주식초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004614312&office_id=011&mode=mainnews&type=&date=2026-04-24&page=1"
+      "title": "이엠텍, 제로금리 EB 발행…시총 육박하는 잉여금 눈길",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000046578&office_id=648&mode=mainnews&type=&date=2026-04-24&page=1"
     },
     {
-      "title": "외인·기관, 이달 삼전닉스 5조 베팅… 개미, 10조털고 ‘전선’ 이동",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002787187&office_id=021&mode=mainnews&type=&date=2026-04-24&page=1"
+      "title": "레거시 반도체도 '품귀'…DB하이텍, 파운드리 단가 인상 기대감 [마켓딥다이브]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001250097&office_id=215&mode=mainnews&type=&date=2026-04-24&page=1"
     },
     {
-      "title": "美상장, 플피냐 마피냐[SK하이닉스 ADR 날개]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005754375&office_id=277&mode=mainnews&type=&date=2026-04-24&page=1"
+      "title": "\"외국인, 코스피 던지고 여기로\"...코스닥 1200 터치",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005348993&office_id=008&mode=mainnews&type=&date=2026-04-24&page=1"
     },
     {
-      "title": "초대형 개발 '이오타 서울2', 결국 회생…대주단 전원 리파이낸싱 동의",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006265243&office_id=018&mode=mainnews&type=&date=2026-04-24&page=1"
+      "title": "나스닥·테슬라 24시간 거래한다…코인판 덮친 ‘新 서학개미’ 돌풍",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005670948&office_id=009&mode=mainnews&type=&date=2026-04-24&page=1"
     },
     {
-      "title": "액티브 ETF 100조 돌파…ETF 시장서 '존재감' 키웠다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013907757&office_id=003&mode=mainnews&type=&date=2026-04-24&page=1"
+      "title": "곱버스 ETF '만년 동전주' 됐는데…제도에 막힌 액면병합",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013908131&office_id=003&mode=mainnews&type=&date=2026-04-24&page=1"
     },
     {
-      "title": "에코비트, 창원에너텍 인수 재추진한다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002634841&office_id=016&mode=mainnews&type=&date=2026-04-24&page=1"
+      "title": "\"개미 다 죽는다\"…주식 거래시간 12시간 확대 '반발'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001250090&office_id=215&mode=mainnews&type=&date=2026-04-24&page=1"
     },
     {
-      "title": "달리던 코스피, 6460선 약보합 '숨고르기'…전력기기株 동반 질주",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005279238&office_id=015&mode=mainnews&type=&date=2026-04-24&page=1"
+      "title": "승계 순항·방산주 재점화…한화그룹주 잘나가네",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005348965&office_id=008&mode=mainnews&type=&date=2026-04-24&page=1"
     },
     {
-      "title": "조정심리 확산…대차잔고 167조 사상 최대",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002634828&office_id=016&mode=mainnews&type=&date=2026-04-24&page=1"
+      "title": "삼전닉스 던지고 '풀매수'…상위 1% 초고수들 쓸어담은 종목 [마켓PRO]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005279265&office_id=015&mode=mainnews&type=&date=2026-04-24&page=1"
     }
   ]
 }
