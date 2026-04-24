@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-04-24 03:56:22",
+  "lastUpdated": "2026-04-24 04:19:54",
   "date": "2026.04.24",
   "kospi": {
     "name": "KOSPI",
-    "current": "6429.99",
-    "change": "45.82",
-    "changePct": "0.71",
+    "current": "6444.72",
+    "change": "31.09",
+    "changePct": "0.48",
     "direction": "up",
-    "volume": "627223",
-    "tradeAmount": "20038277"
+    "volume": "664076",
+    "tradeAmount": "21781023"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "217500",
-      "change": "-7000",
-      "changePct": "-3.12",
+      "current": "218500",
+      "change": "-6000",
+      "changePct": "-2.67",
       "direction": "down",
-      "volume": "12984759",
+      "volume": "14660568",
       "high": "225000",
-      "low": "217500",
+      "low": "216500",
       "open": "224000",
       "marketCap": "0"
     },
@@ -29,13 +29,13 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1204000",
-      "change": "-21000",
-      "changePct": "-1.71",
+      "current": "1205000",
+      "change": "-20000",
+      "changePct": "-1.63",
       "direction": "down",
-      "volume": "1817281",
+      "volume": "2185488",
       "high": "1242000",
-      "low": "1203000",
+      "low": "1193000",
       "open": "1237000",
       "marketCap": "0"
     },
@@ -47,9 +47,9 @@
       "change": "-1200",
       "changePct": "-1.23",
       "direction": "down",
-      "volume": "84135",
+      "volume": "111940",
       "high": "97800",
-      "low": "96000",
+      "low": "95800",
       "open": "97400",
       "marketCap": "0"
     },
@@ -57,13 +57,13 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "213500",
-      "change": "-4000",
-      "changePct": "-1.84",
+      "current": "214000",
+      "change": "-3500",
+      "changePct": "-1.61",
       "direction": "down",
-      "volume": "263095",
+      "volume": "303517",
       "high": "216500",
-      "low": "213500",
+      "low": "213000",
       "open": "216000",
       "marketCap": "0"
     }
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1483.20",
-      "change": "0.80",
+      "value": "1482.50",
+      "change": "1.50",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "928.13",
-      "change": "1.23",
+      "value": "927.81",
+      "change": "1.55",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1732.08",
-      "change": "2.12",
+      "value": "1731.34",
+      "change": "2.86",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "216.89",
-      "change": "0.23",
+      "value": "216.82",
+      "change": "0.30",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "222932.47",
-      "change": "2182.42",
+      "value": "222490.07",
+      "change": "2624.82",
       "direction": "down",
       "unit": "USD/oz"
     },
