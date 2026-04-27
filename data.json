@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-04-27 04:33:49",
+  "lastUpdated": "2026-04-27 07:12:16",
   "date": "2026.04.27",
   "kospi": {
     "name": "KOSPI",
-    "current": "6647.36",
-    "change": "171.73",
-    "changePct": "2.65",
+    "current": "6615.03",
+    "change": "139.40",
+    "changePct": "2.15",
     "direction": "up",
-    "volume": "665564",
-    "tradeAmount": "24369462"
+    "volume": "835649",
+    "tradeAmount": "32966630"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "225500",
-      "change": "6000",
-      "changePct": "2.73",
+      "current": "224500",
+      "change": "5000",
+      "changePct": "2.28",
       "direction": "up",
-      "volume": "16131315",
+      "volume": "22526592",
       "high": "226000",
       "low": "218500",
       "open": "220000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1313000",
-      "change": "91000",
-      "changePct": "7.45",
+      "current": "1292000",
+      "change": "70000",
+      "changePct": "5.73",
       "direction": "up",
-      "volume": "3085610",
+      "volume": "4392195",
       "high": "1317000",
       "low": "1249000",
       "open": "1253000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "95800",
-      "change": "-200",
-      "changePct": "-0.21",
+      "current": "95500",
+      "change": "-500",
+      "changePct": "-0.52",
       "direction": "down",
-      "volume": "91706",
+      "volume": "160162",
       "high": "96700",
       "low": "95300",
       "open": "96400",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "215500",
-      "change": "1500",
-      "changePct": "0.70",
+      "current": "215000",
+      "change": "1000",
+      "changePct": "0.47",
       "direction": "up",
-      "volume": "319914",
+      "volume": "458738",
       "high": "218500",
       "low": "215000",
       "open": "216000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1471.30",
-      "change": "6.20",
+      "value": "1472.00",
+      "change": "5.50",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "924.39",
-      "change": "2.49",
+      "value": "924.48",
+      "change": "2.40",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1725.91",
-      "change": "5.79",
+      "value": "1727.54",
+      "change": "4.16",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "215.47",
-      "change": "0.72",
+      "value": "215.59",
+      "change": "0.60",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "223634.04",
-      "change": "1161.53",
+      "value": "223113.69",
+      "change": "1681.88",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "25년만 1200선 뚫은 코스닥 훈풍 솔솔…'소부장·바이오' 업고 랠리 이어가나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000494908&office_id=629&mode=mainnews&type=&date=2026-04-27&page=1"
+      "title": "‘7천피’ 시대 보인다…또 사상 최고치 뚫은 코스피 [마켓시그널]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004615127&office_id=011&mode=mainnews&type=&date=2026-04-27&page=1"
     },
     {
-      "title": "증시 불장 속 상위 1% 주식 고수는 바이오株 담았다 [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004615051&office_id=011&mode=mainnews&type=&date=2026-04-27&page=1"
+      "title": "'AI 붐'에 상승장 이끈 IT·전력기기株…\"진짜는 2분기부터\"(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016045745&office_id=001&mode=mainnews&type=&date=2026-04-27&page=1"
     },
     {
-      "title": "삼전·하닉 견인 국장 상승세… 이번주 미국 ‘슈퍼위크’에 달렸다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002787643&office_id=021&mode=mainnews&type=&date=2026-04-27&page=1"
+      "title": "반도체 장비주 나란히 웃었다...100% 오르며 '들썩'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005513902&office_id=014&mode=mainnews&type=&date=2026-04-27&page=1"
     },
     {
-      "title": "'지금이라도 올라타야 하나'…'장기 호황' 날개 달았다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001250282&office_id=215&mode=mainnews&type=&date=2026-04-27&page=1"
+      "title": "코스피 연일 최고치 경신에…'빚투'도 천장 뚫렸다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016045724&office_id=001&mode=mainnews&type=&date=2026-04-27&page=1"
     },
     {
-      "title": "진입도 퇴출도 험난…밸류업 성장통 [H-EXCLUSIVE]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002635849&office_id=016&mode=mainnews&type=&date=2026-04-27&page=1"
+      "title": "‘200만닉스’ 대세인데…SK하닉 9개월만에 투자의견 하향 보고서 나왔다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003023936&office_id=029&mode=mainnews&type=&date=2026-04-27&page=1"
     },
     {
-      "title": "상승장 속 복병 된 노조 파업…삼성전자 주가 흔들리나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000494880&office_id=629&mode=mainnews&type=&date=2026-04-27&page=1"
+      "title": "K-증시 파죽지세…코스피 6600·SK하이닉스 130만 동시에 뚫었다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005349954&office_id=008&mode=mainnews&type=&date=2026-04-27&page=1"
     },
     {
-      "title": "130만원 터치한 SK하이닉스…올해만 주가 99.7% 올랐다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005349758&office_id=008&mode=mainnews&type=&date=2026-04-27&page=1"
+      "title": "“이 나라는 번개 배달이 일상”…미국·유럽 방산주 식을때 뜨거운 한국 방산주",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005671969&office_id=009&mode=mainnews&type=&date=2026-04-27&page=1"
     },
     {
-      "title": "최대주주가 8600억대 지분 매각…리노공업 14% 급락 [이런국장 저런주식]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004615039&office_id=011&mode=mainnews&type=&date=2026-04-27&page=1"
+      "title": "'반도체 말고도…' 깜짝 실적에 주목받는 종목들",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005349944&office_id=008&mode=mainnews&type=&date=2026-04-27&page=1"
     }
   ]
 }
