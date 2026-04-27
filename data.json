@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-04-27 04:05:18",
+  "lastUpdated": "2026-04-27 04:33:49",
   "date": "2026.04.27",
   "kospi": {
     "name": "KOSPI",
-    "current": "6631.35",
-    "change": "155.72",
-    "changePct": "2.40",
+    "current": "6647.36",
+    "change": "171.73",
+    "changePct": "2.65",
     "direction": "up",
-    "volume": "631291",
-    "tradeAmount": "22667535"
+    "volume": "665564",
+    "tradeAmount": "24369462"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "224500",
-      "change": "5000",
-      "changePct": "2.28",
+      "current": "225500",
+      "change": "6000",
+      "changePct": "2.73",
       "direction": "up",
-      "volume": "15028028",
+      "volume": "16131315",
       "high": "226000",
       "low": "218500",
       "open": "220000",
@@ -29,12 +29,12 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1310000",
-      "change": "88000",
-      "changePct": "7.20",
+      "current": "1313000",
+      "change": "91000",
+      "changePct": "7.45",
       "direction": "up",
-      "volume": "2905064",
-      "high": "1315000",
+      "volume": "3085610",
+      "high": "1317000",
       "low": "1249000",
       "open": "1253000",
       "marketCap": "0"
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "95900",
-      "change": "-100",
-      "changePct": "-0.10",
+      "current": "95800",
+      "change": "-200",
+      "changePct": "-0.21",
       "direction": "down",
-      "volume": "77067",
+      "volume": "91706",
       "high": "96700",
       "low": "95300",
       "open": "96400",
@@ -61,9 +61,9 @@
       "change": "1500",
       "changePct": "0.70",
       "direction": "up",
-      "volume": "263587",
+      "volume": "319914",
       "high": "218500",
-      "low": "215500",
+      "low": "215000",
       "open": "216000",
       "marketCap": "0"
     }
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1470.80",
-      "change": "6.70",
+      "value": "1471.30",
+      "change": "6.20",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "923.84",
-      "change": "3.04",
+      "value": "924.39",
+      "change": "2.49",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1725.10",
-      "change": "6.60",
+      "value": "1725.91",
+      "change": "5.79",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "215.40",
-      "change": "0.79",
+      "value": "215.47",
+      "change": "0.72",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "223450.19",
-      "change": "1345.38",
+      "value": "223634.04",
+      "change": "1161.53",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -166,12 +166,12 @@
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000494880&office_id=629&mode=mainnews&type=&date=2026-04-27&page=1"
     },
     {
-      "title": "최대주주가 8600억대 지분 매각…리노공업 14% 급락 [이런국장 저런주식]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004615039&office_id=011&mode=mainnews&type=&date=2026-04-27&page=1"
+      "title": "130만원 터치한 SK하이닉스…올해만 주가 99.7% 올랐다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005349758&office_id=008&mode=mainnews&type=&date=2026-04-27&page=1"
     },
     {
-      "title": "자산가는 전쟁 이후를 본다…재건·에너지 인프라주 분할매수[큰손따라잡기]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002635812&office_id=016&mode=mainnews&type=&date=2026-04-27&page=1"
+      "title": "최대주주가 8600억대 지분 매각…리노공업 14% 급락 [이런국장 저런주식]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004615039&office_id=011&mode=mainnews&type=&date=2026-04-27&page=1"
     }
   ]
 }
