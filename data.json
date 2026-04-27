@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27 07:12:16",
+  "lastUpdated": "2026-04-27 07:37:26",
   "date": "2026.04.27",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1472.00",
-      "change": "5.50",
+      "value": "1471.90",
+      "change": "5.60",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "924.48",
-      "change": "2.40",
+      "value": "924.47",
+      "change": "2.41",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1727.54",
-      "change": "4.16",
+      "value": "1726.76",
+      "change": "4.94",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "215.59",
-      "change": "0.60",
+      "value": "215.60",
+      "change": "0.59",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "223113.69",
-      "change": "1681.88",
+      "value": "223075.26",
+      "change": "1720.31",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,6 +142,22 @@
   ],
   "news": [
     {
+      "title": "AI 슈퍼사이클 탄 전력기기 ETF, 수익률 '쑥'… 실적도 뒷받침",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005349989&office_id=008&mode=mainnews&type=&date=2026-04-27&page=1"
+    },
+    {
+      "title": "400만원 엿보는 효성중공업…황제주 랠리에 ETF도 ‘들썩’ [김지영의 생존투자]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003023945&office_id=029&mode=mainnews&type=&date=2026-04-27&page=1"
+    },
+    {
+      "title": "코스피, 중동 리스크 완화·실적 기대에 최고치…6,600고지 돌파(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016045786&office_id=001&mode=mainnews&type=&date=2026-04-27&page=1"
+    },
+    {
+      "title": "전쟁 면역력 높아진 증시, 6600선 뚫고 시총 6000조 돌파",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000046639&office_id=648&mode=mainnews&type=&date=2026-04-27&page=1"
+    },
+    {
       "title": "‘7천피’ 시대 보인다…또 사상 최고치 뚫은 코스피 [마켓시그널]",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0004615127&office_id=011&mode=mainnews&type=&date=2026-04-27&page=1"
     },
@@ -150,28 +166,12 @@
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0016045745&office_id=001&mode=mainnews&type=&date=2026-04-27&page=1"
     },
     {
+      "title": "코스피 사상 첫 6600선 마감…반도체 랠리에 최고치 경신(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013912444&office_id=003&mode=mainnews&type=&date=2026-04-27&page=1"
+    },
+    {
       "title": "반도체 장비주 나란히 웃었다...100% 오르며 '들썩'",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005513902&office_id=014&mode=mainnews&type=&date=2026-04-27&page=1"
-    },
-    {
-      "title": "코스피 연일 최고치 경신에…'빚투'도 천장 뚫렸다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016045724&office_id=001&mode=mainnews&type=&date=2026-04-27&page=1"
-    },
-    {
-      "title": "‘200만닉스’ 대세인데…SK하닉 9개월만에 투자의견 하향 보고서 나왔다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003023936&office_id=029&mode=mainnews&type=&date=2026-04-27&page=1"
-    },
-    {
-      "title": "K-증시 파죽지세…코스피 6600·SK하이닉스 130만 동시에 뚫었다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005349954&office_id=008&mode=mainnews&type=&date=2026-04-27&page=1"
-    },
-    {
-      "title": "“이 나라는 번개 배달이 일상”…미국·유럽 방산주 식을때 뜨거운 한국 방산주",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005671969&office_id=009&mode=mainnews&type=&date=2026-04-27&page=1"
-    },
-    {
-      "title": "'반도체 말고도…' 깜짝 실적에 주목받는 종목들",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005349944&office_id=008&mode=mainnews&type=&date=2026-04-27&page=1"
     }
   ]
 }
