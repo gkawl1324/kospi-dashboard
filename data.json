@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-28 07:12:43",
+  "lastUpdated": "2026-04-28 07:34:07",
   "date": "2026.04.28",
   "kospi": {
     "name": "KOSPI",
@@ -79,22 +79,22 @@
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "925.16",
-      "change": "0.07",
+      "value": "924.75",
+      "change": "0.48",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1723.67",
-      "change": "5.25",
+      "value": "1724.40",
+      "change": "4.52",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "215.64",
-      "change": "0.41",
+      "value": "215.66",
+      "change": "0.39",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "219670.42",
-      "change": "2046.12",
+      "value": "219525.3",
+      "change": "2191.24",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -141,6 +141,14 @@
     }
   ],
   "news": [
+    {
+      "title": "‘또 경신’ 코스피 6641.02 마감…이틀 연속 사상 최고치 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002636683&office_id=016&mode=mainnews&type=&date=2026-04-28&page=1"
+    },
+    {
+      "title": "SK하이닉스 종가 기준 첫 '130만원' 안착…'파업리스크' 삼전 1%↓(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008916878&office_id=421&mode=mainnews&type=&date=2026-04-28&page=1"
+    },
     {
       "title": "전쟁은 잊혔는데 유가는 고공행진, 거꾸로 베팅한 개미들 2300억원 증발 위험",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0001160409&office_id=366&mode=mainnews&type=&date=2026-04-28&page=1"
@@ -164,14 +172,6 @@
     {
       "title": "[속보] 코스피 6641.02 마감…이틀 연속 사상 최고치 경신",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005672587&office_id=009&mode=mainnews&type=&date=2026-04-28&page=1"
-    },
-    {
-      "title": "'삼전닉스' 효과…K증시, 영국 제치고 글로벌 시총 8위 등극",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000178033&office_id=654&mode=mainnews&type=&date=2026-04-28&page=1"
-    },
-    {
-      "title": "\"스페이스X 기대에 몰렸는데\"…우주 ETF 수익률 '와르르'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005280687&office_id=015&mode=mainnews&type=&date=2026-04-28&page=1"
     }
   ]
 }
