@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-04-28 04:11:31",
+  "lastUpdated": "2026-04-28 04:37:02",
   "date": "2026.04.28",
   "kospi": {
     "name": "KOSPI",
-    "current": "6687.50",
-    "change": "72.47",
-    "changePct": "1.10",
+    "current": "6686.07",
+    "change": "71.04",
+    "changePct": "1.07",
     "direction": "up",
-    "volume": "857440",
-    "tradeAmount": "27194368"
+    "volume": "896247",
+    "tradeAmount": "28409940"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "223500",
-      "change": "-1000",
-      "changePct": "-0.45",
+      "current": "222750",
+      "change": "-1750",
+      "changePct": "-0.78",
       "direction": "down",
-      "volume": "12648439",
+      "volume": "13332009",
       "high": "226000",
       "low": "221500",
       "open": "224000",
@@ -33,7 +33,7 @@
       "change": "24000",
       "changePct": "1.86",
       "direction": "up",
-      "volume": "2020964",
+      "volume": "2088985",
       "high": "1328000",
       "low": "1296000",
       "open": "1313000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "98000",
-      "change": "2500",
-      "changePct": "2.62",
+      "current": "98200",
+      "change": "2700",
+      "changePct": "2.83",
       "direction": "up",
-      "volume": "157894",
+      "volume": "165521",
       "high": "100900",
       "low": "97600",
       "open": "98000",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "219000",
-      "change": "4000",
-      "changePct": "1.86",
+      "current": "219750",
+      "change": "4750",
+      "changePct": "2.21",
       "direction": "up",
-      "volume": "576961",
+      "volume": "594352",
       "high": "223500",
       "low": "215000",
       "open": "215500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1472.90",
-      "change": "2.10",
+      "value": "1472.50",
+      "change": "2.50",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "926.03",
-      "change": "0.80",
+      "value": "925.72",
+      "change": "0.49",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1725.06",
-      "change": "3.86",
+      "value": "1725.03",
+      "change": "3.89",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "215.66",
-      "change": "0.39",
+      "value": "215.62",
+      "change": "0.43",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "221074.02",
-      "change": "642.52",
+      "value": "220972.49",
+      "change": "744.05",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,12 +142,20 @@
   ],
   "news": [
     {
+      "title": "“7000피도 보인다” 코스피 최고치 또 경신…반도체 온기 확산·중동 리스크 정점 지났다 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002636546&office_id=016&mode=mainnews&type=&date=2026-04-28&page=1"
+    },
+    {
       "title": "믿고 맡기는 ETF… 순자산 400조원 넘어서[자본이 이끄는 금융혁신 시대]",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002787921&office_id=021&mode=mainnews&type=&date=2026-04-28&page=1"
     },
     {
       "title": "제강 수요 폭발 기대감…철강株 '불기둥'",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005350411&office_id=008&mode=mainnews&type=&date=2026-04-28&page=1"
+    },
+    {
+      "title": "1분기 IMA·발행어음 4.7조 유입…증권사 '자본경쟁' 불붙었다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013914170&office_id=003&mode=mainnews&type=&date=2026-04-28&page=1"
     },
     {
       "title": "K증시, 영국 제쳤다…글로벌 시총 8위 '우뚝'",
@@ -164,14 +172,6 @@
     {
       "title": "상위 1%, 스페이스X 기대감에 베팅…OCI홀딩스, 순매수 1위 [주식 초고수는 지금]",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0004615443&office_id=011&mode=mainnews&type=&date=2026-04-28&page=1"
-    },
-    {
-      "title": "‘1주 400만원 돌파’ 효성중공업 최고 황제주 [AI 슈퍼사이클 탄 전력기기]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002636429&office_id=016&mode=mainnews&type=&date=2026-04-28&page=1"
-    },
-    {
-      "title": "AI 투자흐름 반도체서 전력·인프라로 머니무브 [AI 슈퍼사이클 탄 전력기기]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002636427&office_id=016&mode=mainnews&type=&date=2026-04-28&page=1"
     }
   ]
 }
