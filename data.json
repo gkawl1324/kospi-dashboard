@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-04-28 04:37:02",
+  "lastUpdated": "2026-04-28 07:12:43",
   "date": "2026.04.28",
   "kospi": {
     "name": "KOSPI",
-    "current": "6686.07",
-    "change": "71.04",
-    "changePct": "1.07",
+    "current": "6641.02",
+    "change": "25.99",
+    "changePct": "0.39",
     "direction": "up",
-    "volume": "896247",
-    "tradeAmount": "28409940"
+    "volume": "1131706",
+    "tradeAmount": "37319156"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "222750",
-      "change": "-1750",
-      "changePct": "-0.78",
+      "current": "222000",
+      "change": "-2500",
+      "changePct": "-1.11",
       "direction": "down",
-      "volume": "13332009",
+      "volume": "18373810",
       "high": "226000",
       "low": "221500",
       "open": "224000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1316000",
-      "change": "24000",
-      "changePct": "1.86",
+      "current": "1300000",
+      "change": "8000",
+      "changePct": "0.62",
       "direction": "up",
-      "volume": "2088985",
+      "volume": "2930442",
       "high": "1328000",
       "low": "1296000",
       "open": "1313000",
@@ -47,7 +47,7 @@
       "change": "2700",
       "changePct": "2.83",
       "direction": "up",
-      "volume": "165521",
+      "volume": "241155",
       "high": "100900",
       "low": "97600",
       "open": "98000",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "219750",
-      "change": "4750",
-      "changePct": "2.21",
+      "current": "219500",
+      "change": "4500",
+      "changePct": "2.09",
       "direction": "up",
-      "volume": "594352",
+      "volume": "758420",
       "high": "223500",
       "low": "215000",
       "open": "215500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1472.50",
-      "change": "2.50",
+      "value": "1474.10",
+      "change": "0.90",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "925.72",
-      "change": "0.49",
-      "direction": "up"
+      "value": "925.16",
+      "change": "0.07",
+      "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1725.03",
-      "change": "3.89",
+      "value": "1723.67",
+      "change": "5.25",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "215.62",
-      "change": "0.43",
+      "value": "215.64",
+      "change": "0.41",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "220972.49",
-      "change": "744.05",
+      "value": "219670.42",
+      "change": "2046.12",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "“7000피도 보인다” 코스피 최고치 또 경신…반도체 온기 확산·중동 리스크 정점 지났다 [투자360]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002636546&office_id=016&mode=mainnews&type=&date=2026-04-28&page=1"
+      "title": "전쟁은 잊혔는데 유가는 고공행진, 거꾸로 베팅한 개미들 2300억원 증발 위험",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001160409&office_id=366&mode=mainnews&type=&date=2026-04-28&page=1"
     },
     {
-      "title": "믿고 맡기는 ETF… 순자산 400조원 넘어서[자본이 이끄는 금융혁신 시대]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002787921&office_id=021&mode=mainnews&type=&date=2026-04-28&page=1"
+      "title": "4.5% 더 오르면 7000피…코스피 강세 마감",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005350601&office_id=008&mode=mainnews&type=&date=2026-04-28&page=1"
     },
     {
-      "title": "제강 수요 폭발 기대감…철강株 '불기둥'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005350411&office_id=008&mode=mainnews&type=&date=2026-04-28&page=1"
+      "title": "빅테크 실적 기대감에 美 AI·반도체 ETF도 훨훨",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005350600&office_id=008&mode=mainnews&type=&date=2026-04-28&page=1"
     },
     {
-      "title": "1분기 IMA·발행어음 4.7조 유입…증권사 '자본경쟁' 불붙었다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013914170&office_id=003&mode=mainnews&type=&date=2026-04-28&page=1"
+      "title": "레버리지 열풍, 관련 반도체 ETF 자산 올해만 361%↑",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005350595&office_id=008&mode=mainnews&type=&date=2026-04-28&page=1"
     },
     {
-      "title": "K증시, 영국 제쳤다…글로벌 시총 8위 '우뚝'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005514367&office_id=014&mode=mainnews&type=&date=2026-04-28&page=1"
+      "title": "한달 간 87% 급등했지만…증권가 \"아직도 싸다\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000097171&office_id=243&mode=mainnews&type=&date=2026-04-28&page=1"
     },
     {
-      "title": "글로벌 반도체 랠리…‘급등 뒤 급락’ 경계론",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002636466&office_id=016&mode=mainnews&type=&date=2026-04-28&page=1"
+      "title": "[속보] 코스피 6641.02 마감…이틀 연속 사상 최고치 경신",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005672587&office_id=009&mode=mainnews&type=&date=2026-04-28&page=1"
     },
     {
-      "title": "'임상 실패' 평가에 주가 폭락하는데…초고수들 쓸어담은 이유  [마켓PRO]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005280605&office_id=015&mode=mainnews&type=&date=2026-04-28&page=1"
+      "title": "'삼전닉스' 효과…K증시, 영국 제치고 글로벌 시총 8위 등극",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000178033&office_id=654&mode=mainnews&type=&date=2026-04-28&page=1"
     },
     {
-      "title": "상위 1%, 스페이스X 기대감에 베팅…OCI홀딩스, 순매수 1위 [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004615443&office_id=011&mode=mainnews&type=&date=2026-04-28&page=1"
+      "title": "\"스페이스X 기대에 몰렸는데\"…우주 ETF 수익률 '와르르'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005280687&office_id=015&mode=mainnews&type=&date=2026-04-28&page=1"
     }
   ]
 }
