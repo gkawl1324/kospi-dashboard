@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-04-29 04:33:04",
+  "lastUpdated": "2026-04-29 06:42:21",
   "date": "2026.04.29",
   "kospi": {
     "name": "KOSPI",
-    "current": "6695.57",
-    "change": "54.55",
-    "changePct": "0.82",
+    "current": "6690.90",
+    "change": "49.88",
+    "changePct": "0.75",
     "direction": "up",
-    "volume": "564949",
-    "tradeAmount": "22063258"
+    "volume": "712281",
+    "tradeAmount": "31016983"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "227000",
-      "change": "5000",
-      "changePct": "2.25",
+      "current": "226000",
+      "change": "4000",
+      "changePct": "1.80",
       "direction": "up",
-      "volume": "12225696",
+      "volume": "20204480",
       "high": "228000",
       "low": "218500",
       "open": "219500",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1303000",
-      "change": "3000",
-      "changePct": "0.23",
-      "direction": "up",
-      "volume": "1917270",
+      "current": "1293000",
+      "change": "-7000",
+      "changePct": "-0.54",
+      "direction": "down",
+      "volume": "2853594",
       "high": "1317000",
       "low": "1281000",
       "open": "1284000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "97700",
-      "change": "-500",
-      "changePct": "-0.51",
-      "direction": "down",
-      "volume": "81217",
+      "current": "98300",
+      "change": "100",
+      "changePct": "0.10",
+      "direction": "up",
+      "volume": "191743",
       "high": "98900",
       "low": "97500",
       "open": "98200",
@@ -61,7 +61,7 @@
       "change": "500",
       "changePct": "0.23",
       "direction": "up",
-      "volume": "543800",
+      "volume": "672876",
       "high": "227500",
       "low": "219000",
       "open": "223000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1476.70",
-      "change": "2.20",
+      "value": "1477.00",
+      "change": "2.50",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "924.99",
-      "change": "0.94",
+      "value": "925.06",
+      "change": "1.01",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1728.63",
-      "change": "0.88",
+      "value": "1728.61",
+      "change": "0.86",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "215.97",
-      "change": "0.35",
+      "value": "216.07",
+      "change": "0.45",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "218484.31",
-      "change": "1092.94",
+      "value": "217760.81",
+      "change": "369.44",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "대표 한 자리 결국 중앙회?…인사 '우여곡절'[NH증권 리더십 재편]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000083661&office_id=293&mode=mainnews&type=&date=2026-04-29&page=1"
+      "title": "\"삼성전기가 갈랐다\"...같은 韓 반도체 ETF인데 수익률은 2배 격차",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005281242&office_id=015&mode=mainnews&type=&date=2026-04-29&page=1"
     },
     {
-      "title": "‘삼전닉스’ 주도 코스피 불장… 반도체 ETF ‘수익률 100%’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002788307&office_id=021&mode=mainnews&type=&date=2026-04-29&page=1"
+      "title": "코스닥도 반도체가 실적 '리드'···코스닥은 체질 개선 중",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005351140&office_id=008&mode=mainnews&type=&date=2026-04-29&page=1"
     },
     {
-      "title": "코스피, 외국인 매도세에 보합권…FOMC·빅테크 실적 대기",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006268997&office_id=018&mode=mainnews&type=&date=2026-04-29&page=1"
+      "title": "미래에셋증권, 1분기 이익 급증 전망…증권사 ‘톱티어’ 재진입 유력",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000097227&office_id=243&mode=mainnews&type=&date=2026-04-29&page=1"
     },
     {
-      "title": "“스페이스X 투자 될까” 초고수 순매수 1위에 미래에셋證 [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004615888&office_id=011&mode=mainnews&type=&date=2026-04-29&page=1"
+      "title": "\"5월엔 팔아라\" 공포의 격언…코스피 질주에 '초조한 개미들'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005281220&office_id=015&mode=mainnews&type=&date=2026-04-29&page=1"
     },
     {
-      "title": "\"계좌만 빌려줬다\" 안 통했다…도이치 판결, 작전주 '돈줄' 겨눌까",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000495575&office_id=629&mode=mainnews&type=&date=2026-04-29&page=1"
+      "title": "‘130만닉스’ 팔고 ‘이 종목’ 1000억어치 담았다…연기금의 선택은 바로",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004615963&office_id=011&mode=mainnews&type=&date=2026-04-29&page=1"
     },
     {
-      "title": "삼성증권, AI 생태계 IPO 두각",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001025479&office_id=031&mode=mainnews&type=&date=2026-04-29&page=1"
+      "title": "“중동 재건 기대에 건설株 벌써부터 들썩”…증권가는 아직 ‘신중론’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005673147&office_id=009&mode=mainnews&type=&date=2026-04-29&page=1"
     },
     {
-      "title": "\"5조 비업무용 자산\" 지적한 금감원…한화솔루션 '1.8조 유증' 통과할까",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013916642&office_id=003&mode=mainnews&type=&date=2026-04-29&page=1"
+      "title": "구조조정으로 체질 개선 기대…롯데케미칼 24% 급등 [매경 자이앤트]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005673139&office_id=009&mode=mainnews&type=&date=2026-04-29&page=1"
     },
     {
-      "title": "엑시콘, 삼성에 CLT  공급 확대…반도체 설비투자 가속",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002637125&office_id=016&mode=mainnews&type=&date=2026-04-29&page=1"
+      "title": "제이알글로벌리츠 첫 법정관리 신청…\"4천억 묶였다\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001250590&office_id=215&mode=mainnews&type=&date=2026-04-29&page=1"
     }
   ]
 }
