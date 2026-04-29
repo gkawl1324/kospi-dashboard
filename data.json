@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-04-29 04:08:05",
+  "lastUpdated": "2026-04-29 04:33:04",
   "date": "2026.04.29",
   "kospi": {
     "name": "KOSPI",
-    "current": "6669.77",
-    "change": "28.75",
-    "changePct": "0.43",
+    "current": "6695.57",
+    "change": "54.55",
+    "changePct": "0.82",
     "direction": "up",
-    "volume": "535421",
-    "tradeAmount": "20263530"
+    "volume": "564949",
+    "tradeAmount": "22063258"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "221750",
-      "change": "-250",
-      "changePct": "-0.11",
-      "direction": "down",
-      "volume": "9555641",
-      "high": "222500",
+      "current": "227000",
+      "change": "5000",
+      "changePct": "2.25",
+      "direction": "up",
+      "volume": "12225696",
+      "high": "228000",
       "low": "218500",
       "open": "219500",
       "marketCap": "0"
@@ -33,7 +33,7 @@
       "change": "3000",
       "changePct": "0.23",
       "direction": "up",
-      "volume": "1778591",
+      "volume": "1917270",
       "high": "1317000",
       "low": "1281000",
       "open": "1284000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "97900",
-      "change": "-300",
-      "changePct": "-0.31",
+      "current": "97700",
+      "change": "-500",
+      "changePct": "-0.51",
       "direction": "down",
-      "volume": "71226",
+      "volume": "81217",
       "high": "98900",
       "low": "97500",
       "open": "98200",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "221500",
-      "change": "2000",
-      "changePct": "0.91",
+      "current": "220000",
+      "change": "500",
+      "changePct": "0.23",
       "direction": "up",
-      "volume": "507566",
+      "volume": "543800",
       "high": "227500",
       "low": "219000",
       "open": "223000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1476.60",
-      "change": "2.10",
+      "value": "1476.70",
+      "change": "2.20",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "925.04",
-      "change": "0.99",
+      "value": "924.99",
+      "change": "0.94",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1728.51",
-      "change": "0.76",
+      "value": "1728.63",
+      "change": "0.88",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "215.96",
-      "change": "0.34",
+      "value": "215.97",
+      "change": "0.35",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "218317.88",
-      "change": "926.51",
+      "value": "218484.31",
+      "change": "1092.94",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -141,6 +141,10 @@
     }
   ],
   "news": [
+    {
+      "title": "대표 한 자리 결국 중앙회?…인사 '우여곡절'[NH증권 리더십 재편]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000083661&office_id=293&mode=mainnews&type=&date=2026-04-29&page=1"
+    },
     {
       "title": "‘삼전닉스’ 주도 코스피 불장… 반도체 ETF ‘수익률 100%’",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002788307&office_id=021&mode=mainnews&type=&date=2026-04-29&page=1"
@@ -168,10 +172,6 @@
     {
       "title": "엑시콘, 삼성에 CLT  공급 확대…반도체 설비투자 가속",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002637125&office_id=016&mode=mainnews&type=&date=2026-04-29&page=1"
-    },
-    {
-      "title": "“코스피 7200∼8000 전망…AI 밸류체인  주목”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002637122&office_id=016&mode=mainnews&type=&date=2026-04-29&page=1"
     }
   ]
 }
