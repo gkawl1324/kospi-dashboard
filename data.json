@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-04-30 04:35:59",
+  "lastUpdated": "2026-04-30 07:08:15",
   "date": "2026.04.30",
   "kospi": {
     "name": "KOSPI",
-    "current": "6615.99",
-    "change": "74.91",
-    "changePct": "1.12",
+    "current": "6598.87",
+    "change": "92.03",
+    "changePct": "1.38",
     "direction": "up",
-    "volume": "536859",
-    "tradeAmount": "25093262"
+    "volume": "676215",
+    "tradeAmount": "34711211"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "221000",
-      "change": "-5000",
-      "changePct": "-2.21",
+      "current": "220500",
+      "change": "-5500",
+      "changePct": "-2.43",
       "direction": "down",
-      "volume": "13096326",
-      "high": "230000",
-      "low": "221000",
-      "open": "229000",
+      "volume": "3264",
+      "high": "220500",
+      "low": "220500",
+      "open": "0",
       "marketCap": "0"
     },
     {
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1294000",
-      "change": "1000",
-      "changePct": "0.08",
-      "direction": "up",
-      "volume": "2149463",
+      "current": "1286000",
+      "change": "-7000",
+      "changePct": "-0.54",
+      "direction": "down",
+      "volume": "3227541",
       "high": "1325000",
-      "low": "1292000",
+      "low": "1286000",
       "open": "1312000",
       "marketCap": "0"
     },
@@ -47,7 +47,7 @@
       "change": "800",
       "changePct": "0.81",
       "direction": "up",
-      "volume": "205465",
+      "volume": "363782",
       "high": "102700",
       "low": "98200",
       "open": "98200",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "210500",
-      "change": "-9500",
-      "changePct": "-4.32",
+      "current": "211000",
+      "change": "-9000",
+      "changePct": "-4.09",
       "direction": "down",
-      "volume": "1036252",
+      "volume": "1387029",
       "high": "223000",
       "low": "210500",
       "open": "223000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1486.20",
-      "change": "1.80",
+      "value": "1485.00",
+      "change": "3.00",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "925.58",
-      "change": "2.45",
+      "value": "924.80",
+      "change": "3.23",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1732.31",
-      "change": "5.15",
+      "value": "1733.37",
+      "change": "4.09",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "217.13",
-      "change": "0.24",
+      "value": "217.04",
+      "change": "0.33",
       "direction": "down"
     }
   ],
@@ -118,9 +118,9 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "216990.1",
-      "change": "501.13",
-      "direction": "down",
+      "value": "218930.79",
+      "change": "1439.56",
+      "direction": "up",
       "unit": "USD/oz"
     },
     {
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "‘23만 전자’ 넘보자 초고수 다시 담았다…삼성전자 순매수 1위[주식초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004616363&office_id=011&mode=mainnews&type=&date=2026-04-30&page=1"
+      "title": "코스피, 외인 '팔자'에 6500선 주저앉아…삼전 역대급 실적에도 2%↓",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000496066&office_id=629&mode=mainnews&type=&date=2026-04-30&page=1"
     },
     {
-      "title": "지난 CEO 면면 보니 '확장형' 연속[NH증권 리더십 재편]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000083764&office_id=293&mode=mainnews&type=&date=2026-04-30&page=1"
+      "title": "코스피, 6600선도 깨졌다…사상 최고치 찍고 급락",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006270169&office_id=018&mode=mainnews&type=&date=2026-04-30&page=1"
     },
     {
-      "title": "'2000억 증자' 클로봇, M&A 승부수에도 FI는 '탈출'… LS티라유텍 블록딜",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005351704&office_id=008&mode=mainnews&type=&date=2026-04-30&page=1"
+      "title": "\"바닥 끝났나\"…증권가, 이차전지株 목표가 줄상향",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006270166&office_id=018&mode=mainnews&type=&date=2026-04-30&page=1"
     },
     {
-      "title": "AI 투자 계속 간다… 반도체주 상승에 코스피 사상 최고치",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005351702&office_id=008&mode=mainnews&type=&date=2026-04-30&page=1"
+      "title": "초호황 속 ‘빚투 36兆’ 임박…반대매매 다시 꿈틀댄다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000097306&office_id=243&mode=mainnews&type=&date=2026-04-30&page=1"
     },
     {
-      "title": "트럼프도 반긴 UAE 결단…IB들 중장기 공급 증가 기대감",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005757197&office_id=277&mode=mainnews&type=&date=2026-04-30&page=1"
+      "title": "\"소프트뱅크, AI·로봇기업 美상장 추진\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005757342&office_id=277&mode=mainnews&type=&date=2026-04-30&page=1"
     },
     {
-      "title": "거래소 초유의 ‘공시번복사태’ 최대 10억원 규모 배상 돌입",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002637811&office_id=016&mode=mainnews&type=&date=2026-04-30&page=1"
+      "title": "미국·이란 불확실성 여전해도…신고가 쓴 ‘삼전닉스’ 전망 밝다는데",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005673845&office_id=009&mode=mainnews&type=&date=2026-04-30&page=1"
     },
     {
-      "title": "개미, 제이알 사태에도 리츠 저가매수",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002637809&office_id=016&mode=mainnews&type=&date=2026-04-30&page=1"
+      "title": "엑스에너지 6배 '잭팟'…DL이앤씨·두에빌 \"절대 안 팔아\" [마켓딥다이브]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001250752&office_id=215&mode=mainnews&type=&date=2026-04-30&page=1"
     },
     {
-      "title": "\"다 올랐는데 LG전자는 너무 싸다\"…'깜짝 실적'에 주가 급등",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000097287&office_id=243&mode=mainnews&type=&date=2026-04-30&page=1"
+      "title": "\"남들보다 2배 많이 벌었다\"…수익률 '93%' 직장인 '환호'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005281788&office_id=015&mode=mainnews&type=&date=2026-04-30&page=1"
     }
   ]
 }
