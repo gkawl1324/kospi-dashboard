@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-30 07:08:15",
+  "lastUpdated": "2026-04-30 07:31:29",
   "date": "2026.04.30",
   "kospi": {
     "name": "KOSPI",
@@ -19,10 +19,10 @@
       "change": "-5500",
       "changePct": "-2.43",
       "direction": "down",
-      "volume": "3264",
-      "high": "220500",
+      "volume": "20519819",
+      "high": "230000",
       "low": "220500",
-      "open": "0",
+      "open": "229000",
       "marketCap": "0"
     },
     {
@@ -61,10 +61,10 @@
       "change": "-9000",
       "changePct": "-4.09",
       "direction": "down",
-      "volume": "1387029",
-      "high": "223000",
-      "low": "210500",
-      "open": "223000",
+      "volume": "307",
+      "high": "211000",
+      "low": "211000",
+      "open": "0",
       "marketCap": "0"
     }
   ],
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1485.00",
-      "change": "3.00",
+      "value": "1482.40",
+      "change": "5.60",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "924.80",
-      "change": "3.23",
+      "value": "923.76",
+      "change": "4.27",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1733.37",
-      "change": "4.09",
+      "value": "1731.59",
+      "change": "5.87",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "217.04",
-      "change": "0.33",
+      "value": "216.69",
+      "change": "0.68",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "218930.79",
-      "change": "1439.56",
+      "value": "218730.55",
+      "change": "1239.32",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
+      "title": "코스피, '장중최고' 찍고 나흘만에 하락…유가부담에 6600선 내줘(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016053485&office_id=001&mode=mainnews&type=&date=2026-04-30&page=1"
+    },
+    {
+      "title": "'리테일 강자' 키움증권, 증시 활황에 이익 두배 껑충",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000046770&office_id=648&mode=mainnews&type=&date=2026-04-30&page=1"
+    },
+    {
+      "title": "삼성전자, 반도체 53.7조 벌었는데…23만 찍고 2%↓[핫종목](종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008921904&office_id=421&mode=mainnews&type=&date=2026-04-30&page=1"
+    },
+    {
+      "title": "올해 816% 뛴 대우건설…증권가 \"과열 신호\" vs \"상승 기대\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006270195&office_id=018&mode=mainnews&type=&date=2026-04-30&page=1"
+    },
+    {
+      "title": "2분기 실적발표 앞둔 애플…'팀쿡 후임' 터너스에 쏠린 눈",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005757414&office_id=277&mode=mainnews&type=&date=2026-04-30&page=1"
+    },
+    {
+      "title": "코스피, 국제유가 급등에 6600선 아래로…코스닥 2%대 급락",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005281847&office_id=015&mode=mainnews&type=&date=2026-04-30&page=1"
+    },
+    {
       "title": "코스피, 외인 '팔자'에 6500선 주저앉아…삼전 역대급 실적에도 2%↓",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000496066&office_id=629&mode=mainnews&type=&date=2026-04-30&page=1"
     },
     {
       "title": "코스피, 6600선도 깨졌다…사상 최고치 찍고 급락",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0006270169&office_id=018&mode=mainnews&type=&date=2026-04-30&page=1"
-    },
-    {
-      "title": "\"바닥 끝났나\"…증권가, 이차전지株 목표가 줄상향",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006270166&office_id=018&mode=mainnews&type=&date=2026-04-30&page=1"
-    },
-    {
-      "title": "초호황 속 ‘빚투 36兆’ 임박…반대매매 다시 꿈틀댄다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000097306&office_id=243&mode=mainnews&type=&date=2026-04-30&page=1"
-    },
-    {
-      "title": "\"소프트뱅크, AI·로봇기업 美상장 추진\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005757342&office_id=277&mode=mainnews&type=&date=2026-04-30&page=1"
-    },
-    {
-      "title": "미국·이란 불확실성 여전해도…신고가 쓴 ‘삼전닉스’ 전망 밝다는데",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005673845&office_id=009&mode=mainnews&type=&date=2026-04-30&page=1"
-    },
-    {
-      "title": "엑스에너지 6배 '잭팟'…DL이앤씨·두에빌 \"절대 안 팔아\" [마켓딥다이브]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001250752&office_id=215&mode=mainnews&type=&date=2026-04-30&page=1"
-    },
-    {
-      "title": "\"남들보다 2배 많이 벌었다\"…수익률 '93%' 직장인 '환호'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005281788&office_id=015&mode=mainnews&type=&date=2026-04-30&page=1"
     }
   ]
 }
