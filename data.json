@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-04-30 07:31:29",
-  "date": "2026.04.30",
+  "lastUpdated": "2026-05-01 04:34:31",
+  "date": "2026.05.01",
   "kospi": {
     "name": "KOSPI",
     "current": "6598.87",
     "change": "92.03",
     "changePct": "1.38",
     "direction": "up",
-    "volume": "676215",
-    "tradeAmount": "34711211"
+    "volume": "685459",
+    "tradeAmount": "35808594"
   },
   "stocks": [
     {
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1482.40",
-      "change": "5.60",
+      "value": "1476.50",
+      "change": "11.50",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "923.76",
-      "change": "4.27",
-      "direction": "down"
+      "value": "939.43",
+      "change": "11.40",
+      "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1731.59",
-      "change": "5.87",
+      "value": "1731.57",
+      "change": "5.89",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "216.69",
-      "change": "0.68",
+      "value": "216.11",
+      "change": "1.26",
       "direction": "down"
     }
   ],
@@ -102,31 +102,31 @@
     {
       "code": "OIL_CL",
       "name": "WTI",
-      "value": "106.88",
-      "change": "6.95",
-      "direction": "up",
+      "value": "105.07",
+      "change": "1.81",
+      "direction": "down",
       "unit": "USD/barrel"
     },
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "4561.5",
-      "change": "46.90",
-      "direction": "down",
+      "value": "4629.6",
+      "change": "68.10",
+      "direction": "up",
       "unit": "USD/oz"
     },
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "218730.55",
-      "change": "1239.32",
+      "value": "219289.95",
+      "change": "1798.72",
       "direction": "up",
       "unit": "USD/oz"
     },
     {
       "code": "OIL_BRT",
       "name": "Brent",
-      "value": "110.44",
+      "value": "110.40",
       "change": "0",
       "direction": "up",
       "unit": "USD/barrel"
@@ -134,7 +134,7 @@
     {
       "code": "OIL_DU",
       "name": "Dubai",
-      "value": "105.96",
+      "value": "104.44",
       "change": "0",
       "direction": "up",
       "unit": "USD/barrel"
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "코스피, '장중최고' 찍고 나흘만에 하락…유가부담에 6600선 내줘(종합)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016053485&office_id=001&mode=mainnews&type=&date=2026-04-30&page=1"
+      "title": "④ NH證, 구조 전환에도 거래대금 영향 여전[증권사 불장의 역설]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000083839&office_id=293&mode=mainnews&type=&date=2026-05-01&page=1"
     },
     {
-      "title": "'리테일 강자' 키움증권, 증시 활황에 이익 두배 껑충",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000046770&office_id=648&mode=mainnews&type=&date=2026-04-30&page=1"
+      "title": "“당장 급한 불 끈다”...AI 전력난 해결사 떠오른 천연가스",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004616676&office_id=011&mode=mainnews&type=&date=2026-05-01&page=1"
     },
     {
-      "title": "삼성전자, 반도체 53.7조 벌었는데…23만 찍고 2%↓[핫종목](종합)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008921904&office_id=421&mode=mainnews&type=&date=2026-04-30&page=1"
+      "title": "펀드에서 벌써 떼갔는데? 5월에 꼭 돌려받아야 할 이 세금",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000046794&office_id=648&mode=mainnews&type=&date=2026-05-01&page=1"
     },
     {
-      "title": "올해 816% 뛴 대우건설…증권가 \"과열 신호\" vs \"상승 기대\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006270195&office_id=018&mode=mainnews&type=&date=2026-04-30&page=1"
+      "title": "유류할증료 15만원→112만원 공포?…\"걱정마세요, 그래도 여행가게 해드려요\"[주末머니]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005757580&office_id=277&mode=mainnews&type=&date=2026-05-01&page=1"
     },
     {
-      "title": "2분기 실적발표 앞둔 애플…'팀쿡 후임' 터너스에 쏠린 눈",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005757414&office_id=277&mode=mainnews&type=&date=2026-04-30&page=1"
+      "title": "GPU보다 뜨는 CPU…온디바이스 AI PC가 가속화 [주末머니]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005757579&office_id=277&mode=mainnews&type=&date=2026-05-01&page=1"
     },
     {
-      "title": "코스피, 국제유가 급등에 6600선 아래로…코스닥 2%대 급락",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005281847&office_id=015&mode=mainnews&type=&date=2026-04-30&page=1"
+      "title": "\"용돈 모아 삼전·ETF 사요\"…불장에 '꼬마개미' 늘었다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013921351&office_id=003&mode=mainnews&type=&date=2026-05-01&page=1"
     },
     {
-      "title": "코스피, 외인 '팔자'에 6500선 주저앉아…삼전 역대급 실적에도 2%↓",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000496066&office_id=629&mode=mainnews&type=&date=2026-04-30&page=1"
+      "title": "\"겉은 화려하지만 속은 피마른다\"…中전기차의 생존경쟁[주末머니]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005757574&office_id=277&mode=mainnews&type=&date=2026-05-01&page=1"
     },
     {
-      "title": "코스피, 6600선도 깨졌다…사상 최고치 찍고 급락",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006270169&office_id=018&mode=mainnews&type=&date=2026-04-30&page=1"
+      "title": "5월엔 팔고 떠나라?…\"축제 끝났나\" 역대급 불장 보낸 개미들의 고민 [주末머니]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005757573&office_id=277&mode=mainnews&type=&date=2026-05-01&page=1"
     }
   ]
 }
