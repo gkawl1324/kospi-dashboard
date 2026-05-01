@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01 04:52:53",
+  "lastUpdated": "2026-05-01 07:29:20",
   "date": "2026.05.01",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1476.70",
-      "change": "11.30",
+      "value": "1475.50",
+      "change": "12.50",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "939.17",
-      "change": "11.14",
+      "value": "943.26",
+      "change": "15.23",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1731.73",
-      "change": "5.73",
+      "value": "1731.50",
+      "change": "5.96",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "216.10",
-      "change": "1.27",
+      "value": "215.97",
+      "change": "1.40",
       "direction": "down"
     }
   ],
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "④ NH證, 구조 전환에도 거래대금 영향 여전[증권사 불장의 역설]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000083839&office_id=293&mode=mainnews&type=&date=2026-05-01&page=1"
+      "title": "코스피 7000 눈앞…변동성 반등 속 개인은 ‘하락 베팅’ [이런국장 저런주식]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004616715&office_id=011&mode=mainnews&type=&date=2026-05-01&page=1"
     },
     {
-      "title": "“당장 급한 불 끈다”...AI 전력난 해결사 떠오른 천연가스",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004616676&office_id=011&mode=mainnews&type=&date=2026-05-01&page=1"
+      "title": "\"10조 싸들고 삼성행\"…중국산 배터리 걷어낸 '벤츠의 선택', 수혜주 더 있다 [주末머니]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005757631&office_id=277&mode=mainnews&type=&date=2026-05-01&page=1"
     },
     {
-      "title": "펀드에서 벌써 떼갔는데? 5월에 꼭 돌려받아야 할 이 세금",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000046794&office_id=648&mode=mainnews&type=&date=2026-05-01&page=1"
+      "title": "코스피 신고가에 '함박웃음'…실적 급증에 목표가 올라가는 이 종목 [주末머니]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005757630&office_id=277&mode=mainnews&type=&date=2026-05-01&page=1"
     },
     {
-      "title": "유류할증료 15만원→112만원 공포?…\"걱정마세요, 그래도 여행가게 해드려요\"[주末머니]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005757580&office_id=277&mode=mainnews&type=&date=2026-05-01&page=1"
+      "title": "“애들아, 아빠처럼 주식하면 안돼”…‘6년간 0%’ 고백 최귀화, 자녀 수익률에 깜놀",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005674226&office_id=009&mode=mainnews&type=&date=2026-05-01&page=1"
     },
     {
-      "title": "GPU보다 뜨는 CPU…온디바이스 AI PC가 가속화 [주末머니]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005757579&office_id=277&mode=mainnews&type=&date=2026-05-01&page=1"
+      "title": "우리운용 \"스페이스X 등 글로벌 IPO 공모주로 '단기채 펀드' 수익률 높일 것\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005282208&office_id=015&mode=mainnews&type=&date=2026-05-01&page=1"
     },
     {
-      "title": "\"용돈 모아 삼전·ETF 사요\"…불장에 '꼬마개미' 늘었다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013921351&office_id=003&mode=mainnews&type=&date=2026-05-01&page=1"
+      "title": "서울 오피스 시장, 높아진 불확실성…거래 '반토막'에 '공급 부담'도",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006271022&office_id=018&mode=mainnews&type=&date=2026-05-01&page=1"
     },
     {
-      "title": "\"겉은 화려하지만 속은 피마른다\"…中전기차의 생존경쟁[주末머니]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005757574&office_id=277&mode=mainnews&type=&date=2026-05-01&page=1"
+      "title": "코스피 7000 문턱서 '숨고르기'…개미는 하락 베팅 '인버스'에 6천억 몰려",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005516278&office_id=014&mode=mainnews&type=&date=2026-05-01&page=1"
     },
     {
-      "title": "5월엔 팔고 떠나라?…\"축제 끝났나\" 역대급 불장 보낸 개미들의 고민 [주末머니]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005757573&office_id=277&mode=mainnews&type=&date=2026-05-01&page=1"
+      "title": "이부진, 호텔신라 자사주 30만주 매수…'책임 경영' 행보",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000097355&office_id=243&mode=mainnews&type=&date=2026-05-01&page=1"
     }
   ]
 }
