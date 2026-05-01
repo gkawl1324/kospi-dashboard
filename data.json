@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01 04:34:31",
+  "lastUpdated": "2026-05-01 04:52:53",
   "date": "2026.05.01",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1476.50",
-      "change": "11.50",
+      "value": "1476.70",
+      "change": "11.30",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "939.43",
-      "change": "11.40",
+      "value": "939.17",
+      "change": "11.14",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1731.57",
-      "change": "5.89",
+      "value": "1731.73",
+      "change": "5.73",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "216.11",
-      "change": "1.26",
+      "value": "216.10",
+      "change": "1.27",
       "direction": "down"
     }
   ],
