@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04 07:33:15",
+  "lastUpdated": "2026-05-04 07:50:03",
   "date": "2026.05.04",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1468.80",
-      "change": "6.70",
+      "value": "1470.00",
+      "change": "5.50",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "936.17",
-      "change": "4.12",
+      "value": "937.05",
+      "change": "3.24",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1721.80",
-      "change": "8.67",
+      "value": "1722.77",
+      "change": "7.70",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "215.32",
-      "change": "0.73",
+      "value": "215.47",
+      "change": "0.58",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "216413.64",
-      "change": "2876.31",
+      "value": "216794.07",
+      "change": "2495.88",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,6 +142,26 @@
   ],
   "news": [
     {
+      "title": "하루 만에 주가 '19%' 폭락…\"삼천당 이어 또\" 개미 쇼크",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005282883&office_id=015&mode=mainnews&type=&date=2026-05-04&page=1"
+    },
+    {
+      "title": "코스피, 사상 최고…‘칠천피’까지 1% 남았다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000046838&office_id=648&mode=mainnews&type=&date=2026-05-04&page=1"
+    },
+    {
+      "title": "‘7천피’까지 63포인트…반도체株 딛고 6936.99 사상 최고치 마감 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002638963&office_id=016&mode=mainnews&type=&date=2026-05-04&page=1"
+    },
+    {
+      "title": "코스피, 6900도 뚫었다…SK하이닉스, 8%대↑",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005758338&office_id=277&mode=mainnews&type=&date=2026-05-04&page=1"
+    },
+    {
+      "title": "'파죽지세' 코스피, 하루만에 338포인트↑…'칠천피'까지 단 60포인트(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013925406&office_id=003&mode=mainnews&type=&date=2026-05-04&page=1"
+    },
+    {
       "title": "코스닥 액티브 ETF 경쟁 뜨거워진다...중소형 운용사도 참전",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005516970&office_id=014&mode=mainnews&type=&date=2026-05-04&page=1"
     },
@@ -152,26 +172,6 @@
     {
       "title": "변동장에 주식 쓸어 담은 개미 신고가엔 '팔자'…지난달 순매도 최대",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005516964&office_id=014&mode=mainnews&type=&date=2026-05-04&page=1"
-    },
-    {
-      "title": "“이러다 칠천피 못 가고 폭락하면 어쩌죠”…‘사상 최대’ 공매도 잔고에 커지는 공포",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004617304&office_id=011&mode=mainnews&type=&date=2026-05-04&page=1"
-    },
-    {
-      "title": "'5% 급등'…'칠천피'까지 단 1% 남은 코스피[뉴스1 PICK]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008926167&office_id=421&mode=mainnews&type=&date=2026-05-04&page=1"
-    },
-    {
-      "title": "반도체 진격에 '칠천피' 가시권…코스피 5% 급등 '최고치 또 경신'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005282862&office_id=015&mode=mainnews&type=&date=2026-05-04&page=1"
-    },
-    {
-      "title": "코스피, 6930선 돌파해 사상 최고치…하이닉스 시총 1000조원[마감]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006273196&office_id=018&mode=mainnews&type=&date=2026-05-04&page=1"
-    },
-    {
-      "title": "\"7000피 눈앞\" 코스피, 5.12% 폭등…사상 첫 6900선 안착",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000496592&office_id=629&mode=mainnews&type=&date=2026-05-04&page=1"
     }
   ]
 }
