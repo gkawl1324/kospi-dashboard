@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-05-04 04:26:22",
+  "lastUpdated": "2026-05-04 04:43:23",
   "date": "2026.05.04",
   "kospi": {
     "name": "KOSPI",
-    "current": "6900.74",
-    "change": "301.87",
-    "changePct": "4.57",
+    "current": "6902.64",
+    "change": "303.77",
+    "changePct": "4.60",
     "direction": "up",
-    "volume": "696057",
-    "tradeAmount": "30435684"
+    "volume": "719632",
+    "tradeAmount": "31531067"
   },
   "stocks": [
     {
@@ -19,7 +19,7 @@
       "change": "9000",
       "changePct": "4.08",
       "direction": "up",
-      "volume": "21875346",
+      "volume": "22584828",
       "high": "231000",
       "low": "224000",
       "open": "228000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1436000",
-      "change": "150000",
-      "changePct": "11.66",
+      "current": "1431000",
+      "change": "145000",
+      "changePct": "11.28",
       "direction": "up",
-      "volume": "4096293",
+      "volume": "4216797",
       "high": "1444000",
       "low": "1333000",
       "open": "1339000",
@@ -47,7 +47,7 @@
       "change": "3000",
       "changePct": "3.03",
       "direction": "up",
-      "volume": "177642",
+      "volume": "185845",
       "high": "102800",
       "low": "100600",
       "open": "101100",
@@ -61,7 +61,7 @@
       "change": "-2000",
       "changePct": "-0.95",
       "direction": "down",
-      "volume": "589286",
+      "volume": "604268",
       "high": "213500",
       "low": "208000",
       "open": "213500",
@@ -79,22 +79,22 @@
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "938.95",
-      "change": "1.34",
+      "value": "938.83",
+      "change": "1.46",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1725.79",
-      "change": "4.68",
+      "value": "1725.42",
+      "change": "5.05",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "215.67",
-      "change": "0.38",
+      "value": "215.69",
+      "change": "0.36",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "217985.64",
-      "change": "1304.31",
+      "value": "218078.77",
+      "change": "1211.18",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -141,6 +141,10 @@
     }
   ],
   "news": [
+    {
+      "title": "'칠천피'에 100포인트 앞으로…코스피, 장중 6900선도 뚫었다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005282784&office_id=015&mode=mainnews&type=&date=2026-05-04&page=1"
+    },
     {
       "title": "1억 넣었더니 10억 됐다...올해만 893% 폭등한 ‘이 주식’, 더 오를까",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0004617244&office_id=011&mode=mainnews&type=&date=2026-05-04&page=1"
@@ -168,10 +172,6 @@
     {
       "title": "발행어음 문턱서 멈춘 삼성·메리츠…상반기 인가 ‘먹구름’",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002226786&office_id=138&mode=mainnews&type=&date=2026-05-04&page=1"
-    },
-    {
-      "title": "6800피, ‘반도체 랠리’로 7000 정조준",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002638822&office_id=016&mode=mainnews&type=&date=2026-05-04&page=1"
     }
   ]
 }
