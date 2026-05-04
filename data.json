@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-05-04 04:43:23",
+  "lastUpdated": "2026-05-04 07:33:15",
   "date": "2026.05.04",
   "kospi": {
     "name": "KOSPI",
-    "current": "6902.64",
-    "change": "303.77",
-    "changePct": "4.60",
+    "current": "6936.99",
+    "change": "338.12",
+    "changePct": "5.12",
     "direction": "up",
-    "volume": "719632",
-    "tradeAmount": "31531067"
+    "volume": "864286",
+    "tradeAmount": "41272255"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "229500",
-      "change": "9000",
-      "changePct": "4.08",
+      "current": "232500",
+      "change": "12000",
+      "changePct": "5.44",
       "direction": "up",
-      "volume": "22584828",
-      "high": "231000",
+      "volume": "31909907",
+      "high": "232500",
       "low": "224000",
       "open": "228000",
       "marketCap": "0"
@@ -29,12 +29,12 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1431000",
-      "change": "145000",
-      "changePct": "11.28",
+      "current": "1447000",
+      "change": "161000",
+      "changePct": "12.52",
       "direction": "up",
-      "volume": "4216797",
-      "high": "1444000",
+      "volume": "5652112",
+      "high": "1450000",
       "low": "1333000",
       "open": "1339000",
       "marketCap": "0"
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "102100",
-      "change": "3000",
-      "changePct": "3.03",
+      "current": "102300",
+      "change": "3200",
+      "changePct": "3.23",
       "direction": "up",
-      "volume": "185845",
+      "volume": "316922",
       "high": "102800",
       "low": "100600",
       "open": "101100",
@@ -61,7 +61,7 @@
       "change": "-2000",
       "changePct": "-0.95",
       "direction": "down",
-      "volume": "604268",
+      "volume": "875803",
       "high": "213500",
       "low": "208000",
       "open": "213500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1471.20",
-      "change": "4.30",
+      "value": "1468.80",
+      "change": "6.70",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "938.83",
-      "change": "1.46",
+      "value": "936.17",
+      "change": "4.12",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1725.42",
-      "change": "5.05",
+      "value": "1721.80",
+      "change": "8.67",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "215.69",
-      "change": "0.36",
+      "value": "215.32",
+      "change": "0.73",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "218078.77",
-      "change": "1211.18",
+      "value": "216413.64",
+      "change": "2876.31",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "'칠천피'에 100포인트 앞으로…코스피, 장중 6900선도 뚫었다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005282784&office_id=015&mode=mainnews&type=&date=2026-05-04&page=1"
+      "title": "코스닥 액티브 ETF 경쟁 뜨거워진다...중소형 운용사도 참전",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005516970&office_id=014&mode=mainnews&type=&date=2026-05-04&page=1"
     },
     {
-      "title": "1억 넣었더니 10억 됐다...올해만 893% 폭등한 ‘이 주식’, 더 오를까",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004617244&office_id=011&mode=mainnews&type=&date=2026-05-04&page=1"
+      "title": "23만전자·144만닉스 동반 신고가…SK하닉 시총 1000조[핫종목](종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008926182&office_id=421&mode=mainnews&type=&date=2026-05-04&page=1"
     },
     {
-      "title": "수익률 상위 고수들 삼전·하이닉스 매수…“AI 사이클 이제 시작” [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004617235&office_id=011&mode=mainnews&type=&date=2026-05-04&page=1"
+      "title": "변동장에 주식 쓸어 담은 개미 신고가엔 '팔자'…지난달 순매도 최대",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005516964&office_id=014&mode=mainnews&type=&date=2026-05-04&page=1"
     },
     {
-      "title": "“남들 다 사길래 샀는데”…ETF도 ‘잘못 고르면’ 위험",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002638848&office_id=016&mode=mainnews&type=&date=2026-05-04&page=1"
+      "title": "“이러다 칠천피 못 가고 폭락하면 어쩌죠”…‘사상 최대’ 공매도 잔고에 커지는 공포",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004617304&office_id=011&mode=mainnews&type=&date=2026-05-04&page=1"
     },
     {
-      "title": "강력한 AI 투자…“美증시, 최고치에도 추가 상승 여력 有”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006273015&office_id=018&mode=mainnews&type=&date=2026-05-04&page=1"
+      "title": "'5% 급등'…'칠천피'까지 단 1% 남은 코스피[뉴스1 PICK]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008926167&office_id=421&mode=mainnews&type=&date=2026-05-04&page=1"
     },
     {
-      "title": "23만전자·140만닉스, 거침없는 반도체...코스피, 사상 첫 6800 랠리",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005352768&office_id=008&mode=mainnews&type=&date=2026-05-04&page=1"
+      "title": "반도체 진격에 '칠천피' 가시권…코스피 5% 급등 '최고치 또 경신'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005282862&office_id=015&mode=mainnews&type=&date=2026-05-04&page=1"
     },
     {
-      "title": "SK하이닉스 시총 1000兆 돌파…주가 9% 급등 ‘140만닉스’ 진입 [줍줍리포트]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004617227&office_id=011&mode=mainnews&type=&date=2026-05-04&page=1"
+      "title": "코스피, 6930선 돌파해 사상 최고치…하이닉스 시총 1000조원[마감]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006273196&office_id=018&mode=mainnews&type=&date=2026-05-04&page=1"
     },
     {
-      "title": "발행어음 문턱서 멈춘 삼성·메리츠…상반기 인가 ‘먹구름’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002226786&office_id=138&mode=mainnews&type=&date=2026-05-04&page=1"
+      "title": "\"7000피 눈앞\" 코스피, 5.12% 폭등…사상 첫 6900선 안착",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000496592&office_id=629&mode=mainnews&type=&date=2026-05-04&page=1"
     }
   ]
 }
