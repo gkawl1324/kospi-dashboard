@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-05-04 07:50:03",
-  "date": "2026.05.04",
+  "lastUpdated": "2026-05-05 03:55:11",
+  "date": "2026.05.05",
   "kospi": {
     "name": "KOSPI",
     "current": "6936.99",
     "change": "338.12",
     "changePct": "5.12",
     "direction": "up",
-    "volume": "864286",
-    "tradeAmount": "41272255"
+    "volume": "873009",
+    "tradeAmount": "42696033"
   },
   "stocks": [
     {
@@ -72,61 +72,61 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1470.00",
-      "change": "5.50",
-      "direction": "down"
+      "value": "1477.00",
+      "change": "1.50",
+      "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "937.05",
-      "change": "3.24",
+      "value": "939.27",
+      "change": "1.02",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1722.77",
-      "change": "7.70",
+      "value": "1726.02",
+      "change": "4.45",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "215.47",
-      "change": "0.58",
-      "direction": "down"
+      "value": "216.17",
+      "change": "0.12",
+      "direction": "up"
     }
   ],
   "oilPrices": [
     {
       "code": "OIL_CL",
       "name": "WTI",
-      "value": "101.94",
-      "change": "3.13",
-      "direction": "down",
+      "value": "106.42",
+      "change": "4.48",
+      "direction": "up",
       "unit": "USD/barrel"
     },
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "4644.5",
-      "change": "14.90",
-      "direction": "up",
+      "value": "4533.3",
+      "change": "111.20",
+      "direction": "down",
       "unit": "USD/oz"
     },
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "216794.07",
-      "change": "2495.88",
+      "value": "214972.51",
+      "change": "4317.44",
       "direction": "down",
       "unit": "USD/oz"
     },
     {
       "code": "OIL_BRT",
       "name": "Brent",
-      "value": "108.17",
+      "value": "114.44",
       "change": "0",
       "direction": "up",
       "unit": "USD/barrel"
@@ -134,7 +134,7 @@
     {
       "code": "OIL_DU",
       "name": "Dubai",
-      "value": "100.86",
+      "value": "106.93",
       "change": "0",
       "direction": "up",
       "unit": "USD/barrel"
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "하루 만에 주가 '19%' 폭락…\"삼천당 이어 또\" 개미 쇼크",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005282883&office_id=015&mode=mainnews&type=&date=2026-05-04&page=1"
+      "title": "SK하이닉스 질주에 192% 급등…‘황제주’ 임박에 개미 몰린다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000097457&office_id=243&mode=mainnews&type=&date=2026-05-05&page=1"
     },
     {
-      "title": "코스피, 사상 최고…‘칠천피’까지 1% 남았다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000046838&office_id=648&mode=mainnews&type=&date=2026-05-04&page=1"
+      "title": "“장난감 대신 삼성전자”… 0~9세 주식계좌 두 배 늘고, 평균 잔고 1000만원",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003974676&office_id=023&mode=mainnews&type=&date=2026-05-05&page=1"
     },
     {
-      "title": "‘7천피’까지 63포인트…반도체株 딛고 6936.99 사상 최고치 마감 [투자360]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002638963&office_id=016&mode=mainnews&type=&date=2026-05-04&page=1"
+      "title": "주주단체 \"삼성전자, 불법 파업 강행하면 노조원 전원에 손배소\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000929065&office_id=469&mode=mainnews&type=&date=2026-05-05&page=1"
     },
     {
-      "title": "코스피, 6900도 뚫었다…SK하이닉스, 8%대↑",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005758338&office_id=277&mode=mainnews&type=&date=2026-05-04&page=1"
+      "title": "케이뱅크, 상장 후 첫 실적 ‘서프’…공모가 하회 속 투자 판단 엇갈려",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006273445&office_id=018&mode=mainnews&type=&date=2026-05-05&page=1"
     },
     {
-      "title": "'파죽지세' 코스피, 하루만에 338포인트↑…'칠천피'까지 단 60포인트(종합)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013925406&office_id=003&mode=mainnews&type=&date=2026-05-04&page=1"
+      "title": "\"결국 우상향\"…요즘 애들 용돈 여기에 모은다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001251101&office_id=215&mode=mainnews&type=&date=2026-05-05&page=1"
     },
     {
-      "title": "코스닥 액티브 ETF 경쟁 뜨거워진다...중소형 운용사도 참전",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005516970&office_id=014&mode=mainnews&type=&date=2026-05-04&page=1"
+      "title": "증시 활황에 미소 짓는 증권사…외국인 통합계좌로 성장 기대 ‘쑥’[김지영의 생존투자]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003025021&office_id=029&mode=mainnews&type=&date=2026-05-05&page=1"
     },
     {
-      "title": "23만전자·144만닉스 동반 신고가…SK하닉 시총 1000조[핫종목](종합)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008926182&office_id=421&mode=mainnews&type=&date=2026-05-04&page=1"
+      "title": "\"아! 그때 살 걸\" 황제주 쏟아졌다…효성重 '422만원' 최고가",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006273416&office_id=018&mode=mainnews&type=&date=2026-05-05&page=1"
     },
     {
-      "title": "변동장에 주식 쓸어 담은 개미 신고가엔 '팔자'…지난달 순매도 최대",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005516964&office_id=014&mode=mainnews&type=&date=2026-05-04&page=1"
+      "title": "삼전닉스 ‘불기둥’에 맥 못추는 오세훈·정원오 테마주",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003025005&office_id=029&mode=mainnews&type=&date=2026-05-05&page=1"
     }
   ]
 }
