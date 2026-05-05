@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05 04:19:06",
+  "lastUpdated": "2026-05-05 06:33:12",
   "date": "2026.05.05",
   "kospi": {
     "name": "KOSPI",
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1477.00",
-      "change": "1.50",
+      "value": "1476.50",
+      "change": "1.00",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "939.21",
-      "change": "1.08",
+      "value": "938.80",
+      "change": "1.49",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1725.95",
-      "change": "4.52",
+      "value": "1725.59",
+      "change": "4.88",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "216.17",
-      "change": "0.12",
-      "direction": "up"
+      "value": "216.01",
+      "change": "0.04",
+      "direction": "down"
     }
   ],
   "oilPrices": [
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
+      "title": "전셋값 최대 5% 뛰는데 월세도↑… 오피스텔 급등에 실수요자 휘청",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000929085&office_id=469&mode=mainnews&type=&date=2026-05-05&page=1"
+    },
+    {
+      "title": "'우리 애 계좌 4배 불었다'…신난 부모들, 올해 어린이날도 '삼전' 선물",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006273505&office_id=018&mode=mainnews&type=&date=2026-05-05&page=1"
+    },
+    {
+      "title": "\"돈벼락 노리다 계좌 녹는다\"…'삼전닉스' 베팅 불개미에 경고 [분석+]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005283134&office_id=015&mode=mainnews&type=&date=2026-05-05&page=1"
+    },
+    {
+      "title": "'증시 과열 경보음' 커졌다...투자경고 종목 50% 급증",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005517244&office_id=014&mode=mainnews&type=&date=2026-05-05&page=1"
+    },
+    {
+      "title": "반등장에도 이탈하는 중학개미…中 주식 5개월째 '팔자'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005517235&office_id=014&mode=mainnews&type=&date=2026-05-05&page=1"
+    },
+    {
+      "title": "“가상자산 1천만원 이상 거래 무조건 보고” 법개정에…“그러다 진짜 범죄 놓치면 어쩌죠” 업계 ‘멘붕’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005675442&office_id=009&mode=mainnews&type=&date=2026-05-05&page=1"
+    },
+    {
       "title": "“곱버스 담은 개미들, 눈물난다” 동전주로 ‘추락’…ETN은 줄줄이 상폐 행진",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0004617513&office_id=011&mode=mainnews&type=&date=2026-05-05&page=1"
     },
     {
       "title": "하루 2조 던진 개인, 'SK하닉 1000조'에 차익실현 폭발",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005517218&office_id=014&mode=mainnews&type=&date=2026-05-05&page=1"
-    },
-    {
-      "title": "\"아직도 국장 못믿나\"…개미들 12조 팔고 美·곱버스로 이동",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005517217&office_id=014&mode=mainnews&type=&date=2026-05-05&page=1"
-    },
-    {
-      "title": "SK하이닉스 질주에 192% 급등…‘황제주’ 임박에 개미 몰린다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000097457&office_id=243&mode=mainnews&type=&date=2026-05-05&page=1"
-    },
-    {
-      "title": "“장난감 대신 삼성전자”… 0~9세 주식계좌 두 배 늘고, 평균 잔고 1000만원",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003974676&office_id=023&mode=mainnews&type=&date=2026-05-05&page=1"
-    },
-    {
-      "title": "주주단체 \"삼성전자, 불법 파업 강행하면 노조원 전원에 손배소\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000929065&office_id=469&mode=mainnews&type=&date=2026-05-05&page=1"
-    },
-    {
-      "title": "케이뱅크, 상장 후 첫 실적 ‘서프’…공모가 하회 속 투자 판단 엇갈려",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006273445&office_id=018&mode=mainnews&type=&date=2026-05-05&page=1"
-    },
-    {
-      "title": "\"결국 우상향\"…요즘 애들 용돈 여기에 모은다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001251101&office_id=215&mode=mainnews&type=&date=2026-05-05&page=1"
     }
   ]
 }
