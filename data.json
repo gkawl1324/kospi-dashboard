@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05 06:33:12",
+  "lastUpdated": "2026-05-05 07:21:08",
   "date": "2026.05.05",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1476.50",
-      "change": "1.00",
-      "direction": "up"
+      "value": "1474.60",
+      "change": "0.90",
+      "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "938.80",
-      "change": "1.49",
+      "value": "938.25",
+      "change": "2.04",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1725.59",
-      "change": "4.88",
+      "value": "1724.10",
+      "change": "6.37",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "216.01",
-      "change": "0.04",
+      "value": "215.88",
+      "change": "0.17",
       "direction": "down"
     }
   ],
@@ -142,6 +142,22 @@
   ],
   "news": [
     {
+      "title": "\"오늘도 신고가인데?\"…목표가 '하향', 잇단 경고 나온 반도체 투톱",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005353180&office_id=008&mode=mainnews&type=&date=2026-05-05&page=1"
+    },
+    {
+      "title": "주식반·채권반 혼합형 ETF로 퇴직연금 자금 대거 이동",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005353175&office_id=008&mode=mainnews&type=&date=2026-05-05&page=1"
+    },
+    {
+      "title": "美 스테이블코인 ‘이자 지급’ 합의…비트코인 8만달러 넘었다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003521117&office_id=025&mode=mainnews&type=&date=2026-05-05&page=1"
+    },
+    {
+      "title": "비트코인, 1억2000만원선 재진입 시도…알트코인도 동반 상승",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013926364&office_id=003&mode=mainnews&type=&date=2026-05-05&page=1"
+    },
+    {
       "title": "전셋값 최대 5% 뛰는데 월세도↑… 오피스텔 급등에 실수요자 휘청",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000929085&office_id=469&mode=mainnews&type=&date=2026-05-05&page=1"
     },
@@ -156,22 +172,6 @@
     {
       "title": "'증시 과열 경보음' 커졌다...투자경고 종목 50% 급증",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005517244&office_id=014&mode=mainnews&type=&date=2026-05-05&page=1"
-    },
-    {
-      "title": "반등장에도 이탈하는 중학개미…中 주식 5개월째 '팔자'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005517235&office_id=014&mode=mainnews&type=&date=2026-05-05&page=1"
-    },
-    {
-      "title": "“가상자산 1천만원 이상 거래 무조건 보고” 법개정에…“그러다 진짜 범죄 놓치면 어쩌죠” 업계 ‘멘붕’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005675442&office_id=009&mode=mainnews&type=&date=2026-05-05&page=1"
-    },
-    {
-      "title": "“곱버스 담은 개미들, 눈물난다” 동전주로 ‘추락’…ETN은 줄줄이 상폐 행진",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004617513&office_id=011&mode=mainnews&type=&date=2026-05-05&page=1"
-    },
-    {
-      "title": "하루 2조 던진 개인, 'SK하닉 1000조'에 차익실현 폭발",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005517218&office_id=014&mode=mainnews&type=&date=2026-05-05&page=1"
     }
   ]
 }
