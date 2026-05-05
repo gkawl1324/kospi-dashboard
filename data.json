@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05 03:55:11",
+  "lastUpdated": "2026-05-05 04:19:06",
   "date": "2026.05.05",
   "kospi": {
     "name": "KOSPI",
@@ -79,15 +79,15 @@
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "939.27",
-      "change": "1.02",
+      "value": "939.21",
+      "change": "1.08",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1726.02",
-      "change": "4.45",
+      "value": "1725.95",
+      "change": "4.52",
       "direction": "down"
     },
     {
@@ -142,6 +142,18 @@
   ],
   "news": [
     {
+      "title": "“곱버스 담은 개미들, 눈물난다” 동전주로 ‘추락’…ETN은 줄줄이 상폐 행진",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004617513&office_id=011&mode=mainnews&type=&date=2026-05-05&page=1"
+    },
+    {
+      "title": "하루 2조 던진 개인, 'SK하닉 1000조'에 차익실현 폭발",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005517218&office_id=014&mode=mainnews&type=&date=2026-05-05&page=1"
+    },
+    {
+      "title": "\"아직도 국장 못믿나\"…개미들 12조 팔고 美·곱버스로 이동",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005517217&office_id=014&mode=mainnews&type=&date=2026-05-05&page=1"
+    },
+    {
       "title": "SK하이닉스 질주에 192% 급등…‘황제주’ 임박에 개미 몰린다",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000097457&office_id=243&mode=mainnews&type=&date=2026-05-05&page=1"
     },
@@ -160,18 +172,6 @@
     {
       "title": "\"결국 우상향\"…요즘 애들 용돈 여기에 모은다",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0001251101&office_id=215&mode=mainnews&type=&date=2026-05-05&page=1"
-    },
-    {
-      "title": "증시 활황에 미소 짓는 증권사…외국인 통합계좌로 성장 기대 ‘쑥’[김지영의 생존투자]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003025021&office_id=029&mode=mainnews&type=&date=2026-05-05&page=1"
-    },
-    {
-      "title": "\"아! 그때 살 걸\" 황제주 쏟아졌다…효성重 '422만원' 최고가",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006273416&office_id=018&mode=mainnews&type=&date=2026-05-05&page=1"
-    },
-    {
-      "title": "삼전닉스 ‘불기둥’에 맥 못추는 오세훈·정원오 테마주",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003025005&office_id=029&mode=mainnews&type=&date=2026-05-05&page=1"
     }
   ]
 }
