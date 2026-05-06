@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-06 07:14:21",
+  "lastUpdated": "2026-05-06 07:38:25",
   "date": "2026.05.06",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1456.40",
-      "change": "12.60",
+      "value": "1455.80",
+      "change": "13.20",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "930.76",
-      "change": "0.99",
+      "value": "930.13",
+      "change": "1.62",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1708.28",
-      "change": "11.48",
+      "value": "1707.29",
+      "change": "12.47",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "213.60",
-      "change": "1.63",
+      "value": "213.53",
+      "change": "1.70",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "218307.35",
-      "change": "3334.84",
+      "value": "218522.33",
+      "change": "3549.82",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "센터장 진단 \"삼전닉스 과열 아니지만 분산할 종목은 이것\"[코스피 7000]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008929407&office_id=421&mode=mainnews&type=&date=2026-05-06&page=1"
+      "title": "“전쟁도 못 막았다” 사상 첫 7000선 뚫은 코스피…7400선 턱밑까지 질주 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002639716&office_id=016&mode=mainnews&type=&date=2026-05-06&page=1"
     },
     {
-      "title": "코스피, 6.45% 급등 7384 최고치 마감…삼성전자 시총 1조달러 돌파",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006274209&office_id=018&mode=mainnews&type=&date=2026-05-06&page=1"
+      "title": "천에서 삼천까지 32년 걸렸는데… '1만피' 35% 남았다[코스피 7000]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008929496&office_id=421&mode=mainnews&type=&date=2026-05-06&page=1"
     },
     {
-      "title": "'고공행진' 7300선 마감…'1등 공신'은 삼전·닉스[코스피 7000]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000497027&office_id=629&mode=mainnews&type=&date=2026-05-06&page=1"
+      "title": "\"7000피도 중간값\"...코스피 전망치 최대 '1만선'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005517864&office_id=014&mode=mainnews&type=&date=2026-05-06&page=1"
     },
     {
-      "title": "27만전자·160만닉스가 끌어올린 '꿈의 칠천피'[핫종목](종합)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008929367&office_id=421&mode=mainnews&type=&date=2026-05-06&page=1"
+      "title": "'6천피'서 불과 47거래일…'초고속 랠리' 신기록 행진(종합)[코스피 7,000]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016061645&office_id=001&mode=mainnews&type=&date=2026-05-06&page=1"
     },
     {
-      "title": "전쟁 공포에도 \"돈 벌 기회\"...7천피 주역 개미 \"실탄 130조 더 있다\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005353637&office_id=008&mode=mainnews&type=&date=2026-05-06&page=1"
+      "title": "코스피, 사상 최고치 7384.56 마감…시총 6000조 돌파[오늘증시]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001141950&office_id=417&mode=mainnews&type=&date=2026-05-06&page=1"
     },
     {
-      "title": "“집 판 돈까지 증시로”… 부동산 불패 신화 꺾고 ‘머니무브’ 폭발[코스피 7000]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001162246&office_id=366&mode=mainnews&type=&date=2026-05-06&page=1"
+      "title": "\"아직도 싸다\" 1만피도 가시권?...증권사가 꼽은 '유망 업종'은",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005353670&office_id=008&mode=mainnews&type=&date=2026-05-06&page=1"
     },
     {
-      "title": "7000선 돌파한 코스피, 美 S&P500 제쳤다… ‘삼전닉스’ 최고가[마켓뷰]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001162244&office_id=366&mode=mainnews&type=&date=2026-05-06&page=1"
+      "title": "반도체가 다했다...코스피 7400포인트까지 터치하며 6.45% 급등",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000046884&office_id=648&mode=mainnews&type=&date=2026-05-06&page=1"
     },
     {
-      "title": "[속보] '칠천피' 넘어 7300선까지 질주한 코스피…삼성전자 14% '급등'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005283642&office_id=015&mode=mainnews&type=&date=2026-05-06&page=1"
+      "title": "“27만원 찍더니 결국 해냈다”…삼성전자, 아시아 두 번째 ‘1조달러 클럽’ 입성[투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002639707&office_id=016&mode=mainnews&type=&date=2026-05-06&page=1"
     }
   ]
 }
