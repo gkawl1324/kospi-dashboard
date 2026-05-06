@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-05-06 04:36:26",
+  "lastUpdated": "2026-05-06 07:14:21",
   "date": "2026.05.06",
   "kospi": {
     "name": "KOSPI",
-    "current": "7413.20",
-    "change": "476.21",
-    "changePct": "6.86",
+    "current": "7384.56",
+    "change": "447.57",
+    "changePct": "6.45",
     "direction": "up",
-    "volume": "818245",
-    "tradeAmount": "44226117"
+    "volume": "984421",
+    "tradeAmount": "58174590"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "267750",
-      "change": "35250",
-      "changePct": "15.16",
+      "current": "266000",
+      "change": "33500",
+      "changePct": "14.41",
       "direction": "up",
-      "volume": "38126713",
+      "volume": "50111816",
       "high": "270000",
       "low": "251000",
       "open": "254000",
@@ -29,12 +29,12 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1603000",
-      "change": "156000",
-      "changePct": "10.78",
+      "current": "1601000",
+      "change": "154000",
+      "changePct": "10.64",
       "direction": "up",
-      "volume": "4441940",
-      "high": "1606000",
+      "volume": "6402960",
+      "high": "1614000",
       "low": "1557000",
       "open": "1590000",
       "marketCap": "0"
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "102700",
-      "change": "400",
-      "changePct": "0.39",
+      "current": "103000",
+      "change": "700",
+      "changePct": "0.68",
       "direction": "up",
-      "volume": "255749",
+      "volume": "422602",
       "high": "105300",
       "low": "102000",
       "open": "102500",
@@ -57,13 +57,13 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "208500",
-      "change": "-500",
-      "changePct": "-0.24",
+      "current": "208000",
+      "change": "-1000",
+      "changePct": "-0.48",
       "direction": "down",
-      "volume": "501630",
+      "volume": "839509",
       "high": "213000",
-      "low": "208000",
+      "low": "207500",
       "open": "210500",
       "marketCap": "0"
     }
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1454.80",
-      "change": "14.20",
+      "value": "1456.40",
+      "change": "12.60",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "930.60",
-      "change": "1.15",
+      "value": "930.76",
+      "change": "0.99",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1707.14",
-      "change": "12.62",
+      "value": "1708.28",
+      "change": "11.48",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "213.35",
-      "change": "1.88",
+      "value": "213.60",
+      "change": "1.63",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "217717.76",
-      "change": "2745.25",
+      "value": "218307.35",
+      "change": "3334.84",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "정부가 먼저 잃고 국민이 먼저 번다…국민성장펀드 22일 판매",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000046876&office_id=648&mode=mainnews&type=&date=2026-05-06&page=1"
+      "title": "센터장 진단 \"삼전닉스 과열 아니지만 분산할 종목은 이것\"[코스피 7000]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008929407&office_id=421&mode=mainnews&type=&date=2026-05-06&page=1"
     },
     {
-      "title": "코스피, 사상 첫 7400도 돌파…S&P500 지수 역전",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006274058&office_id=018&mode=mainnews&type=&date=2026-05-06&page=1"
+      "title": "코스피, 6.45% 급등 7384 최고치 마감…삼성전자 시총 1조달러 돌파",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006274209&office_id=018&mode=mainnews&type=&date=2026-05-06&page=1"
     },
     {
-      "title": "외인 1.9조 순매수에 코스피, 7400 돌파…삼전도 27만원 터치",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005353523&office_id=008&mode=mainnews&type=&date=2026-05-06&page=1"
+      "title": "'고공행진' 7300선 마감…'1등 공신'은 삼전·닉스[코스피 7000]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000497027&office_id=629&mode=mainnews&type=&date=2026-05-06&page=1"
     },
     {
-      "title": "진격의 증시, 1년 새 앞자리만 5번 바꿨다[코스피 7000]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000496919&office_id=629&mode=mainnews&type=&date=2026-05-06&page=1"
+      "title": "27만전자·160만닉스가 끌어올린 '꿈의 칠천피'[핫종목](종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008929367&office_id=421&mode=mainnews&type=&date=2026-05-06&page=1"
     },
     {
-      "title": "‘삼전닉스 불기둥’에 외국인도 가세… 70일만에 1000P 뛰었다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002789463&office_id=021&mode=mainnews&type=&date=2026-05-06&page=1"
+      "title": "전쟁 공포에도 \"돈 벌 기회\"...7천피 주역 개미 \"실탄 130조 더 있다\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005353637&office_id=008&mode=mainnews&type=&date=2026-05-06&page=1"
     },
     {
-      "title": "삼성 1500조·SK하이닉스 1100조...시총 빅4, 코스피 절반 육박",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005353507&office_id=008&mode=mainnews&type=&date=2026-05-06&page=1"
+      "title": "“집 판 돈까지 증시로”… 부동산 불패 신화 꺾고 ‘머니무브’ 폭발[코스피 7000]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001162246&office_id=366&mode=mainnews&type=&date=2026-05-06&page=1"
     },
     {
-      "title": "이승훈 IBK證 센터장 \"코스피, '1만피'도 불가능 아냐\"[칠천피 시대]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013927969&office_id=003&mode=mainnews&type=&date=2026-05-06&page=1"
+      "title": "7000선 돌파한 코스피, 美 S&P500 제쳤다… ‘삼전닉스’ 최고가[마켓뷰]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001162244&office_id=366&mode=mainnews&type=&date=2026-05-06&page=1"
     },
     {
-      "title": "“30조 손실” 노조 겁박 비웃듯…삼성전자 시총 1500조 돌파",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001379342&office_id=082&mode=mainnews&type=&date=2026-05-06&page=1"
+      "title": "[속보] '칠천피' 넘어 7300선까지 질주한 코스피…삼성전자 14% '급등'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005283642&office_id=015&mode=mainnews&type=&date=2026-05-06&page=1"
     }
   ]
 }
