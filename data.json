@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-07 07:23:24",
+  "lastUpdated": "2026-05-07 07:45:55",
   "date": "2026.05.07",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1447.50",
-      "change": "1.50",
+      "value": "1447.70",
+      "change": "1.30",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "926.90",
-      "change": "0.31",
-      "direction": "up"
+      "value": "926.44",
+      "change": "0.15",
+      "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1702.40",
-      "change": "0.18",
-      "direction": "down"
+      "value": "1703.00",
+      "change": "0.42",
+      "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "212.88",
-      "change": "0.17",
+      "value": "212.89",
+      "change": "0.18",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "220764.4",
-      "change": "2440.71",
+      "value": "220796.48",
+      "change": "2472.79",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "'칠천피' 이끈 반도체주…증권가 \"더 간다\" 속 고개 드는 고점 경계론",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006275143&office_id=018&mode=mainnews&type=&date=2026-05-07&page=1"
+      "title": "'9000 간다는 증권가' FOMO투자자 고민 커진다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005354333&office_id=008&mode=mainnews&type=&date=2026-05-07&page=1"
     },
     {
-      "title": "개미가 멱살 잡고 간다…코스피, 최고가 랠리 7490선 마감",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005284188&office_id=015&mode=mainnews&type=&date=2026-05-07&page=1"
+      "title": "“하이닉스 300만원 간다”…증권사, 목표주가 줄줄이 상향",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002227143&office_id=138&mode=mainnews&type=&date=2026-05-07&page=1"
     },
     {
-      "title": "외국인 8조 팔고 떠났는데도 삼전·하이닉스가 떠받쳤다… 코스피, 연일 신고가",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000929518&office_id=469&mode=mainnews&type=&date=2026-05-07&page=1"
+      "title": "증권사는 300만 닉스 간다는데…포모 느끼는 개미들",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003717935&office_id=020&mode=mainnews&type=&date=2026-05-07&page=1"
     },
     {
-      "title": "숨 고르던 삼전닉스, 개미 폭풍매수에 강세 마감[핫종목](종합)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008931940&office_id=421&mode=mainnews&type=&date=2026-05-07&page=1"
+      "title": "코스피 7500, 꿈이 아닌 현실…삼성전자 27만원 돌파",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002227140&office_id=138&mode=mainnews&type=&date=2026-05-07&page=1"
     },
     {
-      "title": "“공개매수에 장내매수까지”… 베인캐피탈, 에코마케팅 지분 95% 확보",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001162550&office_id=366&mode=mainnews&type=&date=2026-05-07&page=1"
+      "title": "외인 7조 던졌지만… 코스피, 보란 듯이 7490선 사상 최고치[마켓뷰]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001162564&office_id=366&mode=mainnews&type=&date=2026-05-07&page=1"
     },
     {
-      "title": "“27만 전자?165만 닉스 찍었다”…코스피 7490 ‘또 최고치’ 마감[이런국장 저런주식]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004618388&office_id=011&mode=mainnews&type=&date=2026-05-07&page=1"
+      "title": "외인 주식 ‘역직구’ 시대 열렸지만…통합계좌 전산 우려",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003025536&office_id=029&mode=mainnews&type=&date=2026-05-07&page=1"
     },
     {
-      "title": "자녀에게 '시간의 마법' 가르치는 5월…'투자 경험'을 선물하자",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005284181&office_id=015&mode=mainnews&type=&date=2026-05-07&page=1"
+      "title": "‘7000피’ 코스피 1.43% 상승 마감…사흘째 종가 최고치 행진",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006275159&office_id=018&mode=mainnews&type=&date=2026-05-07&page=1"
     },
     {
-      "title": "증시 예탁금 130조 \"반도체·에너지주…여보, 옆집도 더 산대\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005284180&office_id=015&mode=mainnews&type=&date=2026-05-07&page=1"
+      "title": "반도체주 다음은? 월가가 주목하는 미국 알짜 종목들 [GMC]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003521679&office_id=025&mode=mainnews&type=&date=2026-05-07&page=1"
     }
   ]
 }
