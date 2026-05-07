@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-05-07 04:10:35",
+  "lastUpdated": "2026-05-07 04:37:17",
   "date": "2026.05.07",
   "kospi": {
     "name": "KOSPI",
-    "current": "7382.51",
-    "change": "2.05",
+    "current": "7386.82",
+    "change": "2.26",
     "changePct": "0.03",
     "direction": "up",
-    "volume": "599539",
-    "tradeAmount": "35012729"
+    "volume": "623857",
+    "tradeAmount": "36734460"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "265500",
-      "change": "-500",
-      "changePct": "-0.19",
+      "current": "265000",
+      "change": "-1000",
+      "changePct": "-0.38",
       "direction": "down",
-      "volume": "28651765",
+      "volume": "29927270",
       "high": "277000",
       "low": "260000",
       "open": "272000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1607000",
-      "change": "6000",
-      "changePct": "0.37",
+      "current": "1611000",
+      "change": "10000",
+      "changePct": "0.62",
       "direction": "up",
-      "volume": "3741708",
+      "volume": "3884942",
       "high": "1648000",
       "low": "1567000",
       "open": "1622000",
@@ -43,12 +43,12 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "106700",
-      "change": "3700",
-      "changePct": "3.59",
+      "current": "105500",
+      "change": "2500",
+      "changePct": "2.43",
       "direction": "up",
-      "volume": "230642",
-      "high": "107000",
+      "volume": "292798",
+      "high": "107500",
       "low": "101800",
       "open": "106000",
       "marketCap": "0"
@@ -61,7 +61,7 @@
       "change": "-500",
       "changePct": "-0.24",
       "direction": "down",
-      "volume": "630523",
+      "volume": "662042",
       "high": "214000",
       "low": "206000",
       "open": "209000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1453.00",
-      "change": "4.00",
+      "value": "1451.50",
+      "change": "2.50",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "929.12",
-      "change": "2.53",
+      "value": "928.34",
+      "change": "1.75",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1707.42",
-      "change": "4.84",
+      "value": "1705.73",
+      "change": "3.15",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "213.52",
-      "change": "0.81",
+      "value": "213.29",
+      "change": "0.58",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "219553.96",
-      "change": "1230.27",
+      "value": "219071.55",
+      "change": "747.86",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -141,6 +141,10 @@
     }
   ],
   "news": [
+    {
+      "title": "[속보] 드디어 날았다…하루새 7% 떨어지자 줄줄이 '날개'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001251334&office_id=215&mode=mainnews&type=&date=2026-05-07&page=1"
+    },
     {
       "title": "코스피 불장에도 소비 잠잠한 이유…\"주식으로 번 돈으로 결국 집 샀다\"",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000929458&office_id=469&mode=mainnews&type=&date=2026-05-07&page=1"
@@ -168,10 +172,6 @@
     {
       "title": "‘빚투’는 ‘빛투’가 아니다[데스크칼럼]",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002640056&office_id=016&mode=mainnews&type=&date=2026-05-07&page=1"
-    },
-    {
-      "title": "'주식 가장 잘하는 男' 박건영 \"10배 오르는 종목 쏟아진다\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005284053&office_id=015&mode=mainnews&type=&date=2026-05-07&page=1"
     }
   ]
 }
