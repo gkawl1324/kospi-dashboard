@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-05-08 06:14:09",
+  "lastUpdated": "2026-05-08 06:55:23",
   "date": "2026.05.08",
   "kospi": {
     "name": "KOSPI",
-    "current": "7498.77",
-    "change": "8.72",
-    "changePct": "0.12",
+    "current": "7498.00",
+    "change": "7.95",
+    "changePct": "0.11",
     "direction": "up",
-    "volume": "497536",
-    "tradeAmount": "37470833"
+    "volume": "518320",
+    "tradeAmount": "40030146"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "269250",
-      "change": "-2250",
-      "changePct": "-0.83",
+      "current": "268500",
+      "change": "-3000",
+      "changePct": "-1.10",
       "direction": "down",
-      "volume": "23322264",
+      "volume": "25696890",
       "high": "270000",
       "low": "260000",
       "open": "260000",
@@ -29,12 +29,12 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1680000",
-      "change": "26000",
-      "changePct": "1.57",
+      "current": "1686000",
+      "change": "32000",
+      "changePct": "1.93",
       "direction": "up",
-      "volume": "3579306",
-      "high": "1684000",
+      "volume": "4007178",
+      "high": "1689000",
       "low": "1591000",
       "open": "1591000",
       "marketCap": "0"
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "108700",
-      "change": "4100",
-      "changePct": "3.92",
+      "current": "108900",
+      "change": "4300",
+      "changePct": "4.11",
       "direction": "up",
-      "volume": "520838",
+      "volume": "562533",
       "high": "109600",
       "low": "101050",
       "open": "106900",
@@ -57,14 +57,14 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "214000",
-      "change": "6500",
-      "changePct": "3.13",
+      "current": "215000",
+      "change": "7500",
+      "changePct": "3.61",
       "direction": "up",
-      "volume": "1444085",
-      "high": "219000",
-      "low": "209000",
-      "open": "210000",
+      "volume": "221",
+      "high": "215000",
+      "low": "215000",
+      "open": "0",
       "marketCap": "0"
     }
   ],
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1469.50",
-      "change": "11.50",
+      "value": "1469.20",
+      "change": "11.20",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "937.03",
-      "change": "7.66",
+      "value": "937.02",
+      "change": "7.65",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1725.71",
-      "change": "15.18",
+      "value": "1725.65",
+      "change": "15.12",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "216.08",
-      "change": "1.91",
+      "value": "216.04",
+      "change": "1.87",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "222959.53",
-      "change": "3223.57",
+      "value": "223186.29",
+      "change": "3450.33",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,6 +142,26 @@
   ],
   "news": [
     {
+      "title": "JP모건 \"삼성전자, 노조 요구 수용시 영업익 최대 12% 하락\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016066282&office_id=001&mode=mainnews&type=&date=2026-05-08&page=1"
+    },
+    {
+      "title": "“SK 한 주로 하이닉스·앤트로픽 동시 투자?”…해외 개미들은 韓 지배구조 ‘열공’ 중",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001162827&office_id=366&mode=mainnews&type=&date=2026-05-08&page=1"
+    },
+    {
+      "title": "\"핫한 美 테크주, 3달마다 바꿔 따라간다\"…'KIWOOM 미국AI테크하이베타 ETF' 출시",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006275956&office_id=018&mode=mainnews&type=&date=2026-05-08&page=1"
+    },
+    {
+      "title": "“美증시도 사상 최고치”…서학개미, 인텔·마이크론으로 몰렸다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000097557&office_id=243&mode=mainnews&type=&date=2026-05-08&page=1"
+    },
+    {
+      "title": "연말정산 환급·만기 5년...국민성장펀드, 가입 전 따져볼 것들",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000046959&office_id=648&mode=mainnews&type=&date=2026-05-08&page=1"
+    },
+    {
       "title": "삼성이 로봇 찍으면 ‘이 종목’이 뛴다…레인보우로보틱스, 장중 80만 원선 터치 [줍줍리포트]",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0004618770&office_id=011&mode=mainnews&type=&date=2026-05-08&page=1"
     },
@@ -152,26 +172,6 @@
     {
       "title": "\"800G 넘어 1.6T·CPO까지\"… 오이솔루션, AI 데이터센터 핵심 3년 로드맵 공개",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005354772&office_id=008&mode=mainnews&type=&date=2026-05-08&page=1"
-    },
-    {
-      "title": "엔비디아, 4.6조 투자…구리선 대신 광섬유가 뜬다 [마켓딥다이브]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001251475&office_id=215&mode=mainnews&type=&date=2026-05-08&page=1"
-    },
-    {
-      "title": "7천피 터지자 속도 조절?…블랙록 한국 ETF서 사상 최대 유출, 왜",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006275844&office_id=018&mode=mainnews&type=&date=2026-05-08&page=1"
-    },
-    {
-      "title": "EQT, 더존비즈온 상폐 요건 넘겼다…6월 말 완전자회사 수순",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002227244&office_id=138&mode=mainnews&type=&date=2026-05-08&page=1"
-    },
-    {
-      "title": "증권가 리포트 제목이 “닉스 1명 성과급이 더 많겠네 ㅠ”…목표가 ‘줄하향’ CJ ENM",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004618745&office_id=011&mode=mainnews&type=&date=2026-05-08&page=1"
-    },
-    {
-      "title": "코스피 너무 올랐다...외국계 ETF에서 하루에 6000억 빠져나갔다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005518912&office_id=014&mode=mainnews&type=&date=2026-05-08&page=1"
     }
   ]
 }
