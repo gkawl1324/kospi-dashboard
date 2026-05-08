@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-08 06:55:23",
+  "lastUpdated": "2026-05-08 08:06:25",
   "date": "2026.05.08",
   "kospi": {
     "name": "KOSPI",
@@ -19,7 +19,7 @@
       "change": "-3000",
       "changePct": "-1.10",
       "direction": "down",
-      "volume": "25696890",
+      "volume": "25696964",
       "high": "270000",
       "low": "260000",
       "open": "260000",
@@ -33,10 +33,10 @@
       "change": "32000",
       "changePct": "1.93",
       "direction": "up",
-      "volume": "4007178",
-      "high": "1689000",
-      "low": "1591000",
-      "open": "1591000",
+      "volume": "31214",
+      "high": "1686000",
+      "low": "1686000",
+      "open": "0",
       "marketCap": "0"
     },
     {
@@ -61,10 +61,10 @@
       "change": "7500",
       "changePct": "3.61",
       "direction": "up",
-      "volume": "221",
-      "high": "215000",
-      "low": "215000",
-      "open": "0",
+      "volume": "1539715",
+      "high": "219000",
+      "low": "209000",
+      "open": "210000",
       "marketCap": "0"
     }
   ],
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1469.20",
-      "change": "11.20",
+      "value": "1470.50",
+      "change": "12.50",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "937.02",
-      "change": "7.65",
+      "value": "937.67",
+      "change": "8.30",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1725.65",
-      "change": "15.12",
+      "value": "1727.03",
+      "change": "16.50",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "216.04",
-      "change": "1.87",
+      "value": "216.16",
+      "change": "1.99",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "223186.29",
-      "change": "3450.33",
+      "value": "222560.93",
+      "change": "2824.97",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "JP모건 \"삼성전자, 노조 요구 수용시 영업익 최대 12% 하락\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016066282&office_id=001&mode=mainnews&type=&date=2026-05-08&page=1"
+      "title": "홍콩 상장 ‘하이닉스 2배’ ETF, 테슬라 넘었다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005677192&office_id=009&mode=mainnews&type=&date=2026-05-08&page=1"
     },
     {
-      "title": "“SK 한 주로 하이닉스·앤트로픽 동시 투자?”…해외 개미들은 韓 지배구조 ‘열공’ 중",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001162827&office_id=366&mode=mainnews&type=&date=2026-05-08&page=1"
+      "title": "AMD 깜짝 실적에 18% 급등…리사 수, CPU에 웃었다[체크!해주]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001142350&office_id=417&mode=mainnews&type=&date=2026-05-08&page=1"
     },
     {
-      "title": "\"핫한 美 테크주, 3달마다 바꿔 따라간다\"…'KIWOOM 미국AI테크하이베타 ETF' 출시",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006275956&office_id=018&mode=mainnews&type=&date=2026-05-08&page=1"
+      "title": "“잘 먹고 갑니다, 개미들아 안녕”…블랙록 ‘한국 ETF’서 하루에 ‘6000억’ 빠져나갔다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004618823&office_id=011&mode=mainnews&type=&date=2026-05-08&page=1"
     },
     {
-      "title": "“美증시도 사상 최고치”…서학개미, 인텔·마이크론으로 몰렸다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000097557&office_id=243&mode=mainnews&type=&date=2026-05-08&page=1"
+      "title": "[속보] 역대급 전망 나왔다…골드만삭스 \"코스피 9,000p\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001251507&office_id=215&mode=mainnews&type=&date=2026-05-08&page=1"
     },
     {
-      "title": "연말정산 환급·만기 5년...국민성장펀드, 가입 전 따져볼 것들",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000046959&office_id=648&mode=mainnews&type=&date=2026-05-08&page=1"
+      "title": "'불장'서 커버드콜 ETF 성적표도 갈렸다… 관건은 '기초자산'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001142340&office_id=417&mode=mainnews&type=&date=2026-05-08&page=1"
     },
     {
-      "title": "삼성이 로봇 찍으면 ‘이 종목’이 뛴다…레인보우로보틱스, 장중 80만 원선 터치 [줍줍리포트]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004618770&office_id=011&mode=mainnews&type=&date=2026-05-08&page=1"
+      "title": "뚝심 보인 코스피, 결국 상승 마감… 개인 4조 매수에 7500 턱밑",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000929715&office_id=469&mode=mainnews&type=&date=2026-05-08&page=1"
     },
     {
-      "title": "\"상한가, 상한가\" 반도체처럼 '초호황 사이클'...이 업종은?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005354775&office_id=008&mode=mainnews&type=&date=2026-05-08&page=1"
+      "title": "미국 클래리티법 7월 4일 제정되나...최대 변수 ‘스테이블코인 윤리 조항’[엠블록레터]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005677178&office_id=009&mode=mainnews&type=&date=2026-05-08&page=1"
     },
     {
-      "title": "\"800G 넘어 1.6T·CPO까지\"… 오이솔루션, AI 데이터센터 핵심 3년 로드맵 공개",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005354772&office_id=008&mode=mainnews&type=&date=2026-05-08&page=1"
+      "title": "토스증권 '어이쿠!'…콜마 '실적 반토막' 오류에 패닉셀 개미 부글",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008934050&office_id=421&mode=mainnews&type=&date=2026-05-08&page=1"
     }
   ]
 }
