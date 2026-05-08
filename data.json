@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-05-08 04:18:44",
+  "lastUpdated": "2026-05-08 06:14:09",
   "date": "2026.05.08",
   "kospi": {
     "name": "KOSPI",
-    "current": "7441.58",
-    "change": "48.47",
-    "changePct": "0.65",
+    "current": "7498.77",
+    "change": "8.72",
+    "changePct": "0.12",
     "direction": "up",
-    "volume": "396678",
-    "tradeAmount": "28429364"
+    "volume": "497536",
+    "tradeAmount": "37470833"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "266000",
-      "change": "-5500",
-      "changePct": "-2.03",
+      "current": "269250",
+      "change": "-2250",
+      "changePct": "-0.83",
       "direction": "down",
-      "volume": "18058263",
-      "high": "268500",
+      "volume": "23322264",
+      "high": "270000",
       "low": "260000",
       "open": "260000",
       "marketCap": "0"
@@ -29,12 +29,12 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1637000",
-      "change": "-17000",
-      "changePct": "-1.03",
-      "direction": "down",
-      "volume": "2592182",
-      "high": "1662000",
+      "current": "1680000",
+      "change": "26000",
+      "changePct": "1.57",
+      "direction": "up",
+      "volume": "3579306",
+      "high": "1684000",
       "low": "1591000",
       "open": "1591000",
       "marketCap": "0"
@@ -43,12 +43,12 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "108600",
-      "change": "4000",
-      "changePct": "3.82",
+      "current": "108700",
+      "change": "4100",
+      "changePct": "3.92",
       "direction": "up",
-      "volume": "405339",
-      "high": "108700",
+      "volume": "520838",
+      "high": "109600",
       "low": "101050",
       "open": "106900",
       "marketCap": "0"
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "217000",
-      "change": "9500",
-      "changePct": "4.58",
+      "current": "214000",
+      "change": "6500",
+      "changePct": "3.13",
       "direction": "up",
-      "volume": "1087864",
+      "volume": "1444085",
       "high": "219000",
       "low": "209000",
       "open": "210000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1467.40",
-      "change": "9.40",
+      "value": "1469.50",
+      "change": "11.50",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "935.39",
-      "change": "6.02",
+      "value": "937.03",
+      "change": "7.66",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1720.89",
-      "change": "10.36",
+      "value": "1725.71",
+      "change": "15.18",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "215.67",
-      "change": "1.50",
+      "value": "216.08",
+      "change": "1.91",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "222415.88",
-      "change": "2679.92",
+      "value": "222959.53",
+      "change": "3223.57",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
+      "title": "삼성이 로봇 찍으면 ‘이 종목’이 뛴다…레인보우로보틱스, 장중 80만 원선 터치 [줍줍리포트]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004618770&office_id=011&mode=mainnews&type=&date=2026-05-08&page=1"
+    },
+    {
+      "title": "\"상한가, 상한가\" 반도체처럼 '초호황 사이클'...이 업종은?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005354775&office_id=008&mode=mainnews&type=&date=2026-05-08&page=1"
+    },
+    {
+      "title": "\"800G 넘어 1.6T·CPO까지\"… 오이솔루션, AI 데이터센터 핵심 3년 로드맵 공개",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005354772&office_id=008&mode=mainnews&type=&date=2026-05-08&page=1"
+    },
+    {
+      "title": "엔비디아, 4.6조 투자…구리선 대신 광섬유가 뜬다 [마켓딥다이브]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001251475&office_id=215&mode=mainnews&type=&date=2026-05-08&page=1"
+    },
+    {
+      "title": "7천피 터지자 속도 조절?…블랙록 한국 ETF서 사상 최대 유출, 왜",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006275844&office_id=018&mode=mainnews&type=&date=2026-05-08&page=1"
+    },
+    {
+      "title": "EQT, 더존비즈온 상폐 요건 넘겼다…6월 말 완전자회사 수순",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002227244&office_id=138&mode=mainnews&type=&date=2026-05-08&page=1"
+    },
+    {
+      "title": "증권가 리포트 제목이 “닉스 1명 성과급이 더 많겠네 ㅠ”…목표가 ‘줄하향’ CJ ENM",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004618745&office_id=011&mode=mainnews&type=&date=2026-05-08&page=1"
+    },
+    {
       "title": "코스피 너무 올랐다...외국계 ETF에서 하루에 6000억 빠져나갔다",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005518912&office_id=014&mode=mainnews&type=&date=2026-05-08&page=1"
-    },
-    {
-      "title": "액티브 대세에 맞서는 패시브?…키움운용, ‘테마 급등주’ 골라 투자하는 하이베타 ETF 출시",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001162756&office_id=366&mode=mainnews&type=&date=2026-05-08&page=1"
-    },
-    {
-      "title": "가상자산 해외송금땐 하세월…8월에 ‘더쎈놈’ 온다는 소식에 개인들 발동동",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005677049&office_id=009&mode=mainnews&type=&date=2026-05-08&page=1"
-    },
-    {
-      "title": "美 법원, 10% 관세도 제동…韓 불확실성 확대",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005760068&office_id=277&mode=mainnews&type=&date=2026-05-08&page=1"
-    },
-    {
-      "title": "블랙록 한국 ETF서 하루 6000억 빠져나갔다…AI 랠리에 차익실현",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005760060&office_id=277&mode=mainnews&type=&date=2026-05-08&page=1"
-    },
-    {
-      "title": "롤러코스터 증시에 대형주까지 ‘이상매매 주의보’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002640696&office_id=016&mode=mainnews&type=&date=2026-05-08&page=1"
-    },
-    {
-      "title": "“저가매수 기회 왔나”…삼전닉스 숨고르기에 나란히 순매수 상위권 [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004618725&office_id=011&mode=mainnews&type=&date=2026-05-08&page=1"
-    },
-    {
-      "title": "급등장에 10개로 는 ‘황제주’, 액면분할 주목",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002640694&office_id=016&mode=mainnews&type=&date=2026-05-08&page=1"
     }
   ]
 }
