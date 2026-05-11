@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-05-11 04:42:07",
+  "lastUpdated": "2026-05-11 05:01:31",
   "date": "2026.05.11",
   "kospi": {
     "name": "KOSPI",
-    "current": "7855.12",
-    "change": "357.12",
-    "changePct": "4.76",
+    "current": "7875.06",
+    "change": "377.06",
+    "changePct": "5.03",
     "direction": "up",
-    "volume": "569223",
-    "tradeAmount": "36728405"
+    "volume": "591846",
+    "tradeAmount": "38472603"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "285750",
-      "change": "17250",
-      "changePct": "6.42",
+      "current": "286500",
+      "change": "18000",
+      "changePct": "6.70",
       "direction": "up",
-      "volume": "25909781",
+      "volume": "27112672",
       "high": "288500",
       "low": "280000",
       "open": "284500",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1910000",
-      "change": "224000",
-      "changePct": "13.29",
+      "current": "1915000",
+      "change": "229000",
+      "changePct": "13.58",
       "direction": "up",
-      "volume": "4662862",
+      "volume": "4853502",
       "high": "1920000",
       "low": "1826000",
       "open": "1833000",
@@ -43,13 +43,13 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "105000",
-      "change": "-3900",
-      "changePct": "-3.58",
+      "current": "105100",
+      "change": "-3800",
+      "changePct": "-3.49",
       "direction": "down",
-      "volume": "260021",
+      "volume": "273485",
       "high": "111400",
-      "low": "104700",
+      "low": "104600",
       "open": "109900",
       "marketCap": "0"
     },
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "211500",
-      "change": "-3500",
-      "changePct": "-1.63",
+      "current": "211750",
+      "change": "-3250",
+      "changePct": "-1.51",
       "direction": "down",
-      "volume": "553797",
+      "volume": "584061",
       "high": "216000",
       "low": "210000",
       "open": "215500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1475.50",
-      "change": "11.50",
+      "value": "1475.20",
+      "change": "11.20",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "938.88",
-      "change": "4.82",
+      "value": "938.81",
+      "change": "4.75",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1734.08",
-      "change": "11.76",
+      "value": "1733.36",
+      "change": "11.04",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "217.17",
-      "change": "1.86",
+      "value": "217.14",
+      "change": "1.83",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "221650.9",
-      "change": "116.18",
+      "value": "221617.4",
+      "change": "149.68",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -141,6 +141,14 @@
     }
   ],
   "news": [
+    {
+      "title": "'8천피' 노리는 코스피…韓 증시 시총 첫 7000조 돌파",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006278389&office_id=018&mode=mainnews&type=&date=2026-05-11&page=1"
+    },
+    {
+      "title": "트럼프가 뭘 하든 삼전닉스 믿은 개미들...1분기 10명 중 8명이 돈 벌었다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005678092&office_id=009&mode=mainnews&type=&date=2026-05-11&page=1"
+    },
     {
       "title": "“삼성전자·하이닉스 절반 담았다”…삼성운용 ‘반도체 커버드콜 ETF’ 출격",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005678083&office_id=009&mode=mainnews&type=&date=2026-05-11&page=1"
@@ -164,14 +172,6 @@
     {
       "title": "‘삼전닉스’ 나란히 또 신고가 경신…코스피 급등 견인",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002641597&office_id=016&mode=mainnews&type=&date=2026-05-11&page=1"
-    },
-    {
-      "title": "‘28만전자·188만닉스’에도…초고수들 삼성전자·SK하이닉스 쓸어담았다 [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004619436&office_id=011&mode=mainnews&type=&date=2026-05-11&page=1"
-    },
-    {
-      "title": "코스피, 장중 4% 이상 올라 7,800대 강세 유지…코스닥은 하락세",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016069326&office_id=001&mode=mainnews&type=&date=2026-05-11&page=1"
     }
   ]
 }
