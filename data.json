@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-05-11 05:01:31",
+  "lastUpdated": "2026-05-11 08:40:41",
   "date": "2026.05.11",
   "kospi": {
     "name": "KOSPI",
-    "current": "7875.06",
-    "change": "377.06",
-    "changePct": "5.03",
+    "current": "7822.24",
+    "change": "324.24",
+    "changePct": "4.32",
     "direction": "up",
-    "volume": "591846",
-    "tradeAmount": "38472603"
+    "volume": "723397",
+    "tradeAmount": "50163595"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "286500",
-      "change": "18000",
-      "changePct": "6.70",
+      "current": "285500",
+      "change": "17000",
+      "changePct": "6.33",
       "direction": "up",
-      "volume": "27112672",
+      "volume": "34321592",
       "high": "288500",
       "low": "280000",
       "open": "284500",
@@ -29,12 +29,12 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1915000",
-      "change": "229000",
-      "changePct": "13.58",
+      "current": "1880000",
+      "change": "194000",
+      "changePct": "11.51",
       "direction": "up",
-      "volume": "4853502",
-      "high": "1920000",
+      "volume": "7007763",
+      "high": "1949000",
       "low": "1826000",
       "open": "1833000",
       "marketCap": "0"
@@ -47,7 +47,7 @@
       "change": "-3800",
       "changePct": "-3.49",
       "direction": "down",
-      "volume": "273485",
+      "volume": "372413",
       "high": "111400",
       "low": "104600",
       "open": "109900",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "211750",
-      "change": "-3250",
-      "changePct": "-1.51",
+      "current": "211500",
+      "change": "-3500",
+      "changePct": "-1.63",
       "direction": "down",
-      "volume": "584061",
+      "volume": "780013",
       "high": "216000",
       "low": "210000",
       "open": "215500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1475.20",
-      "change": "11.20",
+      "value": "1470.40",
+      "change": "6.40",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "938.81",
-      "change": "4.75",
+      "value": "936.77",
+      "change": "2.71",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1733.36",
-      "change": "11.04",
+      "value": "1731.76",
+      "change": "9.44",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "217.14",
-      "change": "1.83",
+      "value": "216.46",
+      "change": "1.15",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "221617.4",
-      "change": "149.68",
+      "value": "220814.65",
+      "change": "952.43",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "'8천피' 노리는 코스피…韓 증시 시총 첫 7000조 돌파",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006278389&office_id=018&mode=mainnews&type=&date=2026-05-11&page=1"
+      "title": "'포모' 못 견뎠나…개미들, 급등장에도 추격매수",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005285508&office_id=015&mode=mainnews&type=&date=2026-05-11&page=1"
     },
     {
-      "title": "트럼프가 뭘 하든 삼전닉스 믿은 개미들...1분기 10명 중 8명이 돈 벌었다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005678092&office_id=009&mode=mainnews&type=&date=2026-05-11&page=1"
+      "title": "\"못 사서, 못 팔아서 불안해요\"…이런 투자자들 '이것' 사라는데",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005355932&office_id=008&mode=mainnews&type=&date=2026-05-11&page=1"
     },
     {
-      "title": "“삼성전자·하이닉스 절반 담았다”…삼성운용 ‘반도체 커버드콜 ETF’ 출격",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005678083&office_id=009&mode=mainnews&type=&date=2026-05-11&page=1"
+      "title": "왜 손실 난 주식 팔지 못할까…개미가 빠지기 쉬운 4가지 함정",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003718705&office_id=020&mode=mainnews&type=&date=2026-05-11&page=1"
     },
     {
-      "title": "개인 투자자 10명 중 8명 돈 벌었다…삼성전자 ‘수익·손실 1위’ [투자360]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002641674&office_id=016&mode=mainnews&type=&date=2026-05-11&page=1"
+      "title": "8000→10000→12000....삼전·SK하닉 랠리에 코스피 상단 ‘뻥’ 뚫렸다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003026048&office_id=029&mode=mainnews&type=&date=2026-05-11&page=1"
     },
     {
-      "title": "증시 시총 7000조원 첫 돌파… 190만닉스·29만전자 찍었다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002790446&office_id=021&mode=mainnews&type=&date=2026-05-11&page=1"
+      "title": "'1만피' 전망 쏟아져도…\"곧 떨어진다\" 청개구리 개미들",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006278564&office_id=018&mode=mainnews&type=&date=2026-05-11&page=1"
     },
     {
-      "title": "반도체 다음 테마는…조선·광통신·우주항공 분야 주목",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002641606&office_id=016&mode=mainnews&type=&date=2026-05-11&page=1"
+      "title": "'삼전닉스' 2종목, 코스피 시총 절반…16개월 만에 22.6%→46.9%",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008938000&office_id=421&mode=mainnews&type=&date=2026-05-11&page=1"
     },
     {
-      "title": "희망과 유동성이 끌어올린 증시…이젠 ‘경계의 5월’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002641604&office_id=016&mode=mainnews&type=&date=2026-05-11&page=1"
+      "title": "액면병합으로 동전주 탈출 후 거래재개 속속…'착시효과' 유의해야",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006278561&office_id=018&mode=mainnews&type=&date=2026-05-11&page=1"
     },
     {
-      "title": "‘삼전닉스’ 나란히 또 신고가 경신…코스피 급등 견인",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002641597&office_id=016&mode=mainnews&type=&date=2026-05-11&page=1"
+      "title": "'단타 중독' 개미들, 삼전·하닉 2배 ETF가 '독'될까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003089227&office_id=119&mode=mainnews&type=&date=2026-05-11&page=1"
     }
   ]
 }
