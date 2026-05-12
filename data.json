@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-12 07:22:07",
+  "lastUpdated": "2026-05-12 07:47:46",
   "date": "2026.05.12",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1489.90",
-      "change": "14.90",
+      "value": "1489.30",
+      "change": "14.30",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "946.15",
-      "change": "7.94",
+      "value": "945.50",
+      "change": "7.29",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1751.08",
-      "change": "13.31",
+      "value": "1749.26",
+      "change": "11.49",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "219.27",
-      "change": "2.10",
+      "value": "219.17",
+      "change": "2.00",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "225049.6",
-      "change": "136.87",
+      "value": "225091.01",
+      "change": "178.28",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "“상승장 맞나요?”…‘팔천피’ 기대감 속 소외된 코스닥 개미 울상",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001163677&office_id=366&mode=mainnews&type=&date=2026-05-12&page=1"
+      "title": "'8천피 벽' 앞에서 코스피 하락 마감...외국인 5.6조 순매도",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000097717&office_id=243&mode=mainnews&type=&date=2026-05-12&page=1"
     },
     {
-      "title": "코스피 6거래일 만에 하락 마감…코앞에서 놓친 ‘30만전자·200만닉스’ [마켓시그널]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004619963&office_id=011&mode=mainnews&type=&date=2026-05-12&page=1"
+      "title": "[단독] 앵커PE, 항공기 부품사 율곡 인수전 합류…4파전 구도",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005678854&office_id=009&mode=mainnews&type=&date=2026-05-12&page=1"
     },
     {
-      "title": "증시 랠리에 '10조 클럽' 19곳 늘었다…대형주 체급 재편",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005520410&office_id=014&mode=mainnews&type=&date=2026-05-12&page=1"
+      "title": "외인 5.6조 '팔자' 개인 6.6조 '사자' 맞불…승부수 통할까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005356501&office_id=008&mode=mainnews&type=&date=2026-05-12&page=1"
     },
     {
-      "title": "외국인 5.6조 매도 폭탄에…'8000피' 돌파 무산",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006279263&office_id=018&mode=mainnews&type=&date=2026-05-12&page=1"
+      "title": "외국인 투매에도 끄떡없는 개미들…'8천피' 믿음 여전(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013940350&office_id=003&mode=mainnews&type=&date=2026-05-12&page=1"
     },
     {
-      "title": "코스피 급락 버틴 LG전자…'외인 순매수 1위' 18%↑[핫종목](종합)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008940147&office_id=421&mode=mainnews&type=&date=2026-05-12&page=1"
+      "title": "8000선 턱밑서 꺾인 코스피, 하루 577p 출렁…'역대 2위 변동폭'(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013940346&office_id=003&mode=mainnews&type=&date=2026-05-12&page=1"
     },
     {
-      "title": "'팔천피'까지 단 0.33p 남기고 급락…外人 5조 '팔자'에 무너졌다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013940283&office_id=003&mode=mainnews&type=&date=2026-05-12&page=1"
+      "title": "“1만피 간다는데 조정 오면 땡큐지”…외국인 매도폭탄에 ‘줍줍’ 나선 개미들",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005678846&office_id=009&mode=mainnews&type=&date=2026-05-12&page=1"
     },
     {
-      "title": "서학개미도 ETF 사랑...ETF에 넣은 돈 14조 늘었다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005520400&office_id=014&mode=mainnews&type=&date=2026-05-12&page=1"
+      "title": "피델리티, 반도체 장비 GST 주요주주 등극…SK하이닉스 공급 확대 베팅",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006279279&office_id=018&mode=mainnews&type=&date=2026-05-12&page=1"
     },
     {
-      "title": "엔비디아 젠슨황, 中 못가는 이유는…\"美의 강력한 신호\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005761666&office_id=277&mode=mainnews&type=&date=2026-05-12&page=1"
+      "title": "외인 5.6조 매도에 8000 턱밑서 꺾인 코스피… 변동 폭 역대 2위",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000930320&office_id=469&mode=mainnews&type=&date=2026-05-12&page=1"
     }
   ]
 }
