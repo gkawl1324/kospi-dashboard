@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-05-12 04:41:00",
+  "lastUpdated": "2026-05-12 07:22:07",
   "date": "2026.05.12",
   "kospi": {
     "name": "KOSPI",
-    "current": "7618.20",
-    "change": "204.04",
-    "changePct": "2.61",
+    "current": "7643.15",
+    "change": "179.09",
+    "changePct": "2.29",
     "direction": "up",
-    "volume": "828376",
-    "tradeAmount": "51530047"
+    "volume": "1015519",
+    "tradeAmount": "66608629"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "274250",
-      "change": "-11250",
-      "changePct": "-3.94",
+      "current": "279000",
+      "change": "-6500",
+      "changePct": "-2.28",
       "direction": "down",
-      "volume": "29509954",
+      "volume": "40936347",
       "high": "291500",
       "low": "266000",
       "open": "290000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1863000",
-      "change": "-17000",
-      "changePct": "-0.90",
+      "current": "1835000",
+      "change": "-45000",
+      "changePct": "-2.39",
       "direction": "down",
-      "volume": "6573140",
+      "volume": "9076572",
       "high": "1967000",
       "low": "1804000",
       "open": "1944000",
@@ -47,7 +47,7 @@
       "change": "5300",
       "changePct": "5.04",
       "direction": "up",
-      "volume": "678984",
+      "volume": "876916",
       "high": "118400",
       "low": "106000",
       "open": "106200",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "203500",
-      "change": "-8000",
-      "changePct": "-3.78",
+      "current": "204000",
+      "change": "-7500",
+      "changePct": "-3.55",
       "direction": "down",
-      "volume": "739095",
+      "volume": "991427",
       "high": "213000",
       "low": "200500",
       "open": "213000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1484.30",
-      "change": "9.30",
+      "value": "1489.90",
+      "change": "14.90",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "942.08",
-      "change": "3.87",
+      "value": "946.15",
+      "change": "7.94",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1745.54",
-      "change": "7.77",
+      "value": "1751.08",
+      "change": "13.31",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "218.52",
-      "change": "1.35",
+      "value": "219.27",
+      "change": "2.10",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "225526.87",
-      "change": "614.14",
+      "value": "225049.6",
+      "change": "136.87",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "'CB 콜옵션 100%' 지아이에스, 꽃놀이패 쥐었다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000047055&office_id=648&mode=mainnews&type=&date=2026-05-12&page=1"
+      "title": "“상승장 맞나요?”…‘팔천피’ 기대감 속 소외된 코스닥 개미 울상",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001163677&office_id=366&mode=mainnews&type=&date=2026-05-12&page=1"
     },
     {
-      "title": "AI가 끌어올린 S&P500…7400선 돌파하며 사상 최고치 경신",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005761531&office_id=277&mode=mainnews&type=&date=2026-05-12&page=1"
+      "title": "코스피 6거래일 만에 하락 마감…코앞에서 놓친 ‘30만전자·200만닉스’ [마켓시그널]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004619963&office_id=011&mode=mainnews&type=&date=2026-05-12&page=1"
     },
     {
-      "title": "올해 81% 뛴 코스피 8000피 향해 가는데…28% 오른 코스닥, ‘3천스닥’ 시험대",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005678687&office_id=009&mode=mainnews&type=&date=2026-05-12&page=1"
+      "title": "증시 랠리에 '10조 클럽' 19곳 늘었다…대형주 체급 재편",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005520410&office_id=014&mode=mainnews&type=&date=2026-05-12&page=1"
     },
     {
-      "title": "업비트 코인, 10종목 중 9은 상승세…분위기 좋아진 코인시장[매일코인]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005678682&office_id=009&mode=mainnews&type=&date=2026-05-12&page=1"
+      "title": "외국인 5.6조 매도 폭탄에…'8000피' 돌파 무산",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006279263&office_id=018&mode=mainnews&type=&date=2026-05-12&page=1"
     },
     {
-      "title": "'개미들의 후회' 불장 속 \"못 샀다\" 왜?…그새 28만전자·185만전자 '훨훨'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000097702&office_id=243&mode=mainnews&type=&date=2026-05-12&page=1"
+      "title": "코스피 급락 버틴 LG전자…'외인 순매수 1위' 18%↑[핫종목](종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008940147&office_id=421&mode=mainnews&type=&date=2026-05-12&page=1"
     },
     {
-      "title": "삼전닉스 숨고르자…상위 1% 매수세 집중 [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004619870&office_id=011&mode=mainnews&type=&date=2026-05-12&page=1"
+      "title": "'팔천피'까지 단 0.33p 남기고 급락…外人 5조 '팔자'에 무너졌다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013940283&office_id=003&mode=mainnews&type=&date=2026-05-12&page=1"
     },
     {
-      "title": "외국인 투심 쏠리는 로봇주, 기대감 ‘솔솔’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002642205&office_id=016&mode=mainnews&type=&date=2026-05-12&page=1"
+      "title": "서학개미도 ETF 사랑...ETF에 넣은 돈 14조 늘었다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005520400&office_id=014&mode=mainnews&type=&date=2026-05-12&page=1"
     },
     {
-      "title": "'직매입 갑질' 의혹에 발목 잡힌 무신사…10조 IPO 빨간불",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000498367&office_id=629&mode=mainnews&type=&date=2026-05-12&page=1"
+      "title": "엔비디아 젠슨황, 中 못가는 이유는…\"美의 강력한 신호\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005761666&office_id=277&mode=mainnews&type=&date=2026-05-12&page=1"
     }
   ]
 }
