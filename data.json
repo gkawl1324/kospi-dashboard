@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-05-13 04:27:55",
+  "lastUpdated": "2026-05-13 04:52:50",
   "date": "2026.05.13",
   "kospi": {
     "name": "KOSPI",
-    "current": "7810.51",
-    "change": "167.36",
-    "changePct": "2.19",
+    "current": "7793.99",
+    "change": "150.84",
+    "changePct": "1.97",
     "direction": "up",
-    "volume": "572516",
-    "tradeAmount": "36175563"
+    "volume": "610124",
+    "tradeAmount": "38345396"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "283750",
-      "change": "4750",
-      "changePct": "1.70",
+      "current": "282250",
+      "change": "3250",
+      "changePct": "1.16",
       "direction": "up",
-      "volume": "25794678",
+      "volume": "27334440",
       "high": "285000",
       "low": "262000",
       "open": "264000",
@@ -29,12 +29,12 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1965000",
-      "change": "130000",
-      "changePct": "7.08",
+      "current": "1960500",
+      "change": "125500",
+      "changePct": "6.84",
       "direction": "up",
-      "volume": "4667963",
-      "high": "1972000",
+      "volume": "5014557",
+      "high": "1973000",
       "low": "1781000",
       "open": "1781000",
       "marketCap": "0"
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "108400",
-      "change": "-2000",
-      "changePct": "-1.81",
+      "current": "108200",
+      "change": "-2200",
+      "changePct": "-1.99",
       "direction": "down",
-      "volume": "246484",
+      "volume": "258674",
       "high": "113700",
       "low": "104000",
       "open": "113000",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "201000",
-      "change": "-3000",
-      "changePct": "-1.47",
+      "current": "200500",
+      "change": "-3500",
+      "changePct": "-1.72",
       "direction": "down",
-      "volume": "668146",
+      "volume": "691933",
       "high": "206500",
       "low": "198600",
       "open": "206000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1494.10",
-      "change": "2.10",
+      "value": "1494.80",
+      "change": "2.80",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "947.43",
-      "change": "0.94",
+      "value": "947.73",
+      "change": "1.24",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1753.33",
-      "change": "1.95",
+      "value": "1754.07",
+      "change": "2.69",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "220.00",
-      "change": "0.32",
+      "value": "220.10",
+      "change": "0.42",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "225874.2",
-      "change": "1449.71",
+      "value": "225871.72",
+      "change": "1447.23",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -150,7 +150,7 @@
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002790977&office_id=021&mode=mainnews&type=&date=2026-05-13&page=1"
     },
     {
-      "title": "1조원 이상 ETF 100개 육박…코스피 강세에 몰렸다",
+      "title": "1조원 이상 ETF 100개 육박…코스피 강세에 자금 몰려",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000498766&office_id=629&mode=mainnews&type=&date=2026-05-13&page=1"
     },
     {
