@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-05-13 04:52:50",
+  "lastUpdated": "2026-05-13 07:36:43",
   "date": "2026.05.13",
   "kospi": {
     "name": "KOSPI",
-    "current": "7793.99",
-    "change": "150.84",
-    "changePct": "1.97",
+    "current": "7844.01",
+    "change": "200.86",
+    "changePct": "2.63",
     "direction": "up",
-    "volume": "610124",
-    "tradeAmount": "38345396"
+    "volume": "733427",
+    "tradeAmount": "49736421"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "282250",
-      "change": "3250",
-      "changePct": "1.16",
+      "current": "284000",
+      "change": "5000",
+      "changePct": "1.79",
       "direction": "up",
-      "volume": "27334440",
-      "high": "285000",
+      "volume": "35435143",
+      "high": "285500",
       "low": "262000",
       "open": "264000",
       "marketCap": "0"
@@ -29,12 +29,12 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1960500",
-      "change": "125500",
-      "changePct": "6.84",
+      "current": "1976000",
+      "change": "141000",
+      "changePct": "7.68",
       "direction": "up",
-      "volume": "5014557",
-      "high": "1973000",
+      "volume": "6801403",
+      "high": "1990000",
       "low": "1781000",
       "open": "1781000",
       "marketCap": "0"
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "108200",
-      "change": "-2200",
-      "changePct": "-1.99",
+      "current": "108700",
+      "change": "-1700",
+      "changePct": "-1.54",
       "direction": "down",
-      "volume": "258674",
+      "volume": "352349",
       "high": "113700",
       "low": "104000",
       "open": "113000",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "200500",
-      "change": "-3500",
-      "changePct": "-1.72",
+      "current": "201500",
+      "change": "-2500",
+      "changePct": "-1.23",
       "direction": "down",
-      "volume": "691933",
+      "volume": "904464",
       "high": "206500",
       "low": "198600",
       "open": "206000",
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1494.80",
-      "change": "2.80",
-      "direction": "up"
+      "value": "1487.80",
+      "change": "4.20",
+      "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "947.73",
-      "change": "1.24",
-      "direction": "up"
+      "value": "943.41",
+      "change": "3.08",
+      "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1754.07",
-      "change": "2.69",
-      "direction": "up"
+      "value": "1743.11",
+      "change": "8.27",
+      "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "220.10",
-      "change": "0.42",
-      "direction": "up"
+      "value": "219.12",
+      "change": "0.56",
+      "direction": "down"
     }
   ],
   "oilPrices": [
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "225871.72",
-      "change": "1447.23",
+      "value": "225103.34",
+      "change": "678.85",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "“국장 복귀는 지능순”이라더니…속 터진 서학 개미들 귀국하기 시작했다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004620327&office_id=011&mode=mainnews&type=&date=2026-05-13&page=1"
+      "title": "현대차·LG전자까지 뛰었다…휴머노이드 기대감에 증시 ‘들썩’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005679470&office_id=009&mode=mainnews&type=&date=2026-05-13&page=1"
     },
     {
-      "title": "코스피, 장중 7400대로 떨어졌다 반등… ‘삼전 악재’ ‘저가매수’에 혼조",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002790977&office_id=021&mode=mainnews&type=&date=2026-05-13&page=1"
+      "title": "케미칼 제치고 날아오른 쇼핑…롯데그룹, 10년 만에 간판 계열사 바뀌었다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005286533&office_id=015&mode=mainnews&type=&date=2026-05-13&page=1"
     },
     {
-      "title": "1조원 이상 ETF 100개 육박…코스피 강세에 자금 몰려",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000498766&office_id=629&mode=mainnews&type=&date=2026-05-13&page=1"
+      "title": "\"LG전자 지금이라도 살까?\"…AI에 물었더니 '뜻밖의 답변'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005286532&office_id=015&mode=mainnews&type=&date=2026-05-13&page=1"
     },
     {
-      "title": "스페이스X 효과 볼까…OCI홀딩스 순매수 1위 [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004620316&office_id=011&mode=mainnews&type=&date=2026-05-13&page=1"
+      "title": "7월부터 상폐 피하려 주식수 줄이는 '동전주 꼼수' 막힌다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000047110&office_id=648&mode=mainnews&type=&date=2026-05-13&page=1"
     },
     {
-      "title": "외인, 올해만 삼전 41조 던졌다 [삼성전자 노사 사후조정 결렬]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002642828&office_id=016&mode=mainnews&type=&date=2026-05-13&page=1"
+      "title": "부실기업 퇴출 속도…'동전주·시가총액 미달' 기업 7월부터 상폐",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008942763&office_id=421&mode=mainnews&type=&date=2026-05-13&page=1"
     },
     {
-      "title": "“한국 불장서 96억 대박, 하이닉스 생큐”…일본인 계좌 인증에 ‘술렁’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005679300&office_id=009&mode=mainnews&type=&date=2026-05-13&page=1"
+      "title": "'하루만에 상승' 코스피, 변동성은 지속…'사상최고' 7,844 마감(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016075110&office_id=001&mode=mainnews&type=&date=2026-05-13&page=1"
     },
     {
-      "title": "\"외인 2.5조 매도 폭탄? 그게 뭐\"…개미·기관 싹쓸이에 8천피 재시동",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005356980&office_id=008&mode=mainnews&type=&date=2026-05-13&page=1"
+      "title": "꿈의 200만닉스 2만원 남았다…하루 쉬고 7% 급반등[핫종목]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008942755&office_id=421&mode=mainnews&type=&date=2026-05-13&page=1"
     },
     {
-      "title": "삼성전기 “우리도 황제주”…AI서버 호재에 장중 100만원 돌파",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005679286&office_id=009&mode=mainnews&type=&date=2026-05-13&page=1"
+      "title": "\"엄빠말 들을 걸\"…'역대급 불장' 개미 수익률, 5060이 2030 이겼다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005357173&office_id=008&mode=mainnews&type=&date=2026-05-13&page=1"
     }
   ]
 }
