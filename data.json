@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-13 07:36:43",
+  "lastUpdated": "2026-05-13 07:54:21",
   "date": "2026.05.13",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1487.80",
-      "change": "4.20",
+      "value": "1490.10",
+      "change": "1.90",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "943.41",
-      "change": "3.08",
+      "value": "944.21",
+      "change": "2.28",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1743.11",
-      "change": "8.27",
+      "value": "1745.06",
+      "change": "6.32",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "219.12",
-      "change": "0.56",
+      "value": "219.46",
+      "change": "0.22",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "225103.34",
-      "change": "678.85",
+      "value": "225160.78",
+      "change": "736.29",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,6 +142,18 @@
   ],
   "news": [
     {
+      "title": "개인·기관 매수에 코스피 신고가…SK하이닉스·현대차도 신고가",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005357211&office_id=008&mode=mainnews&type=&date=2026-05-13&page=1"
+    },
+    {
+      "title": "상장리츠, 제이알 쇼크에 '쑥대밭'…이란전 직후보다 떨어져 연저점",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005357208&office_id=008&mode=mainnews&type=&date=2026-05-13&page=1"
+    },
+    {
+      "title": "퇴직연금 정조준…100% 담는 ‘채권혼합’ ETF 쏟아진다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006280085&office_id=018&mode=mainnews&type=&date=2026-05-13&page=1"
+    },
+    {
       "title": "현대차·LG전자까지 뛰었다…휴머노이드 기대감에 증시 ‘들썩’",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005679470&office_id=009&mode=mainnews&type=&date=2026-05-13&page=1"
     },
@@ -150,28 +162,16 @@
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005286533&office_id=015&mode=mainnews&type=&date=2026-05-13&page=1"
     },
     {
-      "title": "\"LG전자 지금이라도 살까?\"…AI에 물었더니 '뜻밖의 답변'",
+      "title": "\"절대 안 팔아\" 전원주 또 웃었다…코스피 불장 승리자 5060 투자법",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005357190&office_id=008&mode=mainnews&type=&date=2026-05-13&page=1"
+    },
+    {
+      "title": "LG전자 3개월새 90% '폭등'…\"지금이라도 살까?\" AI 물었더니",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005286532&office_id=015&mode=mainnews&type=&date=2026-05-13&page=1"
     },
     {
       "title": "7월부터 상폐 피하려 주식수 줄이는 '동전주 꼼수' 막힌다",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000047110&office_id=648&mode=mainnews&type=&date=2026-05-13&page=1"
-    },
-    {
-      "title": "부실기업 퇴출 속도…'동전주·시가총액 미달' 기업 7월부터 상폐",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008942763&office_id=421&mode=mainnews&type=&date=2026-05-13&page=1"
-    },
-    {
-      "title": "'하루만에 상승' 코스피, 변동성은 지속…'사상최고' 7,844 마감(종합)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016075110&office_id=001&mode=mainnews&type=&date=2026-05-13&page=1"
-    },
-    {
-      "title": "꿈의 200만닉스 2만원 남았다…하루 쉬고 7% 급반등[핫종목]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008942755&office_id=421&mode=mainnews&type=&date=2026-05-13&page=1"
-    },
-    {
-      "title": "\"엄빠말 들을 걸\"…'역대급 불장' 개미 수익률, 5060이 2030 이겼다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005357173&office_id=008&mode=mainnews&type=&date=2026-05-13&page=1"
     }
   ]
 }
