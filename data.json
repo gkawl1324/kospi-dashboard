@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14 07:28:02",
+  "lastUpdated": "2026-05-14 07:47:38",
   "date": "2026.05.14",
   "kospi": {
     "name": "KOSPI",
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1488.40",
-      "change": "1.10",
-      "direction": "down"
+      "value": "1490.20",
+      "change": "0.70",
+      "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "942.56",
-      "change": "0.91",
-      "direction": "down"
+      "value": "943.91",
+      "change": "0.44",
+      "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1743.14",
-      "change": "1.44",
-      "direction": "down"
+      "value": "1745.62",
+      "change": "1.04",
+      "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "219.35",
-      "change": "0.10",
-      "direction": "down"
+      "value": "219.61",
+      "change": "0.16",
+      "direction": "up"
     }
   ],
   "oilPrices": [
@@ -118,9 +118,9 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "224885.99",
-      "change": "154.22",
-      "direction": "down",
+      "value": "225604.33",
+      "change": "564.12",
+      "direction": "up",
       "unit": "USD/oz"
     },
     {
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "단숨에 8000피 턱밑까지 온 코스피…증권가 \"1만피 가능\"",
+      "title": "외인 매도 폭탄 이겨낸 개인…‘팔천피’까지 단 19P 남아 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002643563&office_id=016&mode=mainnews&type=&date=2026-05-14&page=1"
+    },
+    {
+      "title": "'제이알 쇼크'에 투심 얼었나...리츠 ETF 줄줄이 마이너스",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006281259&office_id=018&mode=mainnews&type=&date=2026-05-14&page=1"
+    },
+    {
+      "title": "삼전·닉스 단일종목 레버리지 ETF 14개 27일 출격",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005287031&office_id=015&mode=mainnews&type=&date=2026-05-14&page=1"
+    },
+    {
+      "title": "“삼전·하닉 따블이요”…단일종목 레버리지 ETF 14개 출격 준비",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005680111&office_id=009&mode=mainnews&type=&date=2026-05-14&page=1"
+    },
+    {
+      "title": "코스피 8000 임박, 종가 최고치 '7981.41'…환율 1491원[오늘증시]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001143243&office_id=417&mode=mainnews&type=&date=2026-05-14&page=1"
+    },
+    {
+      "title": "中증시, 미·중 정상회담 뒤 하락세…\"소문에 사고 뉴스에 팔았다\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006281230&office_id=018&mode=mainnews&type=&date=2026-05-14&page=1"
+    },
+    {
+      "title": "외국인 2.8兆 매도 속 코스피 신고가 마감…8천피 눈앞(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005763026&office_id=277&mode=mainnews&type=&date=2026-05-14&page=1"
+    },
+    {
+      "title": "'8000피' 단 19포인트 남았다…\"이제 1만피 간다\" 또 파격 전망",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005357847&office_id=008&mode=mainnews&type=&date=2026-05-14&page=1"
-    },
-    {
-      "title": "삼성생명 1분기 순익 90%↑…삼전배당·삼성증권 등 자회사 효과(종합)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016077879&office_id=001&mode=mainnews&type=&date=2026-05-14&page=1"
-    },
-    {
-      "title": "'팔천피' 고지 앞두고 7980선 마감…종가 기준 이틀 연속 최고치(종합)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013945598&office_id=003&mode=mainnews&type=&date=2026-05-14&page=1"
-    },
-    {
-      "title": "코스피 7980선 또 최고치…삼성전자 '30만전자' 바짝",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000180588&office_id=654&mode=mainnews&type=&date=2026-05-14&page=1"
-    },
-    {
-      "title": "코스피, 또 사상최고 7,981…'8천피' 19포인트 남았다(종합)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016077846&office_id=001&mode=mainnews&type=&date=2026-05-14&page=1"
-    },
-    {
-      "title": "코스피 8000선까지 18.59포인트 남았다…또 사상 최고치",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006281181&office_id=018&mode=mainnews&type=&date=2026-05-14&page=1"
-    },
-    {
-      "title": "코스피, 종가 최고치 경신…8000까지 단 0.23% 남아",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000499254&office_id=629&mode=mainnews&type=&date=2026-05-14&page=1"
-    },
-    {
-      "title": "삼전·SK하닉 레버리지 ETF 출격…미래운용 ‘최저보수’ 승부수",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003026708&office_id=029&mode=mainnews&type=&date=2026-05-14&page=1"
     }
   ]
 }
