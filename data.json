@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-05-14 04:27:13",
+  "lastUpdated": "2026-05-14 04:51:44",
   "date": "2026.05.14",
   "kospi": {
     "name": "KOSPI",
-    "current": "7919.16",
-    "change": "75.15",
-    "changePct": "0.96",
+    "current": "7918.00",
+    "change": "73.99",
+    "changePct": "0.94",
     "direction": "up",
-    "volume": "665536",
-    "tradeAmount": "34571511"
+    "volume": "692756",
+    "tradeAmount": "36028024"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "293750",
-      "change": "9750",
-      "changePct": "3.43",
+      "current": "294500",
+      "change": "10500",
+      "changePct": "3.70",
       "direction": "up",
-      "volume": "26709305",
+      "volume": "27760306",
       "high": "299500",
       "low": "282000",
       "open": "282000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1964000",
-      "change": "-12000",
-      "changePct": "-0.61",
+      "current": "1957000",
+      "change": "-19000",
+      "changePct": "-0.96",
       "direction": "down",
-      "volume": "3572077",
+      "volume": "3717078",
       "high": "1994000",
       "low": "1937000",
       "open": "1976000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "115900",
-      "change": "7200",
-      "changePct": "6.62",
+      "current": "116100",
+      "change": "7400",
+      "changePct": "6.81",
       "direction": "up",
-      "volume": "358550",
+      "volume": "382349",
       "high": "117500",
       "low": "110100",
       "open": "111600",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "211500",
-      "change": "10000",
-      "changePct": "4.96",
+      "current": "211000",
+      "change": "9500",
+      "changePct": "4.71",
       "direction": "up",
-      "volume": "1222280",
+      "volume": "1234407",
       "high": "216000",
       "low": "203500",
       "open": "204000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1492.50",
-      "change": "3.00",
+      "value": "1491.90",
+      "change": "2.40",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "945.79",
-      "change": "2.32",
+      "value": "945.14",
+      "change": "1.67",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1748.61",
-      "change": "4.03",
+      "value": "1747.98",
+      "change": "3.40",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "220.00",
-      "change": "0.55",
+      "value": "219.89",
+      "change": "0.44",
       "direction": "up"
     }
   ],
@@ -118,9 +118,9 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "224926.61",
-      "change": "113.60",
-      "direction": "down",
+      "value": "225709.16",
+      "change": "668.95",
+      "direction": "up",
       "unit": "USD/oz"
     },
     {
@@ -142,6 +142,22 @@
   ],
   "news": [
     {
+      "title": "\"코인 붐 다시 오나\"…바이낸스 \"이젠 기관의 시간\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013944863&office_id=003&mode=mainnews&type=&date=2026-05-14&page=1"
+    },
+    {
+      "title": "대세는 삼전·닉스…반도체 ETF 라인업 확대",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013944857&office_id=003&mode=mainnews&type=&date=2026-05-14&page=1"
+    },
+    {
+      "title": "마이다스에셋운용 참전 임박, '코스닥 액티브' ETF 삼국지",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000047142&office_id=648&mode=mainnews&type=&date=2026-05-14&page=1"
+    },
+    {
+      "title": "“연 2% 예금으론 답 없다”…급증하는 ‘포모 투자’에 빚투 경고음도 커져",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005679928&office_id=009&mode=mainnews&type=&date=2026-05-14&page=1"
+    },
+    {
       "title": "삼성전자 노조 보다 더 강한 D램?…JP모건 “조정은 매수 기회” [투자360]",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002643435&office_id=016&mode=mainnews&type=&date=2026-05-14&page=1"
     },
@@ -156,22 +172,6 @@
     {
       "title": "국민성장펀드, 박스권 갇힌 코스닥 단비 되나…'속빈 강정' 우려도",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000499109&office_id=629&mode=mainnews&type=&date=2026-05-14&page=1"
-    },
-    {
-      "title": "코스피, '8천피' 닿을 듯 말 듯…7,900선에서 상승 유지",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016076746&office_id=001&mode=mainnews&type=&date=2026-05-14&page=1"
-    },
-    {
-      "title": "테이블에 무역휴전 연장…\"45兆 상품관세 인하 논의\"[미중 정상회담]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005762799&office_id=277&mode=mainnews&type=&date=2026-05-14&page=1"
-    },
-    {
-      "title": "고수들, 하이닉스 ‘저가 매수’ 달리고 전날 산 OCI 던졌다 [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004620745&office_id=011&mode=mainnews&type=&date=2026-05-14&page=1"
-    },
-    {
-      "title": "③ NH證, 해외 ETF 쏠림 속 전략 '시험대'[증권사 ISA 전쟁]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000084609&office_id=293&mode=mainnews&type=&date=2026-05-14&page=1"
     }
   ]
 }
