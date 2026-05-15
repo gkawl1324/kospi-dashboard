@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-05-15 04:55:23",
+  "lastUpdated": "2026-05-15 08:07:41",
   "date": "2026.05.15",
   "kospi": {
     "name": "KOSPI",
-    "current": "7566.36",
-    "change": "415.05",
-    "changePct": "5.20",
+    "current": "7493.18",
+    "change": "488.23",
+    "changePct": "6.12",
     "direction": "up",
-    "volume": "695487",
-    "tradeAmount": "41721295"
+    "volume": "878727",
+    "tradeAmount": "57819373"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "275500",
-      "change": "-20500",
-      "changePct": "-6.93",
+      "current": "270500",
+      "change": "-25500",
+      "changePct": "-8.61",
       "direction": "down",
-      "volume": "24823474",
+      "volume": "37931525",
       "high": "296500",
-      "low": "275000",
+      "low": "266000",
       "open": "291000",
       "marketCap": "0"
     },
@@ -29,13 +29,13 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1843000",
-      "change": "-127000",
-      "changePct": "-6.45",
+      "current": "1819000",
+      "change": "-151000",
+      "changePct": "-7.66",
       "direction": "down",
-      "volume": "4462233",
+      "volume": "6921083",
       "high": "1995000",
-      "low": "1842000",
+      "low": "1789000",
       "open": "1950000",
       "marketCap": "0"
     },
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "125800",
-      "change": "8800",
-      "changePct": "7.52",
+      "current": "126000",
+      "change": "9000",
+      "changePct": "7.69",
       "direction": "up",
-      "volume": "2266100",
+      "volume": "2619097",
       "high": "152100",
       "low": "124200",
       "open": "151400",
@@ -57,13 +57,13 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "205500",
-      "change": "-7500",
-      "changePct": "-3.52",
+      "current": "203500",
+      "change": "-9500",
+      "changePct": "-4.46",
       "direction": "down",
-      "volume": "743679",
+      "volume": "997805",
       "high": "216500",
-      "low": "205000",
+      "low": "201000",
       "open": "215000",
       "marketCap": "0"
     }
@@ -79,22 +79,22 @@
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "945.62",
-      "change": "2.78",
+      "value": "946.07",
+      "change": "3.23",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1746.04",
-      "change": "3.27",
+      "value": "1744.54",
+      "change": "1.77",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "220.52",
-      "change": "0.48",
+      "value": "220.24",
+      "change": "0.20",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "222059.36",
-      "change": "1457.01",
+      "value": "219836.86",
+      "change": "3679.51",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "코스피, 8000 돌파 후 급락…반도체 투매에 4% 가까이 밀려",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006282220&office_id=018&mode=mainnews&type=&date=2026-05-15&page=1"
+      "title": "'8천피' 찍고 검은 금요일 직행…코스피, 6% 급락 이유는",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000097886&office_id=243&mode=mainnews&type=&date=2026-05-15&page=1"
     },
     {
-      "title": "'개미들, 이제 팔기 시작했나'…코스피 8000→7600선 '급락'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000097868&office_id=243&mode=mainnews&type=&date=2026-05-15&page=1"
+      "title": "코스피 8000, 맛만 보고 7400까지 내리 주저앉았다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000047186&office_id=648&mode=mainnews&type=&date=2026-05-15&page=1"
     },
     {
-      "title": "\"반도체 빼고 죽 쒔다\"…투자자 '썰물'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001252240&office_id=215&mode=mainnews&type=&date=2026-05-15&page=1"
+      "title": "8000 환호가 7400 수직낙하 비명으로…다음주 엔비디아가 구세주 될까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005358431&office_id=008&mode=mainnews&type=&date=2026-05-15&page=1"
     },
     {
-      "title": "파죽지세 8000피… 7000 찍고 7거래일 만에",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002791525&office_id=021&mode=mainnews&type=&date=2026-05-15&page=1"
+      "title": "빚투 36조 돌파에 공매도도 '쑥'…아슬아슬 줄타기 계속",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005287498&office_id=015&mode=mainnews&type=&date=2026-05-15&page=1"
     },
     {
-      "title": "외인 20조 투매·개미 18조 방어… K반도체 호황속 ‘역대급 손바뀜’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002791520&office_id=021&mode=mainnews&type=&date=2026-05-15&page=1"
+      "title": "오르는 증권주·내리는 은행주…미래에셋증권 시총, 하나·우리금융 앞질렀다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000097882&office_id=243&mode=mainnews&type=&date=2026-05-15&page=1"
     },
     {
-      "title": "트럼프 \"더는 안 참는다\" 투심 이탈…코스피 7700 아래로 '뚝'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005358232&office_id=008&mode=mainnews&type=&date=2026-05-15&page=1"
+      "title": "\"1년만에 8배도\"…불장 속 레버리지 ETF 실전 투자법은? [미다스의 손]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001252285&office_id=215&mode=mainnews&type=&date=2026-05-15&page=1"
     },
     {
-      "title": "‘삼전닉스’에 LG전자까지…초고수, 삼성전자·LG전자 순매수 1·2위 [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004621171&office_id=011&mode=mainnews&type=&date=2026-05-15&page=1"
+      "title": "\"같은 코스닥 액티브인데\" 눈에 띄는 타임폴리오의 마이너스[체크!ETF]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001143440&office_id=417&mode=mainnews&type=&date=2026-05-15&page=1"
     },
     {
-      "title": "엔비디아·MS가 고른 LG전자…AI로봇주 재평가에 주가 20% 급등",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005680531&office_id=009&mode=mainnews&type=&date=2026-05-15&page=1"
+      "title": "피치 \"반도체 수출 증가에 韓 성장률 상방 압력\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016079935&office_id=001&mode=mainnews&type=&date=2026-05-15&page=1"
     }
   ]
 }
