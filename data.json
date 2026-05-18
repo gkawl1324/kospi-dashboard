@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-18 08:55:53",
+  "lastUpdated": "2026-05-18 10:18:52",
   "date": "2026.05.18",
   "kospi": {
     "name": "KOSPI",
@@ -7,8 +7,8 @@
     "change": "22.86",
     "changePct": "0.31",
     "direction": "up",
-    "volume": "561377",
-    "tradeAmount": "43463324"
+    "volume": "566618",
+    "tradeAmount": "44609164"
   },
   "stocks": [
     {
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1495.10",
-      "change": "2.90",
-      "direction": "down"
+      "value": "1500.50",
+      "change": "2.50",
+      "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "941.53",
-      "change": "1.77",
-      "direction": "down"
+      "value": "944.19",
+      "change": "0.89",
+      "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1740.89",
-      "change": "0.09",
-      "direction": "down"
+      "value": "1745.68",
+      "change": "4.70",
+      "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "219.93",
-      "change": "0.09",
+      "value": "220.56",
+      "change": "0.72",
       "direction": "up"
     }
   ],
@@ -118,9 +118,9 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "219028.4",
-      "change": "167.61",
-      "direction": "up",
+      "value": "218834.51",
+      "change": "26.28",
+      "direction": "down",
       "unit": "USD/oz"
     },
     {
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "\"59만전자·400만닉스\" 목표가 높인 글로벌IB",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005288332&office_id=015&mode=mainnews&type=&date=2026-05-18&page=1"
+      "title": "코스피200 '87조' 던지더니…외국인 조용히 쓸어담는 종목",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001252539&office_id=215&mode=mainnews&type=&date=2026-05-18&page=1"
     },
     {
-      "title": "삼전·하닉·마이크론 3강 추격…6조원 IPO 앞둔 中 CXMT, AI D램 호황에 1분기 매출 8배",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002645035&office_id=016&mode=mainnews&type=&date=2026-05-18&page=1"
+      "title": "유튜브 47만회 '화제의 인물'…김우석 삼성운용 대표가 추천한 ETF 톱5",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005288413&office_id=015&mode=mainnews&type=&date=2026-05-18&page=1"
     },
     {
-      "title": "삼전파업에 울고웃은 코스피…\"FOMC 의사록·엔비디아 실적 주목\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005359464&office_id=008&mode=mainnews&type=&date=2026-05-18&page=1"
+      "title": "노무라 \"삼전 59만원·SK하닉 400만원 간다\"…삼전닉스 '반등' 성공",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001029486&office_id=031&mode=mainnews&type=&date=2026-05-18&page=1"
     },
     {
-      "title": "불장에 나홀로 수익률 '-19%' 바이오 ETF…순환매 기대?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005359463&office_id=008&mode=mainnews&type=&date=2026-05-18&page=1"
+      "title": "돈 써서 돈 번다…운용사, ETF 공격적 마케팅",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004622100&office_id=011&mode=mainnews&type=&date=2026-05-18&page=1"
     },
     {
-      "title": "'코스피'냐 '코스닥 톱10'이냐…KoAct vs SOL 경쟁 본격화[체크!ETF]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001143762&office_id=417&mode=mainnews&type=&date=2026-05-18&page=1"
+      "title": "“호실적에 스페이스X IPO 기대까지”…우주항공 공급망 올라탄 스피어, 주가 '쑥'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006284655&office_id=018&mode=mainnews&type=&date=2026-05-18&page=1"
     },
     {
-      "title": "\"대기업에 왜 굳이?\" 논란에…국민성장펀드가 꺼낸 답은",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000047250&office_id=648&mode=mainnews&type=&date=2026-05-18&page=1"
+      "title": "환율 1500원 후폭풍… 外人 매도세 커지나",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005523197&office_id=014&mode=mainnews&type=&date=2026-05-18&page=1"
     },
     {
-      "title": "국민성장펀드 뭐길래…\"손실 20% 정부 부담\"에도 유의할 점은",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006284615&office_id=018&mode=mainnews&type=&date=2026-05-18&page=1"
+      "title": "레버리지·인버스 ETF 가격 왜이러지…변동장에 왜곡 속출",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005523196&office_id=014&mode=mainnews&type=&date=2026-05-18&page=1"
     },
     {
-      "title": "\"내 종목 빌빌 기다 폭락, 왜?\"…'반도체 패밀리'만 高高, 서러운 증시",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008951959&office_id=421&mode=mainnews&type=&date=2026-05-18&page=1"
+      "title": "모바일어플라이언스, 최대주주 지분 반대매매…자본시장법 위반 의혹",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013952453&office_id=003&mode=mainnews&type=&date=2026-05-18&page=1"
     }
   ]
 }
