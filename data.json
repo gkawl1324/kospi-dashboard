@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-05-18 05:11:34",
+  "lastUpdated": "2026-05-18 08:55:53",
   "date": "2026.05.18",
   "kospi": {
     "name": "KOSPI",
-    "current": "7540.01",
-    "change": "46.83",
-    "changePct": "0.62",
+    "current": "7516.04",
+    "change": "22.86",
+    "changePct": "0.31",
     "direction": "up",
-    "volume": "483088",
-    "tradeAmount": "36823622"
+    "volume": "561377",
+    "tradeAmount": "43463324"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "282750",
-      "change": "12250",
-      "changePct": "4.53",
+      "current": "281000",
+      "change": "10500",
+      "changePct": "3.88",
       "direction": "up",
-      "volume": "28401145",
+      "volume": "33502969",
       "high": "288500",
       "low": "262000",
       "open": "269500",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1845000",
-      "change": "26000",
-      "changePct": "1.43",
+      "current": "1840000",
+      "change": "21000",
+      "changePct": "1.15",
       "direction": "up",
-      "volume": "5197616",
+      "volume": "6038578",
       "high": "1897000",
       "low": "1731000",
       "open": "1780000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "115700",
-      "change": "-10300",
-      "changePct": "-8.17",
+      "current": "115400",
+      "change": "-10600",
+      "changePct": "-8.41",
       "direction": "down",
-      "volume": "895211",
+      "volume": "1001762",
       "high": "132400",
       "low": "114000",
       "open": "132000",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "201500",
-      "change": "-2000",
-      "changePct": "-0.98",
+      "current": "200000",
+      "change": "-3500",
+      "changePct": "-1.72",
       "direction": "down",
-      "volume": "743858",
+      "volume": "890762",
       "high": "203500",
       "low": "196700",
       "open": "203000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1504.40",
-      "change": "6.40",
-      "direction": "up"
+      "value": "1495.10",
+      "change": "2.90",
+      "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "946.25",
-      "change": "2.95",
-      "direction": "up"
+      "value": "941.53",
+      "change": "1.77",
+      "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1748.19",
-      "change": "7.21",
-      "direction": "up"
+      "value": "1740.89",
+      "change": "0.09",
+      "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "220.75",
-      "change": "0.91",
+      "value": "219.93",
+      "change": "0.09",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "219385.01",
-      "change": "524.22",
+      "value": "219028.4",
+      "change": "167.61",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "'박현주 매직' 통했다…미래에셋운용, 운용자산 600조 돌파",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005288159&office_id=015&mode=mainnews&type=&date=2026-05-18&page=1"
+      "title": "\"59만전자·400만닉스\" 목표가 높인 글로벌IB",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005288332&office_id=015&mode=mainnews&type=&date=2026-05-18&page=1"
     },
     {
-      "title": "현대건설 순살쇼크…반등장에 맥 못 추는 건설주",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005359267&office_id=008&mode=mainnews&type=&date=2026-05-18&page=1"
+      "title": "삼전·하닉·마이크론 3강 추격…6조원 IPO 앞둔 中 CXMT, AI D램 호황에 1분기 매출 8배",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002645035&office_id=016&mode=mainnews&type=&date=2026-05-18&page=1"
     },
     {
-      "title": "악재, 터질 게 터졌다...증시 전문가 긴급 '출동'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001252473&office_id=215&mode=mainnews&type=&date=2026-05-18&page=1"
+      "title": "삼전파업에 울고웃은 코스피…\"FOMC 의사록·엔비디아 실적 주목\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005359464&office_id=008&mode=mainnews&type=&date=2026-05-18&page=1"
     },
     {
-      "title": "AI시대 핵심 된 신한울 원전, 재생에너지와 공존 과제 남겨",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006284330&office_id=018&mode=mainnews&type=&date=2026-05-18&page=1"
+      "title": "불장에 나홀로 수익률 '-19%' 바이오 ETF…순환매 기대?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005359463&office_id=008&mode=mainnews&type=&date=2026-05-18&page=1"
     },
     {
-      "title": "\"국고채 금리 급등, 매도 압력보다 매수 미루는 '매수파업'에 기인\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016083337&office_id=001&mode=mainnews&type=&date=2026-05-18&page=1"
+      "title": "'코스피'냐 '코스닥 톱10'이냐…KoAct vs SOL 경쟁 본격화[체크!ETF]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001143762&office_id=417&mode=mainnews&type=&date=2026-05-18&page=1"
     },
     {
-      "title": "코스피 급락·급등 ‘널뛰기’… 세계 국채금리 급등·삼성 악재 영향",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002791921&office_id=021&mode=mainnews&type=&date=2026-05-18&page=1"
+      "title": "\"대기업에 왜 굳이?\" 논란에…국민성장펀드가 꺼낸 답은",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000047250&office_id=648&mode=mainnews&type=&date=2026-05-18&page=1"
     },
     {
-      "title": "삼전 팔고 ‘하이닉스’ 담은 초고수…“320만 원 간다” 전망에 베팅[주식초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004621922&office_id=011&mode=mainnews&type=&date=2026-05-18&page=1"
+      "title": "국민성장펀드 뭐길래…\"손실 20% 정부 부담\"에도 유의할 점은",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006284615&office_id=018&mode=mainnews&type=&date=2026-05-18&page=1"
     },
     {
-      "title": "李 대통령 경고·법원 제동에… ‘패닉셀’ 뒤집고 삼성전자 반등",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001165192&office_id=366&mode=mainnews&type=&date=2026-05-18&page=1"
+      "title": "\"내 종목 빌빌 기다 폭락, 왜?\"…'반도체 패밀리'만 高高, 서러운 증시",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008951959&office_id=421&mode=mainnews&type=&date=2026-05-18&page=1"
     }
   ]
 }
