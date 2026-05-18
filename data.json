@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-05-18 04:49:00",
+  "lastUpdated": "2026-05-18 05:11:34",
   "date": "2026.05.18",
   "kospi": {
     "name": "KOSPI",
-    "current": "7519.12",
-    "change": "25.94",
-    "changePct": "0.35",
+    "current": "7540.01",
+    "change": "46.83",
+    "changePct": "0.62",
     "direction": "up",
-    "volume": "466987",
-    "tradeAmount": "35638466"
+    "volume": "483088",
+    "tradeAmount": "36823622"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "281000",
-      "change": "10500",
-      "changePct": "3.88",
+      "current": "282750",
+      "change": "12250",
+      "changePct": "4.53",
       "direction": "up",
-      "volume": "27705581",
+      "volume": "28401145",
       "high": "288500",
       "low": "262000",
       "open": "269500",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1832000",
-      "change": "13000",
-      "changePct": "0.71",
+      "current": "1845000",
+      "change": "26000",
+      "changePct": "1.43",
       "direction": "up",
-      "volume": "5062384",
+      "volume": "5197616",
       "high": "1897000",
       "low": "1731000",
       "open": "1780000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "115800",
-      "change": "-10200",
-      "changePct": "-8.10",
+      "current": "115700",
+      "change": "-10300",
+      "changePct": "-8.17",
       "direction": "down",
-      "volume": "874925",
+      "volume": "895211",
       "high": "132400",
       "low": "114000",
       "open": "132000",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "201000",
-      "change": "-2500",
-      "changePct": "-1.23",
+      "current": "201500",
+      "change": "-2000",
+      "changePct": "-0.98",
       "direction": "down",
-      "volume": "723092",
+      "volume": "743858",
       "high": "203500",
       "low": "196700",
       "open": "203000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1504.10",
-      "change": "6.10",
+      "value": "1504.40",
+      "change": "6.40",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "946.24",
-      "change": "2.94",
+      "value": "946.25",
+      "change": "2.95",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1747.99",
-      "change": "7.01",
+      "value": "1748.19",
+      "change": "7.21",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "220.67",
-      "change": "0.83",
+      "value": "220.75",
+      "change": "0.91",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "219567.24",
-      "change": "706.45",
+      "value": "219385.01",
+      "change": "524.22",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -141,6 +141,10 @@
     }
   ],
   "news": [
+    {
+      "title": "'박현주 매직' 통했다…미래에셋운용, 운용자산 600조 돌파",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005288159&office_id=015&mode=mainnews&type=&date=2026-05-18&page=1"
+    },
     {
       "title": "현대건설 순살쇼크…반등장에 맥 못 추는 건설주",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005359267&office_id=008&mode=mainnews&type=&date=2026-05-18&page=1"
@@ -168,10 +172,6 @@
     {
       "title": "李 대통령 경고·법원 제동에… ‘패닉셀’ 뒤집고 삼성전자 반등",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0001165192&office_id=366&mode=mainnews&type=&date=2026-05-18&page=1"
-    },
-    {
-      "title": "이란 전쟁 불확실성에 美 국채금리 급등…AI 기술주 랠리 '경고등'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005764324&office_id=277&mode=mainnews&type=&date=2026-05-18&page=1"
     }
   ]
 }
