@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-05-19 05:06:42",
+  "lastUpdated": "2026-05-19 08:42:07",
   "date": "2026.05.19",
   "kospi": {
     "name": "KOSPI",
-    "current": "7240.74",
-    "change": "275.30",
-    "changePct": "3.66",
+    "current": "7271.66",
+    "change": "244.38",
+    "changePct": "3.25",
     "direction": "up",
-    "volume": "436313",
-    "tradeAmount": "28084492"
+    "volume": "524781",
+    "tradeAmount": "37060481"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "274000",
-      "change": "-7000",
-      "changePct": "-2.49",
+      "current": "275500",
+      "change": "-5500",
+      "changePct": "-1.96",
       "direction": "down",
-      "volume": "21346826",
-      "high": "278500",
+      "volume": "30186229",
+      "high": "281500",
       "low": "266000",
       "open": "274000",
       "marketCap": "0"
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1752000",
-      "change": "-88000",
-      "changePct": "-4.78",
+      "current": "1745000",
+      "change": "-95000",
+      "changePct": "-5.16",
       "direction": "down",
-      "volume": "3310836",
+      "volume": "4514220",
       "high": "1823000",
       "low": "1740000",
       "open": "1791000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "105100",
-      "change": "-10300",
-      "changePct": "-8.93",
+      "current": "105300",
+      "change": "-10100",
+      "changePct": "-8.75",
       "direction": "down",
-      "volume": "622874",
+      "volume": "805983",
       "high": "112000",
       "low": "103000",
       "open": "111400",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "197600",
-      "change": "-2400",
-      "changePct": "-1.20",
+      "current": "198100",
+      "change": "-1900",
+      "changePct": "-0.95",
       "direction": "down",
-      "volume": "736330",
+      "volume": "950434",
       "high": "206250",
       "low": "195100",
       "open": "200500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1506.10",
-      "change": "14.10",
+      "value": "1507.70",
+      "change": "15.70",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "947.20",
-      "change": "7.68",
+      "value": "947.76",
+      "change": "8.24",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1752.42",
-      "change": "12.82",
+      "value": "1753.23",
+      "change": "13.63",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "221.34",
-      "change": "1.88",
+      "value": "221.56",
+      "change": "2.10",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "219982.32",
-      "change": "1075.89",
+      "value": "220269.76",
+      "change": "1363.33",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "삼전닉스가 멱살 잡고 끌었다···코스피도 코스닥도 반도체가 대세",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005359874&office_id=008&mode=mainnews&type=&date=2026-05-19&page=1"
+      "title": "코스피 한때 7200선 아래로…월가도 “美자금 흐름 역전 위험” 경고",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003524371&office_id=025&mode=mainnews&type=&date=2026-05-19&page=1"
     },
     {
-      "title": "중동 불안에 비트코인 7.7만달러 붕괴 [매일코인]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005682090&office_id=009&mode=mainnews&type=&date=2026-05-19&page=1"
+      "title": "70대·20대 개미의 투자법, 이렇게 달랐다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005765160&office_id=277&mode=mainnews&type=&date=2026-05-19&page=1"
     },
     {
-      "title": "“고려아연 지분 팔아라”…한화솔루션 압박 나선 소액주주[마켓인]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006285127&office_id=018&mode=mainnews&type=&date=2026-05-19&page=1"
+      "title": "넉달만에 10조 '폭증'…랩어카운트 '열풍'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001252662&office_id=215&mode=mainnews&type=&date=2026-05-19&page=1"
     },
     {
-      "title": "“1억 넣었다면 단 1년 만에 3억 됐다”…AI 열풍에 美 상장 노리는 ‘이 기업’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004622338&office_id=011&mode=mainnews&type=&date=2026-05-19&page=1"
+      "title": "\"국내 증시 수급 '외국인→개인'으로 머니무브\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005360089&office_id=008&mode=mainnews&type=&date=2026-05-19&page=1"
     },
     {
-      "title": "SK에코플랜트, 데드라인 임박한 7월 IPO 무기한 보류 왜?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000500468&office_id=629&mode=mainnews&type=&date=2026-05-19&page=1"
+      "title": "코스피 역대급 불장이라더니?개미 돈은 '삼전닉스'로, 소외주 '눈물'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001029709&office_id=031&mode=mainnews&type=&date=2026-05-19&page=1"
     },
     {
-      "title": "코스피 82조원 팔더니…외국인들, 반도체 아닌 '이것' 사들였다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000098008&office_id=243&mode=mainnews&type=&date=2026-05-19&page=1"
+      "title": "호르무즈 봉쇄·인플레이션 우려에 코스피 출렁…관건은 '유가·금리'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001143947&office_id=417&mode=mainnews&type=&date=2026-05-19&page=1"
     },
     {
-      "title": "미국 주식에 몰빵했는데…2주 앞두고 한국 개미들 '술렁'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005288644&office_id=015&mode=mainnews&type=&date=2026-05-19&page=1"
+      "title": "겹악재에 삼성전자·SK하이닉스 '털썩'…반등 베팅한 개미 '줍줍'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008954294&office_id=421&mode=mainnews&type=&date=2026-05-19&page=1"
     },
     {
-      "title": "'안정추구형' 기자의 단일종목 레버리지 ETF 사전교육 체험기",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000047272&office_id=648&mode=mainnews&type=&date=2026-05-19&page=1"
+      "title": "\"최윤범 백기사였나\"…한화솔루션 소액주주들, 고려아연 지분 매각 압박",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000500588&office_id=629&mode=mainnews&type=&date=2026-05-19&page=1"
     }
   ]
 }
