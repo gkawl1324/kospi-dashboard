@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19 08:42:07",
+  "lastUpdated": "2026-05-19 09:58:41",
   "date": "2026.05.19",
   "kospi": {
     "name": "KOSPI",
@@ -7,8 +7,8 @@
     "change": "244.38",
     "changePct": "3.25",
     "direction": "up",
-    "volume": "524781",
-    "tradeAmount": "37060481"
+    "volume": "533509",
+    "tradeAmount": "37960990"
   },
   "stocks": [
     {
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1507.70",
-      "change": "15.70",
+      "value": "1508.30",
+      "change": "16.30",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "947.76",
-      "change": "8.24",
+      "value": "947.96",
+      "change": "8.44",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1753.23",
-      "change": "13.63",
+      "value": "1752.49",
+      "change": "12.89",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "221.56",
-      "change": "2.10",
+      "value": "221.54",
+      "change": "2.08",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "220269.76",
-      "change": "1363.33",
+      "value": "220230.46",
+      "change": "1324.03",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "코스피 한때 7200선 아래로…월가도 “美자금 흐름 역전 위험” 경고",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003524371&office_id=025&mode=mainnews&type=&date=2026-05-19&page=1"
+      "title": "400만닉스·50만전자 가나… 반도체 목표주가 줄줄이 상향",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005523823&office_id=014&mode=mainnews&type=&date=2026-05-19&page=1"
     },
     {
-      "title": "70대·20대 개미의 투자법, 이렇게 달랐다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005765160&office_id=277&mode=mainnews&type=&date=2026-05-19&page=1"
+      "title": "“빚투 부추기지 말라”…금융당국, 단일종목 레버리지 ETF 과열 경고",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000098028&office_id=243&mode=mainnews&type=&date=2026-05-19&page=1"
     },
     {
-      "title": "넉달만에 10조 '폭증'…랩어카운트 '열풍'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001252662&office_id=215&mode=mainnews&type=&date=2026-05-19&page=1"
+      "title": "렉라자 앞세운 유한양행…2년 연속 영업익 1000억 넘본다[바이오리더스클럽]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004622478&office_id=011&mode=mainnews&type=&date=2026-05-19&page=1"
     },
     {
-      "title": "\"국내 증시 수급 '외국인→개인'으로 머니무브\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005360089&office_id=008&mode=mainnews&type=&date=2026-05-19&page=1"
+      "title": "수익률 2배에 몰리는 개미들…삼전닉스 레버리지 예비투자자 7.4만명",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004622473&office_id=011&mode=mainnews&type=&date=2026-05-19&page=1"
     },
     {
-      "title": "코스피 역대급 불장이라더니?개미 돈은 '삼전닉스'로, 소외주 '눈물'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001029709&office_id=031&mode=mainnews&type=&date=2026-05-19&page=1"
+      "title": "2거래일만에 10% 곤두박질치자…하루 평균 반대매매 금액 3배 쑥",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004622471&office_id=011&mode=mainnews&type=&date=2026-05-19&page=1"
     },
     {
-      "title": "호르무즈 봉쇄·인플레이션 우려에 코스피 출렁…관건은 '유가·금리'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001143947&office_id=417&mode=mainnews&type=&date=2026-05-19&page=1"
+      "title": "외국인 '48조' 팔았는데…\"지금이 기회\" 증시 전망의 근거",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005288847&office_id=015&mode=mainnews&type=&date=2026-05-19&page=1"
     },
     {
-      "title": "겹악재에 삼성전자·SK하이닉스 '털썩'…반등 베팅한 개미 '줍줍'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008954294&office_id=421&mode=mainnews&type=&date=2026-05-19&page=1"
+      "title": "스페이스X 조기 상장 소식에 우주항공 테마 강세…관련주 신고가 행진 [매경 자이앤트]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005682369&office_id=009&mode=mainnews&type=&date=2026-05-19&page=1"
     },
     {
-      "title": "\"최윤범 백기사였나\"…한화솔루션 소액주주들, 고려아연 지분 매각 압박",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000500588&office_id=629&mode=mainnews&type=&date=2026-05-19&page=1"
+      "title": "[단독] '현대차 2배' ETF, 홍콩에선 되고 한국서는 안돼",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005682359&office_id=009&mode=mainnews&type=&date=2026-05-19&page=1"
     }
   ]
 }
