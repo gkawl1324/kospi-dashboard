@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-05-20 05:09:58",
+  "lastUpdated": "2026-05-20 08:39:11",
   "date": "2026.05.20",
   "kospi": {
     "name": "KOSPI",
-    "current": "7128.09",
-    "change": "143.57",
-    "changePct": "1.97",
+    "current": "7208.95",
+    "change": "62.71",
+    "changePct": "0.86",
     "direction": "up",
-    "volume": "407370",
-    "tradeAmount": "31871109"
+    "volume": "485898",
+    "tradeAmount": "39542471"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "269500",
-      "change": "-6000",
-      "changePct": "-2.18",
-      "direction": "down",
-      "volume": "27372291",
+      "current": "276000",
+      "change": "500",
+      "changePct": "0.18",
+      "direction": "up",
+      "volume": "34108795",
       "high": "282500",
       "low": "263500",
       "open": "278000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1739000",
-      "change": "-6000",
-      "changePct": "-0.34",
-      "direction": "down",
-      "volume": "4541585",
+      "current": "1745000",
+      "change": "0",
+      "changePct": "0.00",
+      "direction": "up",
+      "volume": "5408610",
       "high": "1778000",
       "low": "1690000",
       "open": "1743000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "103200",
-      "change": "-2100",
-      "changePct": "-1.99",
+      "current": "103100",
+      "change": "-2200",
+      "changePct": "-2.09",
       "direction": "down",
-      "volume": "523566",
+      "volume": "629950",
       "high": "104500",
       "low": "99900",
       "open": "104100",
@@ -57,13 +57,13 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "191600",
-      "change": "-6500",
-      "changePct": "-3.28",
+      "current": "191500",
+      "change": "-6600",
+      "changePct": "-3.33",
       "direction": "down",
-      "volume": "780724",
+      "volume": "992090",
       "high": "200000",
-      "low": "190900",
+      "low": "190800",
       "open": "198100",
       "marketCap": "0"
     }
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1510.90",
-      "change": "3.10",
-      "direction": "up"
+      "value": "1507.50",
+      "change": "0.30",
+      "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "950.43",
-      "change": "2.69",
-      "direction": "up"
+      "value": "947.73",
+      "change": "0.01",
+      "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1752.57",
-      "change": "2.32",
-      "direction": "up"
+      "value": "1747.12",
+      "change": "3.13",
+      "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "221.75",
-      "change": "0.56",
+      "value": "221.41",
+      "change": "0.22",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "217085.06",
-      "change": "1505.33",
+      "value": "217394.74",
+      "change": "1195.65",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "성호전자, 최대주주 1.4만주 장내매수 \"ADS테크 성장 확신\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005360498&office_id=008&mode=mainnews&type=&date=2026-05-20&page=1"
+      "title": "외국인 역대급 '셀 코리아'에도...증권가 \"과거 위기때와는 다르다\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005289267&office_id=015&mode=mainnews&type=&date=2026-05-20&page=1"
     },
     {
-      "title": "\"5년 돈 묶이고 원금보장도 없다\"…국민성장펀드 고위험 투자주의보",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000500824&office_id=629&mode=mainnews&type=&date=2026-05-20&page=1"
+      "title": "탈출하는 외국인…\"복귀 조건은 반도체 눈높이·환율\"[체크!코스피]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001144151&office_id=417&mode=mainnews&type=&date=2026-05-20&page=1"
     },
     {
-      "title": "\"삼전닉스, 게 섰거라\"…또 다른 투톱, 추격 도전장",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001252757&office_id=215&mode=mainnews&type=&date=2026-05-20&page=1"
+      "title": "변동성 장세에서 구원투수 역할 못하는 연기금, 포트폴리오 리밸런싱 딜레마 [시그널]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004622890&office_id=011&mode=mainnews&type=&date=2026-05-20&page=1"
     },
     {
-      "title": "'중복상장' 주주동의 어떻게?…\"소액주주 다수결\" vs \"이사회 중심\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016088580&office_id=001&mode=mainnews&type=&date=2026-05-20&page=1"
+      "title": "중복상장, 엇갈린 전문가 의견 \"투자 위축 우려 vs 제도상 의무화 필요\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001144150&office_id=417&mode=mainnews&type=&date=2026-05-20&page=1"
     },
     {
-      "title": "\"10년 전 1억 투자…집 샀다\" 소유도 담은 '이 종목' 정체는",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000098058&office_id=243&mode=mainnews&type=&date=2026-05-20&page=1"
+      "title": "\"빚내서 샀다가 하한가에 털려\"?36조 빚투 덮친 코스피 폭락에 개미들 '덜덜'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001030022&office_id=031&mode=mainnews&type=&date=2026-05-20&page=1"
     },
     {
-      "title": "“삼전닉스는 이제 그만”…LG전자·우리로 담는 상위 1% [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004622775&office_id=011&mode=mainnews&type=&date=2026-05-20&page=1"
+      "title": "치솟는 금리·환율에 코스피 하락… 엔비디아 실적에 분위기 반전?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005360695&office_id=008&mode=mainnews&type=&date=2026-05-20&page=1"
     },
     {
-      "title": "“하닉 196만원에 들어갔는데 상투일까요”…380만원 목표가 나와도 ‘불안’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005682637&office_id=009&mode=mainnews&type=&date=2026-05-20&page=1"
+      "title": "외인 열흘 연속 순매도…차익실현·리밸런싱에 금리 '채찍질'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005360694&office_id=008&mode=mainnews&type=&date=2026-05-20&page=1"
     },
     {
-      "title": "환율 이틀째 1500원대, 코스피 급락… 공포 덮친 금융시장",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002792510&office_id=021&mode=mainnews&type=&date=2026-05-20&page=1"
+      "title": "멀미나는 코스피...3개월째 '패닉'인 공포지수 왜?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005360689&office_id=008&mode=mainnews&type=&date=2026-05-20&page=1"
     }
   ]
 }
