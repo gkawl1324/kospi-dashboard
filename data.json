@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-05-20 04:44:01",
+  "lastUpdated": "2026-05-20 05:09:58",
   "date": "2026.05.20",
   "kospi": {
     "name": "KOSPI",
-    "current": "7136.61",
-    "change": "135.05",
-    "changePct": "1.86",
+    "current": "7128.09",
+    "change": "143.57",
+    "changePct": "1.97",
     "direction": "up",
-    "volume": "390583",
-    "tradeAmount": "30218145"
+    "volume": "407370",
+    "tradeAmount": "31871109"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "271500",
-      "change": "-4000",
-      "changePct": "-1.45",
+      "current": "269500",
+      "change": "-6000",
+      "changePct": "-2.18",
       "direction": "down",
-      "volume": "26141053",
+      "volume": "27372291",
       "high": "282500",
       "low": "263500",
       "open": "278000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1741000",
-      "change": "-4000",
-      "changePct": "-0.23",
+      "current": "1739000",
+      "change": "-6000",
+      "changePct": "-0.34",
       "direction": "down",
-      "volume": "4370129",
+      "volume": "4541585",
       "high": "1778000",
       "low": "1690000",
       "open": "1743000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "103100",
-      "change": "-2200",
-      "changePct": "-2.09",
+      "current": "103200",
+      "change": "-2100",
+      "changePct": "-1.99",
       "direction": "down",
-      "volume": "494315",
+      "volume": "523566",
       "high": "104500",
       "low": "99900",
       "open": "104100",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "192000",
-      "change": "-6100",
-      "changePct": "-3.08",
+      "current": "191600",
+      "change": "-6500",
+      "changePct": "-3.28",
       "direction": "down",
-      "volume": "743628",
+      "volume": "780724",
       "high": "200000",
       "low": "190900",
       "open": "198100",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1509.90",
-      "change": "2.10",
+      "value": "1510.90",
+      "change": "3.10",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "949.71",
-      "change": "1.97",
+      "value": "950.43",
+      "change": "2.69",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1751.18",
-      "change": "0.93",
+      "value": "1752.57",
+      "change": "2.32",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "221.57",
-      "change": "0.38",
+      "value": "221.75",
+      "change": "0.56",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "216702.34",
-      "change": "1888.05",
+      "value": "217085.06",
+      "change": "1505.33",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,8 +142,20 @@
   ],
   "news": [
     {
+      "title": "성호전자, 최대주주 1.4만주 장내매수 \"ADS테크 성장 확신\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005360498&office_id=008&mode=mainnews&type=&date=2026-05-20&page=1"
+    },
+    {
+      "title": "\"5년 돈 묶이고 원금보장도 없다\"…국민성장펀드 고위험 투자주의보",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000500824&office_id=629&mode=mainnews&type=&date=2026-05-20&page=1"
+    },
+    {
       "title": "\"삼전닉스, 게 섰거라\"…또 다른 투톱, 추격 도전장",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0001252757&office_id=215&mode=mainnews&type=&date=2026-05-20&page=1"
+    },
+    {
+      "title": "'중복상장' 주주동의 어떻게?…\"소액주주 다수결\" vs \"이사회 중심\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016088580&office_id=001&mode=mainnews&type=&date=2026-05-20&page=1"
     },
     {
       "title": "\"10년 전 1억 투자…집 샀다\" 소유도 담은 '이 종목' 정체는",
@@ -160,18 +172,6 @@
     {
       "title": "환율 이틀째 1500원대, 코스피 급락… 공포 덮친 금융시장",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002792510&office_id=021&mode=mainnews&type=&date=2026-05-20&page=1"
-    },
-    {
-      "title": "‘50시간 마라톤 협상’ 결렬…삼성전자 파업 현실화에 4% 급락 [이런국장 저런주식]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004622766&office_id=011&mode=mainnews&type=&date=2026-05-20&page=1"
-    },
-    {
-      "title": "DC·IRP로 빠르게 이동하는 퇴직연금...수익률은 '양극화'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000047311&office_id=648&mode=mainnews&type=&date=2026-05-20&page=1"
-    },
-    {
-      "title": "퇴직연금 수익률 6.5% 역대 최고치…가입자 절반은 '2%' 불과",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005360454&office_id=008&mode=mainnews&type=&date=2026-05-20&page=1"
     }
   ]
 }
