@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20 08:39:11",
+  "lastUpdated": "2026-05-20 09:48:45",
   "date": "2026.05.20",
   "kospi": {
     "name": "KOSPI",
@@ -7,8 +7,8 @@
     "change": "62.71",
     "changePct": "0.86",
     "direction": "up",
-    "volume": "485898",
-    "tradeAmount": "39542471"
+    "volume": "492494",
+    "tradeAmount": "40401033"
   },
   "stocks": [
     {
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1507.50",
-      "change": "0.30",
+      "value": "1506.40",
+      "change": "1.40",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "947.73",
-      "change": "0.01",
+      "value": "947.00",
+      "change": "0.74",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1747.12",
-      "change": "3.13",
+      "value": "1746.14",
+      "change": "4.11",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "221.41",
-      "change": "0.22",
+      "value": "221.30",
+      "change": "0.11",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "217394.74",
-      "change": "1195.65",
+      "value": "217099.08",
+      "change": "1491.31",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "외국인 역대급 '셀 코리아'에도...증권가 \"과거 위기때와는 다르다\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005289267&office_id=015&mode=mainnews&type=&date=2026-05-20&page=1"
+      "title": "'이차전지 대장주' 금양의 부침…장밋빛 전망이 상장폐지 악몽으로",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016089651&office_id=001&mode=mainnews&type=&date=2026-05-20&page=1"
     },
     {
-      "title": "탈출하는 외국인…\"복귀 조건은 반도체 눈높이·환율\"[체크!코스피]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001144151&office_id=417&mode=mainnews&type=&date=2026-05-20&page=1"
+      "title": "\"코스피 조정 일단 피하자\"… MMF로 이달 10조 뭉칫돈",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005524360&office_id=014&mode=mainnews&type=&date=2026-05-20&page=1"
     },
     {
-      "title": "변동성 장세에서 구원투수 역할 못하는 연기금, 포트폴리오 리밸런싱 딜레마 [시그널]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004622890&office_id=011&mode=mainnews&type=&date=2026-05-20&page=1"
+      "title": "87兆 던져도 외국인 보유율은 최고… 반도체가 만든 역설",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005524353&office_id=014&mode=mainnews&type=&date=2026-05-20&page=1"
     },
     {
-      "title": "중복상장, 엇갈린 전문가 의견 \"투자 위축 우려 vs 제도상 의무화 필요\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001144150&office_id=417&mode=mainnews&type=&date=2026-05-20&page=1"
+      "title": "과열이 아닌 전환의 신호[투자의 창]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004622942&office_id=011&mode=mainnews&type=&date=2026-05-20&page=1"
     },
     {
-      "title": "\"빚내서 샀다가 하한가에 털려\"?36조 빚투 덮친 코스피 폭락에 개미들 '덜덜'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001030022&office_id=031&mode=mainnews&type=&date=2026-05-20&page=1"
+      "title": "열흘 연속, 매일 2조원 이상 던진 외국인",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005682920&office_id=009&mode=mainnews&type=&date=2026-05-20&page=1"
     },
     {
-      "title": "치솟는 금리·환율에 코스피 하락… 엔비디아 실적에 분위기 반전?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005360695&office_id=008&mode=mainnews&type=&date=2026-05-20&page=1"
+      "title": "스페이스X 뜨자…테슬라 한달새 1조 던진 서학개미",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004622938&office_id=011&mode=mainnews&type=&date=2026-05-20&page=1"
     },
     {
-      "title": "외인 열흘 연속 순매도…차익실현·리밸런싱에 금리 '채찍질'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005360694&office_id=008&mode=mainnews&type=&date=2026-05-20&page=1"
+      "title": "8개월 새 2배…MSCI 韓 비중, 중국 잡는다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004622936&office_id=011&mode=mainnews&type=&date=2026-05-20&page=1"
     },
     {
-      "title": "멀미나는 코스피...3개월째 '패닉'인 공포지수 왜?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005360689&office_id=008&mode=mainnews&type=&date=2026-05-20&page=1"
+      "title": "주가 올라도 저PBR 굴레…상장사 절반 ‘1배 미만’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004622931&office_id=011&mode=mainnews&type=&date=2026-05-20&page=1"
     }
   ]
 }
