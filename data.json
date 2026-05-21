@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-05-21 04:51:37",
+  "lastUpdated": "2026-05-21 05:13:12",
   "date": "2026.05.21",
   "kospi": {
     "name": "KOSPI",
-    "current": "7794.60",
-    "change": "585.65",
-    "changePct": "8.12",
+    "current": "7789.88",
+    "change": "580.93",
+    "changePct": "8.06",
     "direction": "up",
-    "volume": "478833",
-    "tradeAmount": "31466938"
+    "volume": "503774",
+    "tradeAmount": "33322082"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "297000",
-      "change": "21000",
-      "changePct": "7.61",
+      "current": "297750",
+      "change": "21750",
+      "changePct": "7.88",
       "direction": "up",
-      "volume": "25635354",
+      "volume": "26986458",
       "high": "298000",
       "low": "287000",
       "open": "291000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1944000",
-      "change": "199000",
-      "changePct": "11.40",
+      "current": "1940000",
+      "change": "195000",
+      "changePct": "11.17",
       "direction": "up",
-      "volume": "3797680",
+      "volume": "3932469",
       "high": "1954000",
       "low": "1796000",
       "open": "1801000",
@@ -43,12 +43,12 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "119800",
-      "change": "16700",
-      "changePct": "16.20",
+      "current": "125500",
+      "change": "22400",
+      "changePct": "21.73",
       "direction": "up",
-      "volume": "1364601",
-      "high": "123600",
+      "volume": "1689871",
+      "high": "127800",
       "low": "104500",
       "open": "104500",
       "marketCap": "0"
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "200000",
-      "change": "8500",
-      "changePct": "4.44",
+      "current": "200500",
+      "change": "9000",
+      "changePct": "4.70",
       "direction": "up",
-      "volume": "653601",
+      "volume": "692367",
       "high": "202000",
       "low": "194600",
       "open": "194600",
@@ -79,22 +79,22 @@
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "946.44",
-      "change": "3.39",
+      "value": "946.35",
+      "change": "3.30",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1748.84",
-      "change": "6.61",
+      "value": "1748.69",
+      "change": "6.46",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "221.19",
-      "change": "0.87",
+      "value": "221.17",
+      "change": "0.85",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "219510.54",
-      "change": "960.91",
+      "value": "219174.8",
+      "change": "625.17",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -141,6 +141,14 @@
     }
   ],
   "news": [
+    {
+      "title": "삼전 '성과급 평균 6억' 타결에 '주주소외' 논란'도…개미들 분통",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013959889&office_id=003&mode=mainnews&type=&date=2026-05-21&page=1"
+    },
+    {
+      "title": "코스피, 7%대 폭등하며 7700선 회복…코스닥도 5%대 급등",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006287075&office_id=018&mode=mainnews&type=&date=2026-05-21&page=1"
+    },
     {
       "title": "황제주 등극했는데 “아직도 너무 싸다”…역대급 계약에 ‘160만원’도 간다는 이 종목",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0004623235&office_id=011&mode=mainnews&type=&date=2026-05-21&page=1"
@@ -164,14 +172,6 @@
     {
       "title": "SK하닉 400만원·삼전 59만원…노무라 파격 목표가 내놨다",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0003027897&office_id=029&mode=mainnews&type=&date=2026-05-21&page=1"
-    },
-    {
-      "title": "\"59만전자·400만닉스\"…코스피 파격 전망",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001252895&office_id=215&mode=mainnews&type=&date=2026-05-21&page=1"
-    },
-    {
-      "title": "엔비디아·SOXL 팔고 삼전닉스 담았다…RIA 타고 국장 복귀한 서학개미들",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006286961&office_id=018&mode=mainnews&type=&date=2026-05-21&page=1"
     }
   ]
 }
