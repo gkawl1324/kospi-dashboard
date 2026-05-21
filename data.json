@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-05-21 05:13:12",
+  "lastUpdated": "2026-05-21 08:45:11",
   "date": "2026.05.21",
   "kospi": {
     "name": "KOSPI",
-    "current": "7789.88",
-    "change": "580.93",
-    "changePct": "8.06",
+    "current": "7815.59",
+    "change": "606.64",
+    "changePct": "8.42",
     "direction": "up",
-    "volume": "503774",
-    "tradeAmount": "33322082"
+    "volume": "616365",
+    "tradeAmount": "42743833"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "297750",
-      "change": "21750",
-      "changePct": "7.88",
+      "current": "299500",
+      "change": "23500",
+      "changePct": "8.51",
       "direction": "up",
-      "volume": "26986458",
-      "high": "298000",
+      "volume": "36133485",
+      "high": "299500",
       "low": "287000",
       "open": "291000",
       "marketCap": "0"
@@ -33,7 +33,7 @@
       "change": "195000",
       "changePct": "11.17",
       "direction": "up",
-      "volume": "3932469",
+      "volume": "5026890",
       "high": "1954000",
       "low": "1796000",
       "open": "1801000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "125500",
-      "change": "22400",
-      "changePct": "21.73",
+      "current": "123000",
+      "change": "19900",
+      "changePct": "19.30",
       "direction": "up",
-      "volume": "1689871",
+      "volume": "2152398",
       "high": "127800",
       "low": "104500",
       "open": "104500",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "200500",
-      "change": "9000",
-      "changePct": "4.70",
+      "current": "199500",
+      "change": "8000",
+      "changePct": "4.18",
       "direction": "up",
-      "volume": "692367",
+      "volume": "869601",
       "high": "202000",
       "low": "194600",
       "open": "194600",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1504.70",
-      "change": "6.20",
+      "value": "1503.40",
+      "change": "4.90",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "946.35",
-      "change": "3.30",
+      "value": "945.45",
+      "change": "2.40",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1748.69",
-      "change": "6.46",
+      "value": "1747.33",
+      "change": "5.10",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "221.17",
-      "change": "0.85",
+      "value": "221.11",
+      "change": "0.79",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "219174.8",
-      "change": "625.17",
+      "value": "218833.3",
+      "change": "283.67",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "삼전 '성과급 평균 6억' 타결에 '주주소외' 논란'도…개미들 분통",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013959889&office_id=003&mode=mainnews&type=&date=2026-05-21&page=1"
+      "title": "韓 MSCI 비중, 中 턱밑 추격…대만은 이미 중국 제쳤다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001166315&office_id=366&mode=mainnews&type=&date=2026-05-21&page=1"
     },
     {
-      "title": "코스피, 7%대 폭등하며 7700선 회복…코스닥도 5%대 급등",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006287075&office_id=018&mode=mainnews&type=&date=2026-05-21&page=1"
+      "title": "파업 사태에 부각된 로보틱스…LG전자 상한가 마감[핫종목](종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008959857&office_id=421&mode=mainnews&type=&date=2026-05-21&page=1"
     },
     {
-      "title": "황제주 등극했는데 “아직도 너무 싸다”…역대급 계약에 ‘160만원’도 간다는 이 종목",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004623235&office_id=011&mode=mainnews&type=&date=2026-05-21&page=1"
+      "title": "\"하루만 버티면 됐는데\"…하락장 못 버틴 반대매매 1458억 쏟아졌다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008959851&office_id=421&mode=mainnews&type=&date=2026-05-21&page=1"
     },
     {
-      "title": "백기 든 MBK, 홈플러스 이행보증 추가…메리츠 결단 남았다[마켓인]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006287066&office_id=018&mode=mainnews&type=&date=2026-05-21&page=1"
+      "title": "삼성전기, AI 모멘텀 120만원 돌파 '최고가'…시총 5위 가시권(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008959845&office_id=421&mode=mainnews&type=&date=2026-05-21&page=1"
     },
     {
-      "title": "삼전닉스보다 큰 게 온다…스페이스X '스타십3'에 달린 투심 [강경주의 테크X]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005289665&office_id=015&mode=mainnews&type=&date=2026-05-21&page=1"
+      "title": "건재한 코스피 8% 급등… 증권가에선 ‘만스피’ 전망도",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001166311&office_id=366&mode=mainnews&type=&date=2026-05-21&page=1"
     },
     {
-      "title": "노무라 “코스피 1만1000, 삼전 59만, 하이닉스 400만 간다” [이런국장 저런주식]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004623228&office_id=011&mode=mainnews&type=&date=2026-05-21&page=1"
+      "title": "이젠 ‘59만전자’…삼성전자 제대로 물 만났다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003027978&office_id=029&mode=mainnews&type=&date=2026-05-21&page=1"
     },
     {
-      "title": "반도체·AI 폭등 장세…월스트리트의 5가지 폭락 대비법",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003977689&office_id=023&mode=mainnews&type=&date=2026-05-21&page=1"
+      "title": "삼전·닉스 질주에 HBM ETF도 날았다…3년 수익률 676%",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002646753&office_id=016&mode=mainnews&type=&date=2026-05-21&page=1"
     },
     {
-      "title": "SK하닉 400만원·삼전 59만원…노무라 파격 목표가 내놨다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003027897&office_id=029&mode=mainnews&type=&date=2026-05-21&page=1"
+      "title": "DS증권 \"한국판 베어허그 온다...저 PBR방치하면 적대적 M&A 표적\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005524930&office_id=014&mode=mainnews&type=&date=2026-05-21&page=1"
     }
   ]
 }
