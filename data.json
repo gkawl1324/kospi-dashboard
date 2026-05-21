@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21 08:45:11",
+  "lastUpdated": "2026-05-21 09:55:27",
   "date": "2026.05.21",
   "kospi": {
     "name": "KOSPI",
@@ -7,8 +7,8 @@
     "change": "606.64",
     "changePct": "8.42",
     "direction": "up",
-    "volume": "616365",
-    "tradeAmount": "42743833"
+    "volume": "621082",
+    "tradeAmount": "43187054"
   },
   "stocks": [
     {
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1503.40",
-      "change": "4.90",
+      "value": "1504.60",
+      "change": "6.10",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "945.45",
-      "change": "2.40",
+      "value": "946.44",
+      "change": "3.39",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1747.33",
-      "change": "5.10",
+      "value": "1749.55",
+      "change": "7.32",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "221.11",
-      "change": "0.79",
+      "value": "221.26",
+      "change": "0.94",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "218833.3",
-      "change": "283.67",
+      "value": "219107.72",
+      "change": "558.09",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "韓 MSCI 비중, 中 턱밑 추격…대만은 이미 중국 제쳤다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001166315&office_id=366&mode=mainnews&type=&date=2026-05-21&page=1"
+      "title": "‘팔자’ 이어져도 외인 지분율 최고…삼전·하닉이 바꾼 코스피 수급 공식",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003524966&office_id=025&mode=mainnews&type=&date=2026-05-21&page=1"
     },
     {
-      "title": "파업 사태에 부각된 로보틱스…LG전자 상한가 마감[핫종목](종합)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008959857&office_id=421&mode=mainnews&type=&date=2026-05-21&page=1"
+      "title": "삼성 그룹株 시총 2347조 …'전자' 지분 품은 물산·생명도 웃었다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005683537&office_id=009&mode=mainnews&type=&date=2026-05-21&page=1"
     },
     {
-      "title": "\"하루만 버티면 됐는데\"…하락장 못 버틴 반대매매 1458억 쏟아졌다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008959851&office_id=421&mode=mainnews&type=&date=2026-05-21&page=1"
+      "title": "엔비디아 팔고 삼성전자 담았다…RIA 두 달 만에 2조 유입",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000098109&office_id=243&mode=mainnews&type=&date=2026-05-21&page=1"
     },
     {
-      "title": "삼성전기, AI 모멘텀 120만원 돌파 '최고가'…시총 5위 가시권(종합)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008959845&office_id=421&mode=mainnews&type=&date=2026-05-21&page=1"
+      "title": "엔비디아 훈풍에 삼성전자 리스크 완화…반도체株 랠리 재시동",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006287443&office_id=018&mode=mainnews&type=&date=2026-05-21&page=1"
     },
     {
-      "title": "건재한 코스피 8% 급등… 증권가에선 ‘만스피’ 전망도",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001166311&office_id=366&mode=mainnews&type=&date=2026-05-21&page=1"
+      "title": "“더 담을까 팔까”…금 가격 폭락에 ETF 개미 ‘고심’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006287440&office_id=018&mode=mainnews&type=&date=2026-05-21&page=1"
     },
     {
-      "title": "이젠 ‘59만전자’…삼성전자 제대로 물 만났다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003027978&office_id=029&mode=mainnews&type=&date=2026-05-21&page=1"
+      "title": "세 차례 반려는 부담?…금감원, 한화솔루션 '1.8조 유증' 심사 주목",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013960994&office_id=003&mode=mainnews&type=&date=2026-05-21&page=1"
     },
     {
-      "title": "삼전·닉스 질주에 HBM ETF도 날았다…3년 수익률 676%",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002646753&office_id=016&mode=mainnews&type=&date=2026-05-21&page=1"
+      "title": "상승장에 더 담았다…화끈한 개미들, 삼전닉스 ‘불타기’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004623384&office_id=011&mode=mainnews&type=&date=2026-05-21&page=1"
     },
     {
-      "title": "DS증권 \"한국판 베어허그 온다...저 PBR방치하면 적대적 M&A 표적\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005524930&office_id=014&mode=mainnews&type=&date=2026-05-21&page=1"
+      "title": "이번에도 '갓비디아'… 3년 연속 분기 매출 깜짝실적",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005683491&office_id=009&mode=mainnews&type=&date=2026-05-21&page=1"
     }
   ]
 }
