@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-05-22 05:06:58",
+  "lastUpdated": "2026-05-22 08:35:27",
   "date": "2026.05.22",
   "kospi": {
     "name": "KOSPI",
-    "current": "7865.37",
-    "change": "49.78",
-    "changePct": "0.64",
+    "current": "7847.71",
+    "change": "32.12",
+    "changePct": "0.41",
     "direction": "up",
-    "volume": "359240",
-    "tradeAmount": "23514411"
+    "volume": "431298",
+    "tradeAmount": "30483306"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "293750",
-      "change": "-5750",
-      "changePct": "-1.92",
+      "current": "292500",
+      "change": "-7000",
+      "changePct": "-2.34",
       "direction": "down",
-      "volume": "13134396",
+      "volume": "18194628",
       "high": "300500",
       "low": "292000",
       "open": "300000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1944000",
-      "change": "4000",
-      "changePct": "0.21",
+      "current": "1941000",
+      "change": "1000",
+      "changePct": "0.05",
       "direction": "up",
-      "volume": "2244322",
+      "volume": "2992389",
       "high": "1952000",
       "low": "1912000",
       "open": "1942000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "119500",
-      "change": "-3500",
-      "changePct": "-2.85",
+      "current": "118500",
+      "change": "-4500",
+      "changePct": "-3.66",
       "direction": "down",
-      "volume": "773952",
+      "volume": "964733",
       "high": "120400",
       "low": "116000",
       "open": "119300",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "205000",
-      "change": "5500",
-      "changePct": "2.76",
+      "current": "203000",
+      "change": "3500",
+      "changePct": "1.75",
       "direction": "up",
-      "volume": "579563",
+      "volume": "751620",
       "high": "207000",
       "low": "199300",
       "open": "201500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1514.80",
-      "change": "9.30",
+      "value": "1517.30",
+      "change": "11.80",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "952.35",
-      "change": "5.58",
+      "value": "953.53",
+      "change": "6.76",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1759.67",
-      "change": "10.81",
+      "value": "1761.21",
+      "change": "12.35",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "222.75",
-      "change": "1.35",
+      "value": "223.21",
+      "change": "1.81",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "220385.67",
-      "change": "659.17",
+      "value": "220416.49",
+      "change": "689.99",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "‘1.6兆 잭팟’ 터진 삼성전기 주가도 질주…장중 신고가 경신 [줍줍리포트]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004623646&office_id=011&mode=mainnews&type=&date=2026-05-22&page=1"
+      "title": "‘삼전닉스’ 반도체서 로봇으로…현대차 품은 ETF 경쟁 본격화",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000098147&office_id=243&mode=mainnews&type=&date=2026-05-22&page=1"
     },
     {
-      "title": "코스닥, ‘국민성장펀드’ 완판에 5%대 급등…코스피는 강보합",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006287937&office_id=018&mode=mainnews&type=&date=2026-05-22&page=1"
+      "title": "외인, 이달 들어 삼전닉스 32조 던졌다…차익실현 후 담은 종목은",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005525399&office_id=014&mode=mainnews&type=&date=2026-05-22&page=1"
     },
     {
-      "title": "자산 재분배·퀀트 모델 활용…미국 개미의 ‘AI 거품’ 대응법",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003977896&office_id=023&mode=mainnews&type=&date=2026-05-22&page=1"
+      "title": "코스피200 DB하이텍 포함되고, GS건설 빠진다…4개종목 맞교체",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016094695&office_id=001&mode=mainnews&type=&date=2026-05-22&page=1"
     },
     {
-      "title": "삼전닉스 신용융자 7조 첫 돌파… ‘빚투’도 반도체에 몰렸다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002793036&office_id=021&mode=mainnews&type=&date=2026-05-22&page=1"
+      "title": "\"집 나간 외국인을 찾습니다\"...올해 96조 역대급 '셀 코리아'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005525391&office_id=014&mode=mainnews&type=&date=2026-05-22&page=1"
     },
     {
-      "title": "‘AI 종합 선물 세트’ SK그룹, 순매수 상위권 싹쓸이 [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004623631&office_id=011&mode=mainnews&type=&date=2026-05-22&page=1"
+      "title": "코스피 200, GS건설·세방전지 OUT, HD건설기계·달바글로벌 IN",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005361852&office_id=008&mode=mainnews&type=&date=2026-05-22&page=1"
     },
     {
-      "title": "RIA 100% 공제 막차 오는데…서학개미 국장 복귀 서두를까",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001144438&office_id=417&mode=mainnews&type=&date=2026-05-22&page=1"
+      "title": "원화 약세에 구두개입 나선 당국…외인 매도 진정 여부 촉각",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005361838&office_id=008&mode=mainnews&type=&date=2026-05-22&page=1"
     },
     {
-      "title": "세제 혜택에 손실 방어까지… 국민성장펀드에 개미들 ‘오픈런’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001166451&office_id=366&mode=mainnews&type=&date=2026-05-22&page=1"
+      "title": "삼성전자 '6억 성과급' 시대…\"진짜 수혜주 따로 있다\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005290249&office_id=015&mode=mainnews&type=&date=2026-05-22&page=1"
     },
     {
-      "title": "대기업 지정 콜마그룹주, K-뷰티 타고 고공행진",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002647062&office_id=016&mode=mainnews&type=&date=2026-05-22&page=1"
+      "title": "이제는 코스닥의 시간?…5% 급등에 사이드카 발동",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005290247&office_id=015&mode=mainnews&type=&date=2026-05-22&page=1"
     }
   ]
 }
