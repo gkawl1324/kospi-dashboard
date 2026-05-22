@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-22 08:35:27",
+  "lastUpdated": "2026-05-22 09:40:46",
   "date": "2026.05.22",
   "kospi": {
     "name": "KOSPI",
@@ -7,8 +7,8 @@
     "change": "32.12",
     "changePct": "0.41",
     "direction": "up",
-    "volume": "431298",
-    "tradeAmount": "30483306"
+    "volume": "435533",
+    "tradeAmount": "31229425"
   },
   "stocks": [
     {
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1517.30",
-      "change": "11.80",
+      "value": "1517.80",
+      "change": "12.30",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "953.53",
-      "change": "6.76",
+      "value": "953.90",
+      "change": "7.13",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1761.21",
-      "change": "12.35",
+      "value": "1760.95",
+      "change": "12.09",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "223.21",
-      "change": "1.81",
+      "value": "223.29",
+      "change": "1.89",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "220416.49",
-      "change": "689.99",
+      "value": "220592.57",
+      "change": "866.07",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "‘삼전닉스’ 반도체서 로봇으로…현대차 품은 ETF 경쟁 본격화",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000098147&office_id=243&mode=mainnews&type=&date=2026-05-22&page=1"
+      "title": "삼성전자·SK하이닉스 2배 베팅 열린다…단일종목 ETF·ETN 27일 상장",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006288274&office_id=018&mode=mainnews&type=&date=2026-05-22&page=1"
     },
     {
-      "title": "외인, 이달 들어 삼전닉스 32조 던졌다…차익실현 후 담은 종목은",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005525399&office_id=014&mode=mainnews&type=&date=2026-05-22&page=1"
+      "title": "스페이스X 투자 노렸는데…NASA ETF, 되레 비중 축소",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005290318&office_id=015&mode=mainnews&type=&date=2026-05-22&page=1"
     },
     {
-      "title": "코스피200 DB하이텍 포함되고, GS건설 빠진다…4개종목 맞교체",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016094695&office_id=001&mode=mainnews&type=&date=2026-05-22&page=1"
+      "title": "45조 정책자금 몰려온다…부진했던 코스닥 5% 불기둥",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004623762&office_id=011&mode=mainnews&type=&date=2026-05-22&page=1"
     },
     {
-      "title": "\"집 나간 외국인을 찾습니다\"...올해 96조 역대급 '셀 코리아'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005525391&office_id=014&mode=mainnews&type=&date=2026-05-22&page=1"
+      "title": "“국민성장펀드 열풍”…증권사 판매 물량도 동났다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000098151&office_id=243&mode=mainnews&type=&date=2026-05-22&page=1"
     },
     {
-      "title": "코스피 200, GS건설·세방전지 OUT, HD건설기계·달바글로벌 IN",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005361852&office_id=008&mode=mainnews&type=&date=2026-05-22&page=1"
+      "title": "12거래일 ‘46조’ 판 외인…반도체 덜고 2차전지 담았다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004623761&office_id=011&mode=mainnews&type=&date=2026-05-22&page=1"
     },
     {
-      "title": "원화 약세에 구두개입 나선 당국…외인 매도 진정 여부 촉각",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005361838&office_id=008&mode=mainnews&type=&date=2026-05-22&page=1"
+      "title": "“현장 투입 머지 않았다” 기대감에 들썩…피지컬 AI로 묶인 현대차·LG전자 한달새 급등",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004623758&office_id=011&mode=mainnews&type=&date=2026-05-22&page=1"
     },
     {
-      "title": "삼성전자 '6억 성과급' 시대…\"진짜 수혜주 따로 있다\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005290249&office_id=015&mode=mainnews&type=&date=2026-05-22&page=1"
+      "title": "수익률 44%…中 반도체 ETF에 돈 몰린다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004623755&office_id=011&mode=mainnews&type=&date=2026-05-22&page=1"
     },
     {
-      "title": "이제는 코스닥의 시간?…5% 급등에 사이드카 발동",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005290247&office_id=015&mode=mainnews&type=&date=2026-05-22&page=1"
+      "title": "내달 12일 스페이스X 상장 결정 … 美우주ETF 초강세",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005683954&office_id=009&mode=mainnews&type=&date=2026-05-22&page=1"
     }
   ]
 }
