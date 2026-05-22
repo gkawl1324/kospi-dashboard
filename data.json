@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-05-22 04:43:02",
+  "lastUpdated": "2026-05-22 05:06:58",
   "date": "2026.05.22",
   "kospi": {
     "name": "KOSPI",
-    "current": "7852.39",
-    "change": "36.80",
-    "changePct": "0.47",
+    "current": "7865.37",
+    "change": "49.78",
+    "changePct": "0.64",
     "direction": "up",
-    "volume": "342614",
-    "tradeAmount": "22260863"
+    "volume": "359240",
+    "tradeAmount": "23514411"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "293250",
-      "change": "-6250",
-      "changePct": "-2.09",
+      "current": "293750",
+      "change": "-5750",
+      "changePct": "-1.92",
       "direction": "down",
-      "volume": "12411139",
+      "volume": "13134396",
       "high": "300500",
       "low": "292000",
       "open": "300000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1938000",
-      "change": "-2000",
-      "changePct": "-0.10",
-      "direction": "down",
-      "volume": "2123420",
+      "current": "1944000",
+      "change": "4000",
+      "changePct": "0.21",
+      "direction": "up",
+      "volume": "2244322",
       "high": "1952000",
       "low": "1912000",
       "open": "1942000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "119300",
-      "change": "-3700",
-      "changePct": "-3.01",
+      "current": "119500",
+      "change": "-3500",
+      "changePct": "-2.85",
       "direction": "down",
-      "volume": "718320",
+      "volume": "773952",
       "high": "120400",
       "low": "116000",
       "open": "119300",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "205250",
-      "change": "5750",
-      "changePct": "2.88",
+      "current": "205000",
+      "change": "5500",
+      "changePct": "2.76",
       "direction": "up",
-      "volume": "550370",
+      "volume": "579563",
       "high": "207000",
       "low": "199300",
       "open": "201500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1515.30",
-      "change": "9.80",
+      "value": "1514.80",
+      "change": "9.30",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "952.72",
-      "change": "5.95",
+      "value": "952.35",
+      "change": "5.58",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1759.79",
-      "change": "10.93",
+      "value": "1759.67",
+      "change": "10.81",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "222.81",
-      "change": "1.41",
+      "value": "222.75",
+      "change": "1.35",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "220491.72",
-      "change": "765.22",
+      "value": "220385.67",
+      "change": "659.17",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -141,6 +141,14 @@
     }
   ],
   "news": [
+    {
+      "title": "‘1.6兆 잭팟’ 터진 삼성전기 주가도 질주…장중 신고가 경신 [줍줍리포트]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004623646&office_id=011&mode=mainnews&type=&date=2026-05-22&page=1"
+    },
+    {
+      "title": "코스닥, ‘국민성장펀드’ 완판에 5%대 급등…코스피는 강보합",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006287937&office_id=018&mode=mainnews&type=&date=2026-05-22&page=1"
+    },
     {
       "title": "자산 재분배·퀀트 모델 활용…미국 개미의 ‘AI 거품’ 대응법",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0003977896&office_id=023&mode=mainnews&type=&date=2026-05-22&page=1"
@@ -164,14 +172,6 @@
     {
       "title": "대기업 지정 콜마그룹주, K-뷰티 타고 고공행진",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002647062&office_id=016&mode=mainnews&type=&date=2026-05-22&page=1"
-    },
-    {
-      "title": "“대만처럼 간다”…ETF·개미가 끌어올린 코스피",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001166450&office_id=366&mode=mainnews&type=&date=2026-05-22&page=1"
-    },
-    {
-      "title": "빚투 우려 현실로…반대매매 ‘역대 최대’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002647059&office_id=016&mode=mainnews&type=&date=2026-05-22&page=1"
     }
   ]
 }
