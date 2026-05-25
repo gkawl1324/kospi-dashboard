@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-22 09:40:46",
-  "date": "2026.05.22",
+  "lastUpdated": "2026-05-25 05:00:17",
+  "date": "2026.05.25",
   "kospi": {
     "name": "KOSPI",
     "current": "7847.71",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1517.80",
-      "change": "12.30",
+      "value": "1509.80",
+      "change": "4.30",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "953.90",
-      "change": "7.13",
+      "value": "950.43",
+      "change": "3.66",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1760.95",
-      "change": "12.09",
+      "value": "1757.94",
+      "change": "9.08",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "223.29",
-      "change": "1.89",
+      "value": "222.66",
+      "change": "1.26",
       "direction": "up"
     }
   ],
@@ -102,31 +102,31 @@
     {
       "code": "OIL_CL",
       "name": "WTI",
-      "value": "96.35",
-      "change": "1.91",
-      "direction": "down",
+      "value": "96.6",
+      "change": "0.25",
+      "direction": "up",
       "unit": "USD/barrel"
     },
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "4542.5",
-      "change": "7.20",
-      "direction": "up",
+      "value": "4523.2",
+      "change": "19.30",
+      "direction": "down",
       "unit": "USD/oz"
     },
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "220592.57",
-      "change": "866.07",
+      "value": "220653.23",
+      "change": "926.73",
       "direction": "up",
       "unit": "USD/oz"
     },
     {
       "code": "OIL_BRT",
       "name": "Brent",
-      "value": "102.58",
+      "value": "103.54",
       "change": "0",
       "direction": "up",
       "unit": "USD/barrel"
@@ -134,7 +134,7 @@
     {
       "code": "OIL_DU",
       "name": "Dubai",
-      "value": "102.92",
+      "value": "103.36",
       "change": "0",
       "direction": "up",
       "unit": "USD/barrel"
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "삼성전자·SK하이닉스 2배 베팅 열린다…단일종목 ETF·ETN 27일 상장",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006288274&office_id=018&mode=mainnews&type=&date=2026-05-22&page=1"
+      "title": "넵튠 “게임 넘어 광고까지…K-앱러빈 될 것”[코스닥人]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006290153&office_id=018&mode=mainnews&type=&date=2026-05-25&page=1"
     },
     {
-      "title": "스페이스X 투자 노렸는데…NASA ETF, 되레 비중 축소",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005290318&office_id=015&mode=mainnews&type=&date=2026-05-22&page=1"
+      "title": "외국인들 '한국 주식' 꽂혔다…ETF 줄상장",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001253228&office_id=215&mode=mainnews&type=&date=2026-05-25&page=1"
     },
     {
-      "title": "45조 정책자금 몰려온다…부진했던 코스닥 5% 불기둥",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004623762&office_id=011&mode=mainnews&type=&date=2026-05-22&page=1"
+      "title": "'8천피' 복귀하나…美 PCE·삼전하닉 레버리지 상품 주목[주간증시전망]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006290129&office_id=018&mode=mainnews&type=&date=2026-05-25&page=1"
     },
     {
-      "title": "“국민성장펀드 열풍”…증권사 판매 물량도 동났다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000098151&office_id=243&mode=mainnews&type=&date=2026-05-22&page=1"
+      "title": "코스피 '40조' 불장이라는데…'중소형주' 거래량은 24% 폭락",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000098217&office_id=243&mode=mainnews&type=&date=2026-05-25&page=1"
     },
     {
-      "title": "12거래일 ‘46조’ 판 외인…반도체 덜고 2차전지 담았다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004623761&office_id=011&mode=mainnews&type=&date=2026-05-22&page=1"
+      "title": "\"코스피만 사면 못 번다\"…액티브 ETF 상장 러시",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005525912&office_id=014&mode=mainnews&type=&date=2026-05-25&page=1"
     },
     {
-      "title": "“현장 투입 머지 않았다” 기대감에 들썩…피지컬 AI로 묶인 현대차·LG전자 한달새 급등",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004623758&office_id=011&mode=mainnews&type=&date=2026-05-22&page=1"
+      "title": "외국인, 12거래일 연속 46조 순매도…코스닥 성장주는 담았다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005525910&office_id=014&mode=mainnews&type=&date=2026-05-25&page=1"
     },
     {
-      "title": "수익률 44%…中 반도체 ETF에 돈 몰린다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004623755&office_id=011&mode=mainnews&type=&date=2026-05-22&page=1"
+      "title": "역사적 저점으로 내려앉은 美장기채 ETF...손절 나선 개미들",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005525909&office_id=014&mode=mainnews&type=&date=2026-05-25&page=1"
     },
     {
-      "title": "내달 12일 스페이스X 상장 결정 … 美우주ETF 초강세",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005683954&office_id=009&mode=mainnews&type=&date=2026-05-22&page=1"
+      "title": "글로벌 기술 테마에 분산 투자…위험성 줄이고, 성과 높이고[이런 펀드 어때요?]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005525907&office_id=014&mode=mainnews&type=&date=2026-05-25&page=1"
     }
   ]
 }
