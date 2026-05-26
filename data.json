@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-05-26 04:41:25",
+  "lastUpdated": "2026-05-26 05:07:51",
   "date": "2026.05.26",
   "kospi": {
     "name": "KOSPI",
-    "current": "8089.24",
-    "change": "241.53",
-    "changePct": "3.08",
+    "current": "8043.18",
+    "change": "195.47",
+    "changePct": "2.49",
     "direction": "up",
-    "volume": "406887",
-    "tradeAmount": "29480743"
+    "volume": "428511",
+    "tradeAmount": "31266201"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "300750",
-      "change": "8250",
-      "changePct": "2.82",
+      "current": "299500",
+      "change": "7000",
+      "changePct": "2.39",
       "direction": "up",
-      "volume": "15455006",
+      "volume": "16431447",
       "high": "302000",
       "low": "297500",
       "open": "298000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2081500",
-      "change": "140500",
-      "changePct": "7.24",
+      "current": "2062500",
+      "change": "121500",
+      "changePct": "6.26",
       "direction": "up",
-      "volume": "3203321",
+      "volume": "3372505",
       "high": "2087000",
       "low": "2006000",
       "open": "2008000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "123200",
-      "change": "4700",
-      "changePct": "3.97",
+      "current": "122000",
+      "change": "3500",
+      "changePct": "2.95",
       "direction": "up",
-      "volume": "469652",
+      "volume": "493011",
       "high": "125000",
       "low": "119400",
       "open": "123600",
@@ -61,7 +61,7 @@
       "change": "-3000",
       "changePct": "-1.48",
       "direction": "down",
-      "volume": "438404",
+      "volume": "455273",
       "high": "207000",
       "low": "200000",
       "open": "205500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1506.30",
-      "change": "5.70",
+      "value": "1507.20",
+      "change": "4.80",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "947.72",
-      "change": "3.55",
+      "value": "947.98",
+      "change": "3.29",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1752.28",
-      "change": "7.99",
+      "value": "1752.72",
+      "change": "7.55",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "221.96",
-      "change": "0.92",
+      "value": "222.01",
+      "change": "0.87",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "219239.96",
-      "change": "1413.27",
+      "value": "219478.34",
+      "change": "1174.89",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -141,6 +141,14 @@
     }
   ],
   "news": [
+    {
+      "title": "“14만 불개미 풀베팅 준비”…‘삼전닉스 따블ETF’ 내일 출시",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005684986&office_id=009&mode=mainnews&type=&date=2026-05-26&page=1"
+    },
+    {
+      "title": "\"비싸게 사서 싸게 파는 일 없게\"…KODEX 삼전닉스레버리지 '유동성' 강점",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008966215&office_id=421&mode=mainnews&type=&date=2026-05-26&page=1"
+    },
     {
       "title": "삼성운용, 단일종목 레버리지 시장 선점 나선다…“유동성으로 승부”(종합)",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0006290651&office_id=018&mode=mainnews&type=&date=2026-05-26&page=1"
@@ -164,14 +172,6 @@
     {
       "title": "“장기적으로 보면 상당히 끔찍” 100% 넘게 뛰었는데도...개미들 향한 ‘섬뜩한 경고’",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0004624485&office_id=011&mode=mainnews&type=&date=2026-05-26&page=1"
-    },
-    {
-      "title": "국민 노후자금 2300억 걸린 스타벅스…국민연금 \"수익성 영향 오면 행동\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005362724&office_id=008&mode=mainnews&type=&date=2026-05-26&page=1"
-    },
-    {
-      "title": "삼성자산운용, 27일 ‘삼전닉스’ 레버리지 상장…“현물 레버리지·현물납입방식”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001167098&office_id=366&mode=mainnews&type=&date=2026-05-26&page=1"
     }
   ]
 }
