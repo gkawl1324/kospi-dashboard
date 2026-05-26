@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-05-26 05:07:51",
+  "lastUpdated": "2026-05-26 08:47:55",
   "date": "2026.05.26",
   "kospi": {
     "name": "KOSPI",
-    "current": "8043.18",
-    "change": "195.47",
-    "changePct": "2.49",
+    "current": "8047.51",
+    "change": "199.80",
+    "changePct": "2.55",
     "direction": "up",
-    "volume": "428511",
-    "tradeAmount": "31266201"
+    "volume": "514319",
+    "tradeAmount": "39064659"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "299500",
-      "change": "7000",
-      "changePct": "2.39",
+      "current": "299000",
+      "change": "6500",
+      "changePct": "2.22",
       "direction": "up",
-      "volume": "16431447",
+      "volume": "21773154",
       "high": "302000",
       "low": "297500",
       "open": "298000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2062500",
-      "change": "121500",
-      "changePct": "6.26",
+      "current": "2052000",
+      "change": "111000",
+      "changePct": "5.72",
       "direction": "up",
-      "volume": "3372505",
+      "volume": "4390485",
       "high": "2087000",
       "low": "2006000",
       "open": "2008000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "122000",
-      "change": "3500",
-      "changePct": "2.95",
+      "current": "122700",
+      "change": "4200",
+      "changePct": "3.54",
       "direction": "up",
-      "volume": "493011",
+      "volume": "600911",
       "high": "125000",
       "low": "119400",
       "open": "123600",
@@ -61,9 +61,9 @@
       "change": "-3000",
       "changePct": "-1.48",
       "direction": "down",
-      "volume": "455273",
+      "volume": "580181",
       "high": "207000",
-      "low": "200000",
+      "low": "199900",
       "open": "205500",
       "marketCap": "0"
     }
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1507.20",
-      "change": "4.80",
+      "value": "1505.30",
+      "change": "6.70",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "947.98",
-      "change": "3.29",
+      "value": "945.39",
+      "change": "5.88",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1752.72",
-      "change": "7.55",
+      "value": "1751.26",
+      "change": "9.01",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "222.01",
-      "change": "0.87",
+      "value": "221.78",
+      "change": "1.10",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "219478.34",
-      "change": "1174.89",
+      "value": "219025.31",
+      "change": "1627.92",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "“14만 불개미 풀베팅 준비”…‘삼전닉스 따블ETF’ 내일 출시",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005684986&office_id=009&mode=mainnews&type=&date=2026-05-26&page=1"
+      "title": "D램 다음은 MLCC? 삼성전기 목표가 200만원까지 올라",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005291366&office_id=015&mode=mainnews&type=&date=2026-05-26&page=1"
     },
     {
-      "title": "\"비싸게 사서 싸게 파는 일 없게\"…KODEX 삼전닉스레버리지 '유동성' 강점",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008966215&office_id=421&mode=mainnews&type=&date=2026-05-26&page=1"
+      "title": "VIP자산운용, 롯데렌탈 지분 7.33%로 확대하며 밸류업 촉구",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005685159&office_id=009&mode=mainnews&type=&date=2026-05-26&page=1"
     },
     {
-      "title": "삼성운용, 단일종목 레버리지 시장 선점 나선다…“유동성으로 승부”(종합)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006290651&office_id=018&mode=mainnews&type=&date=2026-05-26&page=1"
+      "title": "코스피, 8천선 '안착'…\"외국인, 팔 만큼 팔았다\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001253370&office_id=215&mode=mainnews&type=&date=2026-05-26&page=1"
     },
     {
-      "title": "\"장밋빛 환상 깨라\"…'9월 피크아웃' 경고등 켠 한국 반도체 위기 [어쨌든 경제]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006290627&office_id=018&mode=mainnews&type=&date=2026-05-26&page=1"
+      "title": "삼성반도체 분할하면 바로 주가 1.4배…복합기업 할인 해소",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006290931&office_id=018&mode=mainnews&type=&date=2026-05-26&page=1"
     },
     {
-      "title": "외인 가세 ‘진격의 코스피’… RIA도 한달새 8054억 추가 유입",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002793558&office_id=021&mode=mainnews&type=&date=2026-05-26&page=1"
+      "title": "“원금 녹아버릴 수도”…‘삼전닉스 레버리지’ 경쟁 막 오른다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005685151&office_id=009&mode=mainnews&type=&date=2026-05-26&page=1"
     },
     {
-      "title": "삼전·닉스 2배 ETF 출격…삼성자산운용 \"유동성·현물납입형으로 승부수\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000502179&office_id=629&mode=mainnews&type=&date=2026-05-26&page=1"
+      "title": "고려아연 순환출자 최종 심판대…공정위 심사보고서 작성 완료[마켓인]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006290917&office_id=018&mode=mainnews&type=&date=2026-05-26&page=1"
     },
     {
-      "title": "1520원 턱밑까지 온 환율…코스피 발목 잡을까",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008965935&office_id=421&mode=mainnews&type=&date=2026-05-26&page=1"
+      "title": "삼전닉스 레버리지 동시출격 준비완료...개미들의 선택은?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005362987&office_id=008&mode=mainnews&type=&date=2026-05-26&page=1"
     },
     {
-      "title": "“장기적으로 보면 상당히 끔찍” 100% 넘게 뛰었는데도...개미들 향한 ‘섬뜩한 경고’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004624485&office_id=011&mode=mainnews&type=&date=2026-05-26&page=1"
+      "title": "단일종목 레버리지 드디어 뜬다…삼전닉스 주가 탄력 더 받나",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005362978&office_id=008&mode=mainnews&type=&date=2026-05-26&page=1"
     }
   ]
 }
