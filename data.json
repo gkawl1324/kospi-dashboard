@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-26 08:47:55",
+  "lastUpdated": "2026-05-26 10:10:41",
   "date": "2026.05.26",
   "kospi": {
     "name": "KOSPI",
@@ -7,8 +7,8 @@
     "change": "199.80",
     "changePct": "2.55",
     "direction": "up",
-    "volume": "514319",
-    "tradeAmount": "39064659"
+    "volume": "519551",
+    "tradeAmount": "40802699"
   },
   "stocks": [
     {
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1505.30",
-      "change": "6.70",
+      "value": "1504.20",
+      "change": "7.80",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "945.39",
-      "change": "5.88",
+      "value": "945.06",
+      "change": "6.21",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1751.26",
-      "change": "9.01",
+      "value": "1751.11",
+      "change": "9.16",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "221.78",
-      "change": "1.10",
+      "value": "221.66",
+      "change": "1.22",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "219025.31",
-      "change": "1627.92",
+      "value": "218803.39",
+      "change": "1849.84",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "D램 다음은 MLCC? 삼성전기 목표가 200만원까지 올라",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005291366&office_id=015&mode=mainnews&type=&date=2026-05-26&page=1"
+      "title": "'10만 개미' 줄 섰는데…\"투자금 녹아내릴수도\" 경고 나온 이유",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001253385&office_id=215&mode=mainnews&type=&date=2026-05-26&page=1"
     },
     {
-      "title": "VIP자산운용, 롯데렌탈 지분 7.33%로 확대하며 밸류업 촉구",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005685159&office_id=009&mode=mainnews&type=&date=2026-05-26&page=1"
+      "title": "8000피 연 날에도 외국인 순매도… ‘보유 비중 조정’ 해석",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001851184&office_id=005&mode=mainnews&type=&date=2026-05-26&page=1"
     },
     {
-      "title": "코스피, 8천선 '안착'…\"외국인, 팔 만큼 팔았다\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001253370&office_id=215&mode=mainnews&type=&date=2026-05-26&page=1"
+      "title": "“지금이 바로 주식 팔 때” 서학개미들 역대급 주식 팔았다, 왜?…벌써 ‘1.7조’ 돌파 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002648357&office_id=016&mode=mainnews&type=&date=2026-05-26&page=1"
     },
     {
-      "title": "삼성반도체 분할하면 바로 주가 1.4배…복합기업 할인 해소",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006290931&office_id=018&mode=mainnews&type=&date=2026-05-26&page=1"
+      "title": "삼전·하닉 2배 출격...\"반도체 쏠림 심화될 것\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001253381&office_id=215&mode=mainnews&type=&date=2026-05-26&page=1"
     },
     {
-      "title": "“원금 녹아버릴 수도”…‘삼전닉스 레버리지’ 경쟁 막 오른다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005685151&office_id=009&mode=mainnews&type=&date=2026-05-26&page=1"
+      "title": "'2배 ETF' 출시 후 삼전닉스 운명은?…\"득일까 독일까\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001031036&office_id=031&mode=mainnews&type=&date=2026-05-26&page=1"
     },
     {
-      "title": "고려아연 순환출자 최종 심판대…공정위 심사보고서 작성 완료[마켓인]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006290917&office_id=018&mode=mainnews&type=&date=2026-05-26&page=1"
+      "title": "미래에셋·NH투자증권도 IMA 추가 발행…2200억 물량 푼다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000098292&office_id=243&mode=mainnews&type=&date=2026-05-26&page=1"
     },
     {
-      "title": "삼전닉스 레버리지 동시출격 준비완료...개미들의 선택은?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005362987&office_id=008&mode=mainnews&type=&date=2026-05-26&page=1"
+      "title": "\"외국인, 반도체 사이클 의구심 거둬\"…삼전닉스 신고가 썼다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005291452&office_id=015&mode=mainnews&type=&date=2026-05-26&page=1"
     },
     {
-      "title": "단일종목 레버리지 드디어 뜬다…삼전닉스 주가 탄력 더 받나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005362978&office_id=008&mode=mainnews&type=&date=2026-05-26&page=1"
+      "title": "반도체+포모 합작 코스피 8000 돌파",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005685259&office_id=009&mode=mainnews&type=&date=2026-05-26&page=1"
     }
   ]
 }
