@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-27 08:50:52",
+  "lastUpdated": "2026-05-27 10:08:20",
   "date": "2026.05.27",
   "kospi": {
     "name": "KOSPI",
@@ -7,8 +7,8 @@
     "change": "181.19",
     "changePct": "2.25",
     "direction": "up",
-    "volume": "615227",
-    "tradeAmount": "55840773"
+    "volume": "619451",
+    "tradeAmount": "56832099"
   },
   "stocks": [
     {
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1498.90",
-      "change": "8.60",
+      "value": "1497.80",
+      "change": "9.70",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "940.37",
-      "change": "6.02",
+      "value": "939.88",
+      "change": "6.51",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1745.24",
-      "change": "8.43",
+      "value": "1744.04",
+      "change": "9.63",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "221.05",
-      "change": "1.11",
+      "value": "220.87",
+      "change": "1.29",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "216609.0",
-      "change": "1908.21",
+      "value": "216335.54",
+      "change": "2181.67",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "글로벌 반도체 랠리…SK하이닉스·마이크론도 시총 '1조 달러 클럽'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005291938&office_id=015&mode=mainnews&type=&date=2026-05-27&page=1"
+      "title": "반도체만 달린다…코스피 최고치에도 종목 10개 중 9개는 하락",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004625130&office_id=011&mode=mainnews&type=&date=2026-05-27&page=1"
     },
     {
-      "title": "\"삼전·하이닉스 2배 베팅\"...첫날 개인 순매수 몰린 상품은?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000047492&office_id=648&mode=mainnews&type=&date=2026-05-27&page=1"
+      "title": "삼전닉스 월배당 시대 올까…'수시배당' 입법 추진 [세상에 이런 법이]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001253514&office_id=215&mode=mainnews&type=&date=2026-05-27&page=1"
     },
     {
-      "title": "\"AI 데이터센터 깔리면 돈 번다\"…줄줄이 상한가 친 '이 종목'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005291908&office_id=015&mode=mainnews&type=&date=2026-05-27&page=1"
+      "title": "새로 뜨는 ‘삼전닉스’ 아시나요?…삼성전자보다 더 오른 삼성전기의 반란",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005685919&office_id=009&mode=mainnews&type=&date=2026-05-27&page=1"
     },
     {
-      "title": "코스피 또 사상 최고...삼전닉스 2배 ETF '불기둥'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001253505&office_id=215&mode=mainnews&type=&date=2026-05-27&page=1"
+      "title": "\"100만원 녹아버리는 것 순식간이네\"…삼전닉스 레버리지, '단타 개미' 몰려",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001031298&office_id=031&mode=mainnews&type=&date=2026-05-27&page=1"
     },
     {
-      "title": "삼전·하닉 레버리지 ETF, 첫날부터 흥행몰이…개미들 '우르르'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000502713&office_id=629&mode=mainnews&type=&date=2026-05-27&page=1"
+      "title": "코스피 뛸때 몸집 불렸다…국내 주식형펀드 순자산 250조",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005527234&office_id=014&mode=mainnews&type=&date=2026-05-27&page=1"
     },
     {
-      "title": "ETF 500조 시대 열렸다…'삼전닉스' 레버리지에 단타자금도 들썩",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006291747&office_id=018&mode=mainnews&type=&date=2026-05-27&page=1"
+      "title": "중복상장 \"전면 금지해야\" vs \"중소기업·지주사는 열어줘야\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005363692&office_id=008&mode=mainnews&type=&date=2026-05-27&page=1"
     },
     {
-      "title": "60% 손실 경고에도…삼전닉스 레버리지에 개미 2조 ‘우르르’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006291743&office_id=018&mode=mainnews&type=&date=2026-05-27&page=1"
+      "title": "삼전·하닉 2배 상품 상장 첫날…개미는 대형운용사로 향했다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005363690&office_id=008&mode=mainnews&type=&date=2026-05-27&page=1"
     },
     {
-      "title": "상장날 개미 '2조 폭식'…삼전닉스 2배 ETF 광풍에 서버 터지고 VI 발동",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005363631&office_id=008&mode=mainnews&type=&date=2026-05-27&page=1"
+      "title": "\"삼전닉스 열풍 잇는다\"…현대차·기아 담은 채권혼합 ETF 나온다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008969582&office_id=421&mode=mainnews&type=&date=2026-05-27&page=1"
     }
   ]
 }
