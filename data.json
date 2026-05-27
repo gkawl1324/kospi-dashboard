@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-05-27 05:22:22",
+  "lastUpdated": "2026-05-27 08:50:52",
   "date": "2026.05.27",
   "kospi": {
     "name": "KOSPI",
-    "current": "8320.19",
-    "change": "272.68",
-    "changePct": "3.39",
+    "current": "8228.70",
+    "change": "181.19",
+    "changePct": "2.25",
     "direction": "up",
-    "volume": "533858",
-    "tradeAmount": "45383503"
+    "volume": "615227",
+    "tradeAmount": "55840773"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "313500",
-      "change": "14500",
-      "changePct": "4.85",
+      "current": "307000",
+      "change": "8000",
+      "changePct": "2.68",
       "direction": "up",
-      "volume": "26262409",
+      "volume": "33447443",
       "high": "323000",
-      "low": "311000",
+      "low": "306000",
       "open": "321500",
       "marketCap": "0"
     },
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2288000",
-      "change": "236000",
-      "changePct": "11.50",
+      "current": "2243000",
+      "change": "191000",
+      "changePct": "9.31",
       "direction": "up",
-      "volume": "5774687",
+      "volume": "7248371",
       "high": "2358000",
       "low": "2200000",
       "open": "2279000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "118000",
-      "change": "-4700",
-      "changePct": "-3.83",
+      "current": "118200",
+      "change": "-4500",
+      "changePct": "-3.67",
       "direction": "down",
-      "volume": "467572",
+      "volume": "650416",
       "high": "123300",
       "low": "116700",
       "open": "122900",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "198200",
-      "change": "-1800",
-      "changePct": "-0.90",
+      "current": "198800",
+      "change": "-1200",
+      "changePct": "-0.60",
       "direction": "down",
-      "volume": "753682",
+      "volume": "912403",
       "high": "202000",
       "low": "197300",
       "open": "199800",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1499.40",
-      "change": "8.10",
+      "value": "1498.90",
+      "change": "8.60",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "941.48",
-      "change": "4.91",
+      "value": "940.37",
+      "change": "6.02",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1745.60",
-      "change": "8.07",
+      "value": "1745.24",
+      "change": "8.43",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "221.13",
-      "change": "1.03",
+      "value": "221.05",
+      "change": "1.11",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "217235.89",
-      "change": "1281.32",
+      "value": "216609.0",
+      "change": "1908.21",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "코스피, 반도체 쏠림에 매수 사이드카…장 초반 고점 대비 낙폭 축소",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006291522&office_id=018&mode=mainnews&type=&date=2026-05-27&page=1"
+      "title": "글로벌 반도체 랠리…SK하이닉스·마이크론도 시총 '1조 달러 클럽'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005291938&office_id=015&mode=mainnews&type=&date=2026-05-27&page=1"
     },
     {
-      "title": "'반도체 투톱' 삼전닉스 나란히 신고가…\"주가 거품? 아직도 저평가\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005363411&office_id=008&mode=mainnews&type=&date=2026-05-27&page=1"
+      "title": "\"삼전·하이닉스 2배 베팅\"...첫날 개인 순매수 몰린 상품은?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000047492&office_id=648&mode=mainnews&type=&date=2026-05-27&page=1"
     },
     {
-      "title": "[단독] 제이알리츠 주주들 “1450억 넣겠다”…운용사에 유증 압박",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002229034&office_id=138&mode=mainnews&type=&date=2026-05-27&page=1"
+      "title": "\"AI 데이터센터 깔리면 돈 번다\"…줄줄이 상한가 친 '이 종목'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005291908&office_id=015&mode=mainnews&type=&date=2026-05-27&page=1"
     },
     {
-      "title": "“삼전닉스 대체 어디까지 가는 거야”…목표가 ‘55만전자 ·380만닉스’ 나왔다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004624951&office_id=011&mode=mainnews&type=&date=2026-05-27&page=1"
+      "title": "코스피 또 사상 최고...삼전닉스 2배 ETF '불기둥'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001253505&office_id=215&mode=mainnews&type=&date=2026-05-27&page=1"
     },
     {
-      "title": "'삼전닉스 2배' 나도 먹자…개미들 '우르르' 500조 터졌다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005291758&office_id=015&mode=mainnews&type=&date=2026-05-27&page=1"
+      "title": "삼전·하닉 레버리지 ETF, 첫날부터 흥행몰이…개미들 '우르르'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000502713&office_id=629&mode=mainnews&type=&date=2026-05-27&page=1"
     },
     {
-      "title": "코스피 불장, 하반기 꺾인다? '피크아웃' 불안감, 투심 영향오나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000098314&office_id=243&mode=mainnews&type=&date=2026-05-27&page=1"
+      "title": "ETF 500조 시대 열렸다…'삼전닉스' 레버리지에 단타자금도 들썩",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006291747&office_id=018&mode=mainnews&type=&date=2026-05-27&page=1"
     },
     {
-      "title": "SK하이닉스, 버크셔·마이크론 제치고 글로벌 시총 12위…단일 레버리지 열기도 ‘후끈’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003028698&office_id=029&mode=mainnews&type=&date=2026-05-27&page=1"
+      "title": "60% 손실 경고에도…삼전닉스 레버리지에 개미 2조 ‘우르르’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006291743&office_id=018&mode=mainnews&type=&date=2026-05-27&page=1"
     },
     {
-      "title": "SK하닉 10% 뛰는데 ETF는 60% 급등…\"사이드카·선물 상한가 영향\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008968461&office_id=421&mode=mainnews&type=&date=2026-05-27&page=1"
+      "title": "상장날 개미 '2조 폭식'…삼전닉스 2배 ETF 광풍에 서버 터지고 VI 발동",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005363631&office_id=008&mode=mainnews&type=&date=2026-05-27&page=1"
     }
   ]
 }
