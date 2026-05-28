@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-05-28 05:13:57",
+  "lastUpdated": "2026-05-28 08:57:17",
   "date": "2026.05.28",
   "kospi": {
     "name": "KOSPI",
-    "current": "7994.75",
-    "change": "233.95",
-    "changePct": "2.84",
+    "current": "8185.29",
+    "change": "43.41",
+    "changePct": "0.53",
     "direction": "up",
-    "volume": "577812",
-    "tradeAmount": "41363492"
+    "volume": "664510",
+    "tradeAmount": "52130863"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "294000",
-      "change": "-13000",
-      "changePct": "-4.23",
+      "current": "299500",
+      "change": "-7500",
+      "changePct": "-2.44",
       "direction": "down",
-      "volume": "23280830",
+      "volume": "30039189",
       "high": "306500",
       "low": "287500",
       "open": "305000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2209000",
-      "change": "-34000",
-      "changePct": "-1.52",
-      "direction": "down",
-      "volume": "4534229",
+      "current": "2289000",
+      "change": "46000",
+      "changePct": "2.05",
+      "direction": "up",
+      "volume": "5855721",
       "high": "2305000",
       "low": "2151000",
       "open": "2189000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "113600",
-      "change": "-4600",
-      "changePct": "-3.89",
+      "current": "115800",
+      "change": "-2400",
+      "changePct": "-2.03",
       "direction": "down",
-      "volume": "398633",
+      "volume": "521053",
       "high": "119400",
       "low": "112000",
       "open": "118000",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "200250",
-      "change": "1450",
-      "changePct": "0.73",
+      "current": "205000",
+      "change": "6200",
+      "changePct": "3.12",
       "direction": "up",
-      "volume": "1676010",
+      "volume": "1978430",
       "high": "213000",
       "low": "195800",
       "open": "202000",
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1507.40",
-      "change": "5.40",
+      "value": "1502.60",
+      "change": "0.60",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "944.69",
-      "change": "2.97",
+      "value": "942.28",
+      "change": "0.56",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1747.00",
-      "change": "0.55",
-      "direction": "up"
+      "value": "1745.27",
+      "change": "1.18",
+      "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "222.15",
-      "change": "0.51",
-      "direction": "up"
+      "value": "221.59",
+      "change": "0.05",
+      "direction": "down"
     }
   ],
   "oilPrices": [
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "211935.65",
-      "change": "2848.97",
+      "value": "212025.27",
+      "change": "2759.35",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "삼성전자, 차익 매물에 4% 하락…SK하닉도 2% 약세",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013973014&office_id=003&mode=mainnews&type=&date=2026-05-28&page=1"
+      "title": "삼전닉스 쏠림에…부진한 동일가중 ETF",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004625519&office_id=011&mode=mainnews&type=&date=2026-05-28&page=1"
     },
     {
-      "title": "코인원에 손 뻗은 한투·OKX…금융권, 가상자산 지분 경쟁 가열",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013972977&office_id=003&mode=mainnews&type=&date=2026-05-28&page=1"
+      "title": "“투자자는 적자나면 손실보는데…노조는 책임 없어” [시그널]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004625505&office_id=011&mode=mainnews&type=&date=2026-05-28&page=1"
     },
     {
-      "title": "AI 메모리 ETF에 개인 자금 몰렸다…SOL 반도체 ETF 3.5조 돌파",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005527595&office_id=014&mode=mainnews&type=&date=2026-05-28&page=1"
+      "title": "\"지금 아니면 못 산다\"?외인·기관 투매 속 개미들 역대급 '줍줍' 규모 보니",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001031590&office_id=031&mode=mainnews&type=&date=2026-05-28&page=1"
     },
     {
-      "title": "코스피 장중 8000·7900 연이어 붕괴…코스닥도 5% 하락",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001167693&office_id=366&mode=mainnews&type=&date=2026-05-28&page=1"
+      "title": "\"같은 대기업 반도첸데 왜 달라?\"?삼전 개미 울고 하이닉스 웃었다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001031585&office_id=031&mode=mainnews&type=&date=2026-05-28&page=1"
     },
     {
-      "title": "\"투기판 열어놓고 이제 와 경고?\"…금융당국, 삼전·닉스 레버리지 투자경고 '뒷북' 논란",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000502908&office_id=629&mode=mainnews&type=&date=2026-05-28&page=1"
+      "title": "하락장에도 '삼전·하닉 2배' 사는 개미들…둘째날도 10조 거래",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008971978&office_id=421&mode=mainnews&type=&date=2026-05-28&page=1"
     },
     {
-      "title": "\"성과급 받아 주식 사라\"…출장 취소하고 회장님이 달려왔다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001253582&office_id=215&mode=mainnews&type=&date=2026-05-28&page=1"
+      "title": "코스피 하루 거래대금 50조원 육박…증권사 실적 기대 다시 켜졌다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006292538&office_id=018&mode=mainnews&type=&date=2026-05-28&page=1"
     },
     {
-      "title": "\"새 황제주 뜬다\"…대형주 팔아 실탄 장전하는 월가 큰손들",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001253581&office_id=215&mode=mainnews&type=&date=2026-05-28&page=1"
+      "title": "“‘인맥주(株)’보다 삼전닉스”…AI 랠리에 사라진 정치테마주",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003526448&office_id=025&mode=mainnews&type=&date=2026-05-28&page=1"
     },
     {
-      "title": "삼성vs미래에셋, 삼전·닉스 레버리지 첫날 승패 가른 배경은",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000502884&office_id=629&mode=mainnews&type=&date=2026-05-28&page=1"
+      "title": "\"점심값 아껴 SK하닉 2배 베팅했는데\"…주가 2% 떨어질때 10% 출렁, 심장이 '덜컹' [월급쟁이 희노애락]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005527771&office_id=014&mode=mainnews&type=&date=2026-05-28&page=1"
     }
   ]
 }
