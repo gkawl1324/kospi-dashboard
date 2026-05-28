@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-05-28 04:48:31",
+  "lastUpdated": "2026-05-28 05:13:57",
   "date": "2026.05.28",
   "kospi": {
     "name": "KOSPI",
-    "current": "7919.45",
-    "change": "309.25",
-    "changePct": "3.76",
+    "current": "7994.75",
+    "change": "233.95",
+    "changePct": "2.84",
     "direction": "up",
-    "volume": "546531",
-    "tradeAmount": "39352725"
+    "volume": "577812",
+    "tradeAmount": "41363492"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "291000",
-      "change": "-16000",
-      "changePct": "-5.21",
+      "current": "294000",
+      "change": "-13000",
+      "changePct": "-4.23",
       "direction": "down",
-      "volume": "21884406",
+      "volume": "23280830",
       "high": "306500",
       "low": "287500",
       "open": "305000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2182000",
-      "change": "-61000",
-      "changePct": "-2.72",
+      "current": "2209000",
+      "change": "-34000",
+      "changePct": "-1.52",
       "direction": "down",
-      "volume": "4343067",
+      "volume": "4534229",
       "high": "2305000",
       "low": "2151000",
       "open": "2189000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "112800",
-      "change": "-5400",
-      "changePct": "-4.57",
+      "current": "113600",
+      "change": "-4600",
+      "changePct": "-3.89",
       "direction": "down",
-      "volume": "374109",
+      "volume": "398633",
       "high": "119400",
       "low": "112000",
       "open": "118000",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "198400",
-      "change": "-400",
-      "changePct": "-0.20",
-      "direction": "down",
-      "volume": "1613859",
+      "current": "200250",
+      "change": "1450",
+      "changePct": "0.73",
+      "direction": "up",
+      "volume": "1676010",
       "high": "213000",
       "low": "195800",
       "open": "202000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1507.60",
-      "change": "5.60",
+      "value": "1507.40",
+      "change": "5.40",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "944.64",
-      "change": "2.92",
+      "value": "944.69",
+      "change": "2.97",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1747.31",
-      "change": "0.86",
+      "value": "1747.00",
+      "change": "0.55",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "222.16",
-      "change": "0.52",
+      "value": "222.15",
+      "change": "0.51",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "212013.78",
-      "change": "2770.84",
+      "value": "211935.65",
+      "change": "2848.97",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,8 +142,20 @@
   ],
   "news": [
     {
+      "title": "삼성전자, 차익 매물에 4% 하락…SK하닉도 2% 약세",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013973014&office_id=003&mode=mainnews&type=&date=2026-05-28&page=1"
+    },
+    {
+      "title": "코인원에 손 뻗은 한투·OKX…금융권, 가상자산 지분 경쟁 가열",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013972977&office_id=003&mode=mainnews&type=&date=2026-05-28&page=1"
+    },
+    {
       "title": "AI 메모리 ETF에 개인 자금 몰렸다…SOL 반도체 ETF 3.5조 돌파",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005527595&office_id=014&mode=mainnews&type=&date=2026-05-28&page=1"
+    },
+    {
+      "title": "코스피 장중 8000·7900 연이어 붕괴…코스닥도 5% 하락",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001167693&office_id=366&mode=mainnews&type=&date=2026-05-28&page=1"
     },
     {
       "title": "\"투기판 열어놓고 이제 와 경고?\"…금융당국, 삼전·닉스 레버리지 투자경고 '뒷북' 논란",
@@ -160,18 +172,6 @@
     {
       "title": "삼성vs미래에셋, 삼전·닉스 레버리지 첫날 승패 가른 배경은",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000502884&office_id=629&mode=mainnews&type=&date=2026-05-28&page=1"
-    },
-    {
-      "title": "“늦게 뛰어든 만큼 크게 먹자”… ‘2X·선물·옵션’ 고위험 투자 폭증",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002794061&office_id=021&mode=mainnews&type=&date=2026-05-28&page=1"
-    },
-    {
-      "title": "“현대차 120만원 간대”…초고수들, 삼전 팔고 현대차 매수[주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004625346&office_id=011&mode=mainnews&type=&date=2026-05-28&page=1"
-    },
-    {
-      "title": "‘불장’에 배당금 17% ‘쑥’…삼전·SK하닉 5조 배당",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003028920&office_id=029&mode=mainnews&type=&date=2026-05-28&page=1"
     }
   ]
 }
