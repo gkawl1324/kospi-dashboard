@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-05-29 04:51:06",
+  "lastUpdated": "2026-05-29 05:17:14",
   "date": "2026.05.29",
   "kospi": {
     "name": "KOSPI",
-    "current": "8449.22",
-    "change": "263.93",
-    "changePct": "3.22",
+    "current": "8452.81",
+    "change": "267.52",
+    "changePct": "3.27",
     "direction": "up",
-    "volume": "505058",
-    "tradeAmount": "43375758"
+    "volume": "535575",
+    "tradeAmount": "46297466"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "314250",
-      "change": "14750",
-      "changePct": "4.92",
+      "current": "314750",
+      "change": "15250",
+      "changePct": "5.09",
       "direction": "up",
-      "volume": "18931294",
+      "volume": "20112339",
       "high": "319000",
       "low": "305500",
       "open": "309500",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2319000",
-      "change": "30000",
-      "changePct": "1.31",
+      "current": "2316000",
+      "change": "27000",
+      "changePct": "1.18",
       "direction": "up",
-      "volume": "3437985",
+      "volume": "3590935",
       "high": "2379000",
       "low": "2290500",
       "open": "2352000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "142800",
-      "change": "27000",
-      "changePct": "23.32",
+      "current": "138800",
+      "change": "23000",
+      "changePct": "19.86",
       "direction": "up",
-      "volume": "4083394",
+      "volume": "4418629",
       "high": "145500",
       "low": "121000",
       "open": "123600",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "236500",
-      "change": "31500",
-      "changePct": "15.37",
+      "current": "234000",
+      "change": "29000",
+      "changePct": "14.15",
       "direction": "up",
-      "volume": "6151968",
+      "volume": "6420178",
       "high": "247500",
       "low": "211000",
       "open": "211500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1503.60",
-      "change": "7.10",
+      "value": "1504.20",
+      "change": "7.70",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "943.73",
-      "change": "4.10",
+      "value": "944.35",
+      "change": "4.72",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1749.96",
-      "change": "6.39",
+      "value": "1751.26",
+      "change": "7.69",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "222.13",
-      "change": "1.16",
+      "value": "222.24",
+      "change": "1.27",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "217973.06",
-      "change": "1174.17",
+      "value": "218072.17",
+      "change": "1273.28",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,12 +142,20 @@
   ],
   "news": [
     {
-      "title": "“김 대리 요즘 일 열심히 하네” 부장님도 칭찬했는데…알고보니 ‘위장 주식창’이었다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004625809&office_id=011&mode=mainnews&type=&date=2026-05-29&page=1"
+      "title": "2차전지·MLCC 훈풍 알겠는데…“매출 0원이 상한가?” [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002649854&office_id=016&mode=mainnews&type=&date=2026-05-29&page=1"
     },
     {
-      "title": "사지 말래도 사야 한다고?…스페이스X 몰릴 '수십조 돈줄' 정체 [글로벌 머니 X파일]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005292789&office_id=015&mode=mainnews&type=&date=2026-05-29&page=1"
+      "title": "“코스피, 시총 세계 7위”…‘선진 증시 등극’일까 ‘단기 과열’일까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005686793&office_id=009&mode=mainnews&type=&date=2026-05-29&page=1"
+    },
+    {
+      "title": "[속보] \"LG, 일냈다\"…상한가, 또 상한가",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001253727&office_id=215&mode=mainnews&type=&date=2026-05-29&page=1"
+    },
+    {
+      "title": "“김 대리 요즘 일 열심히 하네” 부장님도 칭찬했는데…알고보니 ‘위장 주식창’이었다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004625809&office_id=011&mode=mainnews&type=&date=2026-05-29&page=1"
     },
     {
       "title": "오늘은 하이닉스 아닌 삼전…초고수들 순매수 1위 [주식 초고수는 지금]",
@@ -164,14 +172,6 @@
     {
       "title": "코스피 9000 간다는데…공포지수 급등 배경은",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0001253717&office_id=215&mode=mainnews&type=&date=2026-05-29&page=1"
-    },
-    {
-      "title": "무늬는 ‘기후변화 ETF’, 실상은 ‘삼전닉스’ 투자",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002649810&office_id=016&mode=mainnews&type=&date=2026-05-29&page=1"
-    },
-    {
-      "title": "SK하이닉스 질주…삼성전자 시총 턱밑",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002649805&office_id=016&mode=mainnews&type=&date=2026-05-29&page=1"
     }
   ]
 }
