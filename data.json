@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-29 08:54:54",
+  "lastUpdated": "2026-05-29 10:06:44",
   "date": "2026.05.29",
   "kospi": {
     "name": "KOSPI",
@@ -7,8 +7,8 @@
     "change": "290.86",
     "changePct": "3.55",
     "direction": "up",
-    "volume": "701496",
-    "tradeAmount": "73733826"
+    "volume": "735127",
+    "tradeAmount": "80332511"
   },
   "stocks": [
     {
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1510.50",
-      "change": "14.00",
+      "value": "1508.60",
+      "change": "12.10",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "948.27",
-      "change": "8.64",
+      "value": "946.99",
+      "change": "7.36",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1756.71",
-      "change": "13.14",
+      "value": "1755.86",
+      "change": "12.29",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "223.16",
-      "change": "2.19",
+      "value": "222.92",
+      "change": "1.95",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "219265.57",
-      "change": "2466.68",
+      "value": "219641.29",
+      "change": "2842.40",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "\"젠슨 황 만난다\"… 피지컬AI 기대감에 LG그룹주 동반폭등",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005686990&office_id=009&mode=mainnews&type=&date=2026-05-29&page=1"
+      "title": "100만원 때 “지금 들어가기엔 비싸죠?”…보름만에 200만원도 넘은 주식",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005687068&office_id=009&mode=mainnews&type=&date=2026-05-29&page=1"
     },
     {
-      "title": "삼성전기 200만원돌파 … MLCC1위 日무라타 맹추격",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005686989&office_id=009&mode=mainnews&type=&date=2026-05-29&page=1"
+      "title": "\"여기도 사람 있어요\"…눈물짓는 코스닥 개미들",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001031898&office_id=031&mode=mainnews&type=&date=2026-05-29&page=1"
     },
     {
-      "title": "‘시총 2000조’ 고지 뚫은 삼성전자…SK하이닉스도 맹추격 [마켓시그널]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004625899&office_id=011&mode=mainnews&type=&date=2026-05-29&page=1"
+      "title": "광학주서 AI 기판주로…LG이노텍 '화려한 변신'에 목표가 줄상향",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005528319&office_id=014&mode=mainnews&type=&date=2026-05-29&page=1"
     },
     {
-      "title": "\"남들은 불기둥 잔친데 왜 내 주식만\"?코스피 최고치에도 10종목 중 9종목 가까이 하락",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001031882&office_id=031&mode=mainnews&type=&date=2026-05-29&page=1"
+      "title": "단일 레버리지 후폭풍…반도체 ETF도 선별전",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004625925&office_id=011&mode=mainnews&type=&date=2026-05-29&page=1"
     },
     {
-      "title": "\"국장서 두배 삼전·닉스 사자\"…홍콩 간 개미들 돈 돌아온다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005364858&office_id=008&mode=mainnews&type=&date=2026-05-29&page=1"
+      "title": "동전주 전락한 곱버스…개미들은 계속 담았다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004625921&office_id=011&mode=mainnews&type=&date=2026-05-29&page=1"
     },
     {
-      "title": "개미 \"삼전보다 하이닉스\"…TIGER 레버리지 다시 순매수 1위",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008974318&office_id=421&mode=mainnews&type=&date=2026-05-29&page=1"
+      "title": "이불 팔아 ‘삼전닉스’ 샀다가 대박…132억 넣어 ‘3배 잭팟’ 터뜨린 회사는",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004625919&office_id=011&mode=mainnews&type=&date=2026-05-29&page=1"
     },
     {
-      "title": "사이드카 6번 발동됐던 5월 코스피…마지막 날엔 기관이 2.3조 싹쓸이",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005364853&office_id=008&mode=mainnews&type=&date=2026-05-29&page=1"
+      "title": "“점유율보다 창의성…시장에 없던 ETF로 승부”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004625916&office_id=011&mode=mainnews&type=&date=2026-05-29&page=1"
     },
     {
-      "title": "닛케이 또 사상 최고…AI 부품주 랠리",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006293516&office_id=018&mode=mainnews&type=&date=2026-05-29&page=1"
+      "title": "피지컬AI·젠슨 황 효과…LG그룹주 재평가 불붙었다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004625912&office_id=011&mode=mainnews&type=&date=2026-05-29&page=1"
     }
   ]
 }
