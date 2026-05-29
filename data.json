@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-05-29 05:17:14",
+  "lastUpdated": "2026-05-29 08:54:54",
   "date": "2026.05.29",
   "kospi": {
     "name": "KOSPI",
-    "current": "8452.81",
-    "change": "267.52",
-    "changePct": "3.27",
+    "current": "8476.15",
+    "change": "290.86",
+    "changePct": "3.55",
     "direction": "up",
-    "volume": "535575",
-    "tradeAmount": "46297466"
+    "volume": "701496",
+    "tradeAmount": "73733826"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "314750",
-      "change": "15250",
-      "changePct": "5.09",
+      "current": "317000",
+      "change": "17500",
+      "changePct": "5.84",
       "direction": "up",
-      "volume": "20112339",
+      "volume": "32804208",
       "high": "319000",
       "low": "305500",
       "open": "309500",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2316000",
-      "change": "27000",
-      "changePct": "1.18",
+      "current": "2333000",
+      "change": "44000",
+      "changePct": "1.92",
       "direction": "up",
-      "volume": "3590935",
+      "volume": "7066332",
       "high": "2379000",
       "low": "2290500",
       "open": "2352000",
@@ -43,12 +43,12 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "138800",
-      "change": "23000",
-      "changePct": "19.86",
+      "current": "146600",
+      "change": "30800",
+      "changePct": "26.60",
       "direction": "up",
-      "volume": "4418629",
-      "high": "145500",
+      "volume": "6073217",
+      "high": "149700",
       "low": "121000",
       "open": "123600",
       "marketCap": "0"
@@ -61,7 +61,7 @@
       "change": "29000",
       "changePct": "14.15",
       "direction": "up",
-      "volume": "6420178",
+      "volume": "7521407",
       "high": "247500",
       "low": "211000",
       "open": "211500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1504.20",
-      "change": "7.70",
+      "value": "1510.50",
+      "change": "14.00",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "944.35",
-      "change": "4.72",
+      "value": "948.27",
+      "change": "8.64",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1751.26",
-      "change": "7.69",
+      "value": "1756.71",
+      "change": "13.14",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "222.24",
-      "change": "1.27",
+      "value": "223.16",
+      "change": "2.19",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "218072.17",
-      "change": "1273.28",
+      "value": "219265.57",
+      "change": "2466.68",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "2차전지·MLCC 훈풍 알겠는데…“매출 0원이 상한가?” [투자360]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002649854&office_id=016&mode=mainnews&type=&date=2026-05-29&page=1"
+      "title": "\"젠슨 황 만난다\"… 피지컬AI 기대감에 LG그룹주 동반폭등",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005686990&office_id=009&mode=mainnews&type=&date=2026-05-29&page=1"
     },
     {
-      "title": "“코스피, 시총 세계 7위”…‘선진 증시 등극’일까 ‘단기 과열’일까",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005686793&office_id=009&mode=mainnews&type=&date=2026-05-29&page=1"
+      "title": "삼성전기 200만원돌파 … MLCC1위 日무라타 맹추격",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005686989&office_id=009&mode=mainnews&type=&date=2026-05-29&page=1"
     },
     {
-      "title": "[속보] \"LG, 일냈다\"…상한가, 또 상한가",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001253727&office_id=215&mode=mainnews&type=&date=2026-05-29&page=1"
+      "title": "‘시총 2000조’ 고지 뚫은 삼성전자…SK하이닉스도 맹추격 [마켓시그널]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004625899&office_id=011&mode=mainnews&type=&date=2026-05-29&page=1"
     },
     {
-      "title": "“김 대리 요즘 일 열심히 하네” 부장님도 칭찬했는데…알고보니 ‘위장 주식창’이었다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004625809&office_id=011&mode=mainnews&type=&date=2026-05-29&page=1"
+      "title": "\"남들은 불기둥 잔친데 왜 내 주식만\"?코스피 최고치에도 10종목 중 9종목 가까이 하락",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001031882&office_id=031&mode=mainnews&type=&date=2026-05-29&page=1"
     },
     {
-      "title": "오늘은 하이닉스 아닌 삼전…초고수들 순매수 1위 [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004625793&office_id=011&mode=mainnews&type=&date=2026-05-29&page=1"
+      "title": "\"국장서 두배 삼전·닉스 사자\"…홍콩 간 개미들 돈 돌아온다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005364858&office_id=008&mode=mainnews&type=&date=2026-05-29&page=1"
     },
     {
-      "title": "'31만전자·232만닉스' 등극…반도체 투톱, 종전 기대감·AI 기술주 강세에 '훨훨'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000503322&office_id=629&mode=mainnews&type=&date=2026-05-29&page=1"
+      "title": "개미 \"삼전보다 하이닉스\"…TIGER 레버리지 다시 순매수 1위",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008974318&office_id=421&mode=mainnews&type=&date=2026-05-29&page=1"
     },
     {
-      "title": "삼전닉스 하이킥에도 한달간 35조 팔아치운 외인… 왜?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002794376&office_id=021&mode=mainnews&type=&date=2026-05-29&page=1"
+      "title": "사이드카 6번 발동됐던 5월 코스피…마지막 날엔 기관이 2.3조 싹쓸이",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005364853&office_id=008&mode=mainnews&type=&date=2026-05-29&page=1"
     },
     {
-      "title": "코스피 9000 간다는데…공포지수 급등 배경은",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001253717&office_id=215&mode=mainnews&type=&date=2026-05-29&page=1"
+      "title": "닛케이 또 사상 최고…AI 부품주 랠리",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006293516&office_id=018&mode=mainnews&type=&date=2026-05-29&page=1"
     }
   ]
 }
