@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-06-01 06:09:27",
+  "lastUpdated": "2026-06-01 10:36:31",
   "date": "2026.06.01",
   "kospi": {
     "name": "KOSPI",
-    "current": "8844.51",
-    "change": "368.36",
-    "changePct": "4.35",
+    "current": "8788.38",
+    "change": "312.23",
+    "changePct": "3.68",
     "direction": "up",
-    "volume": "587840",
-    "tradeAmount": "64406900"
+    "volume": "636175",
+    "tradeAmount": "74330045"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "354500",
-      "change": "37500",
-      "changePct": "11.83",
+      "current": "349000",
+      "change": "32000",
+      "changePct": "10.09",
       "direction": "up",
-      "volume": "35278502",
+      "volume": "39372103",
       "high": "354500",
       "low": "319500",
       "open": "319500",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2374000",
-      "change": "41000",
-      "changePct": "1.76",
+      "current": "2363000",
+      "change": "30000",
+      "changePct": "1.29",
       "direction": "up",
-      "volume": "4570029",
+      "volume": "5134915",
       "high": "2398000",
       "low": "2296000",
       "open": "2299000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "168600",
-      "change": "22000",
-      "changePct": "15.01",
+      "current": "165800",
+      "change": "19200",
+      "changePct": "13.10",
       "direction": "up",
-      "volume": "5153745",
+      "volume": "5334354",
       "high": "185900",
       "low": "157700",
       "open": "158900",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "274000",
-      "change": "40000",
-      "changePct": "17.09",
+      "current": "271500",
+      "change": "37500",
+      "changePct": "16.03",
       "direction": "up",
-      "volume": "13900776",
+      "volume": "14498618",
       "high": "304000",
       "low": "244500",
       "open": "251000",
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1505.50",
-      "change": "2.00",
-      "direction": "down"
+      "value": "1509.00",
+      "change": "1.50",
+      "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "944.15",
-      "change": "1.50",
-      "direction": "down"
+      "value": "946.29",
+      "change": "0.64",
+      "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1754.51",
-      "change": "1.95",
-      "direction": "down"
+      "value": "1757.83",
+      "change": "1.37",
+      "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "222.57",
-      "change": "0.30",
-      "direction": "down"
+      "value": "223.11",
+      "change": "0.24",
+      "direction": "up"
     }
   ],
   "oilPrices": [
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "218454.15",
-      "change": "2741.47",
+      "value": "218318.83",
+      "change": "2876.79",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "'젠슨 황 랠리' LG·두산·네이버 장중 '上上上' [핫종목]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008978076&office_id=421&mode=mainnews&type=&date=2026-06-01&page=1"
+      "title": "지금도 할인중…젠슨 황 '신바람'에 \"61만전자·400만닉스 간다\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001254021&office_id=215&mode=mainnews&type=&date=2026-06-01&page=1"
     },
     {
-      "title": "2000조원 넘은 삼성전자 시가총액, 비트코인도 꺾었다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005365657&office_id=008&mode=mainnews&type=&date=2026-06-01&page=1"
+      "title": "외국인, 코스닥 '선점'…반도체 소부장 '찜'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001254020&office_id=215&mode=mainnews&type=&date=2026-06-01&page=1"
     },
     {
-      "title": "‘불법 기망’ 메리츠증권, 꼼수 상계 안 통했다…배상액 402억으로 ‘껑충’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002229545&office_id=138&mode=mainnews&type=&date=2026-06-01&page=1"
+      "title": "\"지금 삼성전자 사기 무섭다면\"…대신 '이 종목' 몰렸다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001032307&office_id=031&mode=mainnews&type=&date=2026-06-01&page=1"
     },
     {
-      "title": "\"AI 거품? 20% 조정 올수 있다\"는 월가...\"20년짜리 장기 강세장, 랠리는 지속\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005529050&office_id=014&mode=mainnews&type=&date=2026-06-01&page=1"
+      "title": "‘61만전자·400만닉스까지 나왔다’ GTC· 젠슨 황에 신바람…반도체주 고공행진 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002650888&office_id=016&mode=mainnews&type=&date=2026-06-01&page=1"
     },
     {
-      "title": "미래운용, 코스닥 담는 액티브 ETF 출시… \"성장주 집중 투자\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005365644&office_id=008&mode=mainnews&type=&date=2026-06-01&page=1"
+      "title": "코스피 시총 7천兆... 삼전도 2천兆 돌파",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005529287&office_id=014&mode=mainnews&type=&date=2026-06-01&page=1"
     },
     {
-      "title": "이녹스, 자회사 ‘알톤’ 주식 20억원 장내 매수…“책임경영”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002650767&office_id=016&mode=mainnews&type=&date=2026-06-01&page=1"
+      "title": "'엔비디아♥네이버'에 주가 폭발…\"젠슨 황이 하트 날렸는데\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001032299&office_id=031&mode=mainnews&type=&date=2026-06-01&page=1"
     },
     {
-      "title": "유진투자증권 \"반도체 빼면 4100선\"…코스피 불장 속 양극화 경고",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000503992&office_id=629&mode=mainnews&type=&date=2026-06-01&page=1"
+      "title": "반년 새 바뀐 코스피 시총 지형…AI·반도체가 판 흔들었다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006295594&office_id=018&mode=mainnews&type=&date=2026-06-01&page=1"
     },
     {
-      "title": "“암울했던 과거는 잊어라”…운임 상승세에 기대감 커지는 해운주",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005687738&office_id=009&mode=mainnews&type=&date=2026-06-01&page=1"
+      "title": "800% 올랐는데 3배 더?…마이크론 진격에 코스피 웃는 까닭 [불앤베어 위클리]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005688095&office_id=009&mode=mainnews&type=&date=2026-06-01&page=1"
     }
   ]
 }
