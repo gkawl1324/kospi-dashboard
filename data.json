@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-06-01 05:23:25",
+  "lastUpdated": "2026-06-01 06:09:27",
   "date": "2026.06.01",
   "kospi": {
     "name": "KOSPI",
-    "current": "8818.50",
-    "change": "342.35",
-    "changePct": "4.04",
+    "current": "8844.51",
+    "change": "368.36",
+    "changePct": "4.35",
     "direction": "up",
-    "volume": "525862",
-    "tradeAmount": "56518122"
+    "volume": "587840",
+    "tradeAmount": "64406900"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "347000",
-      "change": "30000",
-      "changePct": "9.46",
+      "current": "354500",
+      "change": "37500",
+      "changePct": "11.83",
       "direction": "up",
-      "volume": "30310536",
-      "high": "350000",
+      "volume": "35278502",
+      "high": "354500",
       "low": "319500",
       "open": "319500",
       "marketCap": "0"
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2370000",
-      "change": "37000",
-      "changePct": "1.59",
+      "current": "2374000",
+      "change": "41000",
+      "changePct": "1.76",
       "direction": "up",
-      "volume": "4066000",
+      "volume": "4570029",
       "high": "2398000",
       "low": "2296000",
       "open": "2299000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "172000",
-      "change": "25400",
-      "changePct": "17.33",
+      "current": "168600",
+      "change": "22000",
+      "changePct": "15.01",
       "direction": "up",
-      "volume": "4616508",
+      "volume": "5153745",
       "high": "185900",
       "low": "157700",
       "open": "158900",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "293500",
-      "change": "59500",
-      "changePct": "25.43",
+      "current": "274000",
+      "change": "40000",
+      "changePct": "17.09",
       "direction": "up",
-      "volume": "11042879",
+      "volume": "13900776",
       "high": "304000",
       "low": "244500",
       "open": "251000",
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1511.90",
-      "change": "4.40",
-      "direction": "up"
+      "value": "1505.50",
+      "change": "2.00",
+      "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "948.23",
-      "change": "2.58",
-      "direction": "up"
+      "value": "944.15",
+      "change": "1.50",
+      "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1761.74",
-      "change": "5.28",
-      "direction": "up"
+      "value": "1754.51",
+      "change": "1.95",
+      "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "223.47",
-      "change": "0.60",
-      "direction": "up"
+      "value": "222.57",
+      "change": "0.30",
+      "direction": "down"
     }
   ],
   "oilPrices": [
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "219779.02",
-      "change": "1416.60",
+      "value": "218454.15",
+      "change": "2741.47",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
+      "title": "'젠슨 황 랠리' LG·두산·네이버 장중 '上上上' [핫종목]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008978076&office_id=421&mode=mainnews&type=&date=2026-06-01&page=1"
+    },
+    {
+      "title": "2000조원 넘은 삼성전자 시가총액, 비트코인도 꺾었다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005365657&office_id=008&mode=mainnews&type=&date=2026-06-01&page=1"
+    },
+    {
+      "title": "‘불법 기망’ 메리츠증권, 꼼수 상계 안 통했다…배상액 402억으로 ‘껑충’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002229545&office_id=138&mode=mainnews&type=&date=2026-06-01&page=1"
+    },
+    {
+      "title": "\"AI 거품? 20% 조정 올수 있다\"는 월가...\"20년짜리 장기 강세장, 랠리는 지속\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005529050&office_id=014&mode=mainnews&type=&date=2026-06-01&page=1"
+    },
+    {
+      "title": "미래운용, 코스닥 담는 액티브 ETF 출시… \"성장주 집중 투자\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005365644&office_id=008&mode=mainnews&type=&date=2026-06-01&page=1"
+    },
+    {
+      "title": "이녹스, 자회사 ‘알톤’ 주식 20억원 장내 매수…“책임경영”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002650767&office_id=016&mode=mainnews&type=&date=2026-06-01&page=1"
+    },
+    {
       "title": "유진투자증권 \"반도체 빼면 4100선\"…코스피 불장 속 양극화 경고",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000503992&office_id=629&mode=mainnews&type=&date=2026-06-01&page=1"
     },
     {
       "title": "“암울했던 과거는 잊어라”…운임 상승세에 기대감 커지는 해운주",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005687738&office_id=009&mode=mainnews&type=&date=2026-06-01&page=1"
-    },
-    {
-      "title": "李 대통령 “반도체 빼면 사천피 착시?…축구 빼고 손흥민 말하는 격”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005687737&office_id=009&mode=mainnews&type=&date=2026-06-01&page=1"
-    },
-    {
-      "title": "‘전인미답’ 삼전 시총 2000조·코스피 8800 넘었다 [줍줍 리포트]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004626567&office_id=011&mode=mainnews&type=&date=2026-06-01&page=1"
-    },
-    {
-      "title": "'8000피' 반도체 빼면 '속 빈 강정'?…\"실질적 지수 4100선 불과\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000098543&office_id=243&mode=mainnews&type=&date=2026-06-01&page=1"
-    },
-    {
-      "title": "“‘9000피’ 코앞 코스피, ‘버블 붕괴’ 전조”?…반도체 빼면 4100선 불과",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002650732&office_id=016&mode=mainnews&type=&date=2026-06-01&page=1"
-    },
-    {
-      "title": "“AI·반도체 성장주 담는다”…미래에셋운용, ‘TIGER 코스닥액티브 ETF’ 신규 상장",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002650730&office_id=016&mode=mainnews&type=&date=2026-06-01&page=1"
-    },
-    {
-      "title": "미래에셋자산운용, 글로벌 ETF 순자산 400조원 돌파",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002650729&office_id=016&mode=mainnews&type=&date=2026-06-01&page=1"
     }
   ]
 }
