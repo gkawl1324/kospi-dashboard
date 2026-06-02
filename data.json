@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-06-02 05:54:30",
+  "lastUpdated": "2026-06-02 09:46:55",
   "date": "2026.06.02",
   "kospi": {
     "name": "KOSPI",
-    "current": "8781.55",
-    "change": "6.83",
-    "changePct": "0.08",
+    "current": "8801.49",
+    "change": "13.11",
+    "changePct": "0.15",
     "direction": "up",
-    "volume": "579855",
-    "tradeAmount": "60446249"
+    "volume": "632553",
+    "tradeAmount": "69109666"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "361000",
-      "change": "12000",
-      "changePct": "3.44",
+      "current": "360500",
+      "change": "11500",
+      "changePct": "3.30",
       "direction": "up",
-      "volume": "38653582",
+      "volume": "43102071",
       "high": "370000",
       "low": "342000",
       "open": "360500",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2342000",
-      "change": "-21000",
-      "changePct": "-0.89",
+      "current": "2360000",
+      "change": "-3000",
+      "changePct": "-0.13",
       "direction": "down",
-      "volume": "4779054",
+      "volume": "5538260",
       "high": "2407000",
       "low": "2259000",
       "open": "2376000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "141900",
-      "change": "-23900",
-      "changePct": "-14.41",
+      "current": "140000",
+      "change": "-25800",
+      "changePct": "-15.56",
       "direction": "down",
-      "volume": "1779243",
+      "volume": "1938263",
       "high": "154200",
       "low": "133100",
       "open": "152700",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "279250",
-      "change": "7750",
-      "changePct": "2.85",
+      "current": "280500",
+      "change": "9000",
+      "changePct": "3.31",
       "direction": "up",
-      "volume": "8823880",
+      "volume": "9275907",
       "high": "289500",
       "low": "244000",
       "open": "285000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1516.00",
-      "change": "1.50",
+      "value": "1517.60",
+      "change": "3.10",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "949.04",
-      "change": "0.43",
+      "value": "950.19",
+      "change": "1.58",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1764.17",
-      "change": "2.28",
+      "value": "1767.09",
+      "change": "5.20",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "224.27",
-      "change": "0.40",
+      "value": "224.42",
+      "change": "0.55",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "220425.95",
-      "change": "2325.71",
+      "value": "220713.43",
+      "change": "2613.19",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "\"젠슨 황 로봇 시구 하나요?\"…\"투자 검토\" 콕 집자 29%↑ 확 뛰었다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001254100&office_id=215&mode=mainnews&type=&date=2026-06-02&page=1"
+      "title": "구글 모회사 알파벳, 120조 유상증자 추진…AI 실탄 확보 나서(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006296308&office_id=018&mode=mainnews&type=&date=2026-06-02&page=1"
     },
     {
-      "title": "美 주파수 경매 시작...中 배제로 국내 통신장비주 '기회' [마켓딥다이브]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001254097&office_id=215&mode=mainnews&type=&date=2026-06-02&page=1"
+      "title": "찍은 종목마다 강세… 외국인 코스피 시총비중 40% 굳힌다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005529789&office_id=014&mode=mainnews&type=&date=2026-06-02&page=1"
     },
     {
-      "title": "삼전·하닉 견인에… 韓증시, 인도 제치고 세계 시총 6위로",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006296084&office_id=018&mode=mainnews&type=&date=2026-06-02&page=1"
+      "title": "현금 쌓이는 반도체업계 배당 늘릴까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005529787&office_id=014&mode=mainnews&type=&date=2026-06-02&page=1"
     },
     {
-      "title": "한투운용, ACE 고배당주Plus커버드콜액티브 ETF 출시",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002651269&office_id=016&mode=mainnews&type=&date=2026-06-02&page=1"
+      "title": "AI·반도체 ETF 쓸어담던 개미들, 코스닥 반등에도 베팅",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005529778&office_id=014&mode=mainnews&type=&date=2026-06-02&page=1"
     },
     {
-      "title": "“애플 3배 넘는 삼성전자 보상…획일적 성과급 개편해야”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006296054&office_id=018&mode=mainnews&type=&date=2026-06-02&page=1"
+      "title": "메타 제친 삼성전자, 글로벌 시총 '톱10'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005294235&office_id=015&mode=mainnews&type=&date=2026-06-02&page=1"
     },
     {
-      "title": "\"AI·바이오·로봇 한번에\"…미래에셋, 'TIGER 코스닥액티브 ETF' 상장",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005529563&office_id=014&mode=mainnews&type=&date=2026-06-02&page=1"
+      "title": "“코스피 연말 1만 1500 간다…AI 사이클 아직 4년차”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006296293&office_id=018&mode=mainnews&type=&date=2026-06-02&page=1"
     },
     {
-      "title": "\"지금 돈 넣으면 무조건 오른다?\"?스페이스X 광풍에 월가서 나온 섬뜩한 경고",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001032447&office_id=031&mode=mainnews&type=&date=2026-06-02&page=1"
+      "title": "1만원에 상장한 곱버스…지금은 76원 됐다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005294216&office_id=015&mode=mainnews&type=&date=2026-06-02&page=1"
     },
     {
-      "title": "\"방산주 빼고 갈아탔다\"…요즘 뭉칫돈 몰리는 '이 종목'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005294060&office_id=015&mode=mainnews&type=&date=2026-06-02&page=1"
+      "title": "AI호황 올라탄 삼성전기·LG이노텍 숨고르기",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005688572&office_id=009&mode=mainnews&type=&date=2026-06-02&page=1"
     }
   ]
 }
