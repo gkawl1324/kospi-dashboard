@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02 09:46:55",
+  "lastUpdated": "2026-06-02 10:48:16",
   "date": "2026.06.02",
   "kospi": {
     "name": "KOSPI",
@@ -79,8 +79,8 @@
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "950.19",
-      "change": "1.58",
+      "value": "950.10",
+      "change": "1.49",
       "direction": "up"
     },
     {
@@ -93,8 +93,8 @@
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "224.42",
-      "change": "0.55",
+      "value": "224.44",
+      "change": "0.57",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "220713.43",
-      "change": "2613.19",
+      "value": "220859.54",
+      "change": "2759.30",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,6 +142,14 @@
   ],
   "news": [
     {
+      "title": "\"덕분에 포모 해소\" 삼전닉스 레버리지 ETF, 5일 동안 50조 거래",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008980805&office_id=421&mode=mainnews&type=&date=2026-06-02&page=1"
+    },
+    {
+      "title": "“300만원 간다더니 이게 맞나요?”…고점에 올라탄 개미들 비명 터졌다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004627115&office_id=011&mode=mainnews&type=&date=2026-06-02&page=1"
+    },
+    {
       "title": "구글 모회사 알파벳, 120조 유상증자 추진…AI 실탄 확보 나서(종합)",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0006296308&office_id=018&mode=mainnews&type=&date=2026-06-02&page=1"
     },
@@ -154,7 +162,7 @@
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005529787&office_id=014&mode=mainnews&type=&date=2026-06-02&page=1"
     },
     {
-      "title": "AI·반도체 ETF 쓸어담던 개미들, 코스닥 반등에도 베팅",
+      "title": "'코스닥 반등에 베팅'  개미들 일주일간 4557억 쓸어담은 종목은",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005529778&office_id=014&mode=mainnews&type=&date=2026-06-02&page=1"
     },
     {
@@ -164,14 +172,6 @@
     {
       "title": "“코스피 연말 1만 1500 간다…AI 사이클 아직 4년차”",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0006296293&office_id=018&mode=mainnews&type=&date=2026-06-02&page=1"
-    },
-    {
-      "title": "1만원에 상장한 곱버스…지금은 76원 됐다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005294216&office_id=015&mode=mainnews&type=&date=2026-06-02&page=1"
-    },
-    {
-      "title": "AI호황 올라탄 삼성전기·LG이노텍 숨고르기",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005688572&office_id=009&mode=mainnews&type=&date=2026-06-02&page=1"
     }
   ]
 }
