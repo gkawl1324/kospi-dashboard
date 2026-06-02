@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-06-02 05:08:48",
+  "lastUpdated": "2026-06-02 05:54:30",
   "date": "2026.06.02",
   "kospi": {
     "name": "KOSPI",
-    "current": "8682.16",
-    "change": "106.22",
-    "changePct": "1.21",
+    "current": "8781.55",
+    "change": "6.83",
+    "changePct": "0.08",
     "direction": "up",
-    "volume": "530546",
-    "tradeAmount": "53962975"
+    "volume": "579855",
+    "tradeAmount": "60446249"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "355750",
-      "change": "6750",
-      "changePct": "1.93",
+      "current": "361000",
+      "change": "12000",
+      "changePct": "3.44",
       "direction": "up",
-      "volume": "35263920",
+      "volume": "38653582",
       "high": "370000",
       "low": "342000",
       "open": "360500",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2316000",
-      "change": "-47000",
-      "changePct": "-1.99",
+      "current": "2342000",
+      "change": "-21000",
+      "changePct": "-0.89",
       "direction": "down",
-      "volume": "4254596",
+      "volume": "4779054",
       "high": "2407000",
       "low": "2259000",
       "open": "2376000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "141300",
-      "change": "-24500",
-      "changePct": "-14.78",
+      "current": "141900",
+      "change": "-23900",
+      "changePct": "-14.41",
       "direction": "down",
-      "volume": "1577764",
+      "volume": "1779243",
       "high": "154200",
       "low": "133100",
       "open": "152700",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "285500",
-      "change": "14000",
-      "changePct": "5.16",
+      "current": "279250",
+      "change": "7750",
+      "changePct": "2.85",
       "direction": "up",
-      "volume": "8088742",
+      "volume": "8823880",
       "high": "289500",
       "low": "244000",
       "open": "285000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1516.30",
-      "change": "1.80",
+      "value": "1516.00",
+      "change": "1.50",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "949.38",
-      "change": "0.77",
+      "value": "949.04",
+      "change": "0.43",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1764.82",
-      "change": "2.93",
+      "value": "1764.17",
+      "change": "2.28",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "224.35",
-      "change": "0.48",
+      "value": "224.27",
+      "change": "0.40",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "220104.77",
-      "change": "2004.53",
+      "value": "220425.95",
+      "change": "2325.71",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,6 +142,18 @@
   ],
   "news": [
     {
+      "title": "\"젠슨 황 로봇 시구 하나요?\"…\"투자 검토\" 콕 집자 29%↑ 확 뛰었다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001254100&office_id=215&mode=mainnews&type=&date=2026-06-02&page=1"
+    },
+    {
+      "title": "美 주파수 경매 시작...中 배제로 국내 통신장비주 '기회' [마켓딥다이브]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001254097&office_id=215&mode=mainnews&type=&date=2026-06-02&page=1"
+    },
+    {
+      "title": "삼전·하닉 견인에… 韓증시, 인도 제치고 세계 시총 6위로",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006296084&office_id=018&mode=mainnews&type=&date=2026-06-02&page=1"
+    },
+    {
       "title": "한투운용, ACE 고배당주Plus커버드콜액티브 ETF 출시",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002651269&office_id=016&mode=mainnews&type=&date=2026-06-02&page=1"
     },
@@ -160,18 +172,6 @@
     {
       "title": "\"방산주 빼고 갈아탔다\"…요즘 뭉칫돈 몰리는 '이 종목'",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005294060&office_id=015&mode=mainnews&type=&date=2026-06-02&page=1"
-    },
-    {
-      "title": "아시아 증시 온도차…\"대만, AI 머니 흡수\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001254088&office_id=215&mode=mainnews&type=&date=2026-06-02&page=1"
-    },
-    {
-      "title": "“기관 매수인 줄 알았는데”…외인 떠난 자리 탄 개미들",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001254085&office_id=215&mode=mainnews&type=&date=2026-06-02&page=1"
-    },
-    {
-      "title": "“잘 먹고 갑니다, 개미들아 안녕”…외인들, 올해 코스피서 ‘103조’ 던졌다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004626967&office_id=011&mode=mainnews&type=&date=2026-06-02&page=1"
     }
   ]
 }
