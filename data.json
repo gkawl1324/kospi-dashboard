@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-02 10:48:16",
-  "date": "2026.06.02",
+  "lastUpdated": "2026-06-03 05:24:00",
+  "date": "2026.06.03",
   "kospi": {
     "name": "KOSPI",
     "current": "8801.49",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1517.60",
-      "change": "3.10",
+      "value": "1521.00",
+      "change": "6.50",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "950.10",
-      "change": "1.49",
+      "value": "951.28",
+      "change": "2.67",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1767.09",
-      "change": "5.20",
+      "value": "1768.31",
+      "change": "6.42",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "224.44",
-      "change": "0.57",
+      "value": "224.81",
+      "change": "0.94",
       "direction": "up"
     }
   ],
@@ -102,31 +102,31 @@
     {
       "code": "OIL_CL",
       "name": "WTI",
-      "value": "92.16",
-      "change": "4.80",
+      "value": "93.76",
+      "change": "1.60",
       "direction": "up",
       "unit": "USD/barrel"
     },
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "4506.3",
-      "change": "86.70",
-      "direction": "down",
+      "value": "4519.9",
+      "change": "13.60",
+      "direction": "up",
       "unit": "USD/oz"
     },
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "220859.54",
-      "change": "2759.30",
+      "value": "219452.88",
+      "change": "1352.64",
       "direction": "up",
       "unit": "USD/oz"
     },
     {
       "code": "OIL_BRT",
       "name": "Brent",
-      "value": "94.98",
+      "value": "96.00",
       "change": "0",
       "direction": "up",
       "unit": "USD/barrel"
@@ -134,7 +134,7 @@
     {
       "code": "OIL_DU",
       "name": "Dubai",
-      "value": "92.32",
+      "value": "93.91",
       "change": "0",
       "direction": "up",
       "unit": "USD/barrel"
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "\"덕분에 포모 해소\" 삼전닉스 레버리지 ETF, 5일 동안 50조 거래",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008980805&office_id=421&mode=mainnews&type=&date=2026-06-02&page=1"
+      "title": "마키나락스, 내일 첫 보호예수 물량 해제…스톡옵션 행사 속 주가 향방은",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013984024&office_id=003&mode=mainnews&type=&date=2026-06-03&page=1"
     },
     {
-      "title": "“300만원 간다더니 이게 맞나요?”…고점에 올라탄 개미들 비명 터졌다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004627115&office_id=011&mode=mainnews&type=&date=2026-06-02&page=1"
+      "title": "랠리에서 뒤처지는 우선주...보통주만 잘 나간다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005529983&office_id=014&mode=mainnews&type=&date=2026-06-03&page=1"
     },
     {
-      "title": "구글 모회사 알파벳, 120조 유상증자 추진…AI 실탄 확보 나서(종합)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006296308&office_id=018&mode=mainnews&type=&date=2026-06-02&page=1"
+      "title": "“IT버블때 717%였는데, 삼전닉스는 798% 폭등”…지금 사도 늦지 않을까?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002651536&office_id=016&mode=mainnews&type=&date=2026-06-03&page=1"
     },
     {
-      "title": "찍은 종목마다 강세… 외국인 코스피 시총비중 40% 굳힌다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005529789&office_id=014&mode=mainnews&type=&date=2026-06-02&page=1"
+      "title": "코스피 '편식 랠리'에 고민…반도체 다음 타자는?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005529971&office_id=014&mode=mainnews&type=&date=2026-06-03&page=1"
     },
     {
-      "title": "현금 쌓이는 반도체업계 배당 늘릴까",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005529787&office_id=014&mode=mainnews&type=&date=2026-06-02&page=1"
+      "title": "실탄 쌓은 개미, 증시 진입도 활발…예탁금 회전율 '쑥'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005529969&office_id=014&mode=mainnews&type=&date=2026-06-03&page=1"
     },
     {
-      "title": "'코스닥 반등에 베팅'  개미들 일주일간 4557억 쓸어담은 종목은",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005529778&office_id=014&mode=mainnews&type=&date=2026-06-02&page=1"
+      "title": "“반도체 거품 꺼지면 어떡해” 개미들 긴장했는데…‘걱정 안 해도 된다’는 보고서, 왜?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004627240&office_id=011&mode=mainnews&type=&date=2026-06-03&page=1"
     },
     {
-      "title": "메타 제친 삼성전자, 글로벌 시총 '톱10'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005294235&office_id=015&mode=mainnews&type=&date=2026-06-02&page=1"
+      "title": "\"반도체·전력, 다음은 여기\"...투자 전문가들이 찍은 차기 주도 ETF",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005366582&office_id=008&mode=mainnews&type=&date=2026-06-03&page=1"
     },
     {
-      "title": "“코스피 연말 1만 1500 간다…AI 사이클 아직 4년차”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006296293&office_id=018&mode=mainnews&type=&date=2026-06-02&page=1"
+      "title": "\"보수적 PER 적용\"...골드만삭스, 코스피 1만2000 간다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005366576&office_id=008&mode=mainnews&type=&date=2026-06-03&page=1"
     }
   ]
 }
