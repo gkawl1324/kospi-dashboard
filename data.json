@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-03 06:08:17",
+  "lastUpdated": "2026-06-03 10:17:01",
   "date": "2026.06.03",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1525.00",
-      "change": "10.50",
+      "value": "1528.00",
+      "change": "13.50",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "953.66",
-      "change": "5.05",
+      "value": "956.64",
+      "change": "8.03",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1772.51",
-      "change": "10.62",
+      "value": "1775.54",
+      "change": "13.65",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "225.34",
-      "change": "1.47",
+      "value": "225.71",
+      "change": "1.84",
       "direction": "up"
     }
   ],
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "코스피는 9000 코앞인데…코스닥은 고점 대비 16% ‘미끄럼’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006296600&office_id=018&mode=mainnews&type=&date=2026-06-03&page=1"
+      "title": "“버핏이 또 맞을까” 구글, AI 투자 위해 120조 증자…버핏도 15조 베팅 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002651607&office_id=016&mode=mainnews&type=&date=2026-06-03&page=1"
     },
     {
-      "title": "\"삼전 말고 '이 전자' 샀더니\"…300% 폭등에 개미들 '환호'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005294374&office_id=015&mode=mainnews&type=&date=2026-06-03&page=1"
+      "title": "강세장 속 고배당 매력 힘 못쓰네... 본주 펄펄 나는데 우선주만 소외",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005530099&office_id=014&mode=mainnews&type=&date=2026-06-03&page=1"
     },
     {
-      "title": "목표가마저 추월한 급등주 속출…LG전자 상회율 1위",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005530013&office_id=014&mode=mainnews&type=&date=2026-06-03&page=1"
+      "title": "하루 100조 오가는 증시… 증권주에 훈풍",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005530096&office_id=014&mode=mainnews&type=&date=2026-06-03&page=1"
     },
     {
-      "title": "골드만삭스 \"코스피 1만 2000 간다…반도체 사이클에 확신\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008982126&office_id=421&mode=mainnews&type=&date=2026-06-03&page=1"
+      "title": "꺾이지 않는 반도체 랠리… 다음 수혜주 떠오른 IT·기계",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005530093&office_id=014&mode=mainnews&type=&date=2026-06-03&page=1"
     },
     {
-      "title": "\"정치 테마주 말고 깐부株에 몰빵\"…지방선거 달라진 증시 풍경",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005366615&office_id=008&mode=mainnews&type=&date=2026-06-03&page=1"
+      "title": "‘증시 블랙홀’ 된 삼전닉스 레버리지, 괴리율·대형사 쏠림 경고등",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004627342&office_id=011&mode=mainnews&type=&date=2026-06-03&page=1"
     },
     {
-      "title": "마키나락스, 내일 첫 보호예수 물량 해제…스톡옵션 행사 속 주가 향방은",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013984024&office_id=003&mode=mainnews&type=&date=2026-06-03&page=1"
+      "title": "“예금처럼 놔두긴 아깝죠”…퇴직연금 이젠 ETF로 직접 굴린다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004627323&office_id=011&mode=mainnews&type=&date=2026-06-03&page=1"
     },
     {
-      "title": "랠리에서 뒤처지는 우선주...보통주만 잘 나간다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005529983&office_id=014&mode=mainnews&type=&date=2026-06-03&page=1"
+      "title": "소외된 코스닥에…당국, 시장 활성화 방안 찾는다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004627320&office_id=011&mode=mainnews&type=&date=2026-06-03&page=1"
     },
     {
-      "title": "“IT버블때 717%였는데, 삼전닉스는 798% 폭등”…지금 사도 늦지 않을까?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002651536&office_id=016&mode=mainnews&type=&date=2026-06-03&page=1"
+      "title": "코스피 뛰어도 절반은 하락…저PBR 기업 왜 그대로인가",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006296663&office_id=018&mode=mainnews&type=&date=2026-06-03&page=1"
     }
   ]
 }
