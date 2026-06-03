@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-03 05:24:00",
+  "lastUpdated": "2026-06-03 06:08:17",
   "date": "2026.06.03",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1521.00",
-      "change": "6.50",
+      "value": "1525.00",
+      "change": "10.50",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "951.28",
-      "change": "2.67",
+      "value": "953.66",
+      "change": "5.05",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1768.31",
-      "change": "6.42",
+      "value": "1772.51",
+      "change": "10.62",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "224.81",
-      "change": "0.94",
+      "value": "225.34",
+      "change": "1.47",
       "direction": "up"
     }
   ],
@@ -142,6 +142,26 @@
   ],
   "news": [
     {
+      "title": "코스피는 9000 코앞인데…코스닥은 고점 대비 16% ‘미끄럼’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006296600&office_id=018&mode=mainnews&type=&date=2026-06-03&page=1"
+    },
+    {
+      "title": "\"삼전 말고 '이 전자' 샀더니\"…300% 폭등에 개미들 '환호'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005294374&office_id=015&mode=mainnews&type=&date=2026-06-03&page=1"
+    },
+    {
+      "title": "목표가마저 추월한 급등주 속출…LG전자 상회율 1위",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005530013&office_id=014&mode=mainnews&type=&date=2026-06-03&page=1"
+    },
+    {
+      "title": "골드만삭스 \"코스피 1만 2000 간다…반도체 사이클에 확신\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008982126&office_id=421&mode=mainnews&type=&date=2026-06-03&page=1"
+    },
+    {
+      "title": "\"정치 테마주 말고 깐부株에 몰빵\"…지방선거 달라진 증시 풍경",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005366615&office_id=008&mode=mainnews&type=&date=2026-06-03&page=1"
+    },
+    {
       "title": "마키나락스, 내일 첫 보호예수 물량 해제…스톡옵션 행사 속 주가 향방은",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0013984024&office_id=003&mode=mainnews&type=&date=2026-06-03&page=1"
     },
@@ -152,26 +172,6 @@
     {
       "title": "“IT버블때 717%였는데, 삼전닉스는 798% 폭등”…지금 사도 늦지 않을까?",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002651536&office_id=016&mode=mainnews&type=&date=2026-06-03&page=1"
-    },
-    {
-      "title": "코스피 '편식 랠리'에 고민…반도체 다음 타자는?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005529971&office_id=014&mode=mainnews&type=&date=2026-06-03&page=1"
-    },
-    {
-      "title": "실탄 쌓은 개미, 증시 진입도 활발…예탁금 회전율 '쑥'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005529969&office_id=014&mode=mainnews&type=&date=2026-06-03&page=1"
-    },
-    {
-      "title": "“반도체 거품 꺼지면 어떡해” 개미들 긴장했는데…‘걱정 안 해도 된다’는 보고서, 왜?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004627240&office_id=011&mode=mainnews&type=&date=2026-06-03&page=1"
-    },
-    {
-      "title": "\"반도체·전력, 다음은 여기\"...투자 전문가들이 찍은 차기 주도 ETF",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005366582&office_id=008&mode=mainnews&type=&date=2026-06-03&page=1"
-    },
-    {
-      "title": "\"보수적 PER 적용\"...골드만삭스, 코스피 1만2000 간다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005366576&office_id=008&mode=mainnews&type=&date=2026-06-03&page=1"
     }
   ]
 }
