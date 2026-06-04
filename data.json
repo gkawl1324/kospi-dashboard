@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-06-04 06:00:18",
+  "lastUpdated": "2026-06-04 09:09:01",
   "date": "2026.06.04",
   "kospi": {
     "name": "KOSPI",
-    "current": "8670.27",
-    "change": "131.22",
-    "changePct": "1.49",
+    "current": "8639.41",
+    "change": "162.08",
+    "changePct": "1.84",
     "direction": "up",
-    "volume": "396160",
-    "tradeAmount": "40780491"
+    "volume": "437896",
+    "tradeAmount": "47638553"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "355500",
-      "change": "-5000",
-      "changePct": "-1.39",
+      "current": "351500",
+      "change": "-9000",
+      "changePct": "-2.50",
       "direction": "down",
-      "volume": "29343131",
+      "volume": "34290059",
       "high": "366000",
       "low": "348000",
       "open": "349000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2291000",
-      "change": "-69000",
-      "changePct": "-2.92",
+      "current": "2298000",
+      "change": "-62000",
+      "changePct": "-2.63",
       "direction": "down",
-      "volume": "3075471",
+      "volume": "3584084",
       "high": "2327000",
       "low": "2262000",
       "open": "2284000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "132500",
-      "change": "-7500",
-      "changePct": "-5.36",
+      "current": "129900",
+      "change": "-10100",
+      "changePct": "-7.21",
       "direction": "down",
-      "volume": "849689",
+      "volume": "1000913",
       "high": "133600",
       "low": "123000",
       "open": "131000",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "268500",
-      "change": "-12000",
-      "changePct": "-4.28",
+      "current": "267500",
+      "change": "-13000",
+      "changePct": "-4.63",
       "direction": "down",
-      "volume": "3072381",
+      "volume": "3324373",
       "high": "275000",
       "low": "255000",
       "open": "267500",
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1529.80",
-      "change": "5.20",
-      "direction": "down"
+      "value": "1536.30",
+      "change": "1.30",
+      "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "956.72",
-      "change": "2.63",
-      "direction": "down"
+      "value": "961.06",
+      "change": "1.71",
+      "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1776.02",
-      "change": "4.35",
-      "direction": "down"
+      "value": "1784.87",
+      "change": "4.50",
+      "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "225.75",
-      "change": "0.66",
-      "direction": "down"
+      "value": "226.69",
+      "change": "0.28",
+      "direction": "up"
     }
   ],
   "oilPrices": [
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "219761.32",
-      "change": "308.44",
+      "value": "220732.8",
+      "change": "1279.92",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "한국투자證 \"주식-가상자산 투자 상호연결 추진\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001254291&office_id=215&mode=mainnews&type=&date=2026-06-04&page=1"
+      "title": "“도대체 누굴 뽑으려고?” 기약없는 차기 수장 선임…NH證 ‘깜깜이 임추위’ 논란",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004627791&office_id=011&mode=mainnews&type=&date=2026-06-04&page=1"
     },
     {
-      "title": "코스피 주춤하자 6거래일만 반등…코스닥 스포트라이트 받나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016119892&office_id=001&mode=mainnews&type=&date=2026-06-04&page=1"
+      "title": "AIDC 핵심 광연결반도체 공급하는 마벨[글로벌 핫스톡]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004627790&office_id=011&mode=mainnews&type=&date=2026-06-04&page=1"
     },
     {
-      "title": "머스크, 세계 첫 ‘조만장자’ 눈앞…스페이스X 기업가치 2700조 도전",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003724470&office_id=020&mode=mainnews&type=&date=2026-06-04&page=1"
+      "title": "'자사주 부자' 신영증권, 1조원어치 소각하고 나눠준다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000047725&office_id=648&mode=mainnews&type=&date=2026-06-04&page=1"
     },
     {
-      "title": "투자 고수들, 반도체 소부장·로봇 집중 매수…대형주 온기에 소부장 몸값 껑충",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013987183&office_id=003&mode=mainnews&type=&date=2026-06-04&page=1"
+      "title": "삼성·닉스 쉬어가자 소외주 볕 들었다…非AI·코스닥주 반등",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008986368&office_id=421&mode=mainnews&type=&date=2026-06-04&page=1"
     },
     {
-      "title": "‘부의 효과’ 기대에 백화점株 질주…신세계 16% 급등[줍줍리포트]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004627670&office_id=011&mode=mainnews&type=&date=2026-06-04&page=1"
+      "title": "‘삼전닉스’ 쉼없이 팔더니, ‘뉴 깐부’ 종목 폭풍 매수…외국인 투자 종목 살펴보니 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002652206&office_id=016&mode=mainnews&type=&date=2026-06-04&page=1"
     },
     {
-      "title": "또 5.6조 던졌다...외국인, 코스피 19일 연속 '팔자' 환율도 '쑥'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005367141&office_id=008&mode=mainnews&type=&date=2026-06-04&page=1"
+      "title": "일반주주 동의 없는 주식교환 괜찮나…신세계푸드 사례가 던진 질문",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000047724&office_id=648&mode=mainnews&type=&date=2026-06-04&page=1"
     },
     {
-      "title": "외국인 매도 속에 환율 고공행진…두달여 만에 1,530원 찍어",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016119472&office_id=001&mode=mainnews&type=&date=2026-06-04&page=1"
+      "title": "체급 달라진 韓증시…\"상법개정이 일등공신\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001254334&office_id=215&mode=mainnews&type=&date=2026-06-04&page=1"
     },
     {
-      "title": "“日 자동차 7개 다 합해도 삼전닉스 10분의 1”…韓기업 순익 18년만에 日 추월",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005689242&office_id=009&mode=mainnews&type=&date=2026-06-04&page=1"
+      "title": "비트코인 6만 달러 방어전…시장 촉각[코인뉴스]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003097877&office_id=119&mode=mainnews&type=&date=2026-06-04&page=1"
     }
   ]
 }
