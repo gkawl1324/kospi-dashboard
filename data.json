@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-06-05 04:54:36",
+  "lastUpdated": "2026-06-05 05:23:19",
   "date": "2026.06.05",
   "kospi": {
     "name": "KOSPI",
-    "current": "8221.69",
-    "change": "417.72",
-    "changePct": "4.84",
+    "current": "8262.24",
+    "change": "377.17",
+    "changePct": "4.37",
     "direction": "up",
-    "volume": "368718",
-    "tradeAmount": "34490743"
+    "volume": "387992",
+    "tradeAmount": "36666088"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "334000",
-      "change": "-17500",
-      "changePct": "-4.98",
+      "current": "335500",
+      "change": "-16000",
+      "changePct": "-4.55",
       "direction": "down",
-      "volume": "23209824",
+      "volume": "24590862",
       "high": "343000",
       "low": "325000",
       "open": "333500",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2115000",
-      "change": "-183000",
-      "changePct": "-7.96",
+      "current": "2123000",
+      "change": "-175000",
+      "changePct": "-7.62",
       "direction": "down",
-      "volume": "3892876",
+      "volume": "4071934",
       "high": "2188000",
       "low": "2077000",
       "open": "2142000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "123700",
-      "change": "-6200",
-      "changePct": "-4.77",
+      "current": "124000",
+      "change": "-5900",
+      "changePct": "-4.54",
       "direction": "down",
-      "volume": "712323",
+      "volume": "772358",
       "high": "124500",
       "low": "116500",
       "open": "120600",
@@ -57,12 +57,12 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "257500",
-      "change": "-10000",
-      "changePct": "-3.74",
+      "current": "261000",
+      "change": "-6500",
+      "changePct": "-2.43",
       "direction": "down",
-      "volume": "2072051",
-      "high": "260500",
+      "volume": "2577337",
+      "high": "266500",
       "low": "245000",
       "open": "254500",
       "marketCap": "0"
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1542.40",
-      "change": "8.40",
+      "value": "1541.70",
+      "change": "7.70",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "964.24",
-      "change": "5.46",
+      "value": "963.83",
+      "change": "5.05",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1791.57",
-      "change": "8.91",
+      "value": "1790.84",
+      "change": "8.18",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "227.66",
-      "change": "1.28",
+      "value": "227.56",
+      "change": "1.18",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "220268.33",
-      "change": "598.79",
+      "value": "220443.96",
+      "change": "423.16",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -141,6 +141,14 @@
     }
   ],
   "news": [
+    {
+      "title": "삼전닉스 레버리지 ETF 첫 1주일 수익률…동일종목 격차 최대 1.6%P",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005367673&office_id=008&mode=mainnews&type=&date=2026-06-05&page=1"
+    },
+    {
+      "title": "외인, 코스피서 20거래일 연속 매도…3.5조 '팔자'에 8100선 턱걸이",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006298101&office_id=018&mode=mainnews&type=&date=2026-06-05&page=1"
+    },
     {
       "title": "코스피 1만 시대의 시험대…급락장 이후 살아남을 주도주는? 한국경제TV, 국고처 특별 생방송",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0001254406&office_id=215&mode=mainnews&type=&date=2026-06-05&page=1"
@@ -164,14 +172,6 @@
     {
       "title": "“SOCAMM 축소는 수요 둔화 아냐…삼전·하이닉스 조정은 매수 기회”",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0006298076&office_id=018&mode=mainnews&type=&date=2026-06-05&page=1"
-    },
-    {
-      "title": "코스피, 개인 매수세에 8300선 회복… 코스닥, 다시 1000선 복귀",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001169613&office_id=366&mode=mainnews&type=&date=2026-06-05&page=1"
-    },
-    {
-      "title": "‘상한가 하루 만에 급락’ 코스닥 반도체 소부장株 ‘출렁’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002652530&office_id=016&mode=mainnews&type=&date=2026-06-05&page=1"
     }
   ]
 }
