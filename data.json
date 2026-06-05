@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-06-05 05:23:19",
+  "lastUpdated": "2026-06-05 08:54:35",
   "date": "2026.06.05",
   "kospi": {
     "name": "KOSPI",
-    "current": "8262.24",
-    "change": "377.17",
-    "changePct": "4.37",
+    "current": "8160.59",
+    "change": "478.82",
+    "changePct": "5.54",
     "direction": "up",
-    "volume": "387992",
-    "tradeAmount": "36666088"
+    "volume": "446373",
+    "tradeAmount": "45738429"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "335500",
-      "change": "-16000",
-      "changePct": "-4.55",
+      "current": "329000",
+      "change": "-22500",
+      "changePct": "-6.40",
       "direction": "down",
-      "volume": "24590862",
+      "volume": "31299200",
       "high": "343000",
       "low": "325000",
       "open": "333500",
@@ -29,13 +29,13 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2123000",
-      "change": "-175000",
-      "changePct": "-7.62",
+      "current": "2070000",
+      "change": "-228000",
+      "changePct": "-9.92",
       "direction": "down",
-      "volume": "4071934",
+      "volume": "5358995",
       "high": "2188000",
-      "low": "2077000",
+      "low": "2070000",
       "open": "2142000",
       "marketCap": "0"
     },
@@ -43,12 +43,12 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "124000",
-      "change": "-5900",
-      "changePct": "-4.54",
+      "current": "122900",
+      "change": "-7000",
+      "changePct": "-5.39",
       "direction": "down",
-      "volume": "772358",
-      "high": "124500",
+      "volume": "932545",
+      "high": "124900",
       "low": "116500",
       "open": "120600",
       "marketCap": "0"
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "261000",
-      "change": "-6500",
-      "changePct": "-2.43",
+      "current": "255500",
+      "change": "-12000",
+      "changePct": "-4.49",
       "direction": "down",
-      "volume": "2577337",
+      "volume": "3143220",
       "high": "266500",
       "low": "245000",
       "open": "254500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1541.70",
-      "change": "7.70",
+      "value": "1539.50",
+      "change": "5.50",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "963.83",
-      "change": "5.05",
+      "value": "962.58",
+      "change": "3.80",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1790.84",
-      "change": "8.18",
+      "value": "1791.52",
+      "change": "8.86",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "227.56",
-      "change": "1.18",
+      "value": "227.38",
+      "change": "1.00",
       "direction": "up"
     }
   ],
@@ -118,9 +118,9 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "220443.96",
-      "change": "423.16",
-      "direction": "down",
+      "value": "220873.35",
+      "change": "6.23",
+      "direction": "up",
       "unit": "USD/oz"
     },
     {
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "삼전닉스 레버리지 ETF 첫 1주일 수익률…동일종목 격차 최대 1.6%P",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005367673&office_id=008&mode=mainnews&type=&date=2026-06-05&page=1"
+      "title": "반도체 밀릴때 은행株는 웃었다…조정장서 ‘방어주’ 본색",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004628133&office_id=011&mode=mainnews&type=&date=2026-06-05&page=1"
     },
     {
-      "title": "외인, 코스피서 20거래일 연속 매도…3.5조 '팔자'에 8100선 턱걸이",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006298101&office_id=018&mode=mainnews&type=&date=2026-06-05&page=1"
+      "title": "삼전·닉스 레버리지, 주가 내릴 때 ‘사자’…급락에 개미들 ‘줍줍’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005689940&office_id=009&mode=mainnews&type=&date=2026-06-05&page=1"
     },
     {
-      "title": "코스피 1만 시대의 시험대…급락장 이후 살아남을 주도주는? 한국경제TV, 국고처 특별 생방송",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001254406&office_id=215&mode=mainnews&type=&date=2026-06-05&page=1"
+      "title": "'삼쏘회동' 앞두고 코스피 5%↓… 엔비디아와 협력으로 반등할까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005367820&office_id=008&mode=mainnews&type=&date=2026-06-05&page=1"
     },
     {
-      "title": "초고수들, ‘젠슨황 수혜株’ 담았다…NAVER·SK하이닉스 저점매수[주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004628010&office_id=011&mode=mainnews&type=&date=2026-06-05&page=1"
+      "title": "\"젠슨 황 믿고 사자마자 물렸다\"?코스피 대폭락·환율 1540원에 개미들 '곡소리'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001033263&office_id=031&mode=mainnews&type=&date=2026-06-05&page=1"
     },
     {
-      "title": "\"삼전·하닉 사도 원화는 안 사\"…치솟는 환율, 무슨 일이 [빈난새의 빈틈없이월가]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005295352&office_id=015&mode=mainnews&type=&date=2026-06-05&page=1"
+      "title": "삼전·닉스 레버리지 주가 내릴 때 '사자'…급락에 '순매수'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016122373&office_id=001&mode=mainnews&type=&date=2026-06-05&page=1"
     },
     {
-      "title": "포스트 6·3 ‘증시 급락’… 기관 장초반 3400억대 매도",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002795781&office_id=021&mode=mainnews&type=&date=2026-06-05&page=1"
+      "title": "반도체로 급등했던 코스피, 반도체 악재에 '급락'…\"대형 IPO 앞두고 현금화\" 움직임도",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005295445&office_id=015&mode=mainnews&type=&date=2026-06-05&page=1"
     },
     {
-      "title": "“로키산맥 뚫고 태평양 건넜다”…가스공사, 15년만에 캐나다 LNG 공급망 결실",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006298078&office_id=018&mode=mainnews&type=&date=2026-06-05&page=1"
+      "title": "자사주 32% 소각하는 신영증권, '주주환원'인가 '지분율 꼼수'인가",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001146348&office_id=417&mode=mainnews&type=&date=2026-06-05&page=1"
     },
     {
-      "title": "“SOCAMM 축소는 수요 둔화 아냐…삼전·하이닉스 조정은 매수 기회”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006298076&office_id=018&mode=mainnews&type=&date=2026-06-05&page=1"
+      "title": "젠슨황 왔는데 브로드컴이 덮쳤다…코스피 5.5% 급락 8160선으로 밀려[이런국장 저런주식]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004628099&office_id=011&mode=mainnews&type=&date=2026-06-05&page=1"
     }
   ]
 }
