@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-06-08 05:58:14",
+  "lastUpdated": "2026-06-08 10:00:01",
   "date": "2026.06.08",
   "kospi": {
     "name": "KOSPI",
-    "current": "7491.58",
-    "change": "669.01",
-    "changePct": "8.20",
+    "current": "7484.41",
+    "change": "676.18",
+    "changePct": "8.29",
     "direction": "up",
-    "volume": "393899",
-    "tradeAmount": "41219015"
+    "volume": "452204",
+    "tradeAmount": "48338891"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "297000",
-      "change": "-32000",
-      "changePct": "-9.73",
+      "current": "295500",
+      "change": "-33500",
+      "changePct": "-10.18",
       "direction": "down",
-      "volume": "32314396",
+      "volume": "38467019",
       "high": "315500",
       "low": "292500",
       "open": "293000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1925000",
-      "change": "-145000",
-      "changePct": "-7.00",
+      "current": "1911000",
+      "change": "-159000",
+      "changePct": "-7.68",
       "direction": "down",
-      "volume": "5468949",
+      "volume": "6509776",
       "high": "2072000",
       "low": "1855000",
       "open": "1856000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "114000",
-      "change": "-8900",
-      "changePct": "-7.24",
+      "current": "113900",
+      "change": "-9000",
+      "changePct": "-7.32",
       "direction": "down",
-      "volume": "736179",
+      "volume": "851054",
       "high": "116600",
       "low": "104100",
       "open": "104100",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "283250",
-      "change": "27750",
-      "changePct": "10.86",
+      "current": "279000",
+      "change": "23500",
+      "changePct": "9.20",
       "direction": "up",
-      "volume": "9557960",
+      "volume": "10148390",
       "high": "294000",
       "low": "238500",
       "open": "239500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1541.40",
-      "change": "18.10",
+      "value": "1533.60",
+      "change": "25.90",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "961.66",
-      "change": "11.48",
+      "value": "958.41",
+      "change": "14.73",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1775.38",
-      "change": "20.15",
+      "value": "1765.63",
+      "change": "29.90",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "227.08",
-      "change": "2.53",
+      "value": "225.98",
+      "change": "3.63",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "212400.43",
-      "change": "5606.17",
+      "value": "211983.65",
+      "change": "6022.95",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "“코스피 8% 급락, 투매보다 관망…반도체 낙폭과대주 담을 때”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006300807&office_id=018&mode=mainnews&type=&date=2026-06-08&page=1"
+      "title": "삼성바이오 노조, 삼성그룹 초기업노조 탈퇴 추진",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004628939&office_id=011&mode=mainnews&type=&date=2026-06-08&page=1"
     },
     {
-      "title": "\"2분도 안걸렸다\"...미래에셋증권, 스페이스X 2차 청약도 완판",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005296131&office_id=015&mode=mainnews&type=&date=2026-06-08&page=1"
+      "title": "'블랙 코스피' 8160→7484…센터장들 \"조정에서 기회 잡아야\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008992320&office_id=421&mode=mainnews&type=&date=2026-06-08&page=1"
     },
     {
-      "title": "“통장 열어보니 끔찍, 1억 날려”…‘젠슨 황’ 믿었는데, 개미들 망연자실",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005690732&office_id=009&mode=mainnews&type=&date=2026-06-08&page=1"
+      "title": "‘세계 최고 수익률이었는데’…코스피 거센 경고음, “20% 이상 떨어질 수” [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002653624&office_id=016&mode=mainnews&type=&date=2026-06-08&page=1"
     },
     {
-      "title": "\"한국 못 믿는게 아니라...\" 외인 100조 매도 폭탄의 진실은",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006300770&office_id=018&mode=mainnews&type=&date=2026-06-08&page=1"
+      "title": "\"15% 떨어져야 했는데 50% 폭등\"…SK하이닉스레버리지에 무슨 일이",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005296386&office_id=015&mode=mainnews&type=&date=2026-06-08&page=1"
     },
     {
-      "title": "이재명 대통령 \"코스피 8000 깨졌다고 대폭락? 2700 비해 엄청 오른 것\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000047801&office_id=648&mode=mainnews&type=&date=2026-06-08&page=1"
+      "title": "2배로 먹으려다 2배로 손실… 삼전닉스 레버리지 ETF 20% 급락 [증시 '블랙 먼데이']",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005532139&office_id=014&mode=mainnews&type=&date=2026-06-08&page=1"
     },
     {
-      "title": "\"에이전트 AI 시대, 53만전자·320만닉스 간다\"…이마트, 스벅 악재에도 \"저점 매수 기회\" [株토피아]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005531915&office_id=014&mode=mainnews&type=&date=2026-06-08&page=1"
+      "title": "동시에 터진 금리·환율·AI 공포… 단기 조정 vs 추가 하락 [증시 '블랙 먼데이']",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005532138&office_id=014&mode=mainnews&type=&date=2026-06-08&page=1"
     },
     {
-      "title": "LG그룹株, 엔비디아 회동에도 약세…LG전자 8% 급락[이런국장 저런주식]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004628755&office_id=011&mode=mainnews&type=&date=2026-06-08&page=1"
+      "title": "2분만에 5억弗 다팔렸다... 미래에셋證 스페이스X 2차 청약도 완판",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005532118&office_id=014&mode=mainnews&type=&date=2026-06-08&page=1"
     },
     {
-      "title": "코스피, 서킷브레이커 후 투매·저가매수 시소게임…5%대 하락",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006300727&office_id=018&mode=mainnews&type=&date=2026-06-08&page=1"
+      "title": "“회사 화장실 꽉 찼네요”…더블 서킷브레이커 와중에 오른 종목 어디",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005691016&office_id=009&mode=mainnews&type=&date=2026-06-08&page=1"
     }
   ]
 }
