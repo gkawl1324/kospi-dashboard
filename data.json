@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-06-09 05:11:49",
+  "lastUpdated": "2026-06-09 08:45:07",
   "date": "2026.06.09",
   "kospi": {
     "name": "KOSPI",
-    "current": "8033.26",
-    "change": "548.85",
-    "changePct": "7.33",
+    "current": "8096.93",
+    "change": "612.52",
+    "changePct": "8.18",
     "direction": "up",
-    "volume": "363311",
-    "tradeAmount": "34641041"
+    "volume": "442429",
+    "tradeAmount": "45961518"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "319000",
-      "change": "23500",
-      "changePct": "7.95",
+      "current": "322000",
+      "change": "26500",
+      "changePct": "8.97",
       "direction": "up",
-      "volume": "21636040",
-      "high": "322500",
+      "volume": "28989253",
+      "high": "324000",
       "low": "300000",
       "open": "310000",
       "marketCap": "0"
@@ -29,12 +29,12 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2166000",
-      "change": "255000",
-      "changePct": "13.34",
+      "current": "2215000",
+      "change": "304000",
+      "changePct": "15.91",
       "direction": "up",
-      "volume": "4091795",
-      "high": "2188000",
+      "volume": "5791934",
+      "high": "2226000",
       "low": "1998000",
       "open": "2050000",
       "marketCap": "0"
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "112700",
-      "change": "-1200",
-      "changePct": "-1.05",
+      "current": "112600",
+      "change": "-1300",
+      "changePct": "-1.14",
       "direction": "down",
-      "volume": "822838",
+      "volume": "1059543",
       "high": "116600",
       "low": "104100",
       "open": "114000",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "254000",
-      "change": "-25000",
-      "changePct": "-8.96",
+      "current": "257000",
+      "change": "-22000",
+      "changePct": "-7.89",
       "direction": "down",
-      "volume": "6062293",
+      "volume": "6917809",
       "high": "288500",
       "low": "243000",
       "open": "286000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1516.90",
-      "change": "10.90",
+      "value": "1521.40",
+      "change": "6.40",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "946.85",
-      "change": "7.04",
+      "value": "949.66",
+      "change": "4.23",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1750.96",
-      "change": "11.20",
+      "value": "1756.68",
+      "change": "5.48",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "223.83",
-      "change": "1.36",
+      "value": "224.71",
+      "change": "0.48",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "211378.78",
-      "change": "1606.56",
+      "value": "211930.49",
+      "change": "1054.85",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "‘검은 월요일’ 하루 만에 7% 반등…코스피 8000선 탈환 [투자360]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002654080&office_id=016&mode=mainnews&type=&date=2026-06-09&page=1"
+      "title": "‘괴리율 급등’ SK하이닉스 레버리지 ETF 3종 투자유의 적출",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001170556&office_id=366&mode=mainnews&type=&date=2026-06-09&page=1"
     },
     {
-      "title": "\"삼전닉스만 오르는 게 아냐\" 불붙은 중소형주...상승세 탔다?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005369237&office_id=008&mode=mainnews&type=&date=2026-06-09&page=1"
+      "title": "눌렸던 유통·보험도 뛰었다…롤러코스터 장에도 \"지금 줍줍 기회\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005369443&office_id=008&mode=mainnews&type=&date=2026-06-09&page=1"
     },
     {
-      "title": "깨진 '공모주=따따블' 공식…IPO 후발 주자 '초긴장'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013995909&office_id=003&mode=mainnews&type=&date=2026-06-09&page=1"
+      "title": "올해 223% 뛴 마벨…'AI칩 맞춤 설계'로 날개",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005296773&office_id=015&mode=mainnews&type=&date=2026-06-09&page=1"
     },
     {
-      "title": "코스피, 8000선 탈환…‘검은 월요일’ 딛고 7% 급등",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006301452&office_id=018&mode=mainnews&type=&date=2026-06-09&page=1"
+      "title": "어제는 지옥 오늘은 천당…코스피 공포지수, 역대 최고치",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003030881&office_id=029&mode=mainnews&type=&date=2026-06-09&page=1"
     },
     {
-      "title": "젠슨 황이 찍은 현대차·기아 집중 투자…채권혼합 ETF 출시",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005369217&office_id=008&mode=mainnews&type=&date=2026-06-09&page=1"
+      "title": "국민연금 달러 매도로 환율방어 기여…외국인 22일째 순매도 불씨",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005369429&office_id=008&mode=mainnews&type=&date=2026-06-09&page=1"
     },
     {
-      "title": "K방산 대장주는 옛말?…하반기 실적 기대에 저점매수 기대감",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005691265&office_id=009&mode=mainnews&type=&date=2026-06-09&page=1"
+      "title": "개미가 선택한 삼전·닉스 레버리지는 ‘TIGER’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003099328&office_id=119&mode=mainnews&type=&date=2026-06-09&page=1"
     },
     {
-      "title": "“주가 8% 떨어졌는데 레버리지는 50% 급등?”…하이닉스 레버리지 ETF 3종, 투자유의종목 적출",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005691263&office_id=009&mode=mainnews&type=&date=2026-06-09&page=1"
+      "title": "\"벌어도 못 쓰고 죽겠다\"…'야수의 심장' 떨게 만든 '롤러코스피'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008994395&office_id=421&mode=mainnews&type=&date=2026-06-09&page=1"
     },
     {
-      "title": "일주일 3조원 유입 '콸콸'…삼전닉스 레버리지 '투심 폭발'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000098894&office_id=243&mode=mainnews&type=&date=2026-06-09&page=1"
+      "title": "\"어제 던진 개미들 어쩌나\"?삼전닉스 하루 만에 급등, 주가 회복 이유는?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001033923&office_id=031&mode=mainnews&type=&date=2026-06-09&page=1"
     }
   ]
 }
