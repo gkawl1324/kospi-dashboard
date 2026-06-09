@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-06-09 04:43:15",
+  "lastUpdated": "2026-06-09 05:11:49",
   "date": "2026.06.09",
   "kospi": {
     "name": "KOSPI",
-    "current": "8059.23",
-    "change": "574.82",
-    "changePct": "7.68",
+    "current": "8033.26",
+    "change": "548.85",
+    "changePct": "7.33",
     "direction": "up",
-    "volume": "342795",
-    "tradeAmount": "31935172"
+    "volume": "363311",
+    "tradeAmount": "34641041"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "320000",
-      "change": "24500",
-      "changePct": "8.29",
+      "current": "319000",
+      "change": "23500",
+      "changePct": "7.95",
       "direction": "up",
-      "volume": "19849179",
+      "volume": "21636040",
       "high": "322500",
       "low": "300000",
       "open": "310000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2175000",
-      "change": "264000",
-      "changePct": "13.81",
+      "current": "2166000",
+      "change": "255000",
+      "changePct": "13.34",
       "direction": "up",
-      "volume": "3745026",
+      "volume": "4091795",
       "high": "2188000",
       "low": "1998000",
       "open": "2050000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "112800",
-      "change": "-1100",
-      "changePct": "-0.97",
+      "current": "112700",
+      "change": "-1200",
+      "changePct": "-1.05",
       "direction": "down",
-      "volume": "755836",
+      "volume": "822838",
       "high": "116600",
       "low": "104100",
       "open": "114000",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "256000",
-      "change": "-23000",
-      "changePct": "-8.24",
+      "current": "254000",
+      "change": "-25000",
+      "changePct": "-8.96",
       "direction": "down",
-      "volume": "5822990",
+      "volume": "6062293",
       "high": "288500",
       "low": "243000",
       "open": "286000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1516.80",
-      "change": "11.00",
+      "value": "1516.90",
+      "change": "10.90",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "946.88",
-      "change": "7.01",
+      "value": "946.85",
+      "change": "7.04",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1751.30",
-      "change": "10.86",
+      "value": "1750.96",
+      "change": "11.20",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "223.80",
-      "change": "1.39",
+      "value": "223.83",
+      "change": "1.36",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "211206.03",
-      "change": "1779.31",
+      "value": "211378.78",
+      "change": "1606.56",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
+      "title": "‘검은 월요일’ 하루 만에 7% 반등…코스피 8000선 탈환 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002654080&office_id=016&mode=mainnews&type=&date=2026-06-09&page=1"
+    },
+    {
+      "title": "\"삼전닉스만 오르는 게 아냐\" 불붙은 중소형주...상승세 탔다?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005369237&office_id=008&mode=mainnews&type=&date=2026-06-09&page=1"
+    },
+    {
+      "title": "깨진 '공모주=따따블' 공식…IPO 후발 주자 '초긴장'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013995909&office_id=003&mode=mainnews&type=&date=2026-06-09&page=1"
+    },
+    {
+      "title": "코스피, 8000선 탈환…‘검은 월요일’ 딛고 7% 급등",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006301452&office_id=018&mode=mainnews&type=&date=2026-06-09&page=1"
+    },
+    {
+      "title": "젠슨 황이 찍은 현대차·기아 집중 투자…채권혼합 ETF 출시",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005369217&office_id=008&mode=mainnews&type=&date=2026-06-09&page=1"
+    },
+    {
+      "title": "K방산 대장주는 옛말?…하반기 실적 기대에 저점매수 기대감",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005691265&office_id=009&mode=mainnews&type=&date=2026-06-09&page=1"
+    },
+    {
+      "title": "“주가 8% 떨어졌는데 레버리지는 50% 급등?”…하이닉스 레버리지 ETF 3종, 투자유의종목 적출",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005691263&office_id=009&mode=mainnews&type=&date=2026-06-09&page=1"
+    },
+    {
       "title": "일주일 3조원 유입 '콸콸'…삼전닉스 레버리지 '투심 폭발'",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000098894&office_id=243&mode=mainnews&type=&date=2026-06-09&page=1"
-    },
-    {
-      "title": "업스테이지부터 성남FC 논란까지…커지는 한성숙 리스크에 네이버 주가 '폭락'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000506144&office_id=629&mode=mainnews&type=&date=2026-06-09&page=1"
-    },
-    {
-      "title": "LG이노텍·LG CNS·현대오토에버…8월 MSCI 편입 후보군",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005296626&office_id=015&mode=mainnews&type=&date=2026-06-09&page=1"
-    },
-    {
-      "title": "SK하이닉스, 외인 21일 연속 순매도 '경고음'…피크아웃 우려도",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000506139&office_id=629&mode=mainnews&type=&date=2026-06-09&page=1"
-    },
-    {
-      "title": "상위 1% 투자자, 오전 삼성전자 집중 매수…변동성 속 안정 택했다 [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004629161&office_id=011&mode=mainnews&type=&date=2026-06-09&page=1"
-    },
-    {
-      "title": "롤러코스피에 '빚투'는 나락…검은 금요일 '1662억 원' 반대매매",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008993481&office_id=421&mode=mainnews&type=&date=2026-06-09&page=1"
-    },
-    {
-      "title": "거래소, '괴리율 폭등' SK하닉 레버리지' 3종 투자유의종목 적출",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013995731&office_id=003&mode=mainnews&type=&date=2026-06-09&page=1"
-    },
-    {
-      "title": "코스피 7750선에서 등락…‘젠슨 황’ 수혜주는 줄줄이 급락",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001170397&office_id=366&mode=mainnews&type=&date=2026-06-09&page=1"
     }
   ]
 }
