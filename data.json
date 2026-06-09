@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09 08:45:07",
+  "lastUpdated": "2026-06-09 09:57:15",
   "date": "2026.06.09",
   "kospi": {
     "name": "KOSPI",
@@ -7,8 +7,8 @@
     "change": "612.52",
     "changePct": "8.18",
     "direction": "up",
-    "volume": "442429",
-    "tradeAmount": "45961518"
+    "volume": "448537",
+    "tradeAmount": "46715419"
   },
   "stocks": [
     {
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1521.40",
-      "change": "6.40",
+      "value": "1521.00",
+      "change": "6.80",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "949.66",
-      "change": "4.23",
+      "value": "949.65",
+      "change": "4.24",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1756.68",
-      "change": "5.48",
+      "value": "1758.58",
+      "change": "3.58",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "224.71",
-      "change": "0.48",
+      "value": "224.61",
+      "change": "0.58",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "211930.49",
-      "change": "1054.85",
+      "value": "211726.92",
+      "change": "1258.42",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "‘괴리율 급등’ SK하이닉스 레버리지 ETF 3종 투자유의 적출",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001170556&office_id=366&mode=mainnews&type=&date=2026-06-09&page=1"
+      "title": "8천피의 그늘… '빚투' 개미 강제청산 1662억 연중 최고",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005532730&office_id=014&mode=mainnews&type=&date=2026-06-09&page=1"
     },
     {
-      "title": "눌렸던 유통·보험도 뛰었다…롤러코스터 장에도 \"지금 줍줍 기회\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005369443&office_id=008&mode=mainnews&type=&date=2026-06-09&page=1"
+      "title": "레버리지 광풍에 '증시 블랙홀' 된 삼전닉스",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005532729&office_id=014&mode=mainnews&type=&date=2026-06-09&page=1"
     },
     {
-      "title": "올해 223% 뛴 마벨…'AI칩 맞춤 설계'로 날개",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005296773&office_id=015&mode=mainnews&type=&date=2026-06-09&page=1"
+      "title": "빚투 공포 현실로…반대매매 1700억원 육박 ‘더 터진다’ [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002654223&office_id=016&mode=mainnews&type=&date=2026-06-09&page=1"
     },
     {
-      "title": "어제는 지옥 오늘은 천당…코스피 공포지수, 역대 최고치",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003030881&office_id=029&mode=mainnews&type=&date=2026-06-09&page=1"
+      "title": "외국인 털어도 개미는 계속 담았다…코스피 '저점 매수' 기회 인식",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001146853&office_id=417&mode=mainnews&type=&date=2026-06-09&page=1"
     },
     {
-      "title": "국민연금 달러 매도로 환율방어 기여…외국인 22일째 순매도 불씨",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005369429&office_id=008&mode=mainnews&type=&date=2026-06-09&page=1"
+      "title": "피지컬 AI '현대차' ETF 출격…삼성 '밸류체인'·하나 '채권혼합'[체크!ETF]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001146852&office_id=417&mode=mainnews&type=&date=2026-06-09&page=1"
     },
     {
-      "title": "개미가 선택한 삼전·닉스 레버리지는 ‘TIGER’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003099328&office_id=119&mode=mainnews&type=&date=2026-06-09&page=1"
+      "title": "롤러코스터 타는 코스피…본격 반등 2가지 필수조건은",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005691577&office_id=009&mode=mainnews&type=&date=2026-06-09&page=1"
     },
     {
-      "title": "\"벌어도 못 쓰고 죽겠다\"…'야수의 심장' 떨게 만든 '롤러코스피'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008994395&office_id=421&mode=mainnews&type=&date=2026-06-09&page=1"
+      "title": "레버리지 투자에 악용되는 반도체 ETF",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005691559&office_id=009&mode=mainnews&type=&date=2026-06-09&page=1"
     },
     {
-      "title": "\"어제 던진 개미들 어쩌나\"?삼전닉스 하루 만에 급등, 주가 회복 이유는?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001033923&office_id=031&mode=mainnews&type=&date=2026-06-09&page=1"
+      "title": "피지컬AI 성장에 베팅…현대차 ETF 잇단 출격",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004629325&office_id=011&mode=mainnews&type=&date=2026-06-09&page=1"
     }
   ]
 }
