@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-10 09:03:31",
+  "lastUpdated": "2026-06-10 10:14:40",
   "date": "2026.06.10",
   "kospi": {
     "name": "KOSPI",
@@ -7,8 +7,8 @@
     "change": "366.11",
     "changePct": "4.52",
     "direction": "up",
-    "volume": "457504",
-    "tradeAmount": "39406027"
+    "volume": "460877",
+    "tradeAmount": "39944843"
   },
   "stocks": [
     {
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1523.60",
-      "change": "0.90",
+      "value": "1523.50",
+      "change": "1.00",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "949.70",
-      "change": "0.83",
+      "value": "949.46",
+      "change": "1.07",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1760.14",
-      "change": "1.02",
+      "value": "1760.48",
+      "change": "1.36",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "224.72",
-      "change": "0.21",
+      "value": "224.68",
+      "change": "0.25",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "204204.26",
-      "change": "4776.79",
+      "value": "204129.51",
+      "change": "4851.54",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "코스피 확 뛰어든 큰손들 … 집까지 팔아 삼전닉스 베팅",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005692122&office_id=009&mode=mainnews&type=&date=2026-06-10&page=1"
+      "title": "“수익률 대박나도 무섭다?” 이상한 사상 최고치…미국, 일본과 다른 한국 ‘공포지수’ [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002654850&office_id=016&mode=mainnews&type=&date=2026-06-10&page=1"
     },
     {
-      "title": "마이크론 호평 UBS, 이번엔 \"반도체 장비주\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005692103&office_id=009&mode=mainnews&type=&date=2026-06-10&page=1"
+      "title": "\"스페이스X 담아라\"… 국내 운용사 美우주항공ETF 눈치게임",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005533315&office_id=014&mode=mainnews&type=&date=2026-06-10&page=1"
     },
     {
-      "title": "AI인프라·전력·뷰티 차익실현…국민연금, 주도주 비중 줄였다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004629749&office_id=011&mode=mainnews&type=&date=2026-06-10&page=1"
+      "title": "급락·급등 반복에 커진 공포…VKOSPI 역대 최고 수준",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006302491&office_id=018&mode=mainnews&type=&date=2026-06-10&page=1"
     },
     {
-      "title": "최고가 행진 꺾이자…금·은 ETF서 발뺀다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004629745&office_id=011&mode=mainnews&type=&date=2026-06-10&page=1"
+      "title": "美 주식 덜어내는 서학개미…반도체만 공격 베팅",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004629793&office_id=011&mode=mainnews&type=&date=2026-06-10&page=1"
     },
     {
-      "title": "8% 급락한 날 '빚투' 1700억 강제청산…'반대매매' 올들어 최고치",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008996703&office_id=421&mode=mainnews&type=&date=2026-06-10&page=1"
+      "title": "고유가 덕에…'목재펠릿 공장' 펀드 ' EOD 문턱서 기사회생[only 이데일리]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006302487&office_id=018&mode=mainnews&type=&date=2026-06-10&page=1"
     },
     {
-      "title": "'루나 악몽' 재현되나 … 스트레티지 주의보",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005692089&office_id=009&mode=mainnews&type=&date=2026-06-10&page=1"
+      "title": "하락 방어 움직임 커졌다…“코스피 추가 하락 경고등”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006302484&office_id=018&mode=mainnews&type=&date=2026-06-10&page=1"
     },
     {
-      "title": "‘이건 정말 놀랍다’ 외국인도 이길 기세…개미가 사면 주가 오르는 ETF [투자360]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002654835&office_id=016&mode=mainnews&type=&date=2026-06-10&page=1"
+      "title": "美반도체 ETF 하락 베팅 급증…삼전·SK하닉에 불똥 튀나",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006302479&office_id=018&mode=mainnews&type=&date=2026-06-10&page=1"
     },
     {
-      "title": "내일은 ‘네 마녀의 날’…삼전·SK하닉 단일종목 레버리지, 변동성 커질까",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003031115&office_id=029&mode=mainnews&type=&date=2026-06-10&page=1"
+      "title": "코로나19·美 상호관세 쇼크…고비 때 요동친 코스피, 한달 뒤 '반등'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006302477&office_id=018&mode=mainnews&type=&date=2026-06-10&page=1"
     }
   ]
 }
