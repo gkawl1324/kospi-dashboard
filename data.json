@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-06-10 04:55:27",
+  "lastUpdated": "2026-06-10 05:24:01",
   "date": "2026.06.10",
   "kospi": {
     "name": "KOSPI",
-    "current": "7654.95",
-    "change": "441.98",
-    "changePct": "5.46",
+    "current": "7547.67",
+    "change": "549.26",
+    "changePct": "6.78",
     "direction": "up",
-    "volume": "356153",
-    "tradeAmount": "28535441"
+    "volume": "383612",
+    "tradeAmount": "31091605"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "301500",
-      "change": "-20500",
-      "changePct": "-6.37",
+      "current": "297250",
+      "change": "-24750",
+      "changePct": "-7.69",
       "direction": "down",
-      "volume": "18295086",
+      "volume": "19894946",
       "high": "314500",
       "low": "296500",
       "open": "311000",
@@ -29,13 +29,13 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2039000",
-      "change": "-176000",
-      "changePct": "-7.95",
+      "current": "2001000",
+      "change": "-214000",
+      "changePct": "-9.66",
       "direction": "down",
-      "volume": "3315532",
+      "volume": "3631728",
       "high": "2180000",
-      "low": "2004000",
+      "low": "2000000",
       "open": "2137000",
       "marketCap": "0"
     },
@@ -43,13 +43,13 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "106500",
-      "change": "-6100",
-      "changePct": "-5.42",
+      "current": "105500",
+      "change": "-7100",
+      "changePct": "-6.31",
       "direction": "down",
-      "volume": "438873",
+      "volume": "467967",
       "high": "113700",
-      "low": "105700",
+      "low": "105400",
       "open": "107300",
       "marketCap": "0"
     },
@@ -57,13 +57,13 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "227500",
-      "change": "-29500",
-      "changePct": "-11.48",
+      "current": "224500",
+      "change": "-32500",
+      "changePct": "-12.65",
       "direction": "down",
-      "volume": "2830662",
+      "volume": "3026571",
       "high": "253500",
-      "low": "224250",
+      "low": "223000",
       "open": "245000",
       "marketCap": "0"
     }
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1524.80",
-      "change": "0.30",
-      "direction": "up"
+      "value": "1524.50",
+      "change": "0.00",
+      "direction": "flat"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "950.86",
-      "change": "0.33",
+      "value": "950.67",
+      "change": "0.14",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1760.46",
-      "change": "1.34",
+      "value": "1760.57",
+      "change": "1.45",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "224.99",
-      "change": "0.06",
+      "value": "224.94",
+      "change": "0.01",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "204641.12",
-      "change": "4339.93",
+      "value": "204704.09",
+      "change": "4276.96",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,6 +142,22 @@
   ],
   "news": [
     {
+      "title": "오늘은 ‘매도 사이드카’…6% 급락 코스피, 7500선 후퇴 [이런국장 저런주식]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004629629&office_id=011&mode=mainnews&type=&date=2026-06-10&page=1"
+    },
+    {
+      "title": "하루 만에 또 반전…코스피, 6%대 급락해 7600선",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006302223&office_id=018&mode=mainnews&type=&date=2026-06-10&page=1"
+    },
+    {
+      "title": "코스피, 7500선으로 6%대 급락…매도 사이드카 발동",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005774525&office_id=277&mode=mainnews&type=&date=2026-06-10&page=1"
+    },
+    {
+      "title": "\"기관 너마저\"…外人 동반 3.6조 '팔자'에 코스피 6% 급락",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0013998371&office_id=003&mode=mainnews&type=&date=2026-06-10&page=1"
+    },
+    {
       "title": "코스피 장중 7800선 붕괴…삼성전자·SK하이닉스 5% 하락",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0001170710&office_id=366&mode=mainnews&type=&date=2026-06-10&page=1"
     },
@@ -156,22 +172,6 @@
     {
       "title": "“또 떨어질까 두려워”…상승장에 더 커지는 증시공포",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002654602&office_id=016&mode=mainnews&type=&date=2026-06-10&page=1"
-    },
-    {
-      "title": "AI패러다임 최대 수혜 삼성전기…證 “목표가 240만원”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002654592&office_id=016&mode=mainnews&type=&date=2026-06-10&page=1"
-    },
-    {
-      "title": "지금 수익률 1%는 ‘전력주’…HD현대일렉·삼성전기 매수 [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004629599&office_id=011&mode=mainnews&type=&date=2026-06-10&page=1"
-    },
-    {
-      "title": "아파치헬기 격추에 튀어오른 환율, 떨어진 반도체",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005369810&office_id=008&mode=mainnews&type=&date=2026-06-10&page=1"
-    },
-    {
-      "title": "AI패권 6개 기업 ‘MANGOS’가 뜬다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002654588&office_id=016&mode=mainnews&type=&date=2026-06-10&page=1"
     }
   ]
 }
