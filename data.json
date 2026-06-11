@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-06-11 05:07:04",
+  "lastUpdated": "2026-06-11 05:57:02",
   "date": "2026.06.11",
   "kospi": {
     "name": "KOSPI",
-    "current": "7724.43",
-    "change": "6.39",
-    "changePct": "0.08",
+    "current": "7728.08",
+    "change": "2.74",
+    "changePct": "0.04",
     "direction": "up",
-    "volume": "350911",
-    "tradeAmount": "30119709"
+    "volume": "393608",
+    "tradeAmount": "33605503"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "299250",
-      "change": "-3250",
-      "changePct": "-1.07",
+      "current": "298750",
+      "change": "-3750",
+      "changePct": "-1.24",
       "direction": "down",
-      "volume": "19520376",
+      "volume": "21291328",
       "high": "306500",
       "low": "287500",
       "open": "290500",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2084000",
-      "change": "36000",
-      "changePct": "1.76",
+      "current": "2089000",
+      "change": "41000",
+      "changePct": "2.00",
       "direction": "up",
-      "volume": "4467377",
+      "volume": "4767983",
       "high": "2163000",
       "low": "1960000",
       "open": "1975000",
@@ -43,12 +43,12 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "104400",
-      "change": "-4300",
-      "changePct": "-3.96",
+      "current": "103800",
+      "change": "-4900",
+      "changePct": "-4.51",
       "direction": "down",
-      "volume": "572611",
-      "high": "105000",
+      "volume": "701573",
+      "high": "105100",
       "low": "99600",
       "open": "103400",
       "marketCap": "0"
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "222500",
-      "change": "-4500",
-      "changePct": "-1.98",
+      "current": "222250",
+      "change": "-4750",
+      "changePct": "-2.09",
       "direction": "down",
-      "volume": "1684643",
+      "volume": "1847334",
       "high": "228500",
       "low": "218500",
       "open": "218500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1525.50",
-      "change": "1.00",
+      "value": "1528.70",
+      "change": "4.20",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "950.35",
-      "change": "0.65",
+      "value": "952.22",
+      "change": "2.52",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1761.65",
-      "change": "3.90",
+      "value": "1765.27",
+      "change": "7.52",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "225.11",
-      "change": "0.27",
+      "value": "225.58",
+      "change": "0.74",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "199959.32",
-      "change": "963.60",
+      "value": "201292.48",
+      "change": "2296.76",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "대기업 대신 스타트업 택한 37세 엔지니어…200억 '잭팟'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005297650&office_id=015&mode=mainnews&type=&date=2026-06-11&page=1"
+      "title": "“사고 안 났는데”… 하나·키움운용, 하닉 레버리지 ETF 괴리율 폭증, 왜?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001171093&office_id=366&mode=mainnews&type=&date=2026-06-11&page=1"
     },
     {
-      "title": "“왜 급등하면 사고, 폭락하면 파세요?” 개미들 ‘현기증’ 나는 변동성…앞으로 남은 변수는",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004630054&office_id=011&mode=mainnews&type=&date=2026-06-11&page=1"
+      "title": "금융당국, '거액 세금 미공시' 서진시스템 조사착수[only 이데일리]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006303080&office_id=018&mode=mainnews&type=&date=2026-06-11&page=1"
     },
     {
-      "title": "극심한 증시 변동성…수익률 상위 1%는 삼성전자 집중 매수 [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004630046&office_id=011&mode=mainnews&type=&date=2026-06-11&page=1"
+      "title": "미국 스페이스X보다 영국 ‘스페이스X 레버리지’가 먼저 상장…사상 초유 사태",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005692479&office_id=009&mode=mainnews&type=&date=2026-06-11&page=1"
     },
     {
-      "title": "반도체 질주에 코스피 급락분 회복…변동성 관건",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005370481&office_id=008&mode=mainnews&type=&date=2026-06-11&page=1"
+      "title": "시급 4만원 용접공도 백만장자…'상장 D-1' 스페이스X의 '부의효과'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008998533&office_id=421&mode=mainnews&type=&date=2026-06-11&page=1"
     },
     {
-      "title": "'오락가락' 코스피, 주범은 2배 ETF?…'국민 단타판' 우려 확대",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000506791&office_id=629&mode=mainnews&type=&date=2026-06-11&page=1"
+      "title": "\"롤러코스닥!\" '또' 매수 사이드카…코스피도 오락가락",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006303073&office_id=018&mode=mainnews&type=&date=2026-06-11&page=1"
     },
     {
-      "title": "코스피, 등락 거듭 '갈팡질팡'…'4%→1%'로 낙폭줄여 7,500선",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016132932&office_id=001&mode=mainnews&type=&date=2026-06-11&page=1"
+      "title": "\"목표액의 4배 380조 몰렸다\"...스페이스X 상장 D-1",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001255070&office_id=215&mode=mainnews&type=&date=2026-06-11&page=1"
     },
     {
-      "title": "빚투, 오로지 삼전닉스 ‘올인’…두 종목만 4667억 폭증",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002797031&office_id=021&mode=mainnews&type=&date=2026-06-11&page=1"
+      "title": "주성엔지 24%, 원익IPS 20% 상승…반도체 소부장株 초강세 [줍줍리포트]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004630082&office_id=011&mode=mainnews&type=&date=2026-06-11&page=1"
     },
     {
-      "title": "GS건설 빠지고 HD건설기계 들어온다…코스피200 산업재 '지형 변화'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000086128&office_id=293&mode=mainnews&type=&date=2026-06-11&page=1"
+      "title": "테라파워와 차세대 SMR ‘맞손’ SK이노…JP모간 “재평가 기회”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005692460&office_id=009&mode=mainnews&type=&date=2026-06-11&page=1"
     }
   ]
 }
