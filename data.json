@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-06-11 05:57:02",
+  "lastUpdated": "2026-06-11 09:49:00",
   "date": "2026.06.11",
   "kospi": {
     "name": "KOSPI",
-    "current": "7728.08",
-    "change": "2.74",
-    "changePct": "0.04",
+    "current": "7763.95",
+    "change": "33.13",
+    "changePct": "0.43",
     "direction": "up",
-    "volume": "393608",
-    "tradeAmount": "33605503"
+    "volume": "478730",
+    "tradeAmount": "46400773"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "298750",
-      "change": "-3750",
-      "changePct": "-1.24",
+      "current": "299000",
+      "change": "-3500",
+      "changePct": "-1.16",
       "direction": "down",
-      "volume": "21291328",
+      "volume": "30074908",
       "high": "306500",
       "low": "287500",
       "open": "290500",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2089000",
-      "change": "41000",
-      "changePct": "2.00",
+      "current": "2101000",
+      "change": "53000",
+      "changePct": "2.59",
       "direction": "up",
-      "volume": "4767983",
+      "volume": "6363611",
       "high": "2163000",
       "low": "1960000",
       "open": "1975000",
@@ -43,12 +43,12 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "103800",
-      "change": "-4900",
-      "changePct": "-4.51",
+      "current": "107500",
+      "change": "-1200",
+      "changePct": "-1.10",
       "direction": "down",
-      "volume": "701573",
-      "high": "105100",
+      "volume": "1263892",
+      "high": "107500",
       "low": "99600",
       "open": "103400",
       "marketCap": "0"
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "222250",
-      "change": "-4750",
-      "changePct": "-2.09",
+      "current": "224000",
+      "change": "-3000",
+      "changePct": "-1.32",
       "direction": "down",
-      "volume": "1847334",
+      "volume": "2216964",
       "high": "228500",
       "low": "218500",
       "open": "218500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1528.70",
-      "change": "4.20",
+      "value": "1530.60",
+      "change": "6.10",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "952.22",
-      "change": "2.52",
+      "value": "953.47",
+      "change": "3.77",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1765.27",
-      "change": "7.52",
+      "value": "1765.39",
+      "change": "7.64",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "225.58",
-      "change": "0.74",
+      "value": "225.73",
+      "change": "0.89",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "201292.48",
-      "change": "2296.76",
+      "value": "201103.48",
+      "change": "2107.76",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "“사고 안 났는데”… 하나·키움운용, 하닉 레버리지 ETF 괴리율 폭증, 왜?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001171093&office_id=366&mode=mainnews&type=&date=2026-06-11&page=1"
+      "title": "하나증권, 서진시스템 200만주 블록딜로 전량청산[only 이데일리]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006303385&office_id=018&mode=mainnews&type=&date=2026-06-11&page=1"
     },
     {
-      "title": "금융당국, '거액 세금 미공시' 서진시스템 조사착수[only 이데일리]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006303080&office_id=018&mode=mainnews&type=&date=2026-06-11&page=1"
+      "title": "“스페이스X 막차 타자”…우주 ETF에 하루 새 500억 몰렸다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004630230&office_id=011&mode=mainnews&type=&date=2026-06-11&page=1"
     },
     {
-      "title": "미국 스페이스X보다 영국 ‘스페이스X 레버리지’가 먼저 상장…사상 초유 사태",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005692479&office_id=009&mode=mainnews&type=&date=2026-06-11&page=1"
+      "title": "피지컬 AI·반도체에 몰린 공매도…강세장 시험대",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000099025&office_id=243&mode=mainnews&type=&date=2026-06-11&page=1"
     },
     {
-      "title": "시급 4만원 용접공도 백만장자…'상장 D-1' 스페이스X의 '부의효과'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008998533&office_id=421&mode=mainnews&type=&date=2026-06-11&page=1"
+      "title": "“8천피라는데 내 계좌 왜 파랗죠”…상장사 68%는 아직 저평가",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005692703&office_id=009&mode=mainnews&type=&date=2026-06-11&page=1"
     },
     {
-      "title": "\"롤러코스닥!\" '또' 매수 사이드카…코스피도 오락가락",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006303073&office_id=018&mode=mainnews&type=&date=2026-06-11&page=1"
+      "title": "\"메모리株 건재…만스피 여력있다\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005692692&office_id=009&mode=mainnews&type=&date=2026-06-11&page=1"
     },
     {
-      "title": "\"목표액의 4배 380조 몰렸다\"...스페이스X 상장 D-1",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001255070&office_id=215&mode=mainnews&type=&date=2026-06-11&page=1"
+      "title": "분할도 병합도 안돼 … 황제·동전ETF 넘칠판",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005692691&office_id=009&mode=mainnews&type=&date=2026-06-11&page=1"
     },
     {
-      "title": "주성엔지 24%, 원익IPS 20% 상승…반도체 소부장株 초강세 [줍줍리포트]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004630082&office_id=011&mode=mainnews&type=&date=2026-06-11&page=1"
+      "title": "24일째 순매도 외국인…삼전·닉스 '차익실현' 언제 끝날까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001147186&office_id=417&mode=mainnews&type=&date=2026-06-11&page=1"
     },
     {
-      "title": "테라파워와 차세대 SMR ‘맞손’ SK이노…JP모간 “재평가 기회”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005692460&office_id=009&mode=mainnews&type=&date=2026-06-11&page=1"
+      "title": "IPO 차질에 고육책…“합병·지분 매각 잇따를 것”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004630214&office_id=011&mode=mainnews&type=&date=2026-06-11&page=1"
     }
   ]
 }
