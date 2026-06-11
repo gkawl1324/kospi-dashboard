@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11 09:49:00",
+  "lastUpdated": "2026-06-11 10:54:03",
   "date": "2026.06.11",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1530.60",
-      "change": "6.10",
+      "value": "1531.10",
+      "change": "6.60",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "953.47",
-      "change": "3.77",
+      "value": "953.78",
+      "change": "4.08",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1765.39",
-      "change": "7.64",
+      "value": "1765.28",
+      "change": "7.53",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "225.73",
-      "change": "0.89",
+      "value": "225.81",
+      "change": "0.97",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "201103.48",
-      "change": "2107.76",
+      "value": "201418.7",
+      "change": "2422.98",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,6 +142,18 @@
   ],
   "news": [
     {
+      "title": "‘강제로 내 주식이 팔렸다’ 함부로 했다간 빚더미…‘초단기 빚투’ 강제청산 10% 돌파 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002655453&office_id=016&mode=mainnews&type=&date=2026-06-11&page=1"
+    },
+    {
+      "title": "1조도 예상됐는데, 왜?  / 소송하면 과징금 줄어드나? / 미국이 또 움질일까?[뉴스추적]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001953412&office_id=057&mode=mainnews&type=&date=2026-06-11&page=1"
+    },
+    {
+      "title": "레버리지도 마이너스, 곱버스도 손실…오락가락 증시에 개미들 멘붕",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0008999237&office_id=421&mode=mainnews&type=&date=2026-06-11&page=1"
+    },
+    {
       "title": "하나증권, 서진시스템 200만주 블록딜로 전량청산[only 이데일리]",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0006303385&office_id=018&mode=mainnews&type=&date=2026-06-11&page=1"
     },
@@ -160,18 +172,6 @@
     {
       "title": "\"메모리株 건재…만스피 여력있다\"",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005692692&office_id=009&mode=mainnews&type=&date=2026-06-11&page=1"
-    },
-    {
-      "title": "분할도 병합도 안돼 … 황제·동전ETF 넘칠판",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005692691&office_id=009&mode=mainnews&type=&date=2026-06-11&page=1"
-    },
-    {
-      "title": "24일째 순매도 외국인…삼전·닉스 '차익실현' 언제 끝날까",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001147186&office_id=417&mode=mainnews&type=&date=2026-06-11&page=1"
-    },
-    {
-      "title": "IPO 차질에 고육책…“합병·지분 매각 잇따를 것”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004630214&office_id=011&mode=mainnews&type=&date=2026-06-11&page=1"
     }
   ]
 }
