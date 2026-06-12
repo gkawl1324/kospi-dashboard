@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-06-12 05:12:24",
+  "lastUpdated": "2026-06-12 05:54:08",
   "date": "2026.06.12",
   "kospi": {
     "name": "KOSPI",
-    "current": "8365.47",
-    "change": "601.52",
-    "changePct": "7.75",
+    "current": "8171.48",
+    "change": "407.53",
+    "changePct": "5.25",
     "direction": "up",
-    "volume": "384715",
-    "tradeAmount": "35318784"
+    "volume": "438424",
+    "tradeAmount": "42167539"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "333250",
-      "change": "34250",
-      "changePct": "11.45",
+      "current": "324500",
+      "change": "25500",
+      "changePct": "8.53",
       "direction": "up",
-      "volume": "22009728",
+      "volume": "25415449",
       "high": "339000",
-      "low": "325000",
+      "low": "320000",
       "open": "326000",
       "marketCap": "0"
     },
@@ -29,13 +29,13 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2276000",
-      "change": "175000",
-      "changePct": "8.33",
+      "current": "2204000",
+      "change": "103000",
+      "changePct": "4.90",
       "direction": "up",
-      "volume": "2949908",
+      "volume": "3548574",
       "high": "2304000",
-      "low": "2241000",
+      "low": "2164000",
       "open": "2281000",
       "marketCap": "0"
     },
@@ -43,13 +43,13 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "107100",
-      "change": "-400",
-      "changePct": "-0.37",
+      "current": "105700",
+      "change": "-1800",
+      "changePct": "-1.67",
       "direction": "down",
-      "volume": "390646",
+      "volume": "518582",
       "high": "113000",
-      "low": "107000",
+      "low": "104900",
       "open": "111500",
       "marketCap": "0"
     },
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "249500",
-      "change": "25500",
-      "changePct": "11.38",
+      "current": "245000",
+      "change": "21000",
+      "changePct": "9.38",
       "direction": "up",
-      "volume": "4034607",
+      "volume": "4744223",
       "high": "263000",
       "low": "231000",
       "open": "232000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1522.00",
-      "change": "3.00",
+      "value": "1521.70",
+      "change": "2.70",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "949.65",
-      "change": "0.78",
+      "value": "949.05",
+      "change": "0.18",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1760.73",
-      "change": "2.56",
+      "value": "1759.16",
+      "change": "0.99",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "224.97",
-      "change": "0.40",
+      "value": "224.93",
+      "change": "0.36",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "204797.45",
-      "change": "960.97",
+      "value": "204531.73",
+      "change": "1226.69",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,6 +142,14 @@
   ],
   "news": [
     {
+      "title": "스페이스X 잡아라…미래·한투 '우주테크' ETF 경쟁 후끈[체크!ETF]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001147306&office_id=417&mode=mainnews&type=&date=2026-06-12&page=1"
+    },
+    {
+      "title": "'형님' 삼전닉스 따라 장비주 줄줄이 상한가…\"슈퍼사이클 초기 진입\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005371117&office_id=008&mode=mainnews&type=&date=2026-06-12&page=1"
+    },
+    {
       "title": "AI 소부장株 들썩…HPSP·원익IPS 나란히 상한가 [이런국장 저런주식]",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0004630506&office_id=011&mode=mainnews&type=&date=2026-06-12&page=1"
     },
@@ -158,20 +166,12 @@
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000507178&office_id=629&mode=mainnews&type=&date=2026-06-12&page=1"
     },
     {
-      "title": "남민우 다산 회장 \"디티에스 상장, 쪼개기 아닌 23억 투자의 3000억 결실\"",
+      "title": "'법정관리 기업을 글로벌 주역으로' 남민우 회장 \"디티에스 상장, 성장의 결실\"",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005371102&office_id=008&mode=mainnews&type=&date=2026-06-12&page=1"
     },
     {
       "title": "-1천만원 주식 손실, 6개월 숨긴 아내…\"신뢰 손상 vs 각자 자산\" 갑론을박",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000099050&office_id=243&mode=mainnews&type=&date=2026-06-12&page=1"
-    },
-    {
-      "title": "[단독] TIGER 미국우주테크, 스페이스X 상장 당일 편입 철회",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004630477&office_id=011&mode=mainnews&type=&date=2026-06-12&page=1"
-    },
-    {
-      "title": "24일간 75조 팔던 외국인이 돌아왔다…하루 만에 1.2조 '폭풍 매수'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005534146&office_id=014&mode=mainnews&type=&date=2026-06-12&page=1"
     }
   ]
 }
