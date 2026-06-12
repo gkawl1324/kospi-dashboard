@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-06-12 05:54:08",
+  "lastUpdated": "2026-06-12 09:40:52",
   "date": "2026.06.12",
   "kospi": {
     "name": "KOSPI",
-    "current": "8171.48",
-    "change": "407.53",
-    "changePct": "5.25",
+    "current": "8123.62",
+    "change": "359.67",
+    "changePct": "4.63",
     "direction": "up",
-    "volume": "438424",
-    "tradeAmount": "42167539"
+    "volume": "493406",
+    "tradeAmount": "52257644"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "324500",
-      "change": "25500",
-      "changePct": "8.53",
+      "current": "322500",
+      "change": "23500",
+      "changePct": "7.86",
       "direction": "up",
-      "volume": "25415449",
+      "volume": "30721836",
       "high": "339000",
       "low": "320000",
       "open": "326000",
@@ -29,13 +29,13 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2204000",
-      "change": "103000",
-      "changePct": "4.90",
+      "current": "2150000",
+      "change": "49000",
+      "changePct": "2.33",
       "direction": "up",
-      "volume": "3548574",
+      "volume": "4864614",
       "high": "2304000",
-      "low": "2164000",
+      "low": "2150000",
       "open": "2281000",
       "marketCap": "0"
     },
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "105700",
-      "change": "-1800",
-      "changePct": "-1.67",
+      "current": "106500",
+      "change": "-1000",
+      "changePct": "-0.93",
       "direction": "down",
-      "volume": "518582",
+      "volume": "625728",
       "high": "113000",
       "low": "104900",
       "open": "111500",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "245000",
-      "change": "21000",
-      "changePct": "9.38",
+      "current": "247000",
+      "change": "23000",
+      "changePct": "10.27",
       "direction": "up",
-      "volume": "4744223",
+      "volume": "5215884",
       "high": "263000",
       "low": "231000",
       "open": "232000",
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1521.70",
-      "change": "2.70",
-      "direction": "up"
+      "value": "1516.10",
+      "change": "2.90",
+      "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "949.05",
-      "change": "0.18",
-      "direction": "up"
+      "value": "947.62",
+      "change": "1.25",
+      "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1759.16",
-      "change": "0.99",
-      "direction": "up"
+      "value": "1756.55",
+      "change": "1.62",
+      "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "224.93",
-      "change": "0.36",
-      "direction": "up"
+      "value": "224.28",
+      "change": "0.29",
+      "direction": "down"
     }
   ],
   "oilPrices": [
@@ -118,9 +118,9 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "204531.73",
-      "change": "1226.69",
-      "direction": "down",
+      "value": "205912.02",
+      "change": "153.60",
+      "direction": "up",
       "unit": "USD/oz"
     },
     {
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "스페이스X 잡아라…미래·한투 '우주테크' ETF 경쟁 후끈[체크!ETF]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001147306&office_id=417&mode=mainnews&type=&date=2026-06-12&page=1"
+      "title": "“반도체 슈퍼사이클, 이제 시작…59만전자·500만닉스 간다” 노무라 전망",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004630646&office_id=011&mode=mainnews&type=&date=2026-06-12&page=1"
     },
     {
-      "title": "'형님' 삼전닉스 따라 장비주 줄줄이 상한가…\"슈퍼사이클 초기 진입\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005371117&office_id=008&mode=mainnews&type=&date=2026-06-12&page=1"
+      "title": "\"천재는 주식으로 움직인다\"...현대차의 '테슬라 전략'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005534284&office_id=014&mode=mainnews&type=&date=2026-06-12&page=1"
     },
     {
-      "title": "AI 소부장株 들썩…HPSP·원익IPS 나란히 상한가 [이런국장 저런주식]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004630506&office_id=011&mode=mainnews&type=&date=2026-06-12&page=1"
+      "title": "삼성전자·SK하이닉스에 ‘3배 베팅’ 가능해진다…개미들 또 몰릴까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004630639&office_id=011&mode=mainnews&type=&date=2026-06-12&page=1"
     },
     {
-      "title": "\"반도체 슈퍼사이클 이제 막 시작…코스피 1만 간다\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001255193&office_id=215&mode=mainnews&type=&date=2026-06-12&page=1"
+      "title": "\"삼전닉스 3배 터진다는데\"…'한국선 못 산다' 개미들 술렁",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005298225&office_id=015&mode=mainnews&type=&date=2026-06-12&page=1"
     },
     {
-      "title": "노무라 \"반도체 사이클 이제 막 시작…방산·車도 증시 이끌것\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016135718&office_id=001&mode=mainnews&type=&date=2026-06-12&page=1"
+      "title": "외국투자자 한달여만에 컴백 … 반도체·소부장  2.2조 '폭풍 쇼핑'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005693170&office_id=009&mode=mainnews&type=&date=2026-06-12&page=1"
     },
     {
-      "title": "與 \"DIP 조달\" vs 메리츠證 \"김병주 MBK회장 보증 필요\"…홈플러스 회생 교착",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000507178&office_id=629&mode=mainnews&type=&date=2026-06-12&page=1"
+      "title": "개미 주문만 1000억弗…스페이스X 신드롬",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004630628&office_id=011&mode=mainnews&type=&date=2026-06-12&page=1"
     },
     {
-      "title": "'법정관리 기업을 글로벌 주역으로' 남민우 회장 \"디티에스 상장, 성장의 결실\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005371102&office_id=008&mode=mainnews&type=&date=2026-06-12&page=1"
+      "title": "하이닉스 몰려간 개미, 29%가 한 달 내 담았다 [이런국장 저런주식]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004630627&office_id=011&mode=mainnews&type=&date=2026-06-12&page=1"
     },
     {
-      "title": "-1천만원 주식 손실, 6개월 숨긴 아내…\"신뢰 손상 vs 각자 자산\" 갑론을박",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000099050&office_id=243&mode=mainnews&type=&date=2026-06-12&page=1"
+      "title": "‘M10’ 재편 vs ‘메모리7’ 역습…AI 대장주 쟁탈전",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004630622&office_id=011&mode=mainnews&type=&date=2026-06-12&page=1"
     }
   ]
 }
