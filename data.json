@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-06-15 05:34:41",
+  "lastUpdated": "2026-06-15 06:30:44",
   "date": "2026.06.15",
   "kospi": {
     "name": "KOSPI",
-    "current": "8542.97",
-    "change": "419.35",
-    "changePct": "5.16",
+    "current": "8525.89",
+    "change": "402.27",
+    "changePct": "4.95",
     "direction": "up",
-    "volume": "443324",
-    "tradeAmount": "31116345"
+    "volume": "497212",
+    "tradeAmount": "35900231"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "336750",
-      "change": "14250",
-      "changePct": "4.42",
+      "current": "336500",
+      "change": "14000",
+      "changePct": "4.34",
       "direction": "up",
-      "volume": "15480307",
+      "volume": "18108228",
       "high": "344500",
-      "low": "335000",
+      "low": "334000",
       "open": "342500",
       "marketCap": "0"
     },
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2294000",
-      "change": "144000",
-      "changePct": "6.70",
+      "current": "2285000",
+      "change": "135000",
+      "changePct": "6.28",
       "direction": "up",
-      "volume": "2754487",
+      "volume": "3162821",
       "high": "2322000",
       "low": "2265000",
       "open": "2283000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "115800",
-      "change": "9300",
-      "changePct": "8.73",
+      "current": "115900",
+      "change": "9400",
+      "changePct": "8.83",
       "direction": "up",
-      "volume": "467382",
+      "volume": "574775",
       "high": "117650",
       "low": "108800",
       "open": "109400",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "249500",
-      "change": "2500",
-      "changePct": "1.01",
+      "current": "248000",
+      "change": "1000",
+      "changePct": "0.40",
       "direction": "up",
-      "volume": "1665988",
+      "volume": "1905020",
       "high": "257500",
       "low": "245500",
       "open": "256000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1508.90",
-      "change": "5.80",
+      "value": "1511.40",
+      "change": "3.30",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "942.89",
-      "change": "4.45",
+      "value": "943.89",
+      "change": "3.45",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1752.96",
-      "change": "5.68",
+      "value": "1754.66",
+      "change": "3.98",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "223.33",
-      "change": "0.84",
+      "value": "223.66",
+      "change": "0.51",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "210200.08",
-      "change": "3902.95",
+      "value": "209204.51",
+      "change": "2907.38",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "스페이스X, 한국만 ‘배정 X’…‘코리아 패싱’ 논란 확산",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003101132&office_id=119&mode=mainnews&type=&date=2026-06-15&page=1"
+      "title": "중앙그룹 회생절차 후폭풍…재무적 투자자 엑시트도 불투명",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005776525&office_id=277&mode=mainnews&type=&date=2026-06-15&page=1"
     },
     {
-      "title": "“중복상장은 3%룰 사안 아냐…일반주주 다수결 도입해야”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006306707&office_id=018&mode=mainnews&type=&date=2026-06-15&page=1"
+      "title": "스페이스X 물량 받았는데도…미래에셋벤처투자 20% 급락 [이런국장 저런주식]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004631261&office_id=011&mode=mainnews&type=&date=2026-06-15&page=1"
     },
     {
-      "title": "소문난 우주 잔치, 국내투자자는 문전박대[스페이스X IPO 후폭풍]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000048019&office_id=648&mode=mainnews&type=&date=2026-06-15&page=1"
+      "title": "연금 받아도 월 70만원뿐…“노후, 현금흐름부터 다시 짜야”(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006306803&office_id=018&mode=mainnews&type=&date=2026-06-15&page=1"
     },
     {
-      "title": "'34만전자·230만닉스' 터치...종전 훈풍에 '반도체 투톱' 펄펄",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005534958&office_id=014&mode=mainnews&type=&date=2026-06-15&page=1"
+      "title": "전량 삭감 '쓴 맛'...\"세기의 IPO 도전이 성과\" [마켓딥다이브]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001255428&office_id=215&mode=mainnews&type=&date=2026-06-15&page=1"
     },
     {
-      "title": "“전쟁 끝났다” 트럼프 한마디에 코스피 9000 가나…증권가 “반도체주 보유해야”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004631217&office_id=011&mode=mainnews&type=&date=2026-06-15&page=1"
+      "title": "“FOMC 앞두고 전쟁 끝”…주목할 수혜주·피해주는?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005694006&office_id=009&mode=mainnews&type=&date=2026-06-15&page=1"
     },
     {
-      "title": "'남의 잔치' 된 스페이스X 상장…금감원, '투자자 손실' 검사 착수",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009004201&office_id=421&mode=mainnews&type=&date=2026-06-15&page=1"
+      "title": "당국 경고에도 ‘스페이스X 마케팅’… 속만 쓰린 ‘소문난 잔치’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001171954&office_id=366&mode=mainnews&type=&date=2026-06-15&page=1"
     },
     {
-      "title": "SK하이닉스, 팬데믹 시절 HMM과는 다르다…“고점론은 시기상조”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005693951&office_id=009&mode=mainnews&type=&date=2026-06-15&page=1"
+      "title": "\"매력 뭐길래\" 항공기부품 업체 율곡 인수전에 대형PE들 '격돌' [fn마켓워치]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005534997&office_id=014&mode=mainnews&type=&date=2026-06-15&page=1"
     },
     {
-      "title": "'1조 실적' 윤병운도 엎었다…NH투자증권, 새판짜기 승부수 통할까?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000507640&office_id=629&mode=mainnews&type=&date=2026-06-15&page=1"
+      "title": "저평가 된 '반도체 소부장주' 엠엑스온, 볕 드나",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005534995&office_id=014&mode=mainnews&type=&date=2026-06-15&page=1"
     }
   ]
 }
