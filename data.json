@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-06-16 05:43:27",
+  "lastUpdated": "2026-06-16 06:36:58",
   "date": "2026.06.16",
   "kospi": {
     "name": "KOSPI",
-    "current": "8689.87",
-    "change": "143.89",
-    "changePct": "1.68",
+    "current": "8726.60",
+    "change": "180.62",
+    "changePct": "2.11",
     "direction": "up",
-    "volume": "526019",
-    "tradeAmount": "34065253"
+    "volume": "582365",
+    "tradeAmount": "39426626"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "340500",
-      "change": "3500",
-      "changePct": "1.04",
+      "current": "343000",
+      "change": "6000",
+      "changePct": "1.78",
       "direction": "up",
-      "volume": "13917063",
+      "volume": "16693800",
       "high": "345500",
       "low": "332500",
       "open": "343000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2370000",
-      "change": "82000",
-      "changePct": "3.58",
+      "current": "2382000",
+      "change": "94000",
+      "changePct": "4.11",
       "direction": "up",
-      "volume": "2799171",
+      "volume": "3362556",
       "high": "2400000",
       "low": "2286000",
       "open": "2381000",
@@ -43,13 +43,13 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "114400",
-      "change": "-4000",
-      "changePct": "-3.38",
+      "current": "114100",
+      "change": "-4300",
+      "changePct": "-3.63",
       "direction": "down",
-      "volume": "1076538",
+      "volume": "1367347",
       "high": "118200",
-      "low": "113500",
+      "low": "112800",
       "open": "118000",
       "marketCap": "0"
     },
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "240750",
-      "change": "-7250",
-      "changePct": "-2.92",
+      "current": "242000",
+      "change": "-6000",
+      "changePct": "-2.42",
       "direction": "down",
-      "volume": "2293715",
+      "volume": "2477758",
       "high": "265500",
       "low": "239500",
       "open": "255000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1513.50",
-      "change": "2.00",
+      "value": "1511.60",
+      "change": "3.90",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "944.31",
-      "change": "0.87",
+      "value": "943.48",
+      "change": "1.70",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1752.48",
-      "change": "3.68",
+      "value": "1750.96",
+      "change": "5.20",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "223.81",
-      "change": "0.41",
+      "value": "223.56",
+      "change": "0.66",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "210138.16",
-      "change": "1130.53",
+      "value": "209835.2",
+      "change": "1433.49",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
+      "title": "“‘237만닉스’까지 갈 줄이야” 상상도 못했다…삼성까지 따라잡을 기세",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002657361&office_id=016&mode=mainnews&type=&date=2026-06-16&page=1"
+    },
+    {
+      "title": "“삼성이 보스턴다이내믹스 주주로?”…한투證, IPO 시나리오 제시[줍줍리포트]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004631672&office_id=011&mode=mainnews&type=&date=2026-06-16&page=1"
+    },
+    {
+      "title": "한국 버거킹 매각 3년 만에 재시동",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005694528&office_id=009&mode=mainnews&type=&date=2026-06-16&page=1"
+    },
+    {
+      "title": "美풍력발전 규제 해소 기대…씨에스윈드 30% 급등 [매경 자이앤트]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005694527&office_id=009&mode=mainnews&type=&date=2026-06-16&page=1"
+    },
+    {
+      "title": "교보증권, 11호 종투사 진입 총력전…교보생명 지원 '관건'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000508024&office_id=629&mode=mainnews&type=&date=2026-06-16&page=1"
+    },
+    {
+      "title": "화물 운임 덕 봤는데...대한항공, 종전 호재에도 '고민'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001255567&office_id=215&mode=mainnews&type=&date=2026-06-16&page=1"
+    },
+    {
+      "title": "금감원, '스페이스X 0주 배정' 미래에셋 검사 확대",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000185821&office_id=654&mode=mainnews&type=&date=2026-06-16&page=1"
+    },
+    {
       "title": "2주간 19% 내린 삼성전기…'ETF 리밸런싱' 부담 털고 반등 준비 끝",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0009006571&office_id=421&mode=mainnews&type=&date=2026-06-16&page=1"
-    },
-    {
-      "title": "에너지 안보 화두에 볕든 신재생株…SK이터닉스 22% 급등[이런국장 저런주식]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004631642&office_id=011&mode=mainnews&type=&date=2026-06-16&page=1"
-    },
-    {
-      "title": "주가 10배로 폭등한 삼성전기… ETF 한도 도달해 이달 5000억 매도 ‘폭탄’ 우려",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001172181&office_id=366&mode=mainnews&type=&date=2026-06-16&page=1"
-    },
-    {
-      "title": "‘코리아 패싱’ 왜?… 스페이스X ‘0주 배정’ 후폭풍, 당국·미래에셋증권 책임론 부각",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002231032&office_id=138&mode=mainnews&type=&date=2026-06-16&page=1"
-    },
-    {
-      "title": "월배당 인기에 커버드콜 ETF 24조원대로…“분배율만 보고 투자 말아야”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006307403&office_id=018&mode=mainnews&type=&date=2026-06-16&page=1"
-    },
-    {
-      "title": "코스피 1만고지 보인다…\"반도체가 끌고 정책이 민다\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005777008&office_id=277&mode=mainnews&type=&date=2026-06-16&page=1"
-    },
-    {
-      "title": "초고수들, 종전 훈풍에 방산주 차익실현…이틀 연속 삼성전자 베팅[주식초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004631596&office_id=011&mode=mainnews&type=&date=2026-06-16&page=1"
-    },
-    {
-      "title": "코스피, '상승폭 다소 둔화' 8,600선 등락…한때 하락 전환도",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016141140&office_id=001&mode=mainnews&type=&date=2026-06-16&page=1"
     }
   ]
 }
