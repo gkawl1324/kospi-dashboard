@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16 06:36:58",
+  "lastUpdated": "2026-06-16 11:39:37",
   "date": "2026.06.16",
   "kospi": {
     "name": "KOSPI",
@@ -7,8 +7,8 @@
     "change": "180.62",
     "changePct": "2.11",
     "direction": "up",
-    "volume": "582365",
-    "tradeAmount": "39426626"
+    "volume": "586337",
+    "tradeAmount": "40568508"
   },
   "stocks": [
     {
@@ -19,7 +19,7 @@
       "change": "6000",
       "changePct": "1.78",
       "direction": "up",
-      "volume": "16693800",
+      "volume": "16694918",
       "high": "345500",
       "low": "332500",
       "open": "343000",
@@ -33,7 +33,7 @@
       "change": "94000",
       "changePct": "4.11",
       "direction": "up",
-      "volume": "3362556",
+      "volume": "3364024",
       "high": "2400000",
       "low": "2286000",
       "open": "2381000",
@@ -47,7 +47,7 @@
       "change": "-4300",
       "changePct": "-3.63",
       "direction": "down",
-      "volume": "1367347",
+      "volume": "1367350",
       "high": "118200",
       "low": "112800",
       "open": "118000",
@@ -61,7 +61,7 @@
       "change": "-6000",
       "changePct": "-2.42",
       "direction": "down",
-      "volume": "2477758",
+      "volume": "2478046",
       "high": "265500",
       "low": "239500",
       "open": "255000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1511.60",
-      "change": "3.90",
+      "value": "1508.20",
+      "change": "7.30",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "943.48",
-      "change": "1.70",
+      "value": "940.66",
+      "change": "4.52",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1750.96",
-      "change": "5.20",
+      "value": "1750.04",
+      "change": "6.12",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "223.56",
-      "change": "0.66",
+      "value": "223.18",
+      "change": "1.04",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "209835.2",
-      "change": "1433.49",
+      "value": "210280.4",
+      "change": "988.29",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "“‘237만닉스’까지 갈 줄이야” 상상도 못했다…삼성까지 따라잡을 기세",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002657361&office_id=016&mode=mainnews&type=&date=2026-06-16&page=1"
+      "title": "전쟁 인플레에 EU 이어 日 금리 올려…韓도 인상 힘실려",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003727232&office_id=020&mode=mainnews&type=&date=2026-06-16&page=1"
     },
     {
-      "title": "“삼성이 보스턴다이내믹스 주주로?”…한투證, IPO 시나리오 제시[줍줍리포트]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004631672&office_id=011&mode=mainnews&type=&date=2026-06-16&page=1"
+      "title": "나만 비켜간 스페이스X 상장 빔?… ETF 편입시점 따라 희비",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005535775&office_id=014&mode=mainnews&type=&date=2026-06-16&page=1"
     },
     {
-      "title": "한국 버거킹 매각 3년 만에 재시동",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005694528&office_id=009&mode=mainnews&type=&date=2026-06-16&page=1"
+      "title": "“스페이스X는 42%나 올랐는데” ETF 주가는 왜 이래?…속 터지는 투자자들 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002657437&office_id=016&mode=mainnews&type=&date=2026-06-16&page=1"
     },
     {
-      "title": "美풍력발전 규제 해소 기대…씨에스윈드 30% 급등 [매경 자이앤트]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005694527&office_id=009&mode=mainnews&type=&date=2026-06-16&page=1"
+      "title": "8년 전 헐값 인수…AI 열풍에 23조 '초대박'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001255614&office_id=215&mode=mainnews&type=&date=2026-06-16&page=1"
     },
     {
-      "title": "교보증권, 11호 종투사 진입 총력전…교보생명 지원 '관건'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000508024&office_id=629&mode=mainnews&type=&date=2026-06-16&page=1"
+      "title": "\"반도체보다 더 올랐네\"…종전 합의에 '상승률 1위' 업종은",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001035509&office_id=031&mode=mainnews&type=&date=2026-06-16&page=1"
     },
     {
-      "title": "화물 운임 덕 봤는데...대한항공, 종전 호재에도 '고민'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001255567&office_id=215&mode=mainnews&type=&date=2026-06-16&page=1"
+      "title": "삼성운용, 3년만에 배터리ETF 내놓는다…23일 출격",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001255613&office_id=215&mode=mainnews&type=&date=2026-06-16&page=1"
     },
     {
-      "title": "금감원, '스페이스X 0주 배정' 미래에셋 검사 확대",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000185821&office_id=654&mode=mainnews&type=&date=2026-06-16&page=1"
+      "title": "美·이란 종전 합의에 돌아온 외국인…3거래일간 5.8조 순매수",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003727229&office_id=020&mode=mainnews&type=&date=2026-06-16&page=1"
     },
     {
-      "title": "2주간 19% 내린 삼성전기…'ETF 리밸런싱' 부담 털고 반등 준비 끝",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009006571&office_id=421&mode=mainnews&type=&date=2026-06-16&page=1"
+      "title": "SK그룹 시총 2000조 넘었다…국내 증시 비중 4분의 1로 껑충 [마켓시그널]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004631792&office_id=011&mode=mainnews&type=&date=2026-06-16&page=1"
     }
   ]
 }
