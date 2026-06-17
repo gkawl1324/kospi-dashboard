@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-06-17 05:22:41",
+  "lastUpdated": "2026-06-17 06:20:49",
   "date": "2026.06.17",
   "kospi": {
     "name": "KOSPI",
-    "current": "8808.23",
-    "change": "81.63",
-    "changePct": "0.94",
+    "current": "8857.78",
+    "change": "131.18",
+    "changePct": "1.50",
     "direction": "up",
-    "volume": "490759",
-    "tradeAmount": "26649464"
+    "volume": "555561",
+    "tradeAmount": "32814041"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "342250",
-      "change": "-750",
-      "changePct": "-0.22",
-      "direction": "down",
-      "volume": "12799777",
-      "high": "342500",
+      "current": "346000",
+      "change": "3000",
+      "changePct": "0.87",
+      "direction": "up",
+      "volume": "16422788",
+      "high": "348000",
       "low": "331500",
       "open": "332000",
       "marketCap": "0"
@@ -29,12 +29,12 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2495000",
-      "change": "113000",
-      "changePct": "4.74",
+      "current": "2522000",
+      "change": "140000",
+      "changePct": "5.88",
       "direction": "up",
-      "volume": "2622436",
-      "high": "2495000",
+      "volume": "3430603",
+      "high": "2523000",
       "low": "2334000",
       "open": "2335000",
       "marketCap": "0"
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "112100",
-      "change": "-2000",
-      "changePct": "-1.75",
+      "current": "111900",
+      "change": "-2200",
+      "changePct": "-1.93",
       "direction": "down",
-      "volume": "306844",
+      "volume": "370681",
       "high": "115000",
       "low": "110100",
       "open": "113000",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "245500",
-      "change": "3500",
-      "changePct": "1.45",
+      "current": "243500",
+      "change": "1500",
+      "changePct": "0.62",
       "direction": "up",
-      "volume": "941640",
+      "volume": "1102181",
       "high": "247500",
       "low": "234500",
       "open": "239500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1513.30",
-      "change": "2.30",
+      "value": "1511.60",
+      "change": "0.60",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "944.25",
-      "change": "2.41",
+      "value": "942.95",
+      "change": "1.11",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1757.62",
-      "change": "3.12",
+      "value": "1754.97",
+      "change": "0.47",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "224.01",
-      "change": "0.37",
+      "value": "223.70",
+      "change": "0.06",
       "direction": "up"
     }
   ],
@@ -118,9 +118,9 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "210590.13",
-      "change": "56.40",
-      "direction": "up",
+      "value": "210182.08",
+      "change": "351.65",
+      "direction": "down",
       "unit": "USD/oz"
     },
     {
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "두산, 코스피 불장 속 홀로 급락세…SK실트론 인수 독 됐나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000508331&office_id=629&mode=mainnews&type=&date=2026-06-17&page=1"
+      "title": "매월 '따박따박' 받으면 상승장선 덜 오른다더니…'반전'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005299760&office_id=015&mode=mainnews&type=&date=2026-06-17&page=1"
     },
     {
-      "title": "“안녕, 나 잊은 거 아니지?”…후속작 공개에 이틀 새 20% 급등한 ‘이 종목’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004632072&office_id=011&mode=mainnews&type=&date=2026-06-17&page=1"
+      "title": "중앙일보 회사채 값 반토막…EOD사유 발생에 1420억 조기상환 압박",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005373275&office_id=008&mode=mainnews&type=&date=2026-06-17&page=1"
     },
     {
-      "title": "개인 1.7조 '사자'에 코스피 상승 전환…8700선 회복",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006308170&office_id=018&mode=mainnews&type=&date=2026-06-17&page=1"
+      "title": "“이러다 진짜 구천피?”…‘250만 닉스’ 돌파에 코스피 8800 뚫었다 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002657891&office_id=016&mode=mainnews&type=&date=2026-06-17&page=1"
     },
     {
-      "title": "현지 규제에도 무리한 ETF 마케팅 '엇박자'[스페이스X 韓 패싱]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000086394&office_id=293&mode=mainnews&type=&date=2026-06-17&page=1"
+      "title": "‘250만닉스’ 고지 찍었다…SK하이닉스, 장중 최고가 경신 [코주부]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004632090&office_id=011&mode=mainnews&type=&date=2026-06-17&page=1"
     },
     {
-      "title": "한국 ‘버핏지수’ 세계1위 경고음… 머니광풍 속 ‘진격의 투자’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002798372&office_id=021&mode=mainnews&type=&date=2026-06-17&page=1"
+      "title": "MSCI 선진국 편입 청신호…'44조 유입' 효과 기대",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005536147&office_id=014&mode=mainnews&type=&date=2026-06-17&page=1"
     },
     {
-      "title": "“100년 동안 묵혀봤자 1%도 못 번다”…비트코인 암울한 전망에 개미들 ‘멘붕’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004632053&office_id=011&mode=mainnews&type=&date=2026-06-17&page=1"
+      "title": "\"M7? 이젠 망고스\"…추종 ETF 첫 출시 전망",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001255698&office_id=215&mode=mainnews&type=&date=2026-06-17&page=1"
     },
     {
-      "title": "[단독] RF시스템즈, 천궁-Ⅲ 공급망 합류…K-방산 협력망 넓어진다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002657785&office_id=016&mode=mainnews&type=&date=2026-06-17&page=1"
+      "title": "다음달 승강제 '윤곽'…코스닥 '지각변동' 대예고 [마켓딥다이브]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001255694&office_id=215&mode=mainnews&type=&date=2026-06-17&page=1"
     },
     {
-      "title": "코스피, 낙폭 줄이며 혼조…개인 매수에 상승전환도",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016143308&office_id=001&mode=mainnews&type=&date=2026-06-17&page=1"
+      "title": "블랙홀된 스페이스X, 美 반도체 '뚝'…코스피도 수급 경계감",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009008595&office_id=421&mode=mainnews&type=&date=2026-06-17&page=1"
     }
   ]
 }
