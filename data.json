@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-06-17 06:20:49",
+  "lastUpdated": "2026-06-17 10:12:23",
   "date": "2026.06.17",
   "kospi": {
     "name": "KOSPI",
-    "current": "8857.78",
-    "change": "131.18",
-    "changePct": "1.50",
+    "current": "8864.24",
+    "change": "137.64",
+    "changePct": "1.58",
     "direction": "up",
-    "volume": "555561",
-    "tradeAmount": "32814041"
+    "volume": "571194",
+    "tradeAmount": "35846048"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "346000",
-      "change": "3000",
-      "changePct": "0.87",
+      "current": "346500",
+      "change": "3500",
+      "changePct": "1.02",
       "direction": "up",
-      "volume": "16422788",
+      "volume": "17955897",
       "high": "348000",
       "low": "331500",
       "open": "332000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2522000",
-      "change": "140000",
-      "changePct": "5.88",
+      "current": "2521000",
+      "change": "139000",
+      "changePct": "5.84",
       "direction": "up",
-      "volume": "3430603",
+      "volume": "3753054",
       "high": "2523000",
       "low": "2334000",
       "open": "2335000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "111900",
-      "change": "-2200",
-      "changePct": "-1.93",
+      "current": "112500",
+      "change": "-1600",
+      "changePct": "-1.40",
       "direction": "down",
-      "volume": "370681",
+      "volume": "396947",
       "high": "115000",
       "low": "110100",
       "open": "113000",
@@ -61,7 +61,7 @@
       "change": "1500",
       "changePct": "0.62",
       "direction": "up",
-      "volume": "1102181",
+      "volume": "1155602",
       "high": "247500",
       "low": "234500",
       "open": "239500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1511.60",
-      "change": "0.60",
+      "value": "1516.30",
+      "change": "5.30",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "942.95",
-      "change": "1.11",
+      "value": "946.50",
+      "change": "4.66",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1754.97",
-      "change": "0.47",
+      "value": "1759.51",
+      "change": "5.01",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "223.70",
-      "change": "0.06",
+      "value": "224.33",
+      "change": "0.69",
       "direction": "up"
     }
   ],
@@ -118,9 +118,9 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "210182.08",
-      "change": "351.65",
-      "direction": "down",
+      "value": "211018.34",
+      "change": "484.61",
+      "direction": "up",
       "unit": "USD/oz"
     },
     {
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "매월 '따박따박' 받으면 상승장선 덜 오른다더니…'반전'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005299760&office_id=015&mode=mainnews&type=&date=2026-06-17&page=1"
+      "title": "“SK하이닉스 무섭네” 반도체 없는 그룹은 서러워…SK그룹주 2000조 돌파[투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002657992&office_id=016&mode=mainnews&type=&date=2026-06-17&page=1"
     },
     {
-      "title": "중앙일보 회사채 값 반토막…EOD사유 발생에 1420억 조기상환 압박",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005373275&office_id=008&mode=mainnews&type=&date=2026-06-17&page=1"
+      "title": "9000피 앞두고 경계감 확산…다시 불어난 대차거래 잔고",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005536315&office_id=014&mode=mainnews&type=&date=2026-06-17&page=1"
     },
     {
-      "title": "“이러다 진짜 구천피?”…‘250만 닉스’ 돌파에 코스피 8800 뚫었다 [투자360]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002657891&office_id=016&mode=mainnews&type=&date=2026-06-17&page=1"
+      "title": "'주주환원설 'SK하이닉스 250만원 넘었다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005536314&office_id=014&mode=mainnews&type=&date=2026-06-17&page=1"
     },
     {
-      "title": "‘250만닉스’ 고지 찍었다…SK하이닉스, 장중 최고가 경신 [코주부]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004632090&office_id=011&mode=mainnews&type=&date=2026-06-17&page=1"
+      "title": "韓 증시, MSCI 선진지수 재도전… 편입땐 자금 44조 유입",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005536313&office_id=014&mode=mainnews&type=&date=2026-06-17&page=1"
     },
     {
-      "title": "MSCI 선진국 편입 청신호…'44조 유입' 효과 기대",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005536147&office_id=014&mode=mainnews&type=&date=2026-06-17&page=1"
+      "title": "M&A 주주보호 두고 머리 맞댄 학계·당국·업계… 금융위 “의무공개매수 도입 시급”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001172491&office_id=366&mode=mainnews&type=&date=2026-06-17&page=1"
     },
     {
-      "title": "\"M7? 이젠 망고스\"…추종 ETF 첫 출시 전망",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001255698&office_id=215&mode=mainnews&type=&date=2026-06-17&page=1"
+      "title": "의무공개매수 제도 추진에 \"치밀히 설계해 꼼수 차단해야\" 전문가 조언",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001147974&office_id=417&mode=mainnews&type=&date=2026-06-17&page=1"
     },
     {
-      "title": "다음달 승강제 '윤곽'…코스닥 '지각변동' 대예고 [마켓딥다이브]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001255694&office_id=215&mode=mainnews&type=&date=2026-06-17&page=1"
+      "title": "[단독] 미래에셋 ‘고객 케어 프로그램’ 가동…환전 수수료·경과 이자 포함될 듯",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004632211&office_id=011&mode=mainnews&type=&date=2026-06-17&page=1"
     },
     {
-      "title": "블랙홀된 스페이스X, 美 반도체 '뚝'…코스피도 수급 경계감",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009008595&office_id=421&mode=mainnews&type=&date=2026-06-17&page=1"
+      "title": "서학개미 하루에만 1.2조 베팅…스페이스X 돌풍, RIA 효과 지웠다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004632210&office_id=011&mode=mainnews&type=&date=2026-06-17&page=1"
     }
   ]
 }
