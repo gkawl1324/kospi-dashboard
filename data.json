@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-06-18 05:13:52",
+  "lastUpdated": "2026-06-18 06:01:11",
   "date": "2026.06.18",
   "kospi": {
     "name": "KOSPI",
-    "current": "9000.62",
-    "change": "136.38",
-    "changePct": "1.54",
+    "current": "9071.45",
+    "change": "207.21",
+    "changePct": "2.34",
     "direction": "up",
-    "volume": "418515",
-    "tradeAmount": "37055272"
+    "volume": "468211",
+    "tradeAmount": "42883848"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "353500",
-      "change": "7000",
-      "changePct": "2.02",
+      "current": "357500",
+      "change": "11000",
+      "changePct": "3.17",
       "direction": "up",
-      "volume": "22538515",
-      "high": "357000",
+      "volume": "26134209",
+      "high": "359000",
       "low": "344500",
       "open": "345000",
       "marketCap": "0"
@@ -29,12 +29,12 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2682000",
-      "change": "161000",
-      "changePct": "6.39",
+      "current": "2726000",
+      "change": "205000",
+      "changePct": "8.13",
       "direction": "up",
-      "volume": "4001462",
-      "high": "2701000",
+      "volume": "4773786",
+      "high": "2738000",
       "low": "2556000",
       "open": "2556000",
       "marketCap": "0"
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "109800",
-      "change": "-2700",
-      "changePct": "-2.40",
+      "current": "109600",
+      "change": "-2900",
+      "changePct": "-2.58",
       "direction": "down",
-      "volume": "297386",
+      "volume": "357427",
       "high": "112000",
       "low": "108300",
       "open": "111400",
@@ -57,13 +57,13 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "237000",
-      "change": "-6500",
-      "changePct": "-2.67",
+      "current": "234500",
+      "change": "-9000",
+      "changePct": "-3.70",
       "direction": "down",
-      "volume": "940441",
+      "volume": "1146066",
       "high": "241000",
-      "low": "234500",
+      "low": "234000",
       "open": "241000",
       "marketCap": "0"
     }
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1520.50",
-      "change": "5.00",
+      "value": "1523.20",
+      "change": "2.30",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "946.79",
-      "change": "2.82",
+      "value": "948.33",
+      "change": "1.28",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1752.22",
-      "change": "2.41",
+      "value": "1753.74",
+      "change": "0.89",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "224.83",
-      "change": "0.32",
-      "direction": "down"
+      "value": "225.17",
+      "change": "0.02",
+      "direction": "up"
     }
   ],
   "oilPrices": [
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "211081.02",
-      "change": "1772.88",
+      "value": "210997.42",
+      "change": "1689.28",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
+      "title": "“신혼집 급 올렸다” “빚만 더 늘었다”…엇갈린 2030 ‘빚투’ 성적표",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004632533&office_id=011&mode=mainnews&type=&date=2026-06-18&page=1"
+    },
+    {
+      "title": "스페이스X를 어찌할꼬...우주ETF '이중고' [마켓딥다이브]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001255840&office_id=215&mode=mainnews&type=&date=2026-06-18&page=1"
+    },
+    {
+      "title": "코스피, 사상 첫 9,000 돌파…韓자본시장 역사 새로 썼다(종합2보)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016146222&office_id=001&mode=mainnews&type=&date=2026-06-18&page=1"
+    },
+    {
+      "title": "기폭제 된 '단일종목 레버리지'…양날의 검 된 고배율 유동성[9000 랠리]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014014387&office_id=003&mode=mainnews&type=&date=2026-06-18&page=1"
+    },
+    {
+      "title": "월덱스, 2대 주주 VIP운용 표대결 예고에 '밸류업' 맞불",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000048136&office_id=648&mode=mainnews&type=&date=2026-06-18&page=1"
+    },
+    {
+      "title": "스페이스X IPO하면 지수 투자하면 될까?…시총·비중 괴리에 “실제 노출도 확인해야”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001172673&office_id=366&mode=mainnews&type=&date=2026-06-18&page=1"
+    },
+    {
       "title": "투자의 시대…대규모 '머니무브' 9천피 동력[코스피 9,000]",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0016146109&office_id=001&mode=mainnews&type=&date=2026-06-18&page=1"
     },
     {
       "title": "‘35만 전자’·‘270만 닉스’ 고지 올랐는데…61만·500만원 간다고? [종목Pick]",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002658403&office_id=016&mode=mainnews&type=&date=2026-06-18&page=1"
-    },
-    {
-      "title": "9천피 고지 밟았지만…과열·쏠림·변동성 우려 여전[코스피 9,000]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016146043&office_id=001&mode=mainnews&type=&date=2026-06-18&page=1"
-    },
-    {
-      "title": "매파 돌변한 Fed 비웃었다…9천피 뚫은 '이유 있는 반란' [분석+]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005300192&office_id=015&mode=mainnews&type=&date=2026-06-18&page=1"
-    },
-    {
-      "title": "1년 만에 3배 뛴 코스피…9000 돌파, 다음은 어디까지",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000508652&office_id=629&mode=mainnews&type=&date=2026-06-18&page=1"
-    },
-    {
-      "title": "\"9천피 남들의 축제\"…개미는 울고 싶다[9000 랠리]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014014097&office_id=003&mode=mainnews&type=&date=2026-06-18&page=1"
-    },
-    {
-      "title": "\"코스피 반년 만에 두배 폭등\"…AI·반도체 밀고 '레버리지' 끌고[9000 랠리]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014014062&office_id=003&mode=mainnews&type=&date=2026-06-18&page=1"
-    },
-    {
-      "title": "장중 9000 뚫은 코스피… “삼전·닉스만 오르면 지수는 간다” [이런국장 저런주식]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004632506&office_id=011&mode=mainnews&type=&date=2026-06-18&page=1"
     }
   ]
 }
