@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-06-19 06:24:44",
+  "lastUpdated": "2026-06-19 11:01:46",
   "date": "2026.06.19",
   "kospi": {
     "name": "KOSPI",
-    "current": "9070.79",
-    "change": "6.95",
-    "changePct": "0.08",
+    "current": "9052.42",
+    "change": "11.42",
+    "changePct": "0.13",
     "direction": "up",
-    "volume": "467695",
-    "tradeAmount": "55302391"
+    "volume": "517248",
+    "tradeAmount": "67255170"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "357500",
-      "change": "-5000",
-      "changePct": "-1.38",
+      "current": "354000",
+      "change": "-8500",
+      "changePct": "-2.34",
       "direction": "down",
-      "volume": "34468680",
+      "volume": "42713286",
       "high": "374500",
       "low": "346250",
       "open": "372500",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2775000",
-      "change": "90000",
-      "changePct": "3.35",
+      "current": "2764000",
+      "change": "79000",
+      "changePct": "2.94",
       "direction": "up",
-      "volume": "5943963",
+      "volume": "7037272",
       "high": "2891000",
       "low": "2688000",
       "open": "2824000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "105800",
-      "change": "-4100",
-      "changePct": "-3.73",
+      "current": "108900",
+      "change": "-1000",
+      "changePct": "-0.91",
       "direction": "down",
-      "volume": "570853",
+      "volume": "761183",
       "high": "111100",
       "low": "103500",
       "open": "109200",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "228750",
-      "change": "-6250",
-      "changePct": "-2.66",
+      "current": "229500",
+      "change": "-5500",
+      "changePct": "-2.34",
       "direction": "down",
-      "volume": "1823590",
+      "volume": "2095857",
       "high": "245500",
       "low": "224000",
       "open": "236500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1527.60",
-      "change": "10.40",
+      "value": "1530.10",
+      "change": "7.90",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "946.62",
-      "change": "7.39",
+      "value": "948.72",
+      "change": "5.29",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1747.12",
-      "change": "15.66",
+      "value": "1754.03",
+      "change": "8.75",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "224.88",
-      "change": "2.02",
+      "value": "225.35",
+      "change": "1.55",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "204263.48",
-      "change": "3828.07",
+      "value": "204107.32",
+      "change": "3984.23",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "MSCI 훈풍에 반도체 랠리…코스피 9500선 넘본다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000099360&office_id=243&mode=mainnews&type=&date=2026-06-19&page=1"
+      "title": "MBK \"메리츠, 왜곡된 수익 추정으로 홈플 회생 본질 흐려\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009013824&office_id=421&mode=mainnews&type=&date=2026-06-19&page=1"
     },
     {
-      "title": "\"반도체로 벌어 명품 산다\"…백화점株, 지수상승률 '압도'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001255972&office_id=215&mode=mainnews&type=&date=2026-06-19&page=1"
+      "title": "“삼전닉스 빼면 남는 게 없다?” 무려 ‘70%’…처음으로 5000조까지 돌파 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002659069&office_id=016&mode=mainnews&type=&date=2026-06-19&page=1"
     },
     {
-      "title": "삼성전기 마저 막혔다...불장 속 '빚투 브레이크' 걸린 개미",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001255968&office_id=215&mode=mainnews&type=&date=2026-06-19&page=1"
+      "title": "올해만 700% 뛰었는데 “아직도 싸다”…‘300만원’까지 간다는 이 종목 뭐길래",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004633062&office_id=011&mode=mainnews&type=&date=2026-06-19&page=1"
     },
     {
-      "title": "“스페이스X 상장? 두 배로 먹자”…레버리지 1083억원 사들인 ‘불개미’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001172980&office_id=366&mode=mainnews&type=&date=2026-06-19&page=1"
+      "title": "공무원연금·우본도 찍었다…코람코, 거침없는 '영토 확장'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006310228&office_id=018&mode=mainnews&type=&date=2026-06-19&page=1"
     },
     {
-      "title": "삼전과 120조 차이…2천조 넘은 하이닉스 '7월 분수령'  [마켓딥다이브]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001255967&office_id=215&mode=mainnews&type=&date=2026-06-19&page=1"
+      "title": "SK하이닉스 시총 2000조 돌파",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005300805&office_id=015&mode=mainnews&type=&date=2026-06-19&page=1"
     },
     {
-      "title": "메리츠, MBK 재차 정조준…“홈플러스 투자로 1조 벌고도 보증 못하나”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004632937&office_id=011&mode=mainnews&type=&date=2026-06-19&page=1"
+      "title": "고점 부담에…레버리지 팔고 지수형 담은 개미",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004633027&office_id=011&mode=mainnews&type=&date=2026-06-19&page=1"
     },
     {
-      "title": "\"휴전 깨지는 것 아냐?\" 9000피도 와르르…\"급락주 담을 기회\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005374443&office_id=008&mode=mainnews&type=&date=2026-06-19&page=1"
+      "title": "상승장 기회·월분배 매력…올해 수익률 99% 넘었다[ETF 줌인]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004633024&office_id=011&mode=mainnews&type=&date=2026-06-19&page=1"
     },
     {
-      "title": "“그때 내가 왜 그랬을까, 삼전이나 더 살걸”…삼성전자, 비트코인 시총 앞섰다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004632910&office_id=011&mode=mainnews&type=&date=2026-06-19&page=1"
+      "title": "[단독] 단일종목 레버리지 왜곡 사고에…‘LP 평가’ 손본다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004633021&office_id=011&mode=mainnews&type=&date=2026-06-19&page=1"
     }
   ]
 }
