@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-06-19 05:32:15",
+  "lastUpdated": "2026-06-19 06:24:44",
   "date": "2026.06.19",
   "kospi": {
     "name": "KOSPI",
-    "current": "8912.07",
-    "change": "151.77",
-    "changePct": "1.67",
+    "current": "9070.79",
+    "change": "6.95",
+    "changePct": "0.08",
     "direction": "up",
-    "volume": "413762",
-    "tradeAmount": "47676795"
+    "volume": "467695",
+    "tradeAmount": "55302391"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "350750",
-      "change": "-11750",
-      "changePct": "-3.24",
+      "current": "357500",
+      "change": "-5000",
+      "changePct": "-1.38",
       "direction": "down",
-      "volume": "28751957",
+      "volume": "34468680",
       "high": "374500",
-      "low": "350000",
+      "low": "346250",
       "open": "372500",
       "marketCap": "0"
     },
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2720000",
-      "change": "35000",
-      "changePct": "1.30",
+      "current": "2775000",
+      "change": "90000",
+      "changePct": "3.35",
       "direction": "up",
-      "volume": "5180860",
+      "volume": "5943963",
       "high": "2891000",
       "low": "2688000",
       "open": "2824000",
@@ -43,13 +43,13 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "104000",
-      "change": "-5900",
-      "changePct": "-5.37",
+      "current": "105800",
+      "change": "-4100",
+      "changePct": "-3.73",
       "direction": "down",
-      "volume": "440273",
+      "volume": "570853",
       "high": "111100",
-      "low": "103600",
+      "low": "103500",
       "open": "109200",
       "marketCap": "0"
     },
@@ -57,13 +57,13 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "226000",
-      "change": "-9000",
-      "changePct": "-3.83",
+      "current": "228750",
+      "change": "-6250",
+      "changePct": "-2.66",
       "direction": "down",
-      "volume": "1593824",
+      "volume": "1823590",
       "high": "245500",
-      "low": "225000",
+      "low": "224000",
       "open": "236500",
       "marketCap": "0"
     }
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1537.60",
-      "change": "0.40",
+      "value": "1527.60",
+      "change": "10.40",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "952.66",
-      "change": "1.35",
+      "value": "946.62",
+      "change": "7.39",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1756.40",
-      "change": "6.38",
+      "value": "1747.12",
+      "change": "15.66",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "226.23",
-      "change": "0.67",
+      "value": "224.88",
+      "change": "2.02",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "204351.59",
-      "change": "3739.96",
+      "value": "204263.48",
+      "change": "3828.07",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
+      "title": "MSCI 훈풍에 반도체 랠리…코스피 9500선 넘본다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000099360&office_id=243&mode=mainnews&type=&date=2026-06-19&page=1"
+    },
+    {
+      "title": "\"반도체로 벌어 명품 산다\"…백화점株, 지수상승률 '압도'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001255972&office_id=215&mode=mainnews&type=&date=2026-06-19&page=1"
+    },
+    {
+      "title": "삼성전기 마저 막혔다...불장 속 '빚투 브레이크' 걸린 개미",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001255968&office_id=215&mode=mainnews&type=&date=2026-06-19&page=1"
+    },
+    {
+      "title": "“스페이스X 상장? 두 배로 먹자”…레버리지 1083억원 사들인 ‘불개미’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001172980&office_id=366&mode=mainnews&type=&date=2026-06-19&page=1"
+    },
+    {
+      "title": "삼전과 120조 차이…2천조 넘은 하이닉스 '7월 분수령'  [마켓딥다이브]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001255967&office_id=215&mode=mainnews&type=&date=2026-06-19&page=1"
+    },
+    {
+      "title": "메리츠, MBK 재차 정조준…“홈플러스 투자로 1조 벌고도 보증 못하나”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004632937&office_id=011&mode=mainnews&type=&date=2026-06-19&page=1"
+    },
+    {
+      "title": "\"휴전 깨지는 것 아냐?\" 9000피도 와르르…\"급락주 담을 기회\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005374443&office_id=008&mode=mainnews&type=&date=2026-06-19&page=1"
+    },
+    {
       "title": "“그때 내가 왜 그랬을까, 삼전이나 더 살걸”…삼성전자, 비트코인 시총 앞섰다",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0004632910&office_id=011&mode=mainnews&type=&date=2026-06-19&page=1"
-    },
-    {
-      "title": "반도체 쏠림에 ‘9000선’ 내준 코스피…코스닥은 5%대 급락[마켓시그널]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004632901&office_id=011&mode=mainnews&type=&date=2026-06-19&page=1"
-    },
-    {
-      "title": "메리츠금융 \"홈플러스 투자로 1.2조 챙긴 MBK…경영 책임 다해야\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005778802&office_id=277&mode=mainnews&type=&date=2026-06-19&page=1"
-    },
-    {
-      "title": "‘37만전자’ 담는 ‘상위 1%’…1만피 향해 반도체·전력기기株 베팅[주식초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004632890&office_id=011&mode=mainnews&type=&date=2026-06-19&page=1"
-    },
-    {
-      "title": "코스피, 2%대↑ 9,200선 등락…코스닥은 1,000선 내줘",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016147980&office_id=001&mode=mainnews&type=&date=2026-06-19&page=1"
-    },
-    {
-      "title": "'삼전닉스 패밀리' 일제히 신고가…코스피 최고치 행진 이끈다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005374355&office_id=008&mode=mainnews&type=&date=2026-06-19&page=1"
-    },
-    {
-      "title": "60대이상, 2배·3배 해외 ETF 대거 편입 [머니무브 뉴웨이브][H-EXCLUSIVE]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002658854&office_id=016&mode=mainnews&type=&date=2026-06-19&page=1"
-    },
-    {
-      "title": "“전세금 빼서 주식에”…고위험 레버리지도 거침없는 6070 [머니무브 뉴웨이브]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002658850&office_id=016&mode=mainnews&type=&date=2026-06-19&page=1"
     }
   ]
 }
