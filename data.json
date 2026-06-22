@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-06-22 05:39:31",
+  "lastUpdated": "2026-06-22 06:34:22",
   "date": "2026.06.22",
   "kospi": {
     "name": "KOSPI",
-    "current": "9099.23",
-    "change": "46.81",
-    "changePct": "0.52",
+    "current": "9114.55",
+    "change": "62.13",
+    "changePct": "0.69",
     "direction": "up",
-    "volume": "326684",
-    "tradeAmount": "34227061"
+    "volume": "377195",
+    "tradeAmount": "41404876"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "354000",
-      "change": "0",
-      "changePct": "0.00",
-      "direction": "up",
-      "volume": "20415924",
+      "current": "353500",
+      "change": "-500",
+      "changePct": "-0.14",
+      "direction": "down",
+      "volume": "24131597",
       "high": "363000",
       "low": "342000",
       "open": "343000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2895000",
-      "change": "131000",
-      "changePct": "4.74",
+      "current": "2919000",
+      "change": "155000",
+      "changePct": "5.61",
       "direction": "up",
-      "volume": "4024729",
+      "volume": "5057721",
       "high": "2945000",
       "low": "2728000",
       "open": "2728000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "110200",
-      "change": "1300",
-      "changePct": "1.19",
+      "current": "109900",
+      "change": "1000",
+      "changePct": "0.92",
       "direction": "up",
-      "volume": "464123",
+      "volume": "521377",
       "high": "114500",
       "low": "108000",
       "open": "112500",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "223500",
-      "change": "-6000",
-      "changePct": "-2.61",
+      "current": "222000",
+      "change": "-7500",
+      "changePct": "-3.27",
       "direction": "down",
-      "volume": "710566",
+      "volume": "865956",
       "high": "231000",
       "low": "222000",
       "open": "230000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1536.10",
-      "change": "3.10",
+      "value": "1538.90",
+      "change": "5.90",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "950.26",
-      "change": "0.03",
+      "value": "951.85",
+      "change": "1.62",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1760.68",
-      "change": "2.94",
+      "value": "1762.96",
+      "change": "5.22",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "226.58",
-      "change": "0.60",
+      "value": "227.01",
+      "change": "1.03",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "206983.44",
-      "change": "2022.33",
+      "value": "207421.81",
+      "change": "2460.70",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "26년 만 코스피 ‘지각변동’…삼전, 하이닉스에 왕좌 내줘",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001386436&office_id=082&mode=mainnews&type=&date=2026-06-22&page=1"
+      "title": "'삼전닉스' 랠리에 해외 코인거래소 상장한 무기한선물도 거래 폭증",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006312143&office_id=018&mode=mainnews&type=&date=2026-06-22&page=1"
     },
     {
-      "title": "시총 1위 내준 직후 하락 전환한 삼성전자…코스피도 함께 약세로",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005375225&office_id=008&mode=mainnews&type=&date=2026-06-22&page=1"
+      "title": "\"삼전으로 인생 바뀌어\"…부부교사 20억 '영끌 대박글' 술렁",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001256192&office_id=215&mode=mainnews&type=&date=2026-06-22&page=1"
     },
     {
-      "title": "10개 중 6개 하락한 코스닥…'동전주' 상폐 칼바람에 위기 고조",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000509455&office_id=629&mode=mainnews&type=&date=2026-06-22&page=1"
+      "title": "[단독]\"스페이스X ETF 광고는 사기\" 투자자 고소, 경찰 내사 착수",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005375288&office_id=008&mode=mainnews&type=&date=2026-06-22&page=1"
     },
     {
-      "title": "[속보] 반도체 대장 바뀌었다…SK하이닉스, 삼성전자 제치고 시총 1위 등극",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000186726&office_id=654&mode=mainnews&type=&date=2026-06-22&page=1"
+      "title": "이찬진 \"지배구조 개선안, KB회장 후보군 나오기 전 발표\"[일문일답]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016151994&office_id=001&mode=mainnews&type=&date=2026-06-22&page=1"
     },
     {
-      "title": "SK하이닉스, 장중 삼성전자 시총 제쳤다…26년 만에 ‘대장주’ 교체되나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002231639&office_id=138&mode=mainnews&type=&date=2026-06-22&page=1"
+      "title": "개인투자자\"올해 일만피 간다\"…10명 중 7명 삼전닉스 레버리지 '관심'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005375274&office_id=008&mode=mainnews&type=&date=2026-06-22&page=1"
     },
     {
-      "title": "SK하이닉스, 삼성전자 시총 첫 추월…26년 만에 코스피 지각변동",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005301306&office_id=015&mode=mainnews&type=&date=2026-06-22&page=1"
+      "title": "이찬진 \"스페이스X 공모주 당연히 배정될 줄…어처구니 없었다\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005375272&office_id=008&mode=mainnews&type=&date=2026-06-22&page=1"
     },
     {
-      "title": "AI가 바꾼 증시 왕좌…SK하이닉스, 삼성전자 시가총액 추월",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000509441&office_id=629&mode=mainnews&type=&date=2026-06-22&page=1"
+      "title": "이찬진 \"스페이스X 공모주 청약 실패, 어처구니없는 상황\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005779720&office_id=277&mode=mainnews&type=&date=2026-06-22&page=1"
     },
     {
-      "title": "초고수는 삼성전기 담고 SK하이닉스 덜었다…AI 수혜주 옥석가리기[주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004633622&office_id=011&mode=mainnews&type=&date=2026-06-22&page=1"
+      "title": "이찬진 금감원장 \"삼전닉스 레버리지 ETF 막았어야…후회\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005375271&office_id=008&mode=mainnews&type=&date=2026-06-22&page=1"
     }
   ]
 }
