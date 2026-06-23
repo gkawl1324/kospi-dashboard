@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23 08:41:24",
+  "lastUpdated": "2026-06-23 09:56:20",
   "date": "2026.06.23",
   "kospi": {
     "name": "KOSPI",
@@ -7,8 +7,8 @@
     "change": "910.71",
     "changePct": "9.99",
     "direction": "up",
-    "volume": "483711",
-    "tradeAmount": "59862350"
+    "volume": "488742",
+    "tradeAmount": "61428586"
   },
   "stocks": [
     {
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1538.70",
-      "change": "0.20",
-      "direction": "up"
+      "value": "1534.80",
+      "change": "3.70",
+      "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "952.90",
-      "change": "0.53",
-      "direction": "up"
+      "value": "950.93",
+      "change": "1.44",
+      "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1754.96",
-      "change": "3.16",
+      "value": "1751.13",
+      "change": "6.99",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "226.63",
-      "change": "0.35",
+      "value": "226.16",
+      "change": "0.82",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "202924.06",
-      "change": "4241.73",
+      "value": "202991.45",
+      "change": "4174.34",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "코스피 변동성지수 다시 90선 턱밑…급락장에 '경고등'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003103943&office_id=119&mode=mainnews&type=&date=2026-06-23&page=1"
+      "title": "\"물탈 돈도 떨어졌어요\"…폭락장 속 \"마이크론만 믿는다\" 왜?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001037099&office_id=031&mode=mainnews&type=&date=2026-06-23&page=1"
     },
     {
-      "title": "SK하이닉스, '목표가 430만원' 나왔는데 12% 급락…지금이 고점일까",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001148736&office_id=417&mode=mainnews&type=&date=2026-06-23&page=1"
+      "title": "“이러다 공모가까지 가겠네” 스페이스X 급락에 울상…3조원이나 폭풍매수한 서학개미 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002660506&office_id=016&mode=mainnews&type=&date=2026-06-23&page=1"
     },
     {
-      "title": "\"실물자산에 뭉칫돈 … 변동성 방어 매력적\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005697751&office_id=009&mode=mainnews&type=&date=2026-06-23&page=1"
+      "title": "국민연금, 5일간 1조5천억 팔았다… 증시 급락 부른 '리밸런싱'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005538718&office_id=014&mode=mainnews&type=&date=2026-06-23&page=1"
     },
     {
-      "title": "공매도 지표도 빚투도 역대급…요동치는 증시",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006313240&office_id=018&mode=mainnews&type=&date=2026-06-23&page=1"
+      "title": "하루 50조 오가는 코스피…종목 절반은 10억도 거래 안돼",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005538705&office_id=014&mode=mainnews&type=&date=2026-06-23&page=1"
     },
     {
-      "title": "황성엽 금투협회장 \"ETF 마케팅 과열…삼전닉스 레버리지 변동성 우려\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001148734&office_id=417&mode=mainnews&type=&date=2026-06-23&page=1"
+      "title": "\"SK하닉 시총, 삼전 넘으면 강세장 끝\"…폭락장에 재조명된 보고서",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014023455&office_id=003&mode=mainnews&type=&date=2026-06-23&page=1"
     },
     {
-      "title": "\"눈 뜨고 코 베인다더니\"...서학개미, 세금폭탄에 분노 폭발",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001256347&office_id=215&mode=mainnews&type=&date=2026-06-23&page=1"
+      "title": "\"AI 투자 확대에 반도체 장기계약 잇달아… 호황 길어질것\" [반도체 슈퍼사이클 (중)]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005538685&office_id=014&mode=mainnews&type=&date=2026-06-23&page=1"
     },
     {
-      "title": "\"내 주식이 레버리지였나\"…역대급 폭락장에 당혹스런 개미들",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014023340&office_id=003&mode=mainnews&type=&date=2026-06-23&page=1"
+      "title": "증권사 리서치센터장들 \"펀더멘털 변화없어, 상승 후 숨고르기\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016154694&office_id=001&mode=mainnews&type=&date=2026-06-23&page=1"
     },
     {
-      "title": "코스피 9.99% 급락에도 개인은 11조 베팅…‘삼전닉스’ 금융위기 후 최대 하락 [투자360]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002660487&office_id=016&mode=mainnews&type=&date=2026-06-23&page=1"
+      "title": "\"반도체 특가세일, 오늘이 기회\"…하루 만에 11.5조 쓸어담은 개미군단",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009019498&office_id=421&mode=mainnews&type=&date=2026-06-23&page=1"
     }
   ]
 }
