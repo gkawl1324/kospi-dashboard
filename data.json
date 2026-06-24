@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-06-24 04:45:08",
+  "lastUpdated": "2026-06-24 05:05:36",
   "date": "2026.06.24",
   "kospi": {
     "name": "KOSPI",
-    "current": "8292.71",
-    "change": "88.87",
-    "changePct": "1.08",
+    "current": "8411.95",
+    "change": "208.11",
+    "changePct": "2.54",
     "direction": "up",
-    "volume": "318749",
-    "tradeAmount": "38857113"
+    "volume": "331946",
+    "tradeAmount": "40637606"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "329250",
-      "change": "19250",
-      "changePct": "6.21",
+      "current": "333500",
+      "change": "23500",
+      "changePct": "7.58",
       "direction": "up",
-      "volume": "31800795",
+      "volume": "33378651",
       "high": "341000",
       "low": "314000",
       "open": "314000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2506000",
-      "change": "-49000",
-      "changePct": "-1.92",
-      "direction": "down",
-      "volume": "5234578",
+      "current": "2581000",
+      "change": "26000",
+      "changePct": "1.02",
+      "direction": "up",
+      "volume": "5474343",
       "high": "2703000",
       "low": "2453000",
       "open": "2598000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "99000",
-      "change": "400",
-      "changePct": "0.41",
+      "current": "99400",
+      "change": "800",
+      "changePct": "0.81",
       "direction": "up",
-      "volume": "259240",
+      "volume": "273839",
       "high": "101000",
       "low": "96600",
       "open": "99800",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "199900",
-      "change": "-2600",
-      "changePct": "-1.28",
+      "current": "200500",
+      "change": "-2000",
+      "changePct": "-0.99",
       "direction": "down",
-      "volume": "1123176",
+      "volume": "1163464",
       "high": "204000",
       "low": "195900",
       "open": "203000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1539.60",
-      "change": "6.10",
+      "value": "1541.70",
+      "change": "8.20",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "953.02",
-      "change": "3.93",
+      "value": "954.29",
+      "change": "5.20",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1749.60",
-      "change": "4.55",
+      "value": "1751.91",
+      "change": "6.86",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "226.21",
-      "change": "0.53",
+      "value": "226.47",
+      "change": "0.79",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "201124.56",
-      "change": "2907.46",
+      "value": "201290.72",
+      "change": "2741.30",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -141,6 +141,10 @@
     }
   ],
   "news": [
+    {
+      "title": "“나스닥 급락, 한국발 충격이 방아쇠”… 세계 증시 쥐고 흔드는 삼전닉스",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001174013&office_id=366&mode=mainnews&type=&date=2026-06-24&page=1"
+    },
     {
       "title": "스페이스X 없이도 선방…WON 미국우주항공방산, 우주항공 ETF 1개월 수익률 1위",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0006313805&office_id=018&mode=mainnews&type=&date=2026-06-24&page=1"
@@ -168,10 +172,6 @@
     {
       "title": "\"삼전 지분만 100조? 근데 너무 싸\"…시총 톱10보다 더 뛰는 이 주식",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005376388&office_id=008&mode=mainnews&type=&date=2026-06-24&page=1"
-    },
-    {
-      "title": "\"부도 직전까지 채권 팔았다\"…JTBC 사태에 신한투자증권 책임론",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000510166&office_id=629&mode=mainnews&type=&date=2026-06-24&page=1"
     }
   ]
 }
