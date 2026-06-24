@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-06-24 05:05:36",
+  "lastUpdated": "2026-06-24 08:37:57",
   "date": "2026.06.24",
   "kospi": {
     "name": "KOSPI",
-    "current": "8411.95",
-    "change": "208.11",
-    "changePct": "2.54",
+    "current": "8471.02",
+    "change": "267.18",
+    "changePct": "3.26",
     "direction": "up",
-    "volume": "331946",
-    "tradeAmount": "40637606"
+    "volume": "413404",
+    "tradeAmount": "53781434"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "333500",
-      "change": "23500",
-      "changePct": "7.58",
+      "current": "340500",
+      "change": "30500",
+      "changePct": "9.84",
       "direction": "up",
-      "volume": "33378651",
+      "volume": "46319709",
       "high": "341000",
       "low": "314000",
       "open": "314000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2581000",
-      "change": "26000",
-      "changePct": "1.02",
+      "current": "2580000",
+      "change": "25000",
+      "changePct": "0.98",
       "direction": "up",
-      "volume": "5474343",
+      "volume": "7096302",
       "high": "2703000",
       "low": "2453000",
       "open": "2598000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "99400",
-      "change": "800",
-      "changePct": "0.81",
+      "current": "99200",
+      "change": "600",
+      "changePct": "0.61",
       "direction": "up",
-      "volume": "273839",
+      "volume": "399690",
       "high": "101000",
       "low": "96600",
       "open": "99800",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "200500",
-      "change": "-2000",
-      "changePct": "-0.99",
+      "current": "199400",
+      "change": "-3100",
+      "changePct": "-1.53",
       "direction": "down",
-      "volume": "1163464",
+      "volume": "1455973",
       "high": "204000",
       "low": "195900",
       "open": "203000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1541.70",
-      "change": "8.20",
+      "value": "1545.30",
+      "change": "11.80",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "954.29",
-      "change": "5.20",
+      "value": "955.63",
+      "change": "6.54",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1751.91",
-      "change": "6.86",
+      "value": "1753.53",
+      "change": "8.48",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "226.47",
-      "change": "0.79",
+      "value": "226.97",
+      "change": "1.29",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "201290.72",
-      "change": "2741.30",
+      "value": "202934.66",
+      "change": "1097.36",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "“나스닥 급락, 한국발 충격이 방아쇠”… 세계 증시 쥐고 흔드는 삼전닉스",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001174013&office_id=366&mode=mainnews&type=&date=2026-06-24&page=1"
+      "title": "코스피 오락가락 끝에 8500 턱밑…분수령은 美 마이크론 실적",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005376668&office_id=008&mode=mainnews&type=&date=2026-06-24&page=1"
     },
     {
-      "title": "스페이스X 없이도 선방…WON 미국우주항공방산, 우주항공 ETF 1개월 수익률 1위",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006313805&office_id=018&mode=mainnews&type=&date=2026-06-24&page=1"
+      "title": "'12% 폭락' 이튿날, 단일종목ETF 거래대금 19조 '역대 최대'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009021843&office_id=421&mode=mainnews&type=&date=2026-06-24&page=1"
     },
     {
-      "title": "‘9000피’에도 신흥국 딱지…K-증시는 여전히 ‘어른아이’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003033432&office_id=029&mode=mainnews&type=&date=2026-06-24&page=1"
+      "title": "[단독] 콘텐트리중앙 숨통 틔울까…사모펀드, DIP금융 대출 추진",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002661092&office_id=016&mode=mainnews&type=&date=2026-06-24&page=1"
     },
     {
-      "title": "‘롤러코스피’에도 개미는 ‘줍줍’… 하루는 통곡 하루는 환호",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002800013&office_id=021&mode=mainnews&type=&date=2026-06-24&page=1"
+      "title": "'30돌' 축제 못 즐기는 코스닥…지수 정체 속 '동전주 구조조정' 시험대",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001148899&office_id=417&mode=mainnews&type=&date=2026-06-24&page=1"
     },
     {
-      "title": "“꼬리가 몸통 흔들었다”… ‘삼전닉스 ETF’, 나스닥 폭락 원인으로 지목",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002800012&office_id=021&mode=mainnews&type=&date=2026-06-24&page=1"
+      "title": "\"은행 이자의 10배\"…배당수익률 30% 리츠 속출한 이유",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006314041&office_id=018&mode=mainnews&type=&date=2026-06-24&page=1"
     },
     {
-      "title": "상위 1%, 삼전·하닉 팔고 하이브 ‘빌보드 효과’에 베팅[주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004634425&office_id=011&mode=mainnews&type=&date=2026-06-24&page=1"
+      "title": "코스피 '최대 낙폭' 기록한 날, '빚투 폭탄' 떨어졌다...424억 강제 청산",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005376624&office_id=008&mode=mainnews&type=&date=2026-06-24&page=1"
     },
     {
-      "title": "한투운용, 스페이스X 공모주 '0' 후폭풍…경찰 내사에 금감원 검사 '칼날'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000510168&office_id=629&mode=mainnews&type=&date=2026-06-24&page=1"
+      "title": "'검은 화요일'에 개미들 비명…하루만에 424억 강제청산(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014026002&office_id=003&mode=mainnews&type=&date=2026-06-24&page=1"
     },
     {
-      "title": "\"삼전 지분만 100조? 근데 너무 싸\"…시총 톱10보다 더 뛰는 이 주식",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005376388&office_id=008&mode=mainnews&type=&date=2026-06-24&page=1"
+      "title": "국민연금 ‘서킷 브레이커’에도 팔았다… 시장 안전판 아닌 ‘변동성 증폭기’ 됐나",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001174124&office_id=366&mode=mainnews&type=&date=2026-06-24&page=1"
     }
   ]
 }
