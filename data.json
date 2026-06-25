@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25 08:34:15",
+  "lastUpdated": "2026-06-25 09:35:15",
   "date": "2026.06.25",
   "kospi": {
     "name": "KOSPI",
@@ -7,8 +7,8 @@
     "change": "459.28",
     "changePct": "5.42",
     "direction": "up",
-    "volume": "449320",
-    "tradeAmount": "50354124"
+    "volume": "456880",
+    "tradeAmount": "51973680"
   },
   "stocks": [
     {
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1540.20",
-      "change": "3.30",
+      "value": "1541.00",
+      "change": "2.50",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "951.92",
-      "change": "2.33",
+      "value": "952.35",
+      "change": "1.90",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1751.21",
-      "change": "1.74",
+      "value": "1752.43",
+      "change": "0.52",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "226.40",
-      "change": "0.14",
-      "direction": "down"
+      "value": "226.54",
+      "change": "0.00",
+      "direction": "flat"
     }
   ],
   "oilPrices": [
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "197719.06",
-      "change": "1229.93",
+      "value": "197929.31",
+      "change": "1019.68",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "‘칩스피’ 된 코스피…마이크론 영업익 15배에 장중 9000선 회복",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003729493&office_id=020&mode=mainnews&type=&date=2026-06-25&page=1"
+      "title": "'고점론 불안' 지운 실적 기대감…삼전닉스, 다시 랠리",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005302945&office_id=015&mode=mainnews&type=&date=2026-06-25&page=1"
     },
     {
-      "title": "'불나방' 개미, 하루에 1108억원 강제 청산 당했다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003104818&office_id=119&mode=mainnews&type=&date=2026-06-25&page=1"
+      "title": "JP모건 \"韓증시, 승자가 계속 이긴다\"…코스피 1만5000까지 기대",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001037712&office_id=031&mode=mainnews&type=&date=2026-06-25&page=1"
     },
     {
-      "title": "\"피크아웃? 58만전자·420만닉스 간다\"…마이크론 덕에 공포 걷혔다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005377310&office_id=008&mode=mainnews&type=&date=2026-06-25&page=1"
+      "title": "목표가 올리고 13兆 베팅… 증권가도 개미도 반도체 '올인'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005539807&office_id=014&mode=mainnews&type=&date=2026-06-25&page=1"
     },
     {
-      "title": "\"반도체 호황 오래간다\"…마이크론 어닝서프라이즈에 삼전닉스도 급등",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005302847&office_id=015&mode=mainnews&type=&date=2026-06-25&page=1"
+      "title": "마이크론 훈풍 타고 반도체 다시 질주…JP모건 “1만 2500 간다”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004635045&office_id=011&mode=mainnews&type=&date=2026-06-25&page=1"
     },
     {
-      "title": "코스피, 5%대 ↑… 美 PCE 발표 이후에도 반도체 투심 이어갈까",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005377286&office_id=008&mode=mainnews&type=&date=2026-06-25&page=1"
+      "title": "키신저 재소환한 미국…이란과 합의한 건 ‘평화’가 아니다 [전쟁과 투자]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005698960&office_id=009&mode=mainnews&type=&date=2026-06-25&page=1"
     },
     {
-      "title": "삼전닉스 랠리에 시총 상위주 지각변동…삼성·SK그룹주 싹쓸이",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006315019&office_id=018&mode=mainnews&type=&date=2026-06-25&page=1"
+      "title": "스페이스X 있든 없든…우주 ETF서 자금 썰물",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004635039&office_id=011&mode=mainnews&type=&date=2026-06-25&page=1"
     },
     {
-      "title": "“반도체 아직 뜨겁다”…마이크론 호실적에 삼전·닉스도 질주",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006315017&office_id=018&mode=mainnews&type=&date=2026-06-25&page=1"
+      "title": "삼전닉스 지분에 열광…지주·계열사 랠리",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005698908&office_id=009&mode=mainnews&type=&date=2026-06-25&page=1"
     },
     {
-      "title": "코스피, '마이크론 훈풍'에 5%↑ 8,930…하이닉스 장중 15%↑(종합)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016159952&office_id=001&mode=mainnews&type=&date=2026-06-25&page=1"
+      "title": "‘따따블 상장’ 마키나락스, 한 달 만에 공모가 하회…스톡옵션 물량도 부담",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006315063&office_id=018&mode=mainnews&type=&date=2026-06-25&page=1"
     }
   ]
 }
