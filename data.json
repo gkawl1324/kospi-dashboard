@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-06-25 05:09:52",
+  "lastUpdated": "2026-06-25 08:34:15",
   "date": "2026.06.25",
   "kospi": {
     "name": "KOSPI",
-    "current": "8970.96",
-    "change": "499.94",
-    "changePct": "5.90",
+    "current": "8930.30",
+    "change": "459.28",
+    "changePct": "5.42",
     "direction": "up",
-    "volume": "358983",
-    "tradeAmount": "35542513"
+    "volume": "449320",
+    "tradeAmount": "50354124"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "359250",
-      "change": "18750",
-      "changePct": "5.51",
+      "current": "358500",
+      "change": "18000",
+      "changePct": "5.29",
       "direction": "up",
-      "volume": "24625769",
+      "volume": "34552588",
       "high": "362500",
       "low": "352000",
       "open": "359500",
@@ -29,12 +29,12 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2925000",
-      "change": "345000",
-      "changePct": "13.37",
+      "current": "2917000",
+      "change": "337000",
+      "changePct": "13.06",
       "direction": "up",
-      "volume": "4418402",
-      "high": "2939000",
+      "volume": "6522123",
+      "high": "2987000",
       "low": "2749000",
       "open": "2865000",
       "marketCap": "0"
@@ -43,13 +43,13 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "99100",
-      "change": "-100",
-      "changePct": "-0.10",
-      "direction": "down",
-      "volume": "255306",
+      "current": "99400",
+      "change": "200",
+      "changePct": "0.20",
+      "direction": "up",
+      "volume": "434984",
       "high": "102700",
-      "low": "99000",
+      "low": "98100",
       "open": "100600",
       "marketCap": "0"
     },
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "201500",
-      "change": "2100",
-      "changePct": "1.05",
+      "current": "199700",
+      "change": "300",
+      "changePct": "0.15",
       "direction": "up",
-      "volume": "750723",
+      "volume": "1023118",
       "high": "208000",
       "low": "199500",
       "open": "202500",
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1545.10",
-      "change": "1.60",
-      "direction": "up"
+      "value": "1540.20",
+      "change": "3.30",
+      "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "955.15",
-      "change": "0.90",
-      "direction": "up"
+      "value": "951.92",
+      "change": "2.33",
+      "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1756.16",
-      "change": "3.21",
-      "direction": "up"
+      "value": "1751.21",
+      "change": "1.74",
+      "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "226.96",
-      "change": "0.42",
-      "direction": "up"
+      "value": "226.40",
+      "change": "0.14",
+      "direction": "down"
     }
   ],
   "oilPrices": [
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "198482.44",
-      "change": "466.55",
+      "value": "197719.06",
+      "change": "1229.93",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "“3조원 쏟아부었는데 -30%”…서학개미의 블랙홀된 스페이스X",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000099615&office_id=243&mode=mainnews&type=&date=2026-06-25&page=1"
+      "title": "‘칩스피’ 된 코스피…마이크론 영업익 15배에 장중 9000선 회복",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003729493&office_id=020&mode=mainnews&type=&date=2026-06-25&page=1"
     },
     {
-      "title": "\"반도체 앞으로도 좋다\" 삼전닉스 훨훨…형님 따라 아우도 '불기둥'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005377077&office_id=008&mode=mainnews&type=&date=2026-06-25&page=1"
+      "title": "'불나방' 개미, 하루에 1108억원 강제 청산 당했다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003104818&office_id=119&mode=mainnews&type=&date=2026-06-25&page=1"
     },
     {
-      "title": "수익률 170% 찍었는데…액티브ETF 무더기 퇴출 '왜?'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001256565&office_id=215&mode=mainnews&type=&date=2026-06-25&page=1"
+      "title": "\"피크아웃? 58만전자·420만닉스 간다\"…마이크론 덕에 공포 걷혔다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005377310&office_id=008&mode=mainnews&type=&date=2026-06-25&page=1"
     },
     {
-      "title": "중동전쟁 후폭풍에 흔들린 원유 ETN...증권사는 LP평가 최하점",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005539561&office_id=014&mode=mainnews&type=&date=2026-06-25&page=1"
+      "title": "\"반도체 호황 오래간다\"…마이크론 어닝서프라이즈에 삼전닉스도 급등",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005302847&office_id=015&mode=mainnews&type=&date=2026-06-25&page=1"
     },
     {
-      "title": "'외국인 수급 기대' MSCI 선진국 지수 편입 실패 이유",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000086774&office_id=293&mode=mainnews&type=&date=2026-06-25&page=1"
+      "title": "코스피, 5%대 ↑… 美 PCE 발표 이후에도 반도체 투심 이어갈까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005377286&office_id=008&mode=mainnews&type=&date=2026-06-25&page=1"
     },
     {
-      "title": "\"3위 마이크론 이 정도야?\"…삼전닉스 메모리 실적랠리 '기대'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009023212&office_id=421&mode=mainnews&type=&date=2026-06-25&page=1"
+      "title": "삼전닉스 랠리에 시총 상위주 지각변동…삼성·SK그룹주 싹쓸이",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006315019&office_id=018&mode=mainnews&type=&date=2026-06-25&page=1"
     },
     {
-      "title": "\"주가 희석\" vs \"재평가 효과\"…하이닉스 ADR 상장 주가 영향은",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016158484&office_id=001&mode=mainnews&type=&date=2026-06-25&page=1"
+      "title": "“반도체 아직 뜨겁다”…마이크론 호실적에 삼전·닉스도 질주",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006315017&office_id=018&mode=mainnews&type=&date=2026-06-25&page=1"
     },
     {
-      "title": "‘9000피 목전’ 밀어 붙이는 삼전·하닉…국제유가↓ 개미 움직인다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003033666&office_id=029&mode=mainnews&type=&date=2026-06-25&page=1"
+      "title": "코스피, '마이크론 훈풍'에 5%↑ 8,930…하이닉스 장중 15%↑(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016159952&office_id=001&mode=mainnews&type=&date=2026-06-25&page=1"
     }
   ]
 }
