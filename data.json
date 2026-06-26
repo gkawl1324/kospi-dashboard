@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26 08:37:57",
+  "lastUpdated": "2026-06-26 09:40:42",
   "date": "2026.06.26",
   "kospi": {
     "name": "KOSPI",
@@ -7,8 +7,8 @@
     "change": "519.09",
     "changePct": "5.81",
     "direction": "up",
-    "volume": "508895",
-    "tradeAmount": "51487501"
+    "volume": "518473",
+    "tradeAmount": "53997506"
   },
   "stocks": [
     {
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1539.70",
-      "change": "5.30",
+      "value": "1537.90",
+      "change": "7.10",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "952.61",
-      "change": "2.24",
+      "value": "951.70",
+      "change": "3.15",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1755.03",
-      "change": "1.94",
+      "value": "1753.90",
+      "change": "3.07",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "226.30",
-      "change": "0.87",
+      "value": "226.14",
+      "change": "1.03",
       "direction": "down"
     }
   ],
@@ -118,9 +118,9 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "199457.22",
-      "change": "777.25",
-      "direction": "down",
+      "value": "200264.95",
+      "change": "30.48",
+      "direction": "up",
       "unit": "USD/oz"
     },
     {
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "“반도체 가격 상승, 호재서 부담으로…조정은 매도보다 분할매수 대응”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006316008&office_id=018&mode=mainnews&type=&date=2026-06-26&page=1"
+      "title": "‘종전 수혜 기대’ 건설·방산주 사볼까 [S머니+]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004635427&office_id=011&mode=mainnews&type=&date=2026-06-26&page=1"
     },
     {
-      "title": "양종희號 KB금융, KB증권에 1조 더 베팅…생산적 금융·IMA ‘두 토끼’ 잡는다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002232262&office_id=138&mode=mainnews&type=&date=2026-06-26&page=1"
+      "title": "“스페이스X, 우주 ETF 아니어도 투자 가능” [S머니+]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004635425&office_id=011&mode=mainnews&type=&date=2026-06-26&page=1"
     },
     {
-      "title": "'코스닥은 떨어지기만'…급락 원인 지목",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001256739&office_id=215&mode=mainnews&type=&date=2026-06-26&page=1"
+      "title": "스페이스X ‘호된 신고식’…“변동성 대비 분할매수 전략 필요” [S머니+]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004635424&office_id=011&mode=mainnews&type=&date=2026-06-26&page=1"
     },
     {
-      "title": "\"1만피 여전히 가능\"…코스피 급락이 기우인 이유",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001256737&office_id=215&mode=mainnews&type=&date=2026-06-26&page=1"
+      "title": "연일 널뛰는 '롤러코스피'…변동성지수도 사상 최고치",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005303337&office_id=015&mode=mainnews&type=&date=2026-06-26&page=1"
     },
     {
-      "title": "\"또 물렸다\" 개미들 한숨?외인·기관 '폭탄 매도' 부른 악재 2가지는?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001037949&office_id=031&mode=mainnews&type=&date=2026-06-26&page=1"
+      "title": "시장이 지워버린 이름 코스닥",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005303330&office_id=015&mode=mainnews&type=&date=2026-06-26&page=1"
     },
     {
-      "title": "“급락 본질은 반도체 쏠림 되감기…레버리지 ETF가 변동성 키웠다”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006315991&office_id=018&mode=mainnews&type=&date=2026-06-26&page=1"
+      "title": "코로나 팬데믹 때만큼 빠졌다…코스닥 '날개 없는 추락'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005303329&office_id=015&mode=mainnews&type=&date=2026-06-26&page=1"
     },
     {
-      "title": "“코스피 9000 넘으면, 국민연금 최대 74조원 판다”…증권가 전망",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001174757&office_id=366&mode=mainnews&type=&date=2026-06-26&page=1"
+      "title": "반도체 왕좌는?…HBM 하이닉스 vs 종합주 삼성전자[체크!코스피]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001149238&office_id=417&mode=mainnews&type=&date=2026-06-26&page=1"
     },
     {
-      "title": "美·日도 반도체 불장인데 왜 한국만 출렁?…엔비디아·키옥시아 봤더니 [투자360]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002662204&office_id=016&mode=mainnews&type=&date=2026-06-26&page=1"
+      "title": "SK하이닉스 ADR, 美반도체 ETF 편입된다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005303321&office_id=015&mode=mainnews&type=&date=2026-06-26&page=1"
     }
   ]
 }
