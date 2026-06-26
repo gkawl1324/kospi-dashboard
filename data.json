@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-06-26 05:14:54",
+  "lastUpdated": "2026-06-26 08:37:57",
   "date": "2026.06.26",
   "kospi": {
     "name": "KOSPI",
-    "current": "8325.87",
-    "change": "604.43",
-    "changePct": "6.77",
+    "current": "8411.21",
+    "change": "519.09",
+    "changePct": "5.81",
     "direction": "up",
-    "volume": "429561",
-    "tradeAmount": "39459636"
+    "volume": "508895",
+    "tradeAmount": "51487501"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "331500",
-      "change": "-27000",
-      "changePct": "-7.53",
+      "current": "339500",
+      "change": "-19000",
+      "changePct": "-5.30",
       "direction": "down",
-      "volume": "26569047",
+      "volume": "35233554",
       "high": "356500",
       "low": "321500",
       "open": "354000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2693000",
-      "change": "-224000",
-      "changePct": "-7.68",
+      "current": "2673000",
+      "change": "-244000",
+      "changePct": "-8.36",
       "direction": "down",
-      "volume": "5225690",
+      "volume": "7178319",
       "high": "2880000",
       "low": "2600000",
       "open": "2850000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "96800",
-      "change": "-2600",
-      "changePct": "-2.62",
+      "current": "98600",
+      "change": "-800",
+      "changePct": "-0.80",
       "direction": "down",
-      "volume": "468177",
+      "volume": "603084",
       "high": "102500",
       "low": "93900",
       "open": "99700",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "193200",
-      "change": "-6500",
-      "changePct": "-3.25",
+      "current": "196400",
+      "change": "-3300",
+      "changePct": "-1.65",
       "direction": "down",
-      "volume": "1202003",
+      "volume": "1473699",
       "high": "201000",
       "low": "190300",
       "open": "200500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1545.30",
-      "change": "0.30",
-      "direction": "up"
+      "value": "1539.70",
+      "change": "5.30",
+      "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "956.04",
-      "change": "1.19",
-      "direction": "up"
+      "value": "952.61",
+      "change": "2.24",
+      "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1758.01",
-      "change": "1.04",
-      "direction": "up"
+      "value": "1755.03",
+      "change": "1.94",
+      "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "227.01",
-      "change": "0.16",
+      "value": "226.30",
+      "change": "0.87",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "199418.87",
-      "change": "815.60",
+      "value": "199457.22",
+      "change": "777.25",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "스페이스X 앞에 놓인 '오버행 폭탄'…개미들 탈출 러시 벌어질까",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000510915&office_id=629&mode=mainnews&type=&date=2026-06-26&page=1"
+      "title": "“반도체 가격 상승, 호재서 부담으로…조정은 매도보다 분할매수 대응”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006316008&office_id=018&mode=mainnews&type=&date=2026-06-26&page=1"
     },
     {
-      "title": "\"왜 떨어지냐고요? 그냥\"…연이은 폭락장에 개미들 '멘붕'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014030498&office_id=003&mode=mainnews&type=&date=2026-06-26&page=1"
+      "title": "양종희號 KB금융, KB증권에 1조 더 베팅…생산적 금융·IMA ‘두 토끼’ 잡는다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002232262&office_id=138&mode=mainnews&type=&date=2026-06-26&page=1"
     },
     {
-      "title": "코스피, 반복되는 폭등·폭락 8100선까지 후퇴…올 들어 ‘서킷브레이커’만 다섯번째 [투자360]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002662113&office_id=016&mode=mainnews&type=&date=2026-06-26&page=1"
+      "title": "'코스닥은 떨어지기만'…급락 원인 지목",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001256739&office_id=215&mode=mainnews&type=&date=2026-06-26&page=1"
     },
     {
-      "title": "게임스톱 재현?…웬디스 '밈' 편승 노렸지만 맥없이 무산",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006315680&office_id=018&mode=mainnews&type=&date=2026-06-26&page=1"
+      "title": "\"1만피 여전히 가능\"…코스피 급락이 기우인 이유",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001256737&office_id=215&mode=mainnews&type=&date=2026-06-26&page=1"
     },
     {
-      "title": "\"가장 파괴적 일주일\" 맞은 코스피…한 주에 두 번 '매매중단' 최초",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014030454&office_id=003&mode=mainnews&type=&date=2026-06-26&page=1"
+      "title": "\"또 물렸다\" 개미들 한숨?외인·기관 '폭탄 매도' 부른 악재 2가지는?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001037949&office_id=031&mode=mainnews&type=&date=2026-06-26&page=1"
     },
     {
-      "title": "\"이것 해결되면 1만피\"...'중복상장 원칙금지' 가이드라인 공개 임박",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005377652&office_id=008&mode=mainnews&type=&date=2026-06-26&page=1"
+      "title": "“급락 본질은 반도체 쏠림 되감기…레버리지 ETF가 변동성 키웠다”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006315991&office_id=018&mode=mainnews&type=&date=2026-06-26&page=1"
     },
     {
-      "title": "하락장에 삼전닉스 담는 상위 1%…SK㈜ 차익실현 동반 [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004635293&office_id=011&mode=mainnews&type=&date=2026-06-26&page=1"
+      "title": "“코스피 9000 넘으면, 국민연금 최대 74조원 판다”…증권가 전망",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001174757&office_id=366&mode=mainnews&type=&date=2026-06-26&page=1"
     },
     {
-      "title": "코스피 8% 급락에 서킷브레이커 발동…올해만 5번째 거래중단",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000510895&office_id=629&mode=mainnews&type=&date=2026-06-26&page=1"
+      "title": "美·日도 반도체 불장인데 왜 한국만 출렁?…엔비디아·키옥시아 봤더니 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002662204&office_id=016&mode=mainnews&type=&date=2026-06-26&page=1"
     }
   ]
 }
