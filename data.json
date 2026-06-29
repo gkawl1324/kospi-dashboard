@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-06-29 05:56:46",
+  "lastUpdated": "2026-06-29 10:05:55",
   "date": "2026.06.29",
   "kospi": {
     "name": "KOSPI",
-    "current": "8517.91",
-    "change": "106.70",
-    "changePct": "1.27",
+    "current": "8394.65",
+    "change": "16.56",
+    "changePct": "0.20",
     "direction": "up",
-    "volume": "329422",
-    "tradeAmount": "36112720"
+    "volume": "371223",
+    "tradeAmount": "42684474"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "331500",
-      "change": "-8000",
-      "changePct": "-2.36",
+      "current": "323000",
+      "change": "-16500",
+      "changePct": "-4.86",
       "direction": "down",
-      "volume": "29210729",
+      "volume": "35094735",
       "high": "335500",
       "low": "316000",
       "open": "331000",
@@ -29,12 +29,12 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2679000",
-      "change": "6000",
-      "changePct": "0.22",
-      "direction": "up",
-      "volume": "4474269",
-      "high": "2686000",
+      "current": "2628000",
+      "change": "-45000",
+      "changePct": "-1.68",
+      "direction": "down",
+      "volume": "5216768",
+      "high": "2688000",
       "low": "2517000",
       "open": "2636000",
       "marketCap": "0"
@@ -43,12 +43,12 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "101200",
-      "change": "2600",
-      "changePct": "2.64",
+      "current": "100800",
+      "change": "2200",
+      "changePct": "2.23",
       "direction": "up",
-      "volume": "273787",
-      "high": "101400",
+      "volume": "332815",
+      "high": "101900",
       "low": "96700",
       "open": "99500",
       "marketCap": "0"
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "205250",
-      "change": "8850",
-      "changePct": "4.51",
+      "current": "204000",
+      "change": "7600",
+      "changePct": "3.87",
       "direction": "up",
-      "volume": "946498",
+      "volume": "1093200",
       "high": "206000",
       "low": "191700",
       "open": "198300",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1538.40",
-      "change": "0.90",
+      "value": "1543.50",
+      "change": "6.00",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "950.83",
-      "change": "0.55",
+      "value": "953.40",
+      "change": "3.12",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1752.85",
-      "change": "2.41",
+      "value": "1760.21",
+      "change": "9.77",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "226.27",
-      "change": "0.23",
+      "value": "227.09",
+      "change": "1.05",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "200545.54",
-      "change": "1491.35",
+      "value": "199882.37",
+      "change": "2154.52",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "\"AI 메모리 훈풍 지속…SK하닉 ADR, 최대 7조 유입 기대\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006318114&office_id=018&mode=mainnews&type=&date=2026-06-29&page=1"
+      "title": "‘한 달만에 무려 39.2%’, 아무나 못 산다…‘간 큰 개미’ 인버스 ETF, 수익률 싹쓸이 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002663155&office_id=016&mode=mainnews&type=&date=2026-06-29&page=1"
     },
     {
-      "title": "결국 성과급에 발목 잡힌 삼성전자…\"2분기 실적 기대치 밑돌듯\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000939248&office_id=469&mode=mainnews&type=&date=2026-06-29&page=1"
+      "title": "\"손실의 시대 끝났다\"…DWS \"유럽 부동산, 지금이 투자 적기\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006318321&office_id=018&mode=mainnews&type=&date=2026-06-29&page=1"
     },
     {
-      "title": "삼전닉스 넘어 소부장으로...코스닥, 정책약발 '후끈'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001256933&office_id=215&mode=mainnews&type=&date=2026-06-29&page=1"
+      "title": "모처럼 훈풍 분 코스닥… 승강제 등 정책 기대감에 8% 급등",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005541213&office_id=014&mode=mainnews&type=&date=2026-06-29&page=1"
     },
     {
-      "title": "큰 변동성 맞은 K-증시, 국면 전환인가 이대로 폭락인가 [어쨌든 경제]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006318074&office_id=018&mode=mainnews&type=&date=2026-06-29&page=1"
+      "title": "‘826개’ 올라도 밀린 코스피…지수 누른 ‘삼전닉스’ 쏠림",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004636159&office_id=011&mode=mainnews&type=&date=2026-06-29&page=1"
     },
     {
-      "title": "9% 떨군 은행주, 오늘은 반도체보다 더 오른다…증권가 \"매수 기회\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009029421&office_id=421&mode=mainnews&type=&date=2026-06-29&page=1"
+      "title": "집 판 돈 5억 삼성전자에 '몰빵'했다가…70대 노인 '잭팟'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005304162&office_id=015&mode=mainnews&type=&date=2026-06-29&page=1"
     },
     {
-      "title": "반도체 숨고르기에 2차전지 ‘급반등’…LG엔솔 19%↑·에코프로 23% 급등 [이런국장 저런주식]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004636035&office_id=011&mode=mainnews&type=&date=2026-06-29&page=1"
+      "title": "“AI·반도체 2000조원 투자, 성패는 전력망에 달렸다”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006318303&office_id=018&mode=mainnews&type=&date=2026-06-29&page=1"
     },
     {
-      "title": "반도체 쏠림 해소…코스피 2% 내리고 코스닥 6% 급등",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006318055&office_id=018&mode=mainnews&type=&date=2026-06-29&page=1"
+      "title": "하루 만에 21% 급등했다…외국인들 폭풍매수한 종목",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005304148&office_id=015&mode=mainnews&type=&date=2026-06-29&page=1"
     },
     {
-      "title": "증권사 자사주 소각 잰걸음…'저PBR 탈출' 속도 낸다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000511406&office_id=629&mode=mainnews&type=&date=2026-06-29&page=1"
+      "title": "내 주식만 뚝뚝 떨어지더니…\"드디어 빨간불 떴다\" 환호",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005304137&office_id=015&mode=mainnews&type=&date=2026-06-29&page=1"
     }
   ]
 }
