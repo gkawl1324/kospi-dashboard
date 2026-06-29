@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29 10:05:55",
+  "lastUpdated": "2026-06-29 11:19:17",
   "date": "2026.06.29",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1543.50",
-      "change": "6.00",
+      "value": "1543.10",
+      "change": "5.60",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "953.40",
-      "change": "3.12",
+      "value": "953.35",
+      "change": "3.07",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1760.21",
-      "change": "9.77",
+      "value": "1760.06",
+      "change": "9.62",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "227.09",
-      "change": "1.05",
+      "value": "226.99",
+      "change": "0.95",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "199882.37",
-      "change": "2154.52",
+      "value": "200080.65",
+      "change": "1956.24",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -141,6 +141,14 @@
     }
   ],
   "news": [
+    {
+      "title": "'극한 변동장' K증시…공포지수 또 최고치·환율 1540원대 마감 [분석+]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005304231&office_id=015&mode=mainnews&type=&date=2026-06-29&page=1"
+    },
+    {
+      "title": "반도체株 영끌 전에…'4가지 신호' 체크하세요 [B급기자의 B급리포트]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001256989&office_id=215&mode=mainnews&type=&date=2026-06-29&page=1"
+    },
     {
       "title": "‘한 달만에 무려 39.2%’, 아무나 못 산다…‘간 큰 개미’ 인버스 ETF, 수익률 싹쓸이 [투자360]",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002663155&office_id=016&mode=mainnews&type=&date=2026-06-29&page=1"
@@ -164,14 +172,6 @@
     {
       "title": "“AI·반도체 2000조원 투자, 성패는 전력망에 달렸다”",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0006318303&office_id=018&mode=mainnews&type=&date=2026-06-29&page=1"
-    },
-    {
-      "title": "하루 만에 21% 급등했다…외국인들 폭풍매수한 종목",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005304148&office_id=015&mode=mainnews&type=&date=2026-06-29&page=1"
-    },
-    {
-      "title": "내 주식만 뚝뚝 떨어지더니…\"드디어 빨간불 떴다\" 환호",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005304137&office_id=015&mode=mainnews&type=&date=2026-06-29&page=1"
     }
   ]
 }
