@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-06-30 04:41:46",
+  "lastUpdated": "2026-06-30 05:10:57",
   "date": "2026.06.30",
   "kospi": {
     "name": "KOSPI",
-    "current": "8638.91",
-    "change": "244.26",
-    "changePct": "2.91",
+    "current": "8642.47",
+    "change": "247.82",
+    "changePct": "2.95",
     "direction": "up",
-    "volume": "338750",
-    "tradeAmount": "27283243"
+    "volume": "359688",
+    "tradeAmount": "29742283"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "341250",
-      "change": "18250",
-      "changePct": "5.65",
+      "current": "340500",
+      "change": "17500",
+      "changePct": "5.42",
       "direction": "up",
-      "volume": "18950194",
+      "volume": "20507615",
       "high": "343000",
       "low": "321000",
       "open": "323500",
@@ -29,12 +29,12 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2719000",
-      "change": "91000",
-      "changePct": "3.46",
+      "current": "2733000",
+      "change": "105000",
+      "changePct": "4.00",
       "direction": "up",
-      "volume": "3220465",
-      "high": "2731000",
+      "volume": "3557821",
+      "high": "2742000",
       "low": "2541000",
       "open": "2608000",
       "marketCap": "0"
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "97800",
-      "change": "-3000",
-      "changePct": "-2.98",
+      "current": "97600",
+      "change": "-3200",
+      "changePct": "-3.17",
       "direction": "down",
-      "volume": "262954",
+      "volume": "297140",
       "high": "103500",
       "low": "97300",
       "open": "103500",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "200750",
-      "change": "-3250",
-      "changePct": "-1.59",
+      "current": "200000",
+      "change": "-4000",
+      "changePct": "-1.96",
       "direction": "down",
-      "volume": "451086",
+      "volume": "501333",
       "high": "205500",
       "low": "198700",
       "open": "205000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1547.80",
-      "change": "6.30",
+      "value": "1546.30",
+      "change": "4.80",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "954.40",
-      "change": "2.47",
+      "value": "953.51",
+      "change": "1.58",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1764.18",
-      "change": "3.09",
+      "value": "1761.39",
+      "change": "0.30",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "227.77",
-      "change": "1.06",
+      "value": "227.52",
+      "change": "0.81",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "198722.2",
-      "change": "440.92",
+      "value": "198263.81",
+      "change": "899.31",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,6 +142,10 @@
   ],
   "news": [
     {
+      "title": "코스피, 삼성전자 5%대 상승에 2%대 강세…코스닥은 하락 반전",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006318886&office_id=018&mode=mainnews&type=&date=2026-06-30&page=1"
+    },
+    {
       "title": "홈플러스 생사 기로 속 제재심 임박…MBK ‘잔인한 7월’[마켓인]",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0006318851&office_id=018&mode=mainnews&type=&date=2026-06-30&page=1"
     },
@@ -158,7 +162,7 @@
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0004636437&office_id=011&mode=mainnews&type=&date=2026-06-30&page=1"
     },
     {
-      "title": "S&P \"韓 실질성장률 3% 육박할 것…반도체 슈퍼사이클 2~3년 간다\"",
+      "title": "\"반도체 슈퍼사이클 2~3년 더 간다\"…韓 성장률 3% 육박 전망",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005783391&office_id=277&mode=mainnews&type=&date=2026-06-30&page=1"
     },
     {
@@ -168,10 +172,6 @@
     {
       "title": "코스닥 10곳 중 1곳 상폐 위기…‘시총 200억 미만’ 수두룩[위기의 코스닥, 씁쓸한 30주년]",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002663575&office_id=016&mode=mainnews&type=&date=2026-06-30&page=1"
-    },
-    {
-      "title": "질주하는 코스피, 뒷걸음질치는 코스닥…격차는 더 커졌다 [위기의 코스닥, 씁쓸한 30주년]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002663574&office_id=016&mode=mainnews&type=&date=2026-06-30&page=1"
     }
   ]
 }
