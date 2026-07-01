@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01 08:58:00",
+  "lastUpdated": "2026-07-01 10:02:17",
   "date": "2026.07.01",
   "kospi": {
     "name": "KOSPI",
@@ -7,8 +7,8 @@
     "change": "173.07",
     "changePct": "2.04",
     "direction": "up",
-    "volume": "465214",
-    "tradeAmount": "39659073"
+    "volume": "468193",
+    "tradeAmount": "39998686"
   },
   "stocks": [
     {
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1554.80",
-      "change": "6.80",
+      "value": "1558.10",
+      "change": "10.10",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "955.92",
-      "change": "4.01",
+      "value": "957.42",
+      "change": "5.51",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1772.63",
-      "change": "4.66",
+      "value": "1774.13",
+      "change": "6.16",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "228.69",
-      "change": "0.75",
+      "value": "229.12",
+      "change": "1.18",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "198783.97",
-      "change": "1684.82",
+      "value": "199502.16",
+      "change": "966.63",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "개미 ‘레버 광풍’에 고수들 일침 “예측은 독…투자는 방어가 생명” [머니트렌드 2026]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004637110&office_id=011&mode=mainnews&type=&date=2026-07-01&page=1"
+      "title": "한달만에 ‘40.3%’ 수익률 1위…중국을 몰라봤다, 20%대는 명함도 못 내밀 판 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002664451&office_id=016&mode=mainnews&type=&date=2026-07-01&page=1"
     },
     {
-      "title": "“7월엔 빠지면 사라”…난도 높아진 증시, 일단 공격보다 수비 [머니닥터 긴급 진단]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005701449&office_id=009&mode=mainnews&type=&date=2026-07-01&page=1"
+      "title": "“7월부터 순환매 장세…조선·방산이 차기 주도 업종” [머니트렌드 2026]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004637151&office_id=011&mode=mainnews&type=&date=2026-07-01&page=1"
     },
     {
-      "title": "이번엔 'AI MLCC'… 삼성전기 목표가 300만원 줄상향",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005701445&office_id=009&mode=mainnews&type=&date=2026-07-01&page=1"
+      "title": "못 말리는 '롤러코스피'라도...나스닥보다 3배 더 뛰었다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005542598&office_id=014&mode=mainnews&type=&date=2026-07-01&page=1"
     },
     {
-      "title": "'반스닥' 된 코스닥…시총 톱10에 4개 포진",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005701444&office_id=009&mode=mainnews&type=&date=2026-07-01&page=1"
+      "title": "\"67% 손실 찍더니 살아났다\"…키움운용 투자 '네덜란드 빌딩' 회복 신호",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006320296&office_id=018&mode=mainnews&type=&date=2026-07-01&page=1"
     },
     {
-      "title": "반도체 3배 뛸 때 반토막 난 K팝 ETF",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005701442&office_id=009&mode=mainnews&type=&date=2026-07-01&page=1"
+      "title": "올들어 코스피 149조 던진 외국인… 하반기 매도 이어갈까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005542494&office_id=014&mode=mainnews&type=&date=2026-07-01&page=1"
     },
     {
-      "title": "“반도체 올인은 위험…전력·냉각 등 ‘AI 병목’서 기회 찾아야” [머니트렌드 2026]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004637097&office_id=011&mode=mainnews&type=&date=2026-07-01&page=1"
+      "title": "2주 새 20% 빠진 삼성중공업…임원들은 자사주 매입 행렬",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004637115&office_id=011&mode=mainnews&type=&date=2026-07-01&page=1"
     },
     {
-      "title": "베라 루빈이 연 AI 인프라 시장[투자의 창]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004637090&office_id=011&mode=mainnews&type=&date=2026-07-01&page=1"
+      "title": "동전주 솎아내고 승강제 도입…코스닥 체질 개선 속도낸다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004637114&office_id=011&mode=mainnews&type=&date=2026-07-01&page=1"
     },
     {
-      "title": "‘15%룰’ 넘긴 NXT…“반도체 랠리에 착시”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004637086&office_id=011&mode=mainnews&type=&date=2026-07-01&page=1"
+      "title": "“손자에 바로 상속하려면 유언장 필요…증여재산 낭비 걱정땐 신탁” [머니트렌드 2026]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004637113&office_id=011&mode=mainnews&type=&date=2026-07-01&page=1"
     }
   ]
 }
