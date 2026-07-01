@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-07-01 05:03:21",
+  "lastUpdated": "2026-07-01 05:45:43",
   "date": "2026.07.01",
   "kospi": {
     "name": "KOSPI",
-    "current": "8345.81",
-    "change": "130.67",
-    "changePct": "1.54",
+    "current": "8316.13",
+    "change": "160.35",
+    "changePct": "1.89",
     "direction": "up",
-    "volume": "389965",
-    "tradeAmount": "30529085"
+    "volume": "421618",
+    "tradeAmount": "33828268"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "319250",
-      "change": "-14750",
-      "changePct": "-4.42",
+      "current": "316500",
+      "change": "-17500",
+      "changePct": "-5.24",
       "direction": "down",
-      "volume": "17471268",
+      "volume": "19926751",
       "high": "339000",
       "low": "311500",
       "open": "334500",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2592000",
-      "change": "-58000",
-      "changePct": "-2.19",
+      "current": "2578000",
+      "change": "-72000",
+      "changePct": "-2.72",
       "direction": "down",
-      "volume": "3232292",
+      "volume": "3528943",
       "high": "2723000",
       "low": "2502000",
       "open": "2665000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "95800",
-      "change": "-1500",
-      "changePct": "-1.54",
+      "current": "96300",
+      "change": "-1000",
+      "changePct": "-1.03",
       "direction": "down",
-      "volume": "296786",
+      "volume": "348812",
       "high": "98600",
       "low": "93700",
       "open": "98600",
@@ -61,7 +61,7 @@
       "change": "-3000",
       "changePct": "-1.51",
       "direction": "down",
-      "volume": "842693",
+      "volume": "911082",
       "high": "203500",
       "low": "192700",
       "open": "201000",
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1552.70",
-      "change": "4.70",
+      "value": "1549.60",
+      "change": "1.60",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "954.04",
-      "change": "2.13",
+      "value": "952.34",
+      "change": "0.43",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1771.32",
-      "change": "3.35",
-      "direction": "up"
+      "value": "1767.86",
+      "change": "0.11",
+      "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "228.36",
-      "change": "0.42",
-      "direction": "up"
+      "value": "227.90",
+      "change": "0.04",
+      "direction": "down"
     }
   ],
   "oilPrices": [
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "198255.69",
-      "change": "2213.10",
+      "value": "198079.21",
+      "change": "2389.58",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
+      "title": "생일에 체면 차린 코스닥…삼전닉스 약세에 코스피는 '뚝'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006320032&office_id=018&mode=mainnews&type=&date=2026-07-01&page=1"
+    },
+    {
+      "title": "\"안젤리나 졸리처럼 암 미리 막는 시대, 마크로젠 유전체 검사로 연다\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005380010&office_id=008&mode=mainnews&type=&date=2026-07-01&page=1"
+    },
+    {
+      "title": "② 한화·현대차 추종 확산…출렁임 '상수'[레버리지 ETF 나비효과]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000087061&office_id=293&mode=mainnews&type=&date=2026-07-01&page=1"
+    },
+    {
+      "title": "\"한국 800조 투자, AI 랠리 끝이 시작됐다\"…'빅쇼트' 버리, 반도체주 하락 베팅",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005542297&office_id=014&mode=mainnews&type=&date=2026-07-01&page=1"
+    },
+    {
+      "title": "\"올해 88개사 퇴출\"…코스닥 '대수술'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001257225&office_id=215&mode=mainnews&type=&date=2026-07-01&page=1"
+    },
+    {
+      "title": "국민연금 이사장 '74조 매도 압력' 신영증권 향해 \"점쟁이\"…이례적 반발",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005380001&office_id=008&mode=mainnews&type=&date=2026-07-01&page=1"
+    },
+    {
+      "title": "예보 찾은 한화생명 소액주주 \"주주가치 수호 입장 표명 촉구\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000512233&office_id=629&mode=mainnews&type=&date=2026-07-01&page=1"
+    },
+    {
       "title": "바이낸스 '150배 베팅'까지…증시로 영역 넓히는 가상자산거래소",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0014040309&office_id=003&mode=mainnews&type=&date=2026-07-01&page=1"
-    },
-    {
-      "title": "에코프로비엠 1.2조 기습 유증 논란…\"이해는 가지만 주주가치 희석 우려\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014039955&office_id=003&mode=mainnews&type=&date=2026-07-01&page=1"
-    },
-    {
-      "title": "트러스톤 \"태광산업 이익잉여금 4조, 주주환원 앞엔 적자 핑계\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001149798&office_id=417&mode=mainnews&type=&date=2026-07-01&page=1"
-    },
-    {
-      "title": "'동전주·시총미달주' 상폐 카운트다운…새규정 오늘부터 시행",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016169979&office_id=001&mode=mainnews&type=&date=2026-07-01&page=1"
-    },
-    {
-      "title": "외인·연기금 동반 매도에 코스피 하락 전환…코스닥은 1%대 상승",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001175811&office_id=366&mode=mainnews&type=&date=2026-07-01&page=1"
-    },
-    {
-      "title": "저가 매수일까…삼전·하닉 5% 하락날 ‘상위 1%’는 집중 매입 [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004636890&office_id=011&mode=mainnews&type=&date=2026-07-01&page=1"
-    },
-    {
-      "title": "트러스톤 “태광산업 밸류업 계획 부실”…이사회에 전면 재검토 요구",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006319815&office_id=018&mode=mainnews&type=&date=2026-07-01&page=1"
-    },
-    {
-      "title": "삼성전기 목표가도 '300만원 시대'…증권가 줄상향 배경은",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000512139&office_id=629&mode=mainnews&type=&date=2026-07-01&page=1"
     }
   ]
 }
