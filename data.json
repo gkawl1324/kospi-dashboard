@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-07-01 05:45:43",
+  "lastUpdated": "2026-07-01 08:58:00",
   "date": "2026.07.01",
   "kospi": {
     "name": "KOSPI",
-    "current": "8316.13",
-    "change": "160.35",
-    "changePct": "1.89",
+    "current": "8303.41",
+    "change": "173.07",
+    "changePct": "2.04",
     "direction": "up",
-    "volume": "421618",
-    "tradeAmount": "33828268"
+    "volume": "465214",
+    "tradeAmount": "39659073"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "316500",
-      "change": "-17500",
-      "changePct": "-5.24",
+      "current": "314500",
+      "change": "-19500",
+      "changePct": "-5.84",
       "direction": "down",
-      "volume": "19926751",
+      "volume": "24698044",
       "high": "339000",
       "low": "311500",
       "open": "334500",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2578000",
-      "change": "-72000",
-      "changePct": "-2.72",
+      "current": "2560000",
+      "change": "-90000",
+      "changePct": "-3.40",
       "direction": "down",
-      "volume": "3528943",
+      "volume": "4276694",
       "high": "2723000",
       "low": "2502000",
       "open": "2665000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "96300",
-      "change": "-1000",
-      "changePct": "-1.03",
+      "current": "96600",
+      "change": "-700",
+      "changePct": "-0.72",
       "direction": "down",
-      "volume": "348812",
+      "volume": "440694",
       "high": "98600",
       "low": "93700",
       "open": "98600",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "196000",
-      "change": "-3000",
-      "changePct": "-1.51",
+      "current": "197400",
+      "change": "-1600",
+      "changePct": "-0.80",
       "direction": "down",
-      "volume": "911082",
+      "volume": "1015743",
       "high": "203500",
       "low": "192700",
       "open": "201000",
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1549.60",
-      "change": "1.60",
+      "value": "1554.80",
+      "change": "6.80",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "952.34",
-      "change": "0.43",
+      "value": "955.92",
+      "change": "4.01",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1767.86",
-      "change": "0.11",
-      "direction": "down"
+      "value": "1772.63",
+      "change": "4.66",
+      "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "227.90",
-      "change": "0.04",
-      "direction": "down"
+      "value": "228.69",
+      "change": "0.75",
+      "direction": "up"
     }
   ],
   "oilPrices": [
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "198079.21",
-      "change": "2389.58",
+      "value": "198783.97",
+      "change": "1684.82",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "생일에 체면 차린 코스닥…삼전닉스 약세에 코스피는 '뚝'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006320032&office_id=018&mode=mainnews&type=&date=2026-07-01&page=1"
+      "title": "개미 ‘레버 광풍’에 고수들 일침 “예측은 독…투자는 방어가 생명” [머니트렌드 2026]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004637110&office_id=011&mode=mainnews&type=&date=2026-07-01&page=1"
     },
     {
-      "title": "\"안젤리나 졸리처럼 암 미리 막는 시대, 마크로젠 유전체 검사로 연다\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005380010&office_id=008&mode=mainnews&type=&date=2026-07-01&page=1"
+      "title": "“7월엔 빠지면 사라”…난도 높아진 증시, 일단 공격보다 수비 [머니닥터 긴급 진단]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005701449&office_id=009&mode=mainnews&type=&date=2026-07-01&page=1"
     },
     {
-      "title": "② 한화·현대차 추종 확산…출렁임 '상수'[레버리지 ETF 나비효과]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000087061&office_id=293&mode=mainnews&type=&date=2026-07-01&page=1"
+      "title": "이번엔 'AI MLCC'… 삼성전기 목표가 300만원 줄상향",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005701445&office_id=009&mode=mainnews&type=&date=2026-07-01&page=1"
     },
     {
-      "title": "\"한국 800조 투자, AI 랠리 끝이 시작됐다\"…'빅쇼트' 버리, 반도체주 하락 베팅",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005542297&office_id=014&mode=mainnews&type=&date=2026-07-01&page=1"
+      "title": "'반스닥' 된 코스닥…시총 톱10에 4개 포진",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005701444&office_id=009&mode=mainnews&type=&date=2026-07-01&page=1"
     },
     {
-      "title": "\"올해 88개사 퇴출\"…코스닥 '대수술'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001257225&office_id=215&mode=mainnews&type=&date=2026-07-01&page=1"
+      "title": "반도체 3배 뛸 때 반토막 난 K팝 ETF",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005701442&office_id=009&mode=mainnews&type=&date=2026-07-01&page=1"
     },
     {
-      "title": "국민연금 이사장 '74조 매도 압력' 신영증권 향해 \"점쟁이\"…이례적 반발",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005380001&office_id=008&mode=mainnews&type=&date=2026-07-01&page=1"
+      "title": "“반도체 올인은 위험…전력·냉각 등 ‘AI 병목’서 기회 찾아야” [머니트렌드 2026]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004637097&office_id=011&mode=mainnews&type=&date=2026-07-01&page=1"
     },
     {
-      "title": "예보 찾은 한화생명 소액주주 \"주주가치 수호 입장 표명 촉구\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000512233&office_id=629&mode=mainnews&type=&date=2026-07-01&page=1"
+      "title": "베라 루빈이 연 AI 인프라 시장[투자의 창]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004637090&office_id=011&mode=mainnews&type=&date=2026-07-01&page=1"
     },
     {
-      "title": "바이낸스 '150배 베팅'까지…증시로 영역 넓히는 가상자산거래소",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014040309&office_id=003&mode=mainnews&type=&date=2026-07-01&page=1"
+      "title": "‘15%룰’ 넘긴 NXT…“반도체 랠리에 착시”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004637086&office_id=011&mode=mainnews&type=&date=2026-07-01&page=1"
     }
   ]
 }
