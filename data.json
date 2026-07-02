@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02 08:27:26",
+  "lastUpdated": "2026-07-02 09:25:15",
   "date": "2026.07.02",
   "kospi": {
     "name": "KOSPI",
@@ -7,8 +7,8 @@
     "change": "655.32",
     "changePct": "7.89",
     "direction": "up",
-    "volume": "499850",
-    "tradeAmount": "48861075"
+    "volume": "505157",
+    "tradeAmount": "49900911"
   },
   "stocks": [
     {
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1548.80",
-      "change": "3.70",
+      "value": "1548.40",
+      "change": "4.10",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "960.17",
-      "change": "5.11",
+      "value": "960.40",
+      "change": "5.34",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1767.96",
-      "change": "1.29",
+      "value": "1767.19",
+      "change": "0.52",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "228.10",
-      "change": "0.41",
+      "value": "227.98",
+      "change": "0.53",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "202867.43",
-      "change": "333.86",
+      "value": "202518.86",
+      "change": "682.43",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "외인 10거래일째 \"셀 코리아\"…8천피 붕괴는 저가매수 기회?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005380832&office_id=008&mode=mainnews&type=&date=2026-07-02&page=1"
+      "title": "\"숨만 쉬었는데 천만원 날라가\"…SK하닉, 17년 來 최대 폭락",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001039474&office_id=031&mode=mainnews&type=&date=2026-07-02&page=1"
     },
     {
-      "title": "반도체가 밀어올린 코스피, 7월엔 리밸런싱 고비 넘을까 [투자360]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002665034&office_id=016&mode=mainnews&type=&date=2026-07-02&page=1"
+      "title": "증시 돈몰렸는데 증권주는 힘 못썼다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005543097&office_id=014&mode=mainnews&type=&date=2026-07-02&page=1"
     },
     {
-      "title": "\"믿고 물탔는데 또\"?30% 폭락에 레버리지 개미들 '비명', 반도체 다시 살아날까?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001039447&office_id=031&mode=mainnews&type=&date=2026-07-02&page=1"
+      "title": "널뛰는 코스피에 지쳤나… 대기자금 줄고 손바뀜도 주춤",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005543096&office_id=014&mode=mainnews&type=&date=2026-07-02&page=1"
     },
     {
-      "title": "'반도체+레버리지'가 휩쓴 ETF 시장…롤러코스터 장세 키웠다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005543063&office_id=014&mode=mainnews&type=&date=2026-07-02&page=1"
+      "title": "'드러누워 막는' 게 능사는 아니다[이정훈 칼럼]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006321096&office_id=018&mode=mainnews&type=&date=2026-07-02&page=1"
     },
     {
-      "title": "'알짜 오피스' 판교 H스퀘어, 5380억 차환에 금리까지 낮췄다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006321038&office_id=018&mode=mainnews&type=&date=2026-07-02&page=1"
+      "title": "늦춰진 상관계수 완화…액티브ETF ‘퇴출 경보’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004637613&office_id=011&mode=mainnews&type=&date=2026-07-02&page=1"
     },
     {
-      "title": "개미, 상반기 ETF 85조 순매수…미장서 국장으로 갈아탔다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005380797&office_id=008&mode=mainnews&type=&date=2026-07-02&page=1"
+      "title": "\"퇴직연금에 담자\"… 스페이스X 편입 전쟁",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005702074&office_id=009&mode=mainnews&type=&date=2026-07-02&page=1"
     },
     {
-      "title": "\"삼전닉스 사자 vs 팔자\" 대혼란...개미들 사이에서도 엇갈리는 투심",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005543047&office_id=014&mode=mainnews&type=&date=2026-07-02&page=1"
+      "title": "\"메타發 과잉공급 우려는 기우 … 메모리株 장기 우상향 유지\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005702073&office_id=009&mode=mainnews&type=&date=2026-07-02&page=1"
     },
     {
-      "title": "본격 순환매?…'8천피' 이탈했는데 변동성지수는 오히려 하락",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016173479&office_id=001&mode=mainnews&type=&date=2026-07-02&page=1"
+      "title": "\"무자비한 폭락\" 증권가도 놀랐다…AI 공포에 개미들 '비명'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005305700&office_id=015&mode=mainnews&type=&date=2026-07-02&page=1"
     }
   ]
 }
