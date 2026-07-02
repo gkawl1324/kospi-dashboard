@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-07-02 05:03:24",
+  "lastUpdated": "2026-07-02 08:27:26",
   "date": "2026.07.02",
   "kospi": {
     "name": "KOSPI",
-    "current": "7914.75",
-    "change": "388.66",
-    "changePct": "4.68",
+    "current": "7648.09",
+    "change": "655.32",
+    "changePct": "7.89",
     "direction": "up",
-    "volume": "404463",
-    "tradeAmount": "33167331"
+    "volume": "499850",
+    "tradeAmount": "48861075"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "293000",
-      "change": "-21500",
-      "changePct": "-6.84",
+      "current": "286000",
+      "change": "-28500",
+      "changePct": "-9.06",
       "direction": "down",
-      "volume": "25769971",
+      "volume": "37658279",
       "high": "304000",
-      "low": "288000",
+      "low": "281500",
       "open": "290000",
       "marketCap": "0"
     },
@@ -29,13 +29,13 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2348000",
-      "change": "-212000",
-      "changePct": "-8.28",
+      "current": "2187000",
+      "change": "-373000",
+      "changePct": "-14.57",
       "direction": "down",
-      "volume": "4213165",
+      "volume": "7452541",
       "high": "2448000",
-      "low": "2310000",
+      "low": "2187000",
       "open": "2351000",
       "marketCap": "0"
     },
@@ -43,12 +43,12 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "100800",
-      "change": "4200",
-      "changePct": "4.35",
+      "current": "99000",
+      "change": "2400",
+      "changePct": "2.48",
       "direction": "up",
-      "volume": "323851",
-      "high": "101000",
+      "volume": "476873",
+      "high": "101400",
       "low": "93200",
       "open": "94400",
       "marketCap": "0"
@@ -57,12 +57,12 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "202500",
-      "change": "5100",
-      "changePct": "2.58",
+      "current": "199900",
+      "change": "2500",
+      "changePct": "1.27",
       "direction": "up",
-      "volume": "840954",
-      "high": "203500",
+      "volume": "1162498",
+      "high": "204500",
       "low": "191000",
       "open": "195700",
       "marketCap": "0"
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1552.80",
-      "change": "0.30",
-      "direction": "up"
+      "value": "1548.80",
+      "change": "3.70",
+      "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "956.04",
-      "change": "0.98",
+      "value": "960.17",
+      "change": "5.11",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1768.17",
-      "change": "1.50",
+      "value": "1767.96",
+      "change": "1.29",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "228.74",
-      "change": "0.23",
-      "direction": "up"
+      "value": "228.10",
+      "change": "0.41",
+      "direction": "down"
     }
   ],
   "oilPrices": [
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "202762.27",
-      "change": "439.02",
+      "value": "202867.43",
+      "change": "333.86",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "\"코스닥 퇴출 바람 거세진다\" 50곳 안팎 '기로' [현장+]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000087116&office_id=293&mode=mainnews&type=&date=2026-07-02&page=1"
+      "title": "외인 10거래일째 \"셀 코리아\"…8천피 붕괴는 저가매수 기회?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005380832&office_id=008&mode=mainnews&type=&date=2026-07-02&page=1"
     },
     {
-      "title": "코스피·코스닥 급락…8000·900선 내주고 나란히 사이드카",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006320841&office_id=018&mode=mainnews&type=&date=2026-07-02&page=1"
+      "title": "반도체가 밀어올린 코스피, 7월엔 리밸런싱 고비 넘을까 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002665034&office_id=016&mode=mainnews&type=&date=2026-07-02&page=1"
     },
     {
-      "title": "에코프로비엠 1.2조 기습유증에 주주들 반발…금감원 심사가 관건",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014042949&office_id=003&mode=mainnews&type=&date=2026-07-02&page=1"
+      "title": "\"믿고 물탔는데 또\"?30% 폭락에 레버리지 개미들 '비명', 반도체 다시 살아날까?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001039447&office_id=031&mode=mainnews&type=&date=2026-07-02&page=1"
     },
     {
-      "title": "삼전닉스 '뚝', 바겐세일?...\"50만전자·400만닉스 간다\" 눈높이 올랐다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005380614&office_id=008&mode=mainnews&type=&date=2026-07-02&page=1"
+      "title": "'반도체+레버리지'가 휩쓴 ETF 시장…롤러코스터 장세 키웠다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005543063&office_id=014&mode=mainnews&type=&date=2026-07-02&page=1"
     },
     {
-      "title": "특례상장사도 밸류업 공시 안하면 상장폐지 예외 없다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000048571&office_id=648&mode=mainnews&type=&date=2026-07-02&page=1"
+      "title": "'알짜 오피스' 판교 H스퀘어, 5380억 차환에 금리까지 낮췄다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006321038&office_id=018&mode=mainnews&type=&date=2026-07-02&page=1"
     },
     {
-      "title": "상위 1%, 급락장에 ‘삼전닉스’ 집중 매수 [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004637436&office_id=011&mode=mainnews&type=&date=2026-07-02&page=1"
+      "title": "개미, 상반기 ETF 85조 순매수…미장서 국장으로 갈아탔다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005380797&office_id=008&mode=mainnews&type=&date=2026-07-02&page=1"
     },
     {
-      "title": "국장에 무려 ‘97조’ 쏟아부었다…개미들 투자금 어디서 나왔나 봤더니",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002664875&office_id=016&mode=mainnews&type=&date=2026-07-02&page=1"
+      "title": "\"삼전닉스 사자 vs 팔자\" 대혼란...개미들 사이에서도 엇갈리는 투심",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005543047&office_id=014&mode=mainnews&type=&date=2026-07-02&page=1"
     },
     {
-      "title": "\"동전주 빼도 50곳\"…코스닥 퇴출 칼날 더 날카로워진다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000512618&office_id=629&mode=mainnews&type=&date=2026-07-02&page=1"
+      "title": "본격 순환매?…'8천피' 이탈했는데 변동성지수는 오히려 하락",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016173479&office_id=001&mode=mainnews&type=&date=2026-07-02&page=1"
     }
   ]
 }
