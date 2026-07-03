@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-07-03 04:23:43",
+  "lastUpdated": "2026-07-03 04:48:33",
   "date": "2026.07.03",
   "kospi": {
     "name": "KOSPI",
-    "current": "7974.81",
-    "change": "326.72",
-    "changePct": "4.27",
+    "current": "8007.02",
+    "change": "358.93",
+    "changePct": "4.69",
     "direction": "up",
-    "volume": "366412",
-    "tradeAmount": "31445328"
+    "volume": "382642",
+    "tradeAmount": "33502801"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "310000",
-      "change": "24000",
-      "changePct": "8.39",
+      "current": "311000",
+      "change": "25000",
+      "changePct": "8.74",
       "direction": "up",
-      "volume": "22605876",
-      "high": "310000",
+      "volume": "23916111",
+      "high": "312000",
       "low": "283500",
       "open": "288500",
       "marketCap": "0"
@@ -29,12 +29,12 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2339500",
-      "change": "152500",
-      "changePct": "6.97",
+      "current": "2379000",
+      "change": "192000",
+      "changePct": "8.78",
       "direction": "up",
-      "volume": "5518278",
-      "high": "2343000",
+      "volume": "5880078",
+      "high": "2387000",
       "low": "2045000",
       "open": "2197000",
       "marketCap": "0"
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "100700",
-      "change": "1700",
-      "changePct": "1.72",
+      "current": "100200",
+      "change": "1200",
+      "changePct": "1.21",
       "direction": "up",
-      "volume": "231702",
+      "volume": "245111",
       "high": "101400",
       "low": "96900",
       "open": "100900",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "194800",
-      "change": "-5100",
-      "changePct": "-2.55",
+      "current": "194500",
+      "change": "-5400",
+      "changePct": "-2.70",
       "direction": "down",
-      "volume": "834234",
+      "volume": "872173",
       "high": "199900",
       "low": "191700",
       "open": "199900",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1544.50",
-      "change": "2.00",
-      "direction": "up"
+      "value": "1542.30",
+      "change": "0.20",
+      "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "958.13",
-      "change": "1.81",
+      "value": "956.88",
+      "change": "0.56",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1767.37",
-      "change": "4.60",
+      "value": "1765.24",
+      "change": "2.47",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "227.64",
-      "change": "0.41",
+      "value": "227.34",
+      "change": "0.11",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "207540.32",
-      "change": "3108.29",
+      "value": "207214.39",
+      "change": "2782.36",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,6 +142,22 @@
   ],
   "news": [
     {
+      "title": "HANARO K-반도체 수익률 300% 육박 '선두'[월간 ETF]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000087175&office_id=293&mode=mainnews&type=&date=2026-07-03&page=1"
+    },
+    {
+      "title": "코스닥 밸류업 위해 공시 제도 강화…기술특례상장도 예외 없다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001150160&office_id=417&mode=mainnews&type=&date=2026-07-03&page=1"
+    },
+    {
+      "title": "\"300만원에서 65만원 떨어졌는데\"...애널들은 주가 420만원 간다는 SK하이닉스",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005543387&office_id=014&mode=mainnews&type=&date=2026-07-03&page=1"
+    },
+    {
+      "title": "WSJ \"삼성·SK하이닉스 비중 60%…한국 증시 AI 반도체 의존 심화\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000099955&office_id=243&mode=mainnews&type=&date=2026-07-03&page=1"
+    },
+    {
       "title": "코스피, 장중 7300선 밀렸다 반등…기관 매수에 7800선 회복",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0006321706&office_id=018&mode=mainnews&type=&date=2026-07-03&page=1"
     },
@@ -156,22 +172,6 @@
     {
       "title": "AI거품론 ‘널뛰는 반도체’… 삼전닉스 하루 시총 432조 증발뒤 혼조세",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002802178&office_id=021&mode=mainnews&type=&date=2026-07-03&page=1"
-    },
-    {
-      "title": "[단독]현대차 로봇 손·발에 '국산눈'…삼성 카메라 협력사에 러브콜",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005381100&office_id=008&mode=mainnews&type=&date=2026-07-03&page=1"
-    },
-    {
-      "title": "'하루 새 -14% 폭락' 메타발 흔들린 국내 반도체…삼성전자 2분기 실적에 이목 집중",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005543350&office_id=014&mode=mainnews&type=&date=2026-07-03&page=1"
-    },
-    {
-      "title": "2% 하락장이 3분새 7% 급락장으로…레버리지가 뒤흔든 코스피 [도마 오른 레버리지 ETF]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002665364&office_id=016&mode=mainnews&type=&date=2026-07-03&page=1"
-    },
-    {
-      "title": "\"롤러코스터도 이렇게는 안 탄다\" 급등락 삼전·닉스에 개미들 '어질어질'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014044935&office_id=003&mode=mainnews&type=&date=2026-07-03&page=1"
     }
   ]
 }
