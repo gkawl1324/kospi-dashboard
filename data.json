@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03 07:44:42",
+  "lastUpdated": "2026-07-03 08:14:48",
   "date": "2026.07.03",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1529.30",
-      "change": "13.20",
+      "value": "1530.30",
+      "change": "12.20",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "950.20",
-      "change": "6.12",
+      "value": "951.21",
+      "change": "5.11",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1750.97",
-      "change": "11.80",
+      "value": "1752.81",
+      "change": "9.96",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "225.36",
-      "change": "1.87",
+      "value": "225.59",
+      "change": "1.64",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "205371.12",
-      "change": "939.09",
+      "value": "205845.85",
+      "change": "1413.82",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,6 +142,26 @@
   ],
   "news": [
     {
+      "title": "반등 성공한 코스피…차주 증시, 삼성전자 실적에 쏠린 눈",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000099983&office_id=243&mode=mainnews&type=&date=2026-07-03&page=1"
+    },
+    {
+      "title": "단일종목 레버리지 ETF의 민낯… 장기 투자할수록 ‘음의 복리’에 녹는다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001176605&office_id=366&mode=mainnews&type=&date=2026-07-03&page=1"
+    },
+    {
+      "title": "기관 4.4조 쓸어담자 코스피 8000선 회복…반도체株 급반등",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002233093&office_id=138&mode=mainnews&type=&date=2026-07-03&page=1"
+    },
+    {
+      "title": "\"AI 과잉투자 우려 과했나\"…'메타發 쇼크' 하루 만에 삼전닉스 급반등",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005543523&office_id=014&mode=mainnews&type=&date=2026-07-03&page=1"
+    },
+    {
+      "title": "레버리지 갈아탄 서학개미…외환시장 '달러 부담' 여전",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006321874&office_id=018&mode=mainnews&type=&date=2026-07-03&page=1"
+    },
+    {
       "title": "반도체 투매 하루 만에 급반등…코스피 8000 재탈환",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000048607&office_id=648&mode=mainnews&type=&date=2026-07-03&page=1"
     },
@@ -152,26 +172,6 @@
     {
       "title": "50조 넘게 '팔자' 외국인, 이 종목은 3조 사들였는데…\"AI 최대 수혜\"",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005543493&office_id=014&mode=mainnews&type=&date=2026-07-03&page=1"
-    },
-    {
-      "title": "주가 출렁이자 1조 '풀매수'…폭락장에 '간큰 개미들' 몰렸다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005305999&office_id=015&mode=mainnews&type=&date=2026-07-03&page=1"
-    },
-    {
-      "title": "코스피, 5%대 급반등…반도체 반발매수에 8000선 하루 만에 회복",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006321842&office_id=018&mode=mainnews&type=&date=2026-07-03&page=1"
-    },
-    {
-      "title": "올해만 143조원 쏟아낸 외국인…‘팔자’ 계속되는 이유는[증권가 레이다]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000099974&office_id=243&mode=mainnews&type=&date=2026-07-03&page=1"
-    },
-    {
-      "title": "삼전 4% 빠질 때 레버리지 17% 뚝…'음의 복리'가 부른 참사",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005305995&office_id=015&mode=mainnews&type=&date=2026-07-03&page=1"
-    },
-    {
-      "title": "[속보] 코스피 5%대 급등해 '팔천피' 회복…삼전 8%·닉스 10% 급등",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005305989&office_id=015&mode=mainnews&type=&date=2026-07-03&page=1"
     }
   ]
 }
