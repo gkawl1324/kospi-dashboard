@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07 08:34:02",
+  "lastUpdated": "2026-07-07 08:48:05",
   "date": "2026.07.07",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1522.20",
-      "change": "8.30",
+      "value": "1521.40",
+      "change": "9.10",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "940.21",
-      "change": "4.08",
+      "value": "939.69",
+      "change": "4.60",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1740.71",
-      "change": "10.79",
+      "value": "1739.11",
+      "change": "12.39",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "223.92",
-      "change": "1.33",
+      "value": "223.77",
+      "change": "1.48",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "202540.97",
-      "change": "2084.25",
+      "value": "202003.38",
+      "change": "2621.84",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,7 +142,23 @@
   ],
   "news": [
     {
-      "title": "2분기 89조 벌고도 주가는 7%하락…증권가는 \"저점 매수 기회\"",
+      "title": "수주 랠리에 영업이익률도 탄탄…산일전기 '뜀박질'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005307260&office_id=015&mode=mainnews&type=&date=2026-07-07&page=1"
+    },
+    {
+      "title": "홈플러스發 경계심 속…사모펀드 인수기업 신용등급 줄강등",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005382744&office_id=008&mode=mainnews&type=&date=2026-07-07&page=1"
+    },
+    {
+      "title": "경영권 매각 여진…위메이드그룹 주가 '요동'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005382742&office_id=008&mode=mainnews&type=&date=2026-07-07&page=1"
+    },
+    {
+      "title": "\"고성능 AI 인프라 판다\"…올해 주가 2.5배 뛴 AMD",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005307254&office_id=015&mode=mainnews&type=&date=2026-07-07&page=1"
+    },
+    {
+      "title": "89조 벌었는데 주가 7% '뚝'…\"삼성전자 너무 싸, 지금 줍줍 기회\"",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005382724&office_id=008&mode=mainnews&type=&date=2026-07-07&page=1"
     },
     {
@@ -156,22 +172,6 @@
     {
       "title": "\"삼전닉스 2배 베팅\" 강심장 돈 싹쓸이…휘청이는 코스닥, 솟아날 구멍은",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005382711&office_id=008&mode=mainnews&type=&date=2026-07-07&page=1"
-    },
-    {
-      "title": "HD현대로보틱스는 주총, LS에식스솔루션즈는 거래소 심사…같은 중복상장도 ‘각자도생’ [투자360]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002667036&office_id=016&mode=mainnews&type=&date=2026-07-07&page=1"
-    },
-    {
-      "title": "문턱 높인 중복상장, 복잡한 예외조항…현장 고심 깊어",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002667035&office_id=016&mode=mainnews&type=&date=2026-07-07&page=1"
-    },
-    {
-      "title": "삼전·하닉 급락에...단일종목 레버리지 ETF, 상장가 아래로",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003535962&office_id=025&mode=mainnews&type=&date=2026-07-07&page=1"
-    },
-    {
-      "title": "삼성전자, 사상 최대 실적으로 ‘피크아웃’ 잠재웠다 [투자360]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002667031&office_id=016&mode=mainnews&type=&date=2026-07-07&page=1"
     }
   ]
 }
