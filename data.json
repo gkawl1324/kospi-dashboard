@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-07-07 04:30:44",
+  "lastUpdated": "2026-07-07 04:58:58",
   "date": "2026.07.07",
   "kospi": {
     "name": "KOSPI",
-    "current": "7447.42",
-    "change": "603.91",
-    "changePct": "7.50",
+    "current": "7404.48",
+    "change": "646.85",
+    "changePct": "8.03",
     "direction": "up",
-    "volume": "388583",
-    "tradeAmount": "25484266"
+    "volume": "412230",
+    "tradeAmount": "27220034"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "289000",
-      "change": "-29000",
-      "changePct": "-9.12",
+      "current": "287000",
+      "change": "-31000",
+      "changePct": "-9.75",
       "direction": "down",
-      "volume": "20597074",
+      "volume": "21907855",
       "high": "310000",
-      "low": "287500",
+      "low": "286000",
       "open": "307000",
       "marketCap": "0"
     },
@@ -29,13 +29,13 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2116000",
-      "change": "-227000",
-      "changePct": "-9.69",
+      "current": "2095000",
+      "change": "-248000",
+      "changePct": "-10.58",
       "direction": "down",
-      "volume": "3688051",
+      "volume": "3989815",
       "high": "2343000",
-      "low": "2105000",
+      "low": "2088000",
       "open": "2289000",
       "marketCap": "0"
     },
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "99000",
-      "change": "-2200",
-      "changePct": "-2.17",
+      "current": "98800",
+      "change": "-2400",
+      "changePct": "-2.37",
       "direction": "down",
-      "volume": "320943",
+      "volume": "336580",
       "high": "102300",
       "low": "98300",
       "open": "101700",
@@ -57,13 +57,13 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "193800",
-      "change": "-2800",
-      "changePct": "-1.42",
+      "current": "193300",
+      "change": "-3300",
+      "changePct": "-1.68",
       "direction": "down",
-      "volume": "747251",
+      "volume": "784974",
       "high": "199400",
-      "low": "193200",
+      "low": "193100",
       "open": "194600",
       "marketCap": "0"
     }
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1523.40",
-      "change": "7.10",
+      "value": "1525.00",
+      "change": "5.50",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "941.56",
-      "change": "2.73",
+      "value": "942.90",
+      "change": "1.39",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1742.46",
-      "change": "9.04",
+      "value": "1744.22",
+      "change": "7.28",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "224.14",
-      "change": "1.11",
+      "value": "224.38",
+      "change": "0.87",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "202435.0",
-      "change": "2190.22",
+      "value": "202344.75",
+      "change": "2280.47",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,6 +142,18 @@
   ],
   "news": [
     {
+      "title": "89조 벌고 주가는 9%대 급락…외인·기관 순매도 맥 못 추는 코스피",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005382540&office_id=008&mode=mainnews&type=&date=2026-07-07&page=1"
+    },
+    {
+      "title": "9%대 폭락에 ‘삼전하닉’ 주워담는 ‘상위 1%’…한화오션도 순매수 4위[주식초고수는 지금]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004638965&office_id=011&mode=mainnews&type=&date=2026-07-07&page=1"
+    },
+    {
+      "title": "'반도체 저승사자' 또 등판…\"이젠 삼전닉스 팔아라\" 경고",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005307095&office_id=015&mode=mainnews&type=&date=2026-07-07&page=1"
+    },
+    {
       "title": "코스피, 7400선까지 밀려…삼전닉스 8%대 급락",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0006324566&office_id=018&mode=mainnews&type=&date=2026-07-07&page=1"
     },
@@ -160,18 +172,6 @@
     {
       "title": "키움증권 위 다우기술, 모회사 보유 지분 절반 담보로",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000087315&office_id=293&mode=mainnews&type=&date=2026-07-07&page=1"
-    },
-    {
-      "title": "중복상장 규제에 FI〈재무적투자자〉 ‘수천억 청구서’ 날아든다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002666814&office_id=016&mode=mainnews&type=&date=2026-07-07&page=1"
-    },
-    {
-      "title": "HD현대로보-주총, LS에식스-개별심사…상장길 ‘각자도생’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002666812&office_id=016&mode=mainnews&type=&date=2026-07-07&page=1"
-    },
-    {
-      "title": "영업익 89조도 부족했나…삼성전자, '역대급 실적'에도 주가 밀린 까닭은",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000513827&office_id=629&mode=mainnews&type=&date=2026-07-07&page=1"
     }
   ]
 }
