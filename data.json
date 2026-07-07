@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-07-07 04:58:58",
+  "lastUpdated": "2026-07-07 08:34:02",
   "date": "2026.07.07",
   "kospi": {
     "name": "KOSPI",
-    "current": "7404.48",
-    "change": "646.85",
-    "changePct": "8.03",
+    "current": "7656.31",
+    "change": "395.02",
+    "changePct": "4.91",
     "direction": "up",
-    "volume": "412230",
-    "tradeAmount": "27220034"
+    "volume": "512294",
+    "tradeAmount": "39659682"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "287000",
-      "change": "-31000",
-      "changePct": "-9.75",
+      "current": "296000",
+      "change": "-22000",
+      "changePct": "-6.92",
       "direction": "down",
-      "volume": "21907855",
+      "volume": "31975948",
       "high": "310000",
       "low": "286000",
       "open": "307000",
@@ -29,13 +29,13 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2095000",
-      "change": "-248000",
-      "changePct": "-10.58",
+      "current": "2201000",
+      "change": "-142000",
+      "changePct": "-6.06",
       "direction": "down",
-      "volume": "3989815",
+      "volume": "6013581",
       "high": "2343000",
-      "low": "2088000",
+      "low": "2080000",
       "open": "2289000",
       "marketCap": "0"
     },
@@ -43,13 +43,13 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "98800",
-      "change": "-2400",
-      "changePct": "-2.37",
-      "direction": "down",
-      "volume": "336580",
+      "current": "102300",
+      "change": "1100",
+      "changePct": "1.09",
+      "direction": "up",
+      "volume": "467641",
       "high": "102300",
-      "low": "98300",
+      "low": "98000",
       "open": "101700",
       "marketCap": "0"
     },
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "193300",
-      "change": "-3300",
-      "changePct": "-1.68",
-      "direction": "down",
-      "volume": "784974",
+      "current": "197200",
+      "change": "600",
+      "changePct": "0.31",
+      "direction": "up",
+      "volume": "1077802",
       "high": "199400",
       "low": "193100",
       "open": "194600",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1525.00",
-      "change": "5.50",
+      "value": "1522.20",
+      "change": "8.30",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "942.90",
-      "change": "1.39",
+      "value": "940.21",
+      "change": "4.08",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1744.22",
-      "change": "7.28",
+      "value": "1740.71",
+      "change": "10.79",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "224.38",
-      "change": "0.87",
+      "value": "223.92",
+      "change": "1.33",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "202344.75",
-      "change": "2280.47",
+      "value": "202540.97",
+      "change": "2084.25",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "89조 벌고 주가는 9%대 급락…외인·기관 순매도 맥 못 추는 코스피",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005382540&office_id=008&mode=mainnews&type=&date=2026-07-07&page=1"
+      "title": "2분기 89조 벌고도 주가는 7%하락…증권가는 \"저점 매수 기회\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005382724&office_id=008&mode=mainnews&type=&date=2026-07-07&page=1"
     },
     {
-      "title": "9%대 폭락에 ‘삼전하닉’ 주워담는 ‘상위 1%’…한화오션도 순매수 4위[주식초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004638965&office_id=011&mode=mainnews&type=&date=2026-07-07&page=1"
+      "title": "'악몽의 반년' 보낸 K팝 ETF, 하반기 반등 기대감[체크!ETF]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001150677&office_id=417&mode=mainnews&type=&date=2026-07-07&page=1"
     },
     {
-      "title": "'반도체 저승사자' 또 등판…\"이젠 삼전닉스 팔아라\" 경고",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005307095&office_id=015&mode=mainnews&type=&date=2026-07-07&page=1"
+      "title": "삼전 ‘서프라이즈’에도 코스피 급락…서킷브레이커에 시장 ‘패닉’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002233445&office_id=138&mode=mainnews&type=&date=2026-07-07&page=1"
     },
     {
-      "title": "코스피, 7400선까지 밀려…삼전닉스 8%대 급락",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006324566&office_id=018&mode=mainnews&type=&date=2026-07-07&page=1"
+      "title": "\"삼전닉스 2배 베팅\" 강심장 돈 싹쓸이…휘청이는 코스닥, 솟아날 구멍은",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005382711&office_id=008&mode=mainnews&type=&date=2026-07-07&page=1"
     },
     {
-      "title": "“같은 삼성전자인데 ‘반값’ 세일 중?”…하반기엔 저평가 딱지 뗀다는 ‘이 종목’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004638960&office_id=011&mode=mainnews&type=&date=2026-07-07&page=1"
+      "title": "HD현대로보틱스는 주총, LS에식스솔루션즈는 거래소 심사…같은 중복상장도 ‘각자도생’ [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002667036&office_id=016&mode=mainnews&type=&date=2026-07-07&page=1"
     },
     {
-      "title": "최창규 본부장 “하반기 코스피 1만선 상단 열려...롤러코스터 장세 속 ‘현금’ 준비” [어쨌든 경제]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006324562&office_id=018&mode=mainnews&type=&date=2026-07-07&page=1"
+      "title": "문턱 높인 중복상장, 복잡한 예외조항…현장 고심 깊어",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002667035&office_id=016&mode=mainnews&type=&date=2026-07-07&page=1"
     },
     {
-      "title": "‘한국 넣은’블랙록ETF 38% 벌 때, ‘한국 뺀’ 뱅가드 20% 그쳐",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002802938&office_id=021&mode=mainnews&type=&date=2026-07-07&page=1"
+      "title": "삼전·하닉 급락에...단일종목 레버리지 ETF, 상장가 아래로",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003535962&office_id=025&mode=mainnews&type=&date=2026-07-07&page=1"
     },
     {
-      "title": "키움증권 위 다우기술, 모회사 보유 지분 절반 담보로",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000087315&office_id=293&mode=mainnews&type=&date=2026-07-07&page=1"
+      "title": "삼성전자, 사상 최대 실적으로 ‘피크아웃’ 잠재웠다 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002667031&office_id=016&mode=mainnews&type=&date=2026-07-07&page=1"
     }
   ]
 }
