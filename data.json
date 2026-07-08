@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08 07:01:43",
+  "lastUpdated": "2026-07-08 07:34:16",
   "date": "2026.07.08",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1501.20",
-      "change": "16.00",
+      "value": "1503.20",
+      "change": "14.00",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "925.50",
-      "change": "10.00",
+      "value": "926.81",
+      "change": "8.69",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1714.75",
-      "change": "15.62",
+      "value": "1718.31",
+      "change": "12.06",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "220.75",
-      "change": "2.23",
+      "value": "221.03",
+      "change": "1.95",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "199019.74",
-      "change": "1063.35",
+      "value": "199172.41",
+      "change": "910.68",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "'검은 화요일'보다 더 떨어진 수요일…코스피·코스닥 동반 급락",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005383259&office_id=008&mode=mainnews&type=&date=2026-07-08&page=1"
+      "title": "“삼성전자 담고, SK하이닉스 던졌다”…‘상위 1%’ 주식 초고수들 선택은",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002667638&office_id=016&mode=mainnews&type=&date=2026-07-08&page=1"
     },
     {
-      "title": "UBS “SK하이닉스 ADR 사고, 한국 주식은 팔아라”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002803294&office_id=021&mode=mainnews&type=&date=2026-07-08&page=1"
+      "title": "“주식계좌 보기 두려워” 코스피 5% 급락…4거래일에 한 번 꼴로 사이드카 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002667636&office_id=016&mode=mainnews&type=&date=2026-07-08&page=1"
     },
     {
-      "title": "국장 비상등…코스피·코스닥 5%대 하락에 개미 한숨[오늘증시]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001150851&office_id=417&mode=mainnews&type=&date=2026-07-08&page=1"
+      "title": "국내서도 반도체 피크아웃론 솔솔…삼성전자 목표가 하향 나왔다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006325486&office_id=018&mode=mainnews&type=&date=2026-07-08&page=1"
     },
     {
-      "title": "호주 연기금 \"美 기술주 떨어지면 산다\"…AI 성장성에 베팅",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005787309&office_id=277&mode=mainnews&type=&date=2026-07-08&page=1"
+      "title": "반도체 고점론에 중동 리스크까지…'검은 수요일' 코스피·코스닥 5%대 급락",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014054583&office_id=003&mode=mainnews&type=&date=2026-07-08&page=1"
     },
     {
-      "title": "\"국장은 이제 시즌 종료냐\"…연이틀 울린 '비상벨'에 비관론 퍼진 개미들",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014054306&office_id=003&mode=mainnews&type=&date=2026-07-08&page=1"
+      "title": "변동성 장세에 레버리지 ETF 성과 편차…수익률 엇갈려",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000100173&office_id=243&mode=mainnews&type=&date=2026-07-08&page=1"
     },
     {
-      "title": "환율 1500원대로 떨어져…\"하이닉스 ADR 상장 효과 선반영\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006325424&office_id=018&mode=mainnews&type=&date=2026-07-08&page=1"
+      "title": "반도체 투매에 코스피 5.35% 급락…7200선으로 ‘털썩’ [이런국장 저런주식]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004639500&office_id=011&mode=mainnews&type=&date=2026-07-08&page=1"
     },
     {
-      "title": "증권가, '27만 전자' 추락 삼성전자 향해 제각각 리포트",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000514346&office_id=629&mode=mainnews&type=&date=2026-07-08&page=1"
+      "title": "'연결자산 10조' 상장사, 2028년부터 ESG 법정공시해야 [종합]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005545503&office_id=014&mode=mainnews&type=&date=2026-07-08&page=1"
     },
     {
-      "title": "10개월 전으로 돌아간 코스닥…개미 비명 속 증권가 \"낙폭 과도\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001258024&office_id=215&mode=mainnews&type=&date=2026-07-08&page=1"
+      "title": "'반도체 피크아웃' 공포 덮쳤다…코스피·코스닥 5% 넘게 폭락 [종합]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005307663&office_id=015&mode=mainnews&type=&date=2026-07-08&page=1"
     }
   ]
 }
