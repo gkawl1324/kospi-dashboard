@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-07-08 03:52:28",
+  "lastUpdated": "2026-07-08 04:19:28",
   "date": "2026.07.08",
   "kospi": {
     "name": "KOSPI",
-    "current": "7504.65",
-    "change": "151.66",
-    "changePct": "1.98",
+    "current": "7372.97",
+    "change": "283.34",
+    "changePct": "3.70",
     "direction": "up",
-    "volume": "284699",
-    "tradeAmount": "23618472"
+    "volume": "318969",
+    "tradeAmount": "25576053"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "286250",
-      "change": "-9750",
-      "changePct": "-3.29",
+      "current": "281500",
+      "change": "-14500",
+      "changePct": "-4.90",
       "direction": "down",
-      "volume": "18328558",
+      "volume": "19853867",
       "high": "300000",
-      "low": "283000",
+      "low": "281000",
       "open": "285500",
       "marketCap": "0"
     },
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2239000",
-      "change": "38000",
-      "changePct": "1.73",
-      "direction": "up",
-      "volume": "3839890",
+      "current": "2181000",
+      "change": "-20000",
+      "changePct": "-0.91",
+      "direction": "down",
+      "volume": "4116046",
       "high": "2329000",
       "low": "2090000",
       "open": "2118000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "103600",
-      "change": "1300",
-      "changePct": "1.27",
-      "direction": "up",
-      "volume": "308508",
+      "current": "102200",
+      "change": "-100",
+      "changePct": "-0.10",
+      "direction": "down",
+      "volume": "338235",
       "high": "107900",
       "low": "101200",
       "open": "101700",
@@ -57,13 +57,13 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "194100",
-      "change": "-3100",
-      "changePct": "-1.57",
+      "current": "192600",
+      "change": "-4600",
+      "changePct": "-2.33",
       "direction": "down",
-      "volume": "552922",
+      "volume": "620493",
       "high": "197800",
-      "low": "193200",
+      "low": "192500",
       "open": "196300",
       "marketCap": "0"
     }
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1511.10",
-      "change": "6.10",
+      "value": "1510.60",
+      "change": "6.60",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "930.88",
-      "change": "4.62",
+      "value": "930.26",
+      "change": "5.24",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1724.92",
-      "change": "5.45",
+      "value": "1724.05",
+      "change": "6.32",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "222.24",
-      "change": "0.74",
+      "value": "222.16",
+      "change": "0.82",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "200597.26",
-      "change": "514.17",
+      "value": "200414.62",
+      "change": "331.53",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,7 +142,11 @@
   ],
   "news": [
     {
-      "title": "불장 이끈 반도체 꺾였다…'고점론' 다시 고개",
+      "title": "HD현대로보틱스 '주총 필수', 한화에너지 '제외'[중복상장 가이드라인]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000048728&office_id=648&mode=mainnews&type=&date=2026-07-08&page=1"
+    },
+    {
+      "title": "역대급 실적이라더니…엇갈린 전망에 '개미 둥절'",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0001258000&office_id=215&mode=mainnews&type=&date=2026-07-08&page=1"
     },
     {
@@ -168,10 +172,6 @@
     {
       "title": "'60만전자' vs. '39만전자'…엇갈린 증권가, 삼성전자 목표가도 갈렸다",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005545313&office_id=014&mode=mainnews&type=&date=2026-07-08&page=1"
-    },
-    {
-      "title": "스페이스X 주가 최저수준…우주 ETF ‘수익률 털썩’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002667423&office_id=016&mode=mainnews&type=&date=2026-07-08&page=1"
     }
   ]
 }
