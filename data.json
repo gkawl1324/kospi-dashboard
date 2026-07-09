@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-07-09 04:27:46",
+  "lastUpdated": "2026-07-09 05:03:56",
   "date": "2026.07.09",
   "kospi": {
     "name": "KOSPI",
-    "current": "7178.74",
-    "change": "68.05",
-    "changePct": "0.94",
+    "current": "7230.12",
+    "change": "16.67",
+    "changePct": "0.23",
     "direction": "up",
-    "volume": "369089",
-    "tradeAmount": "24288272"
+    "volume": "417838",
+    "tradeAmount": "25977493"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "272500",
-      "change": "-5000",
-      "changePct": "-1.80",
+      "current": "275250",
+      "change": "-2250",
+      "changePct": "-0.81",
       "direction": "down",
-      "volume": "18915762",
+      "volume": "20011458",
       "high": "291500",
       "low": "267500",
       "open": "288500",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2134000",
-      "change": "58000",
-      "changePct": "2.79",
+      "current": "2156000",
+      "change": "80000",
+      "changePct": "3.85",
       "direction": "up",
-      "volume": "3738821",
+      "volume": "3949187",
       "high": "2270000",
       "low": "2091000",
       "open": "2228000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "99500",
-      "change": "-3000",
-      "changePct": "-2.93",
+      "current": "99600",
+      "change": "-2900",
+      "changePct": "-2.83",
       "direction": "down",
-      "volume": "235484",
+      "volume": "259971",
       "high": "104300",
       "low": "97700",
       "open": "103500",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "186300",
-      "change": "-6400",
-      "changePct": "-3.32",
+      "current": "185800",
+      "change": "-6900",
+      "changePct": "-3.58",
       "direction": "down",
-      "volume": "728987",
+      "volume": "775920",
       "high": "193200",
       "low": "184000",
       "open": "191500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1504.20",
-      "change": "2.80",
+      "value": "1502.80",
+      "change": "4.20",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "926.09",
-      "change": "0.72",
+      "value": "925.23",
+      "change": "1.58",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1718.70",
-      "change": "1.92",
+      "value": "1717.40",
+      "change": "3.22",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "221.12",
-      "change": "0.30",
+      "value": "220.96",
+      "change": "0.46",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "196434.1",
-      "change": "570.82",
+      "value": "196332.24",
+      "change": "672.68",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,6 +142,14 @@
   ],
   "news": [
     {
+      "title": "“ADR 온다고?” 초고수는 하이닉스 담고 삼전 팔았다 [주식 초고수는 지금]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004639881&office_id=011&mode=mainnews&type=&date=2026-07-09&page=1"
+    },
+    {
+      "title": "'애국 테마주'로 떠오른 한성기업…상폐 위기 넘긴 뒤 주가 향방은",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000514666&office_id=629&mode=mainnews&type=&date=2026-07-09&page=1"
+    },
+    {
       "title": "코스피, 장 초반 반등세 꺾여 약세 전환…코스닥도 다시 800선 아래",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0001177935&office_id=366&mode=mainnews&type=&date=2026-07-09&page=1"
     },
@@ -154,24 +162,16 @@
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005383691&office_id=008&mode=mainnews&type=&date=2026-07-09&page=1"
     },
     {
+      "title": "연봉 7500만원 받아도 국민연금 안 깎인다…달라진 감액 기준은?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014056117&office_id=003&mode=mainnews&type=&date=2026-07-09&page=1"
+    },
+    {
       "title": "\"빠질 만큼 빠졌다\" 낙폭 과대株 노릴 때?...고수는 '이 업종' 주목",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005383681&office_id=008&mode=mainnews&type=&date=2026-07-09&page=1"
     },
     {
       "title": "법원도 인정한 '장외파생' 명분…한양증권, 500억 유증 부담 덜었다",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000514613&office_id=629&mode=mainnews&type=&date=2026-07-09&page=1"
-    },
-    {
-      "title": "\"애아빠가 화 났는데, 주식 환불 되나\"…코스피 폭락에 '웃픈' 밈",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006325991&office_id=018&mode=mainnews&type=&date=2026-07-09&page=1"
-    },
-    {
-      "title": "삼성 실적 역대급인데 주가는 급락…엇갈린 증권가 평가",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004639826&office_id=011&mode=mainnews&type=&date=2026-07-09&page=1"
-    },
-    {
-      "title": "“반도체 사이클 안 끝난다”…삼성·SK 재평가 시작되나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004639825&office_id=011&mode=mainnews&type=&date=2026-07-09&page=1"
     }
   ]
 }
