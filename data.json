@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09 07:59:40",
+  "lastUpdated": "2026-07-09 08:41:41",
   "date": "2026.07.09",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1511.40",
-      "change": "4.40",
+      "value": "1512.30",
+      "change": "5.30",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "930.95",
-      "change": "4.14",
+      "value": "931.62",
+      "change": "4.81",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1728.06",
-      "change": "7.44",
+      "value": "1729.32",
+      "change": "8.70",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "222.32",
-      "change": "0.90",
+      "value": "222.47",
+      "change": "1.05",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "199641.24",
-      "change": "2636.32",
+      "value": "200058.44",
+      "change": "3053.52",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "'삼전·닉스+두 종목 레버리지', 국내증시 거래대금 비중 83%(종합)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016186018&office_id=001&mode=mainnews&type=&date=2026-07-09&page=1"
+      "title": "SK하이닉스 목표주가 ‘185만원’…충격의 증권가 리포트 나왔다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002803648&office_id=021&mode=mainnews&type=&date=2026-07-09&page=1"
     },
     {
-      "title": "단일종목 레버리지 ETF 보완책, 15일 업무보고 전 나오나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005383929&office_id=008&mode=mainnews&type=&date=2026-07-09&page=1"
+      "title": "480P 롤러코스터 탄 코스피…외국인·기관 매수에 7291선 반등",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002233742&office_id=138&mode=mainnews&type=&date=2026-07-09&page=1"
     },
     {
-      "title": "\"서남권 반도체 클러스터, 입지보다 전력 검증 먼저 해야\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006326263&office_id=018&mode=mainnews&type=&date=2026-07-09&page=1"
+      "title": "미-이란 갈등 재개에 다시 불붙은 유가, 금융시장 영향은?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005383995&office_id=008&mode=mainnews&type=&date=2026-07-09&page=1"
     },
     {
-      "title": "충격의 8일, 전 업종이 ‘올킬’됐었다…레버리지 쏠림은 여전 [투자360]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002668239&office_id=016&mode=mainnews&type=&date=2026-07-09&page=1"
+      "title": "토박스코리아 경영권 이전 첫 단추부터 삐걱…2대주주, 제동",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006326296&office_id=018&mode=mainnews&type=&date=2026-07-09&page=1"
     },
     {
-      "title": "밸류만 보면 코스피 '금융위기' 맞은 격…외국인, 이틀 연속 순매수",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009050976&office_id=421&mode=mainnews&type=&date=2026-07-09&page=1"
+      "title": "\"코스피, 금융위기보다 저평가\"?돌아온 외국인, 이번엔 진짜 '반등 신호'?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001041097&office_id=031&mode=mainnews&type=&date=2026-07-09&page=1"
     },
     {
-      "title": "코스피, 겨우 턱걸이 상승 마감…‘애국기업’ 입소문에 한성기업 상한가 [투자360]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002668235&office_id=016&mode=mainnews&type=&date=2026-07-09&page=1"
+      "title": "나흘 만에 반등 성공한 코스피…\"바닥 가깝다 저가매수 노려라\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005383969&office_id=008&mode=mainnews&type=&date=2026-07-09&page=1"
     },
     {
-      "title": "비트코인 떠난 돈...이더리움으로 향했다[코인뉴스]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003109873&office_id=119&mode=mainnews&type=&date=2026-07-09&page=1"
+      "title": "에어컨주 하락세인데…엔비디아 기대감에 주목받는 '캐리어에어컨' 오텍",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005308212&office_id=015&mode=mainnews&type=&date=2026-07-09&page=1"
     },
     {
-      "title": "\"나스닥100 편입에 475억달러 빨아들여\"…정작 주가는 시초가 하회",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005308201&office_id=015&mode=mainnews&type=&date=2026-07-09&page=1"
+      "title": "[단독] ABL생명보험, 금투센터 옆 여의도 사옥 매각한다 [시그널]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004639970&office_id=011&mode=mainnews&type=&date=2026-07-09&page=1"
     }
   ]
 }
