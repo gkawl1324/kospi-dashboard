@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-07-09 05:03:56",
+  "lastUpdated": "2026-07-09 07:59:40",
   "date": "2026.07.09",
   "kospi": {
     "name": "KOSPI",
-    "current": "7230.12",
-    "change": "16.67",
-    "changePct": "0.23",
+    "current": "7291.91",
+    "change": "45.12",
+    "changePct": "0.62",
     "direction": "up",
-    "volume": "417838",
-    "tradeAmount": "25977493"
+    "volume": "574746",
+    "tradeAmount": "37457018"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "275250",
-      "change": "-2250",
-      "changePct": "-0.81",
-      "direction": "down",
-      "volume": "20011458",
+      "current": "278000",
+      "change": "500",
+      "changePct": "0.18",
+      "direction": "up",
+      "volume": "28796159",
       "high": "291500",
       "low": "267500",
       "open": "288500",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2156000",
-      "change": "80000",
-      "changePct": "3.85",
+      "current": "2186000",
+      "change": "110000",
+      "changePct": "5.30",
       "direction": "up",
-      "volume": "3949187",
+      "volume": "5615826",
       "high": "2270000",
       "low": "2091000",
       "open": "2228000",
@@ -43,13 +43,13 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "99600",
-      "change": "-2900",
-      "changePct": "-2.83",
+      "current": "101300",
+      "change": "-1200",
+      "changePct": "-1.17",
       "direction": "down",
-      "volume": "259971",
+      "volume": "555287",
       "high": "104300",
-      "low": "97700",
+      "low": "97200",
       "open": "103500",
       "marketCap": "0"
     },
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "185800",
-      "change": "-6900",
-      "changePct": "-3.58",
+      "current": "184400",
+      "change": "-8300",
+      "changePct": "-4.31",
       "direction": "down",
-      "volume": "775920",
+      "volume": "1207585",
       "high": "193200",
       "low": "184000",
       "open": "191500",
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1502.80",
-      "change": "4.20",
-      "direction": "down"
+      "value": "1511.40",
+      "change": "4.40",
+      "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "925.23",
-      "change": "1.58",
-      "direction": "down"
+      "value": "930.95",
+      "change": "4.14",
+      "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1717.40",
-      "change": "3.22",
-      "direction": "down"
+      "value": "1728.06",
+      "change": "7.44",
+      "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "220.96",
-      "change": "0.46",
-      "direction": "down"
+      "value": "222.32",
+      "change": "0.90",
+      "direction": "up"
     }
   ],
   "oilPrices": [
@@ -118,9 +118,9 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "196332.24",
-      "change": "672.68",
-      "direction": "down",
+      "value": "199641.24",
+      "change": "2636.32",
+      "direction": "up",
       "unit": "USD/oz"
     },
     {
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "“ADR 온다고?” 초고수는 하이닉스 담고 삼전 팔았다 [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004639881&office_id=011&mode=mainnews&type=&date=2026-07-09&page=1"
+      "title": "'삼전·닉스+두 종목 레버리지', 국내증시 거래대금 비중 83%(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016186018&office_id=001&mode=mainnews&type=&date=2026-07-09&page=1"
     },
     {
-      "title": "'애국 테마주'로 떠오른 한성기업…상폐 위기 넘긴 뒤 주가 향방은",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000514666&office_id=629&mode=mainnews&type=&date=2026-07-09&page=1"
+      "title": "단일종목 레버리지 ETF 보완책, 15일 업무보고 전 나오나",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005383929&office_id=008&mode=mainnews&type=&date=2026-07-09&page=1"
     },
     {
-      "title": "코스피, 장 초반 반등세 꺾여 약세 전환…코스닥도 다시 800선 아래",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001177935&office_id=366&mode=mainnews&type=&date=2026-07-09&page=1"
+      "title": "\"서남권 반도체 클러스터, 입지보다 전력 검증 먼저 해야\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006326263&office_id=018&mode=mainnews&type=&date=2026-07-09&page=1"
     },
     {
-      "title": "개인은 빚내서 사고, 외인은 빌려서 판다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002668067&office_id=016&mode=mainnews&type=&date=2026-07-09&page=1"
+      "title": "충격의 8일, 전 업종이 ‘올킬’됐었다…레버리지 쏠림은 여전 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002668239&office_id=016&mode=mainnews&type=&date=2026-07-09&page=1"
     },
     {
-      "title": "'홈플'에 국민연금 사모펀드 출자 물 건너가…與 \"MBK영업 못하게 하겠다\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005383691&office_id=008&mode=mainnews&type=&date=2026-07-09&page=1"
+      "title": "밸류만 보면 코스피 '금융위기' 맞은 격…외국인, 이틀 연속 순매수",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009050976&office_id=421&mode=mainnews&type=&date=2026-07-09&page=1"
     },
     {
-      "title": "연봉 7500만원 받아도 국민연금 안 깎인다…달라진 감액 기준은?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014056117&office_id=003&mode=mainnews&type=&date=2026-07-09&page=1"
+      "title": "코스피, 겨우 턱걸이 상승 마감…‘애국기업’ 입소문에 한성기업 상한가 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002668235&office_id=016&mode=mainnews&type=&date=2026-07-09&page=1"
     },
     {
-      "title": "\"빠질 만큼 빠졌다\" 낙폭 과대株 노릴 때?...고수는 '이 업종' 주목",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005383681&office_id=008&mode=mainnews&type=&date=2026-07-09&page=1"
+      "title": "비트코인 떠난 돈...이더리움으로 향했다[코인뉴스]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003109873&office_id=119&mode=mainnews&type=&date=2026-07-09&page=1"
     },
     {
-      "title": "법원도 인정한 '장외파생' 명분…한양증권, 500억 유증 부담 덜었다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000514613&office_id=629&mode=mainnews&type=&date=2026-07-09&page=1"
+      "title": "\"나스닥100 편입에 475억달러 빨아들여\"…정작 주가는 시초가 하회",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005308201&office_id=015&mode=mainnews&type=&date=2026-07-09&page=1"
     }
   ]
 }
