@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-07-10 04:31:03",
+  "lastUpdated": "2026-07-10 04:58:14",
   "date": "2026.07.10",
   "kospi": {
     "name": "KOSPI",
-    "current": "7676.35",
-    "change": "384.44",
-    "changePct": "5.27",
+    "current": "7615.18",
+    "change": "323.27",
+    "changePct": "4.43",
     "direction": "up",
-    "volume": "353241",
-    "tradeAmount": "22451337"
+    "volume": "373854",
+    "tradeAmount": "23963146"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "297000",
-      "change": "19000",
-      "changePct": "6.83",
+      "current": "294500",
+      "change": "16500",
+      "changePct": "5.94",
       "direction": "up",
-      "volume": "14076122",
+      "volume": "14933397",
       "high": "298000",
       "low": "282000",
       "open": "291000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2257000",
-      "change": "71000",
-      "changePct": "3.25",
+      "current": "2252000",
+      "change": "66000",
+      "changePct": "3.02",
       "direction": "up",
-      "volume": "3554623",
+      "volume": "3766351",
       "high": "2305000",
       "low": "2166000",
       "open": "2296000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "106100",
-      "change": "4800",
-      "changePct": "4.74",
+      "current": "104050",
+      "change": "2750",
+      "changePct": "2.71",
       "direction": "up",
-      "volume": "206630",
+      "volume": "227919",
       "high": "106800",
       "low": "100600",
       "open": "102200",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "193000",
-      "change": "8600",
-      "changePct": "4.66",
+      "current": "191600",
+      "change": "7200",
+      "changePct": "3.90",
       "direction": "up",
-      "volume": "535781",
+      "volume": "562684",
       "high": "194600",
       "low": "186300",
       "open": "186300",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1510.10",
-      "change": "3.10",
+      "value": "1511.20",
+      "change": "4.20",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "934.24",
-      "change": "6.17",
+      "value": "934.69",
+      "change": "6.62",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1728.38",
-      "change": "5.50",
+      "value": "1728.89",
+      "change": "6.01",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "222.66",
-      "change": "0.91",
+      "value": "222.80",
+      "change": "1.05",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "199773.97",
-      "change": "685.54",
+      "value": "200115.01",
+      "change": "344.50",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,6 +142,26 @@
   ],
   "news": [
     {
+      "title": "“ETF 전쟁통서 뒤지지 않겠다”…DS운용, ‘코스닥 액티브’로 승부수",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006327093&office_id=018&mode=mainnews&type=&date=2026-07-10&page=1"
+    },
+    {
+      "title": "코스피·코스닥 매수 사이드카…삼전 7% 급등 반도체株 강세 [마켓시그널]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004640278&office_id=011&mode=mainnews&type=&date=2026-07-10&page=1"
+    },
+    {
+      "title": "수급 풀렸다 '기관' 양시장 폭풍매수....종목 90% 오르며 코스피 5%대 급등",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006327083&office_id=018&mode=mainnews&type=&date=2026-07-10&page=1"
+    },
+    {
+      "title": "\"구조대 왔어요\" 코스피 90%가 '빨간불'...양대 시장 '매수 사이드카'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005384299&office_id=008&mode=mainnews&type=&date=2026-07-10&page=1"
+    },
+    {
+      "title": "“또 사이드카”…현기증 나는 증시, 코스피·코스닥 동시 발동",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001178250&office_id=366&mode=mainnews&type=&date=2026-07-10&page=1"
+    },
+    {
       "title": "증권사·코인거래소 합종연횡 속…빗썸만 '지배구조·규제 리스크'에 발목",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000515023&office_id=629&mode=mainnews&type=&date=2026-07-10&page=1"
     },
@@ -152,26 +172,6 @@
     {
       "title": "?디에스자산운용, ETF 시장 출격…\"코스닥 주도주 선별로 승부수\"?",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000515011&office_id=629&mode=mainnews&type=&date=2026-07-10&page=1"
-    },
-    {
-      "title": "국내보다 3% 높은 공모가…美증시서 프리미엄 인정 받았다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002668635&office_id=016&mode=mainnews&type=&date=2026-07-10&page=1"
-    },
-    {
-      "title": "\"그래서 반도체 더 올라요?\"…SK하이닉스 미 상장 앞두고 쏟아진 질문",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005384283&office_id=008&mode=mainnews&type=&date=2026-07-10&page=1"
-    },
-    {
-      "title": "“메모리주 매수기회…최소 1분기 더 간다”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002668604&office_id=016&mode=mainnews&type=&date=2026-07-10&page=1"
-    },
-    {
-      "title": "반도체 상승 사이클 지속되나…소부장株 일제히 주가 급등 [줍줍리포트]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004640259&office_id=011&mode=mainnews&type=&date=2026-07-10&page=1"
-    },
-    {
-      "title": "'외인 41조 유입' 순조로운 WGBI 편입에도…\"실질적 체감은 아직\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016187101&office_id=001&mode=mainnews&type=&date=2026-07-10&page=1"
     }
   ]
 }
