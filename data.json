@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13 07:46:57",
+  "lastUpdated": "2026-07-13 08:20:56",
   "date": "2026.07.13",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1500.70",
-      "change": "1.30",
+      "value": "1494.70",
+      "change": "7.30",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "925.07",
-      "change": "3.44",
+      "value": "922.40",
+      "change": "6.11",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1713.50",
-      "change": "0.47",
-      "direction": "up"
+      "value": "1710.46",
+      "change": "2.57",
+      "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "221.19",
-      "change": "0.23",
+      "value": "220.39",
+      "change": "1.03",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "195958.51",
-      "change": "2505.87",
+      "value": "196012.98",
+      "change": "2451.40",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "ETF 스페이스X 편입경쟁 '머쓱'…한달 새 수익률 -40%·자금 6천억 썰물",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005385302&office_id=008&mode=mainnews&type=&date=2026-07-13&page=1"
+      "title": "나스닥선 환호, 서울선 패닉?…SK하이닉스 15% 급락",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003110968&office_id=119&mode=mainnews&type=&date=2026-07-13&page=1"
     },
     {
-      "title": "4조원 매물 받아낸 개인…줄어드는 ‘실탄’에 매수 체력 시험대",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006329283&office_id=018&mode=mainnews&type=&date=2026-07-13&page=1"
+      "title": "7000선 무너진 코스피?반등 열쇠는 '외국인 수급'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001041802&office_id=031&mode=mainnews&type=&date=2026-07-13&page=1"
     },
     {
-      "title": "JTBC 완전자본잠식에도 원리금 보장?…증권사 불완전판매 의혹 제기",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005385299&office_id=008&mode=mainnews&type=&date=2026-07-13&page=1"
+      "title": "코스피 급락의 역설... ‘7월 증시 뇌관’ 국민연금 리밸런싱 우려 덜었다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001178846&office_id=366&mode=mainnews&type=&date=2026-07-13&page=1"
     },
     {
-      "title": "미담에 주가 두 배…상폐 위기주로 번진 테마 장세[김지영의 생존투자]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003036805&office_id=029&mode=mainnews&type=&date=2026-07-13&page=1"
+      "title": "\"바닥 어디\" 7000도 내준 코스피, 줍줍 기회?…\"사라! 단\" 전문가 조언",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005385327&office_id=008&mode=mainnews&type=&date=2026-07-13&page=1"
     },
     {
-      "title": "사상 최대 낙폭 SK하닉 '쇼크'에 레버리지 ETF 30% 폭락 '비명'(종합)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014063942&office_id=003&mode=mainnews&type=&date=2026-07-13&page=1"
+      "title": "‘반도체 고점론’ 힘받나…“TSMC 실적이 변곡점”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006329310&office_id=018&mode=mainnews&type=&date=2026-07-13&page=1"
     },
     {
-      "title": "7000선도 붕괴된 코스피…올해에만 서킷브레이커 7차례",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006329272&office_id=018&mode=mainnews&type=&date=2026-07-13&page=1"
+      "title": "‘단 17거래일만’ 구천피서 육천피로…코스피, 날개 없는 추락 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002669641&office_id=016&mode=mainnews&type=&date=2026-07-13&page=1"
     },
     {
-      "title": "중동 리스크에 '코스피 급락' 쇼크…최저 6780선까지 뒷걸음질[오늘증시]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001151455&office_id=417&mode=mainnews&type=&date=2026-07-13&page=1"
+      "title": "삼성전기 앞다퉈 담았다가…반도체 ETF 줄줄이 ‘휘청’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006329306&office_id=018&mode=mainnews&type=&date=2026-07-13&page=1"
     },
     {
-      "title": "계단 올라서 엘베 타고 내려온 코스피…\"쏠림·레버리지가 변동성 키워\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014063922&office_id=003&mode=mainnews&type=&date=2026-07-13&page=1"
+      "title": "“사이클 정점 신호”…삼전닉스 랠리서 발 빼는 글로벌 '큰손'들",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006329303&office_id=018&mode=mainnews&type=&date=2026-07-13&page=1"
     }
   ]
 }
