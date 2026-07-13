@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-07-13 04:34:35",
+  "lastUpdated": "2026-07-13 07:46:57",
   "date": "2026.07.13",
   "kospi": {
     "name": "KOSPI",
-    "current": "6880.97",
-    "change": "594.97",
-    "changePct": "7.96",
+    "current": "6806.93",
+    "change": "669.01",
+    "changePct": "8.95",
     "direction": "up",
-    "volume": "353635",
-    "tradeAmount": "26206502"
+    "volume": "469862",
+    "tradeAmount": "39797819"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "258750",
-      "change": "-26250",
-      "changePct": "-9.21",
+      "current": "254500",
+      "change": "-30500",
+      "changePct": "-10.70",
       "direction": "down",
-      "volume": "18258292",
+      "volume": "31882652",
       "high": "292500",
-      "low": "257000",
+      "low": "253000",
       "open": "285000",
       "marketCap": "0"
     },
@@ -29,13 +29,13 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1889000",
-      "change": "-291000",
-      "changePct": "-13.35",
+      "current": "1845000",
+      "change": "-335000",
+      "changePct": "-15.37",
       "direction": "down",
-      "volume": "5147669",
+      "volume": "7951404",
       "high": "2142000",
-      "low": "1883000",
+      "low": "1839000",
       "open": "2113000",
       "marketCap": "0"
     },
@@ -43,13 +43,13 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "99800",
-      "change": "-1500",
-      "changePct": "-1.48",
+      "current": "99300",
+      "change": "-2000",
+      "changePct": "-1.97",
       "direction": "down",
-      "volume": "199907",
+      "volume": "449556",
       "high": "107200",
-      "low": "99700",
+      "low": "98400",
       "open": "102300",
       "marketCap": "0"
     },
@@ -57,13 +57,13 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "187200",
-      "change": "-4100",
-      "changePct": "-2.14",
+      "current": "188000",
+      "change": "-3300",
+      "changePct": "-1.73",
       "direction": "down",
-      "volume": "493935",
+      "volume": "757031",
       "high": "195400",
-      "low": "187100",
+      "low": "186400",
       "open": "191100",
       "marketCap": "0"
     }
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1505.90",
-      "change": "3.90",
-      "direction": "up"
+      "value": "1500.70",
+      "change": "1.30",
+      "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "929.54",
-      "change": "1.03",
-      "direction": "up"
+      "value": "925.07",
+      "change": "3.44",
+      "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1717.03",
-      "change": "4.00",
+      "value": "1713.50",
+      "change": "0.47",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "221.88",
-      "change": "0.46",
-      "direction": "up"
+      "value": "221.19",
+      "change": "0.23",
+      "direction": "down"
     }
   ],
   "oilPrices": [
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "196420.64",
-      "change": "2043.74",
+      "value": "195958.51",
+      "change": "2505.87",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "SK하이닉스 급락, 업황 훼손보다 ‘ADR 이벤트 소멸·레버리지 청산’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006329126&office_id=018&mode=mainnews&type=&date=2026-07-13&page=1"
+      "title": "ETF 스페이스X 편입경쟁 '머쓱'…한달 새 수익률 -40%·자금 6천억 썰물",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005385302&office_id=008&mode=mainnews&type=&date=2026-07-13&page=1"
     },
     {
-      "title": "맥 못 추는 삼전닉스, 7천피 '와르르'…외인·기관 무섭게 팔아 치운다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005385114&office_id=008&mode=mainnews&type=&date=2026-07-13&page=1"
+      "title": "4조원 매물 받아낸 개인…줄어드는 ‘실탄’에 매수 체력 시험대",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006329283&office_id=018&mode=mainnews&type=&date=2026-07-13&page=1"
     },
     {
-      "title": "나스닥선 13% 폭등 환호·코스피선 10% 폭락 비명… SK하이닉스 ‘역대급 디커플링’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001178761&office_id=366&mode=mainnews&type=&date=2026-07-13&page=1"
+      "title": "JTBC 완전자본잠식에도 원리금 보장?…증권사 불완전판매 의혹 제기",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005385299&office_id=008&mode=mainnews&type=&date=2026-07-13&page=1"
     },
     {
-      "title": "미국선 15.7% 프리미엄 붙은 하닉, 코스피선 장중 10% 급락",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002804278&office_id=021&mode=mainnews&type=&date=2026-07-13&page=1"
+      "title": "미담에 주가 두 배…상폐 위기주로 번진 테마 장세[김지영의 생존투자]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003036805&office_id=029&mode=mainnews&type=&date=2026-07-13&page=1"
     },
     {
-      "title": "“삼전닉스 레버리지 ‘설계’ 새로 짜야” [이슈&뷰]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002669481&office_id=016&mode=mainnews&type=&date=2026-07-13&page=1"
+      "title": "사상 최대 낙폭 SK하닉 '쇼크'에 레버리지 ETF 30% 폭락 '비명'(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014063942&office_id=003&mode=mainnews&type=&date=2026-07-13&page=1"
     },
     {
-      "title": "SK하이닉스, ‘200만원 벽’ 마저 깨졌다…반도체 역대급 호황인데 도대체 왜 폭락? [종목Pick]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002669476&office_id=016&mode=mainnews&type=&date=2026-07-13&page=1"
+      "title": "7000선도 붕괴된 코스피…올해에만 서킷브레이커 7차례",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006329272&office_id=018&mode=mainnews&type=&date=2026-07-13&page=1"
     },
     {
-      "title": "“삼성전자 안 사고 뭐 했어?”…포모가 키운 레버리지 권하는 사회 [기자24시]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005706509&office_id=009&mode=mainnews&type=&date=2026-07-13&page=1"
+      "title": "중동 리스크에 '코스피 급락' 쇼크…최저 6780선까지 뒷걸음질[오늘증시]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001151455&office_id=417&mode=mainnews&type=&date=2026-07-13&page=1"
     },
     {
-      "title": "\"직접 설립은 옛말\"…증권사, 해외 진출 '지분 인수' 대세인 이유",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000515483&office_id=629&mode=mainnews&type=&date=2026-07-13&page=1"
+      "title": "계단 올라서 엘베 타고 내려온 코스피…\"쏠림·레버리지가 변동성 키워\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014063922&office_id=003&mode=mainnews&type=&date=2026-07-13&page=1"
     }
   ]
 }
