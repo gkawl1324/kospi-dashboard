@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-07-14 03:42:50",
+  "lastUpdated": "2026-07-14 04:07:44",
   "date": "2026.07.14",
   "kospi": {
     "name": "KOSPI",
-    "current": "6584.13",
-    "change": "222.80",
-    "changePct": "3.27",
+    "current": "6647.77",
+    "change": "159.16",
+    "changePct": "2.34",
     "direction": "up",
-    "volume": "318399",
-    "tradeAmount": "28291616"
+    "volume": "339936",
+    "tradeAmount": "30444561"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "254000",
-      "change": "-500",
-      "changePct": "-0.20",
-      "direction": "down",
-      "volume": "25301979",
+      "current": "256500",
+      "change": "2000",
+      "changePct": "0.79",
+      "direction": "up",
+      "volume": "27029185",
       "high": "270000",
       "low": "247000",
       "open": "255000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1715000",
-      "change": "-130000",
-      "changePct": "-7.05",
+      "current": "1758000",
+      "change": "-87000",
+      "changePct": "-4.72",
       "direction": "down",
-      "volume": "6384342",
+      "volume": "6899638",
       "high": "1929000",
       "low": "1678000",
       "open": "1825000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "96300",
-      "change": "-3000",
-      "changePct": "-3.02",
+      "current": "96700",
+      "change": "-2600",
+      "changePct": "-2.62",
       "direction": "down",
-      "volume": "289907",
+      "volume": "308412",
       "high": "100000",
       "low": "94600",
       "open": "100000",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "183100",
-      "change": "-4900",
-      "changePct": "-2.61",
+      "current": "183600",
+      "change": "-4400",
+      "changePct": "-2.34",
       "direction": "down",
-      "volume": "630525",
+      "volume": "681837",
       "high": "189400",
       "low": "181100",
       "open": "187300",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1488.40",
-      "change": "11.10",
+      "value": "1488.60",
+      "change": "10.90",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "917.29",
-      "change": "5.93",
+      "value": "917.25",
+      "change": "5.97",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1696.18",
-      "change": "11.00",
+      "value": "1696.11",
+      "change": "11.07",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "219.38",
-      "change": "1.65",
+      "value": "219.44",
+      "change": "1.59",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "192099.08",
-      "change": "874.57",
+      "value": "192191.38",
+      "change": "782.27",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -146,6 +146,10 @@
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005385754&office_id=008&mode=mainnews&type=&date=2026-07-14&page=1"
     },
     {
+      "title": "코스닥 5% 급락에 매도 사이드카 발동…코스피도 장중 6500선 붕괴",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001179001&office_id=366&mode=mainnews&type=&date=2026-07-14&page=1"
+    },
+    {
       "title": "4일전 “하닉 185만원” 예언 보고서 재조명",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002804564&office_id=021&mode=mainnews&type=&date=2026-07-14&page=1"
     },
@@ -168,10 +172,6 @@
     {
       "title": "“현 증시, 약세장 아닌 리프라이싱 과정”",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002669982&office_id=016&mode=mainnews&type=&date=2026-07-14&page=1"
-    },
-    {
-      "title": "공모가 코앞까지 밀린 SK하이닉스 ADR…'나스닥 축포' 하루 만에 꺼졌다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000515854&office_id=629&mode=mainnews&type=&date=2026-07-14&page=1"
     }
   ]
 }
