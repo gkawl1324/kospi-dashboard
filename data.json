@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14 06:33:13",
+  "lastUpdated": "2026-07-14 07:13:50",
   "date": "2026.07.14",
   "kospi": {
     "name": "KOSPI",
@@ -19,7 +19,7 @@
       "change": "8500",
       "changePct": "3.34",
       "direction": "up",
-      "volume": "39986271",
+      "volume": "39989493",
       "high": "270000",
       "low": "247000",
       "open": "255000",
@@ -33,7 +33,7 @@
       "change": "68000",
       "changePct": "3.69",
       "direction": "up",
-      "volume": "10421955",
+      "volume": "10428442",
       "high": "1936000",
       "low": "1678000",
       "open": "1825000",
@@ -47,7 +47,7 @@
       "change": "-2900",
       "changePct": "-2.92",
       "direction": "down",
-      "volume": "480321",
+      "volume": "480324",
       "high": "100000",
       "low": "94600",
       "open": "100000",
@@ -61,7 +61,7 @@
       "change": "-4800",
       "changePct": "-2.55",
       "direction": "down",
-      "volume": "943410",
+      "volume": "943429",
       "high": "189400",
       "low": "181100",
       "open": "187300",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1493.60",
-      "change": "5.90",
+      "value": "1495.50",
+      "change": "4.00",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "920.04",
-      "change": "3.18",
+      "value": "921.07",
+      "change": "2.15",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1701.06",
-      "change": "6.12",
+      "value": "1703.22",
+      "change": "3.96",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "220.25",
-      "change": "0.78",
+      "value": "220.51",
+      "change": "0.52",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "193302.23",
-      "change": "328.58",
+      "value": "193653.55",
+      "change": "679.90",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "국민연금, 5% 이상 국내주식 지분평가액 462조…절반이 삼전·닉스",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014066259&office_id=003&mode=mainnews&type=&date=2026-07-14&page=1"
+      "title": "\"메모리 가격 상승률 둔화, 피크아웃 아냐…이익 지속 주목해야\"(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016194289&office_id=001&mode=mainnews&type=&date=2026-07-14&page=1"
     },
     {
-      "title": "“美도 빚투로 난리, 금융위기 때도 이랬다”…신용거래 1년새 54% 폭증",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005707309&office_id=009&mode=mainnews&type=&date=2026-07-14&page=1"
+      "title": "급락 예상했는데 반전…개미 5조 투매, 외인·기관 줍줍→6800피 사수",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005385889&office_id=008&mode=mainnews&type=&date=2026-07-14&page=1"
     },
     {
-      "title": "50억이 29억으로...하이닉스 '레버리지' 개미 \"-21억, 그래도 버틴다\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005385852&office_id=008&mode=mainnews&type=&date=2026-07-14&page=1"
+      "title": "끝나지 않은 이란전 리스크...금융시장 '출렁'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005385887&office_id=008&mode=mainnews&type=&date=2026-07-14&page=1"
     },
     {
-      "title": "코스피 왜 이렇게 흔들리나…골드만 \"레버리지 기계적 매도가 변동성 키워\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005547983&office_id=014&mode=mainnews&type=&date=2026-07-14&page=1"
+      "title": "'삼전닉스'가 지수 방어…코스피, 급락 딛고 0.7% 상승[마감]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006330106&office_id=018&mode=mainnews&type=&date=2026-07-14&page=1"
     },
     {
-      "title": "“AI 랠리 끝난 것은 아니지만…소비·금융·헬스케어로 투자 기회 넓혀야”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006330053&office_id=018&mode=mainnews&type=&date=2026-07-14&page=1"
+      "title": "서킷브레이커 13번 중 7번이 올해…'다음날 반등 공식'도 흔들렸다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005548037&office_id=014&mode=mainnews&type=&date=2026-07-14&page=1"
     },
     {
-      "title": "창신메모리 상장, 삼전·SK하닉 변수될까…단기변동성 vs 장기경쟁력",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014066154&office_id=003&mode=mainnews&type=&date=2026-07-14&page=1"
+      "title": "글로벌 운용사가 진단한 한국증시 \"당분간 변동성 지속…분산이 해법\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001151611&office_id=417&mode=mainnews&type=&date=2026-07-14&page=1"
     },
     {
-      "title": "골드만삭스 “반도체 업황 고점 아냐…레버리지 기계적 매도가 낙폭 키워”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001179075&office_id=366&mode=mainnews&type=&date=2026-07-14&page=1"
+      "title": "골드만삭스 \"반도체 고점론 시기상조…ETF 강제 매도가 변동성 증폭\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006330088&office_id=018&mode=mainnews&type=&date=2026-07-14&page=1"
     },
     {
-      "title": "호르무즈 해협 통제發 해운주 수혜…HMM 3% 상승 [이런국장 저런주식]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004641443&office_id=011&mode=mainnews&type=&date=2026-07-14&page=1"
+      "title": "해외선 하이닉스 주식 토큰으로 '떼돈'…국내업체는 '발동동'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000048894&office_id=648&mode=mainnews&type=&date=2026-07-14&page=1"
     }
   ]
 }
