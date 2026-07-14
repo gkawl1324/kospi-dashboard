@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-07-14 04:07:44",
+  "lastUpdated": "2026-07-14 06:33:13",
   "date": "2026.07.14",
   "kospi": {
     "name": "KOSPI",
-    "current": "6647.77",
-    "change": "159.16",
-    "changePct": "2.34",
+    "current": "6856.83",
+    "change": "49.90",
+    "changePct": "0.73",
     "direction": "up",
-    "volume": "339936",
-    "tradeAmount": "30444561"
+    "volume": "469856",
+    "tradeAmount": "45879596"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "256500",
-      "change": "2000",
-      "changePct": "0.79",
+      "current": "263000",
+      "change": "8500",
+      "changePct": "3.34",
       "direction": "up",
-      "volume": "27029185",
+      "volume": "39986271",
       "high": "270000",
       "low": "247000",
       "open": "255000",
@@ -29,12 +29,12 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1758000",
-      "change": "-87000",
-      "changePct": "-4.72",
-      "direction": "down",
-      "volume": "6899638",
-      "high": "1929000",
+      "current": "1913000",
+      "change": "68000",
+      "changePct": "3.69",
+      "direction": "up",
+      "volume": "10421955",
+      "high": "1936000",
       "low": "1678000",
       "open": "1825000",
       "marketCap": "0"
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "96700",
-      "change": "-2600",
-      "changePct": "-2.62",
+      "current": "96400",
+      "change": "-2900",
+      "changePct": "-2.92",
       "direction": "down",
-      "volume": "308412",
+      "volume": "480321",
       "high": "100000",
       "low": "94600",
       "open": "100000",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "183600",
-      "change": "-4400",
-      "changePct": "-2.34",
+      "current": "183200",
+      "change": "-4800",
+      "changePct": "-2.55",
       "direction": "down",
-      "volume": "681837",
+      "volume": "943410",
       "high": "189400",
       "low": "181100",
       "open": "187300",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1488.60",
-      "change": "10.90",
+      "value": "1493.60",
+      "change": "5.90",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "917.25",
-      "change": "5.97",
+      "value": "920.04",
+      "change": "3.18",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1696.11",
-      "change": "11.07",
+      "value": "1701.06",
+      "change": "6.12",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "219.44",
-      "change": "1.59",
+      "value": "220.25",
+      "change": "0.78",
       "direction": "down"
     }
   ],
@@ -118,9 +118,9 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "192191.38",
-      "change": "782.27",
-      "direction": "down",
+      "value": "193302.23",
+      "change": "328.58",
+      "direction": "up",
       "unit": "USD/oz"
     },
     {
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "\"오르던 삼전닉스도 뚝\" 6700피 반납...'해적 트럼프'에 개미 손 털었다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005385754&office_id=008&mode=mainnews&type=&date=2026-07-14&page=1"
+      "title": "국민연금, 5% 이상 국내주식 지분평가액 462조…절반이 삼전·닉스",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014066259&office_id=003&mode=mainnews&type=&date=2026-07-14&page=1"
     },
     {
-      "title": "코스닥 5% 급락에 매도 사이드카 발동…코스피도 장중 6500선 붕괴",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001179001&office_id=366&mode=mainnews&type=&date=2026-07-14&page=1"
+      "title": "“美도 빚투로 난리, 금융위기 때도 이랬다”…신용거래 1년새 54% 폭증",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005707309&office_id=009&mode=mainnews&type=&date=2026-07-14&page=1"
     },
     {
-      "title": "4일전 “하닉 185만원” 예언 보고서 재조명",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002804564&office_id=021&mode=mainnews&type=&date=2026-07-14&page=1"
+      "title": "50억이 29억으로...하이닉스 '레버리지' 개미 \"-21억, 그래도 버틴다\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005385852&office_id=008&mode=mainnews&type=&date=2026-07-14&page=1"
     },
     {
-      "title": "트러스톤, 태광산업에 “배당 인상·액면분할 재검토하라\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001178991&office_id=366&mode=mainnews&type=&date=2026-07-14&page=1"
+      "title": "코스피 왜 이렇게 흔들리나…골드만 \"레버리지 기계적 매도가 변동성 키워\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005547983&office_id=014&mode=mainnews&type=&date=2026-07-14&page=1"
     },
     {
-      "title": "증시 종일 오르락내리락…전쟁 2라운드·하닉ADR 급락 ‘악재’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002804561&office_id=021&mode=mainnews&type=&date=2026-07-14&page=1"
+      "title": "“AI 랠리 끝난 것은 아니지만…소비·금융·헬스케어로 투자 기회 넓혀야”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006330053&office_id=018&mode=mainnews&type=&date=2026-07-14&page=1"
     },
     {
-      "title": "“삼전닉스 팔자”…삼성SDI로 눈돌린 상위 1% [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004641388&office_id=011&mode=mainnews&type=&date=2026-07-14&page=1"
+      "title": "창신메모리 상장, 삼전·SK하닉 변수될까…단기변동성 vs 장기경쟁력",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014066154&office_id=003&mode=mainnews&type=&date=2026-07-14&page=1"
     },
     {
-      "title": "빅테크 밖으로 넓어진 AI 투자…한화운용, 소형주·신흥국 주목",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002669998&office_id=016&mode=mainnews&type=&date=2026-07-14&page=1"
+      "title": "골드만삭스 “반도체 업황 고점 아냐…레버리지 기계적 매도가 낙폭 키워”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001179075&office_id=366&mode=mainnews&type=&date=2026-07-14&page=1"
     },
     {
-      "title": "“현 증시, 약세장 아닌 리프라이싱 과정”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002669982&office_id=016&mode=mainnews&type=&date=2026-07-14&page=1"
+      "title": "호르무즈 해협 통제發 해운주 수혜…HMM 3% 상승 [이런국장 저런주식]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004641443&office_id=011&mode=mainnews&type=&date=2026-07-14&page=1"
     }
   ]
 }
