@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15 06:34:40",
+  "lastUpdated": "2026-07-15 07:19:00",
   "date": "2026.07.15",
   "kospi": {
     "name": "KOSPI",
@@ -19,7 +19,7 @@
       "change": "16500",
       "changePct": "6.27",
       "direction": "up",
-      "volume": "24246600",
+      "volume": "24247831",
       "high": "284500",
       "low": "273000",
       "open": "283500",
@@ -33,7 +33,7 @@
       "change": "169000",
       "changePct": "8.83",
       "direction": "up",
-      "volume": "5946201",
+      "volume": "5947608",
       "high": "2171000",
       "low": "2070000",
       "open": "2120000",
@@ -47,7 +47,7 @@
       "change": "6000",
       "changePct": "6.22",
       "direction": "up",
-      "volume": "336244",
+      "volume": "336248",
       "high": "102400",
       "low": "99000",
       "open": "99000",
@@ -61,7 +61,7 @@
       "change": "6400",
       "changePct": "3.49",
       "direction": "up",
-      "volume": "674199",
+      "volume": "674208",
       "high": "191900",
       "low": "187500",
       "open": "188000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1488.50",
-      "change": "2.50",
+      "value": "1490.20",
+      "change": "0.80",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "917.78",
-      "change": "1.40",
+      "value": "918.54",
+      "change": "0.64",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1702.84",
-      "change": "0.19",
+      "value": "1702.78",
+      "change": "0.13",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "219.90",
-      "change": "0.26",
+      "value": "220.13",
+      "change": "0.03",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "192204.58",
-      "change": "2060.98",
+      "value": "192925.41",
+      "change": "1340.15",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "대통령도 콕 집은 레버리지 '딜레마'…변동성 낮출 묘안 나올까",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016196613&office_id=001&mode=mainnews&type=&date=2026-07-15&page=1"
+      "title": "[속보] 돌아온 200만닉스…다시 돌아온 외인, 2.3조 '폭풍 매수'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001258836&office_id=215&mode=mainnews&type=&date=2026-07-15&page=1"
     },
     {
-      "title": "“예탁금 올려도 이미 들어온 돈 못 막아”…단일종목 레버리지 대책 실효성 논란",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003037220&office_id=029&mode=mainnews&type=&date=2026-07-15&page=1"
+      "title": "\"롤러코스피에 쉬어갑니다\"…거래 줄고 개미 실탄도 '뚝'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005548616&office_id=014&mode=mainnews&type=&date=2026-07-15&page=1"
     },
     {
-      "title": "“애국기업 살리자” 개미들 힘모으자…상폐 위기 딛고 상한가 간 ‘이 종목’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005707848&office_id=009&mode=mainnews&type=&date=2026-07-15&page=1"
+      "title": "외인 ‘사자’에 매수 사이드카까지… 코스피 6% 폭등하며 7200선 안착[마켓뷰]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001179448&office_id=366&mode=mainnews&type=&date=2026-07-15&page=1"
     },
     {
-      "title": "전세계 흔드는 삼전닉스 레버리지…외신도 ‘경고등’ 켰다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003111725&office_id=119&mode=mainnews&type=&date=2026-07-15&page=1"
+      "title": "두 달 새 주가 반 토막…모건스탠리, 비츠로셀 저가 매수 나서",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006330933&office_id=018&mode=mainnews&type=&date=2026-07-15&page=1"
     },
     {
-      "title": "\"30만전자 깨졌지만, 변한건 없다\" 60만원 간다는 증권사, \"매수 기회\" 확고한 이유",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005548552&office_id=014&mode=mainnews&type=&date=2026-07-15&page=1"
+      "title": "증시, 모처럼 강한 반등…코스피, 반도체 업고 7200선 회복",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005310326&office_id=015&mode=mainnews&type=&date=2026-07-15&page=1"
     },
     {
-      "title": "간밤 27% 오르더니…상장 사흘만에 51% ‘쑥’ 커지는 SK하이닉스 ADR 프리미엄 [투자360]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002670724&office_id=016&mode=mainnews&type=&date=2026-07-15&page=1"
+      "title": "외인 사는데 그 많던 개미들 어디에…800 회복 코스닥, ETF는 -20%대",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005386541&office_id=008&mode=mainnews&type=&date=2026-07-15&page=1"
     },
     {
-      "title": "'삼전닉스' 레버리지 집중포화...규제 '초읽기' [마켓딥다이브]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001258818&office_id=215&mode=mainnews&type=&date=2026-07-15&page=1"
+      "title": "증권사 ‘영끌’ 자본확충 경쟁…유증부터 신종자본증권·CP까지 총동원",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003037240&office_id=029&mode=mainnews&type=&date=2026-07-15&page=1"
     },
     {
-      "title": "반도체 편중 더 심해진다…코스피 실적 10원 중 8원 '눈앞'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005548533&office_id=014&mode=mainnews&type=&date=2026-07-15&page=1"
+      "title": "ASML이 지운 ‘반도체 고점론’… 전방위 훈풍에 코스피 7200선 안착 [이런국장 저런주식]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004641911&office_id=011&mode=mainnews&type=&date=2026-07-15&page=1"
     }
   ]
 }
