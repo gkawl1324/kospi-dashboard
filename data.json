@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-07-15 03:43:16",
+  "lastUpdated": "2026-07-15 04:09:56",
   "date": "2026.07.15",
   "kospi": {
     "name": "KOSPI",
-    "current": "7386.27",
-    "change": "529.44",
-    "changePct": "7.72",
+    "current": "7413.90",
+    "change": "557.07",
+    "changePct": "8.12",
     "direction": "up",
-    "volume": "252226",
-    "tradeAmount": "20341486"
+    "volume": "269021",
+    "tradeAmount": "21811554"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "282000",
-      "change": "19000",
-      "changePct": "7.22",
+      "current": "284000",
+      "change": "21000",
+      "changePct": "7.98",
       "direction": "up",
-      "volume": "14517980",
-      "high": "284000",
+      "volume": "15576210",
+      "high": "284500",
       "low": "273000",
       "open": "283500",
       "marketCap": "0"
@@ -29,12 +29,12 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2147000",
-      "change": "234000",
-      "changePct": "12.23",
+      "current": "2162000",
+      "change": "249000",
+      "changePct": "13.02",
       "direction": "up",
-      "volume": "3587340",
-      "high": "2156000",
+      "volume": "3839293",
+      "high": "2171000",
       "low": "2070000",
       "open": "2120000",
       "marketCap": "0"
@@ -43,12 +43,12 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "101900",
-      "change": "5500",
-      "changePct": "5.71",
+      "current": "101700",
+      "change": "5300",
+      "changePct": "5.50",
       "direction": "up",
-      "volume": "153622",
-      "high": "102000",
+      "volume": "166980",
+      "high": "102100",
       "low": "99000",
       "open": "99000",
       "marketCap": "0"
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "191100",
-      "change": "7900",
-      "changePct": "4.31",
+      "current": "190550",
+      "change": "7350",
+      "changePct": "4.01",
       "direction": "up",
-      "volume": "395507",
+      "volume": "416279",
       "high": "191900",
       "low": "187500",
       "open": "188000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1491.60",
-      "change": "0.60",
+      "value": "1492.20",
+      "change": "1.20",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "919.78",
-      "change": "0.60",
+      "value": "920.26",
+      "change": "1.08",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1705.64",
-      "change": "2.99",
+      "value": "1706.63",
+      "change": "3.98",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "220.31",
-      "change": "0.15",
+      "value": "220.43",
+      "change": "0.27",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "193388.5",
-      "change": "877.06",
+      "value": "193442.64",
+      "change": "822.92",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -141,6 +141,10 @@
     }
   ],
   "news": [
+    {
+      "title": "하이닉스 이어 삼성전자도?…美 상장설 언급에 투자자 셈법 ‘복잡’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000516323&office_id=629&mode=mainnews&type=&date=2026-07-15&page=1"
+    },
     {
       "title": "삼전닉스 ‘±5%’일상화… 오늘은 매수 사이드카",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002804895&office_id=021&mode=mainnews&type=&date=2026-07-15&page=1"
@@ -168,10 +172,6 @@
     {
       "title": "공모주 청약 안 되면 증거금에 이자 더해 받는다…연 300억원 전망",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005386382&office_id=008&mode=mainnews&type=&date=2026-07-15&page=1"
-    },
-    {
-      "title": "공모주 청약증거금 이자 준다...'매담대' 금리도 인하",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000048922&office_id=648&mode=mainnews&type=&date=2026-07-15&page=1"
     }
   ]
 }
