@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-07-15 04:09:56",
+  "lastUpdated": "2026-07-15 06:34:40",
   "date": "2026.07.15",
   "kospi": {
     "name": "KOSPI",
-    "current": "7413.90",
-    "change": "557.07",
-    "changePct": "8.12",
+    "current": "7284.41",
+    "change": "427.58",
+    "changePct": "6.24",
     "direction": "up",
-    "volume": "269021",
-    "tradeAmount": "21811554"
+    "volume": "392703",
+    "tradeAmount": "33954080"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "284000",
-      "change": "21000",
-      "changePct": "7.98",
+      "current": "279500",
+      "change": "16500",
+      "changePct": "6.27",
       "direction": "up",
-      "volume": "15576210",
+      "volume": "24246600",
       "high": "284500",
       "low": "273000",
       "open": "283500",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "2162000",
-      "change": "249000",
-      "changePct": "13.02",
+      "current": "2082000",
+      "change": "169000",
+      "changePct": "8.83",
       "direction": "up",
-      "volume": "3839293",
+      "volume": "5946201",
       "high": "2171000",
       "low": "2070000",
       "open": "2120000",
@@ -43,12 +43,12 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "101700",
-      "change": "5300",
-      "changePct": "5.50",
+      "current": "102400",
+      "change": "6000",
+      "changePct": "6.22",
       "direction": "up",
-      "volume": "166980",
-      "high": "102100",
+      "volume": "336244",
+      "high": "102400",
       "low": "99000",
       "open": "99000",
       "marketCap": "0"
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "190550",
-      "change": "7350",
-      "changePct": "4.01",
+      "current": "189600",
+      "change": "6400",
+      "changePct": "3.49",
       "direction": "up",
-      "volume": "416279",
+      "volume": "674199",
       "high": "191900",
       "low": "187500",
       "open": "188000",
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1492.20",
-      "change": "1.20",
-      "direction": "up"
+      "value": "1488.50",
+      "change": "2.50",
+      "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "920.26",
-      "change": "1.08",
-      "direction": "up"
+      "value": "917.78",
+      "change": "1.40",
+      "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1706.63",
-      "change": "3.98",
+      "value": "1702.84",
+      "change": "0.19",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "220.43",
-      "change": "0.27",
-      "direction": "up"
+      "value": "219.90",
+      "change": "0.26",
+      "direction": "down"
     }
   ],
   "oilPrices": [
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "193442.64",
-      "change": "822.92",
+      "value": "192204.58",
+      "change": "2060.98",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "하이닉스 이어 삼성전자도?…美 상장설 언급에 투자자 셈법 ‘복잡’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000516323&office_id=629&mode=mainnews&type=&date=2026-07-15&page=1"
+      "title": "대통령도 콕 집은 레버리지 '딜레마'…변동성 낮출 묘안 나올까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016196613&office_id=001&mode=mainnews&type=&date=2026-07-15&page=1"
     },
     {
-      "title": "삼전닉스 ‘±5%’일상화… 오늘은 매수 사이드카",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002804895&office_id=021&mode=mainnews&type=&date=2026-07-15&page=1"
+      "title": "“예탁금 올려도 이미 들어온 돈 못 막아”…단일종목 레버리지 대책 실효성 논란",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003037220&office_id=029&mode=mainnews&type=&date=2026-07-15&page=1"
     },
     {
-      "title": "예측은 없고 추종만…증권사 목표주가 '무용론' 확산",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000516294&office_id=629&mode=mainnews&type=&date=2026-07-15&page=1"
+      "title": "“애국기업 살리자” 개미들 힘모으자…상폐 위기 딛고 상한가 간 ‘이 종목’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005707848&office_id=009&mode=mainnews&type=&date=2026-07-15&page=1"
     },
     {
-      "title": "묘안 없는 레버리지 대책, 금융위 업무보고서도 빠져",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000048926&office_id=648&mode=mainnews&type=&date=2026-07-15&page=1"
+      "title": "전세계 흔드는 삼전닉스 레버리지…외신도 ‘경고등’ 켰다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003111725&office_id=119&mode=mainnews&type=&date=2026-07-15&page=1"
     },
     {
-      "title": "AI·반도체 대세라지만…사모펀드, 피크아웃 우려에 신중론 확산",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002670650&office_id=016&mode=mainnews&type=&date=2026-07-15&page=1"
+      "title": "\"30만전자 깨졌지만, 변한건 없다\" 60만원 간다는 증권사, \"매수 기회\" 확고한 이유",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005548552&office_id=014&mode=mainnews&type=&date=2026-07-15&page=1"
     },
     {
-      "title": "\"올해 21만원 간다\" KT&G, 적극적 주주환원 기회…한화에어로, 하반기 실적 개선 본격화 [株토피아]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005548445&office_id=014&mode=mainnews&type=&date=2026-07-15&page=1"
+      "title": "간밤 27% 오르더니…상장 사흘만에 51% ‘쑥’ 커지는 SK하이닉스 ADR 프리미엄 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002670724&office_id=016&mode=mainnews&type=&date=2026-07-15&page=1"
     },
     {
-      "title": "코스닥 세그먼트 내년 1월 시행…공모주 투자자엔 청약금 이자 지급",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004641824&office_id=011&mode=mainnews&type=&date=2026-07-15&page=1"
+      "title": "'삼전닉스' 레버리지 집중포화...규제 '초읽기' [마켓딥다이브]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001258818&office_id=215&mode=mainnews&type=&date=2026-07-15&page=1"
     },
     {
-      "title": "공모주 청약 안 되면 증거금에 이자 더해 받는다…연 300억원 전망",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005386382&office_id=008&mode=mainnews&type=&date=2026-07-15&page=1"
+      "title": "반도체 편중 더 심해진다…코스피 실적 10원 중 8원 '눈앞'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005548533&office_id=014&mode=mainnews&type=&date=2026-07-15&page=1"
     }
   ]
 }
