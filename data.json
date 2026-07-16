@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-07-16 04:13:14",
+  "lastUpdated": "2026-07-16 06:40:09",
   "date": "2026.07.16",
   "kospi": {
     "name": "KOSPI",
-    "current": "6852.30",
-    "change": "432.11",
-    "changePct": "5.93",
+    "current": "6820.60",
+    "change": "463.81",
+    "changePct": "6.37",
     "direction": "up",
-    "volume": "299634",
-    "tradeAmount": "17561684"
+    "volume": "420628",
+    "tradeAmount": "29425100"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "258500",
-      "change": "-21000",
-      "changePct": "-7.51",
+      "current": "255000",
+      "change": "-24500",
+      "changePct": "-8.77",
       "direction": "down",
-      "volume": "14795665",
+      "volume": "26604223",
       "high": "265500",
       "low": "252500",
       "open": "264500",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1850000",
-      "change": "-232000",
-      "changePct": "-11.14",
+      "current": "1842000",
+      "change": "-240000",
+      "changePct": "-11.53",
       "direction": "down",
-      "volume": "3171981",
+      "volume": "5521210",
       "high": "1919000",
       "low": "1821000",
       "open": "1902000",
@@ -43,13 +43,13 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "99900",
-      "change": "-2500",
-      "changePct": "-2.44",
+      "current": "98800",
+      "change": "-3600",
+      "changePct": "-3.52",
       "direction": "down",
-      "volume": "108015",
+      "volume": "244040",
       "high": "102300",
-      "low": "98100",
+      "low": "98000",
       "open": "99800",
       "marketCap": "0"
     },
@@ -57,12 +57,12 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "188000",
-      "change": "-1600",
-      "changePct": "-0.84",
-      "direction": "down",
-      "volume": "424160",
-      "high": "189900",
+      "current": "190000",
+      "change": "400",
+      "changePct": "0.21",
+      "direction": "up",
+      "volume": "737423",
+      "high": "191300",
       "low": "185400",
       "open": "188200",
       "marketCap": "0"
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1484.00",
-      "change": "4.50",
+      "value": "1481.20",
+      "change": "7.30",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "915.43",
-      "change": "2.80",
+      "value": "913.39",
+      "change": "4.84",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1701.26",
-      "change": "5.60",
+      "value": "1698.34",
+      "change": "8.52",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "219.30",
-      "change": "0.63",
+      "value": "218.79",
+      "change": "1.14",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "192436.72",
-      "change": "2194.90",
+      "value": "191678.44",
+      "change": "2953.18",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "‘이틀에 한번 꼴’…너무 잦은 사이드카 [이슈&뷰]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002671215&office_id=016&mode=mainnews&type=&date=2026-07-16&page=1"
+      "title": "“한국 주식 30%나 더 담았다”…해외 큰손들 앞다퉈 담은 ‘이 종목’ 뭐길래",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004642312&office_id=011&mode=mainnews&type=&date=2026-07-16&page=1"
     },
     {
-      "title": "삼전·하닉 주가 널뛰기…인버스ETF ‘초고속 회전’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002671212&office_id=016&mode=mainnews&type=&date=2026-07-16&page=1"
+      "title": "MBK 김병주 '연대보증' 후폭풍…바이아웃 PEF 투자공식 흔드나 [fn마켓워치]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005549172&office_id=014&mode=mainnews&type=&date=2026-07-16&page=1"
     },
     {
-      "title": "한미증시, 지수 아닌 반도체 따라 동반 ‘출렁’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002671209&office_id=016&mode=mainnews&type=&date=2026-07-16&page=1"
+      "title": "널뛰기 코스피에 떠나는 개미…예탁금 10조 증발·‘빚투’도 급감",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000100515&office_id=243&mode=mainnews&type=&date=2026-07-16&page=1"
     },
     {
-      "title": "미국은 ADR, 한국은 레버리지…SK하이닉스 둘러싼 '이중 꼬리'가 시장 흔든다 [증시는 왜]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005549036&office_id=014&mode=mainnews&type=&date=2026-07-16&page=1"
+      "title": "ETF도 승자독식 시대…'톱2·톱3' 올해만 24개 쏟아져",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005549153&office_id=014&mode=mainnews&type=&date=2026-07-16&page=1"
     },
     {
-      "title": "멀미나는 증시…코스피 7%, 코스닥 4%대 하락세",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001179647&office_id=366&mode=mainnews&type=&date=2026-07-16&page=1"
+      "title": "버핏 \"지금 증시는 도박판\"…AI 투기 과열 또 경고",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000516750&office_id=629&mode=mainnews&type=&date=2026-07-16&page=1"
     },
     {
-      "title": "금리인상·외인기관 '팔자'에 삼전닉스 맥없이 추락…일상이 된 사이드카",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005386961&office_id=008&mode=mainnews&type=&date=2026-07-16&page=1"
+      "title": "\"연내 기준금리 3% 전망\"...금융주 미리 '찜'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001258967&office_id=215&mode=mainnews&type=&date=2026-07-16&page=1"
     },
     {
-      "title": "SK하닉 ADR -9% ‘충격’…삼성전자 -9%·SK하이닉스 -11% 급락 [종목Pick]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002671157&office_id=016&mode=mainnews&type=&date=2026-07-16&page=1"
+      "title": "\"개미, 손실에도 버틴다\"…삼전닉스 레버리지 '눈물의 물타기'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001258966&office_id=215&mode=mainnews&type=&date=2026-07-16&page=1"
     },
     {
-      "title": "'꼼수 병합'에도 구제불능 동전주 10.9%",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001042672&office_id=031&mode=mainnews&type=&date=2026-07-16&page=1"
+      "title": "수익 상위 1%, 하락장서 ‘바이오’ 콕 집었다[주식 초고수는 지금]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004642272&office_id=011&mode=mainnews&type=&date=2026-07-16&page=1"
     }
   ]
 }
