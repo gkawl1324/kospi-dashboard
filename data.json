@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17 06:35:38",
+  "lastUpdated": "2026-07-17 07:22:20",
   "date": "2026.07.17",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1482.00",
-      "change": "6.50",
+      "value": "1482.50",
+      "change": "6.00",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "912.84",
-      "change": "5.39",
+      "value": "913.85",
+      "change": "4.38",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1696.82",
-      "change": "10.04",
+      "value": "1697.31",
+      "change": "9.55",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "218.76",
-      "change": "1.17",
+      "value": "218.78",
+      "change": "1.15",
       "direction": "down"
     }
   ],
@@ -142,6 +142,22 @@
   ],
   "news": [
     {
+      "title": "‘中 D램 공룡’ CXMT 상장 임박…‘최대 IPO’ 도전장 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002671587&office_id=016&mode=mainnews&type=&date=2026-07-17&page=1"
+    },
+    {
+      "title": "\"제헌절이 살렸다\" 공포 속 개미, \"갖고 있으라\" 최태원에 \"믿는다\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006332210&office_id=018&mode=mainnews&type=&date=2026-07-17&page=1"
+    },
+    {
+      "title": "“주가 떨어지는데 6억 성과급? 누구 맘대로” 뿔난 삼전 소액주주들 집단행동",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004642561&office_id=011&mode=mainnews&type=&date=2026-07-17&page=1"
+    },
+    {
+      "title": "주가 20배 올랐다는데…수익성은 '글쎄' [주末머니]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005791276&office_id=277&mode=mainnews&type=&date=2026-07-17&page=1"
+    },
+    {
       "title": "\"분산투자는 옛말\" 요즘 뜨는 ETF 트렌드 보니[주末머니]",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005791269&office_id=277&mode=mainnews&type=&date=2026-07-17&page=1"
     },
@@ -156,22 +172,6 @@
     {
       "title": "최태원 “SK하닉 주식 사고팔고 말고 가만히 갖고 있어라”",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0001861593&office_id=005&mode=mainnews&type=&date=2026-07-17&page=1"
-    },
-    {
-      "title": "3년 반 만에 기준금리 인상…긴축 사이클 시작",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004642515&office_id=011&mode=mainnews&type=&date=2026-07-17&page=1"
-    },
-    {
-      "title": "삼성 파운드리 81% 이직 의향…성과급 격차가 불렀다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004642514&office_id=011&mode=mainnews&type=&date=2026-07-17&page=1"
-    },
-    {
-      "title": "7兆 몰린 ‘삼전닉스 레버리지’… 3000만원 장벽 통할까",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001861586&office_id=005&mode=mainnews&type=&date=2026-07-17&page=1"
-    },
-    {
-      "title": "반도체 장비값 또 뛴다…ASML 가격 인상에 TSMC 반발",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004642502&office_id=011&mode=mainnews&type=&date=2026-07-17&page=1"
     }
   ]
 }
