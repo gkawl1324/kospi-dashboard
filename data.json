@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-07-16 07:26:27",
-  "date": "2026.07.16",
+  "lastUpdated": "2026-07-17 03:45:28",
+  "date": "2026.07.17",
   "kospi": {
     "name": "KOSPI",
     "current": "6820.60",
     "change": "463.81",
     "changePct": "6.37",
     "direction": "up",
-    "volume": "420628",
-    "tradeAmount": "29425100"
+    "volume": "424280",
+    "tradeAmount": "29820663"
   },
   "stocks": [
     {
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1477.70",
-      "change": "10.80",
+      "value": "1481.50",
+      "change": "7.00",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "912.10",
-      "change": "6.13",
+      "value": "912.48",
+      "change": "5.75",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1695.00",
-      "change": "11.86",
+      "value": "1695.35",
+      "change": "11.51",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "218.33",
-      "change": "1.60",
+      "value": "218.74",
+      "change": "1.19",
       "direction": "down"
     }
   ],
@@ -102,31 +102,31 @@
     {
       "code": "OIL_CL",
       "name": "WTI",
-      "value": "79.6",
-      "change": "0.26",
-      "direction": "up",
+      "value": "78.28",
+      "change": "0.84",
+      "direction": "down",
       "unit": "USD/barrel"
     },
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "4051.8",
-      "change": "17.90",
+      "value": "3992.1",
+      "change": "59.70",
       "direction": "down",
       "unit": "USD/oz"
     },
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "191243.21",
-      "change": "3388.41",
+      "value": "190232.56",
+      "change": "4399.06",
       "direction": "down",
       "unit": "USD/oz"
     },
     {
       "code": "OIL_BRT",
       "name": "Brent",
-      "value": "84.95",
+      "value": "84.23",
       "change": "0",
       "direction": "up",
       "unit": "USD/barrel"
@@ -134,7 +134,7 @@
     {
       "code": "OIL_DU",
       "name": "Dubai",
-      "value": "74.45",
+      "value": "73.76",
       "change": "0",
       "direction": "up",
       "unit": "USD/barrel"
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "코스피 7000·코스닥 800 무너져…삼전 8% 하닉 11% 대폭락 [종합]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005310819&office_id=015&mode=mainnews&type=&date=2026-07-16&page=1"
+      "title": "모건스탠리가 찍은 美 ‘어닝 서프라이즈’ 8선[GMC]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003538278&office_id=025&mode=mainnews&type=&date=2026-07-17&page=1"
     },
     {
-      "title": "\"급등이다!\" 개미 환호 하루만에 끝…삼전닉스 급락 \"이젠 중기 조정\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005387118&office_id=008&mode=mainnews&type=&date=2026-07-16&page=1"
+      "title": "3년 반 만에 기준금리 인상…긴축 사이클 시작",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004642515&office_id=011&mode=mainnews&type=&date=2026-07-17&page=1"
     },
     {
-      "title": "[속보] '6%↑→6%↓' 하루 걸러 사이드카…\"오를까, 내릴까 홀짝게임 같다\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001258987&office_id=215&mode=mainnews&type=&date=2026-07-16&page=1"
+      "title": "7兆 몰린 ‘삼전닉스 레버리지’… 3000만원 장벽 통할까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001861586&office_id=005&mode=mainnews&type=&date=2026-07-17&page=1"
     },
     {
-      "title": "美반도체 약세에 또 '휘청'…삼전 8% SK하닉 11% 급락 마감[핫스탁](종합)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014071793&office_id=003&mode=mainnews&type=&date=2026-07-16&page=1"
+      "title": "반도체 장비값 또 뛴다…ASML 가격 인상에 TSMC 반발",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004642502&office_id=011&mode=mainnews&type=&date=2026-07-17&page=1"
     },
     {
-      "title": "개인 3.7조 매수에도 7000선 내줘…코스피 6%대 급락 마감",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006331846&office_id=018&mode=mainnews&type=&date=2026-07-16&page=1"
+      "title": "트럼프·펠로시가 함께 투자하고 있는 美주식 10가지",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003988130&office_id=023&mode=mainnews&type=&date=2026-07-17&page=1"
     },
     {
-      "title": "'검은 목요일' 코스피, 하루 만에 7000선 반납…삼전·닉스 '폭락'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000516789&office_id=629&mode=mainnews&type=&date=2026-07-16&page=1"
+      "title": "반도체 흔들리자 코스피 롤러코스터…레버리지 ETF가 키웠다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004642501&office_id=011&mode=mainnews&type=&date=2026-07-17&page=1"
     },
     {
-      "title": "428포인트 올랐던 코스피, 하루 만에 463.81포인트 반납[오늘증시]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001151965&office_id=417&mode=mainnews&type=&date=2026-07-16&page=1"
+      "title": "40% 넘게 빠졌는데도…개미, 한달 간 ‘삼전하닉’ 단일종목 레버리지 5조8000억원 샀다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003988125&office_id=023&mode=mainnews&type=&date=2026-07-17&page=1"
     },
     {
-      "title": "1.8조 지분 들고 ‘단순투자’…호반, 한진칼 지분 매입 속내는[마켓인]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006331839&office_id=018&mode=mainnews&type=&date=2026-07-16&page=1"
+      "title": "“공포가 주가 흔들면 저가매수”…반도체 피크아웃론 반박한 SK증권 [여의도란도란]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005708689&office_id=009&mode=mainnews&type=&date=2026-07-17&page=1"
     }
   ]
 }
