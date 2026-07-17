@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17 04:12:18",
+  "lastUpdated": "2026-07-17 06:35:38",
   "date": "2026.07.17",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1481.50",
-      "change": "7.00",
+      "value": "1482.00",
+      "change": "6.50",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "912.48",
-      "change": "5.75",
+      "value": "912.84",
+      "change": "5.39",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1695.35",
-      "change": "11.51",
+      "value": "1696.82",
+      "change": "10.04",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "218.74",
-      "change": "1.19",
+      "value": "218.76",
+      "change": "1.17",
       "direction": "down"
     }
   ],
@@ -142,12 +142,28 @@
   ],
   "news": [
     {
+      "title": "\"분산투자는 옛말\" 요즘 뜨는 ETF 트렌드 보니[주末머니]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005791269&office_id=277&mode=mainnews&type=&date=2026-07-17&page=1"
+    },
+    {
+      "title": "‘두 개 전쟁’ 격화에 유가·곡물발 인플레 우려 재부상",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003988142&office_id=023&mode=mainnews&type=&date=2026-07-17&page=1"
+    },
+    {
       "title": "모건스탠리가 찍은 美 ‘어닝 서프라이즈’ 8선[GMC]",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0003538278&office_id=025&mode=mainnews&type=&date=2026-07-17&page=1"
     },
     {
+      "title": "최태원 “SK하닉 주식 사고팔고 말고 가만히 갖고 있어라”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001861593&office_id=005&mode=mainnews&type=&date=2026-07-17&page=1"
+    },
+    {
       "title": "3년 반 만에 기준금리 인상…긴축 사이클 시작",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0004642515&office_id=011&mode=mainnews&type=&date=2026-07-17&page=1"
+    },
+    {
+      "title": "삼성 파운드리 81% 이직 의향…성과급 격차가 불렀다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004642514&office_id=011&mode=mainnews&type=&date=2026-07-17&page=1"
     },
     {
       "title": "7兆 몰린 ‘삼전닉스 레버리지’… 3000만원 장벽 통할까",
@@ -156,22 +172,6 @@
     {
       "title": "반도체 장비값 또 뛴다…ASML 가격 인상에 TSMC 반발",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0004642502&office_id=011&mode=mainnews&type=&date=2026-07-17&page=1"
-    },
-    {
-      "title": "트럼프·펠로시가 함께 투자하고 있는 美주식 10가지",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003988130&office_id=023&mode=mainnews&type=&date=2026-07-17&page=1"
-    },
-    {
-      "title": "반도체 흔들리자 코스피 롤러코스터…레버리지 ETF가 키웠다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004642501&office_id=011&mode=mainnews&type=&date=2026-07-17&page=1"
-    },
-    {
-      "title": "40% 넘게 빠졌는데도…개미, 한달 간 ‘삼전하닉’ 단일종목 레버리지 5조8000억원 샀다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003988125&office_id=023&mode=mainnews&type=&date=2026-07-17&page=1"
-    },
-    {
-      "title": "“공포가 주가 흔들면 저가매수”…반도체 피크아웃론 반박한 SK증권 [여의도란도란]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005708689&office_id=009&mode=mainnews&type=&date=2026-07-17&page=1"
     }
   ]
 }
