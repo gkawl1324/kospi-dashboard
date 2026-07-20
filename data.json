@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-07-20 04:11:49",
+  "lastUpdated": "2026-07-20 04:40:27",
   "date": "2026.07.20",
   "kospi": {
     "name": "KOSPI",
-    "current": "6525.15",
-    "change": "295.45",
-    "changePct": "4.33",
+    "current": "6601.38",
+    "change": "219.22",
+    "changePct": "3.21",
     "direction": "up",
-    "volume": "245930",
-    "tradeAmount": "19424585"
+    "volume": "261296",
+    "tradeAmount": "20871882"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "243500",
-      "change": "-11500",
-      "changePct": "-4.51",
+      "current": "247000",
+      "change": "-8000",
+      "changePct": "-3.14",
       "direction": "down",
-      "volume": "16319869",
+      "volume": "17525146",
       "high": "257500",
       "low": "240000",
       "open": "241000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1777000",
-      "change": "-65000",
-      "changePct": "-3.53",
+      "current": "1808000",
+      "change": "-34000",
+      "changePct": "-1.85",
       "direction": "down",
-      "volume": "4139326",
+      "volume": "4402406",
       "high": "1892000",
       "low": "1735000",
       "open": "1745000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "95100",
-      "change": "-3700",
-      "changePct": "-3.74",
+      "current": "95700",
+      "change": "-3100",
+      "changePct": "-3.14",
       "direction": "down",
-      "volume": "140909",
+      "volume": "162553",
       "high": "98100",
       "low": "94600",
       "open": "98000",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "185900",
-      "change": "-4100",
-      "changePct": "-2.16",
+      "current": "187100",
+      "change": "-2900",
+      "changePct": "-1.53",
       "direction": "down",
-      "volume": "403657",
+      "volume": "453075",
       "high": "188400",
       "low": "183300",
       "open": "186700",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1481.10",
-      "change": "9.90",
+      "value": "1480.00",
+      "change": "11.00",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "912.12",
-      "change": "5.39",
+      "value": "911.55",
+      "change": "5.96",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1694.75",
-      "change": "9.02",
+      "value": "1693.71",
+      "change": "10.06",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "218.70",
-      "change": "1.27",
+      "value": "218.54",
+      "change": "1.43",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "191643.37",
-      "change": "1410.81",
+      "value": "191520.97",
+      "change": "1288.41",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,11 +142,27 @@
   ],
   "news": [
     {
-      "title": "\"지금이 적기\"…'월가 암살자'도 한국 증시에 꽂혔다",
+      "title": "3000스닥은 요원…'삼전닉스'가 삼킨 수급에 코스닥 '와르르'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000517253&office_id=629&mode=mainnews&type=&date=2026-07-20&page=1"
+    },
+    {
+      "title": "6500 깨진 코스피, 코스닥은 52주 최저치…동반 '사이드카'[티타임]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001152187&office_id=417&mode=mainnews&type=&date=2026-07-20&page=1"
+    },
+    {
+      "title": "실적 호재에도 맥못추는 엔터주…하이브 필두로 반등할까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014075886&office_id=003&mode=mainnews&type=&date=2026-07-20&page=1"
+    },
+    {
+      "title": "\"코스피 6000선이 하방 지지선…7000선 초중반 반등 가능\" NH투자증권",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005550105&office_id=014&mode=mainnews&type=&date=2026-07-20&page=1"
+    },
+    {
+      "title": "\"지금이 적기\"…'월가 암살자'도 한국 증시 꽂혔다",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0006333099&office_id=018&mode=mainnews&type=&date=2026-07-20&page=1"
     },
     {
-      "title": "\"코스피, 바닥은 6천피…차주 빅테크 실적 확인후 안정화 전망\"",
+      "title": "\"코스피, 바닥은 6천피…내주 빅테크 실적 확인후 안정화 전망\"",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0016203513&office_id=001&mode=mainnews&type=&date=2026-07-20&page=1"
     },
     {
@@ -156,22 +172,6 @@
     {
       "title": "수익 상위 1%, 삼전 사고 닉스 팔았다…급락장서 엇갈린 베팅[주식 초고수는 지금]",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0004643097&office_id=011&mode=mainnews&type=&date=2026-07-20&page=1"
-    },
-    {
-      "title": "“코스피, 과도한 공포 반영…7000선 초중반서 반등 가능”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006333085&office_id=018&mode=mainnews&type=&date=2026-07-20&page=1"
-    },
-    {
-      "title": "NH證 “코스피 6000선이 최저점…악재 선반영에 반등 구간 진입”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004643092&office_id=011&mode=mainnews&type=&date=2026-07-20&page=1"
-    },
-    {
-      "title": "박진영도 1천억원 '증발'…\"무조건 사라\" 14만→4만원 투자자들 '한숨'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000100627&office_id=243&mode=mainnews&type=&date=2026-07-20&page=1"
-    },
-    {
-      "title": "레버리지 예탁금 상향에 서학개미도 유탄…\"개인만 옥죈다\" 불만",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014075722&office_id=003&mode=mainnews&type=&date=2026-07-20&page=1"
     }
   ]
 }
