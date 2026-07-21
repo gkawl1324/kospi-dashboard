@@ -1,70 +1,70 @@
 {
-  "lastUpdated": "2026-07-20 08:10:55",
-  "date": "2026.07.20",
+  "lastUpdated": "2026-07-21 03:53:57",
+  "date": "2026.07.21",
   "kospi": {
     "name": "KOSPI",
-    "current": "6516.27",
-    "change": "304.33",
-    "changePct": "4.46",
+    "current": "6821.26",
+    "change": "304.99",
+    "changePct": "4.68",
     "direction": "up",
-    "volume": "339498",
-    "tradeAmount": "28413959"
+    "volume": "269355",
+    "tradeAmount": "15361952"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "244000",
-      "change": "-11000",
-      "changePct": "-4.31",
-      "direction": "down",
-      "volume": "24305601",
-      "high": "257500",
-      "low": "240000",
-      "open": "241000",
+      "current": "261250",
+      "change": "17250",
+      "changePct": "7.07",
+      "direction": "up",
+      "volume": "12752699",
+      "high": "262000",
+      "low": "243000",
+      "open": "247000",
       "marketCap": "0"
     },
     {
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1764000",
-      "change": "-78000",
-      "changePct": "-4.23",
-      "direction": "down",
-      "volume": "5854187",
-      "high": "1892000",
-      "low": "1735000",
-      "open": "1745000",
+      "current": "1886000",
+      "change": "122000",
+      "changePct": "6.92",
+      "direction": "up",
+      "volume": "2898834",
+      "high": "1887000",
+      "low": "1732000",
+      "open": "1775000",
       "marketCap": "0"
     },
     {
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "95000",
-      "change": "-3800",
-      "changePct": "-3.85",
-      "direction": "down",
-      "volume": "268560",
-      "high": "98100",
-      "low": "94600",
-      "open": "98000",
+      "current": "97600",
+      "change": "2600",
+      "changePct": "2.74",
+      "direction": "up",
+      "volume": "109057",
+      "high": "98000",
+      "low": "92100",
+      "open": "92100",
       "marketCap": "0"
     },
     {
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "185900",
-      "change": "-4100",
-      "changePct": "-2.16",
-      "direction": "down",
-      "volume": "630080",
-      "high": "188400",
-      "low": "183300",
-      "open": "186700",
+      "current": "194000",
+      "change": "8100",
+      "changePct": "4.36",
+      "direction": "up",
+      "volume": "516001",
+      "high": "194400",
+      "low": "185700",
+      "open": "189000",
       "marketCap": "0"
     }
   ],
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1481.30",
-      "change": "9.70",
+      "value": "1473.90",
+      "change": "4.60",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "912.27",
-      "change": "5.24",
+      "value": "907.18",
+      "change": "2.64",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1695.05",
-      "change": "8.72",
+      "value": "1682.38",
+      "change": "5.55",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "218.84",
-      "change": "1.13",
+      "value": "217.78",
+      "change": "0.64",
       "direction": "down"
     }
   ],
@@ -102,31 +102,31 @@
     {
       "code": "OIL_CL",
       "name": "WTI",
-      "value": "81.78",
-      "change": "3.50",
+      "value": "82.48",
+      "change": "0.70",
       "direction": "up",
       "unit": "USD/barrel"
     },
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "4018.8",
-      "change": "26.70",
-      "direction": "up",
+      "value": "4015.9",
+      "change": "2.90",
+      "direction": "down",
       "unit": "USD/oz"
     },
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "191427.32",
-      "change": "1194.76",
+      "value": "191683.64",
+      "change": "875.24",
       "direction": "up",
       "unit": "USD/oz"
     },
     {
       "code": "OIL_BRT",
       "name": "Brent",
-      "value": "88.10",
+      "value": "89.22",
       "change": "0",
       "direction": "up",
       "unit": "USD/barrel"
@@ -134,7 +134,7 @@
     {
       "code": "OIL_DU",
       "name": "Dubai",
-      "value": "75.19",
+      "value": "75.27",
       "change": "0",
       "direction": "up",
       "unit": "USD/barrel"
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "\"돈 잃기 싫다면 레버리지·인버스 둘 다?\"?하이닉스 인버스에 하루 4조 '폭주'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001043351&office_id=031&mode=mainnews&type=&date=2026-07-20&page=1"
+      "title": "AI주 흔들려도 투자 확대는 계속된다...구글·AMD·TSMC 총공세[MUST KNOW5]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006333849&office_id=018&mode=mainnews&type=&date=2026-07-21&page=1"
     },
     {
-      "title": "상반기 IPO 180억 그친 대신증권…‘3조 소노’에 반전 걸었다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002234706&office_id=138&mode=mainnews&type=&date=2026-07-20&page=1"
+      "title": "삼천당제약, 어제 상한가 마감했는데…개미들 '비명' [종목+]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005312055&office_id=015&mode=mainnews&type=&date=2026-07-21&page=1"
     },
     {
-      "title": "변동성에 지친 개미들, 국장 탈출?…하루 거래 대금 보니",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005388163&office_id=008&mode=mainnews&type=&date=2026-07-20&page=1"
+      "title": "JP모건 \"韓 정유업 비중 확대\"…최선호주 '에쓰오일→SK이노' 변경",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009070312&office_id=421&mode=mainnews&type=&date=2026-07-21&page=1"
     },
     {
-      "title": "李 정부 출범 전으로 돌아간 코스닥…단 두달만에 무너졌다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003037843&office_id=029&mode=mainnews&type=&date=2026-07-20&page=1"
+      "title": "‘백약이 무효’…코스닥 부양책 무용지물",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002672852&office_id=016&mode=mainnews&type=&date=2026-07-21&page=1"
     },
     {
-      "title": "\"또 울렸다\" 코스피·코스닥 '매도' 사이드카...\"-28%\" 고점 개미도 눈물",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005388154&office_id=008&mode=mainnews&type=&date=2026-07-20&page=1"
+      "title": "\"지금이 타이밍\" 3년 전 박진영 말 따라 JYP 주식 샀다면...",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001259397&office_id=215&mode=mainnews&type=&date=2026-07-21&page=1"
     },
     {
-      "title": "골든돔 올라탄 필리조선소…한화시스템 반전 계기 될까",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006333270&office_id=018&mode=mainnews&type=&date=2026-07-20&page=1"
+      "title": "\"그거 아니래\" 어제는 상한가, 오늘은 급락…제약·바이오에 코스닥 흔들",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005388558&office_id=008&mode=mainnews&type=&date=2026-07-21&page=1"
     },
     {
-      "title": "해외 레버리지도 규제…풍선효과 차단, 복귀는 미지수",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005550275&office_id=014&mode=mainnews&type=&date=2026-07-20&page=1"
+      "title": "‘코스피 재반등 전망 나왔다, 언제?’…IBK증권 “외국인 단기 과매도”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002805918&office_id=021&mode=mainnews&type=&date=2026-07-21&page=1"
     },
     {
-      "title": "\"삼전닉스 막는다더니 테슬라까지\"...레버리지 서학개미, 예탁금 상향에 '날벼락'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005550273&office_id=014&mode=mainnews&type=&date=2026-07-20&page=1"
+      "title": "초고수, SK하이닉스 담고 삼성전자 팔았다…반도체 ‘엇갈린 베팅’ [주식 초고수는 지금]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004643500&office_id=011&mode=mainnews&type=&date=2026-07-21&page=1"
     }
   ]
 }
