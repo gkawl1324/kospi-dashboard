@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21 07:04:39",
+  "lastUpdated": "2026-07-21 07:36:07",
   "date": "2026.07.21",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1475.00",
-      "change": "3.50",
+      "value": "1475.40",
+      "change": "3.10",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "907.44",
-      "change": "2.38",
+      "value": "907.52",
+      "change": "2.30",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1685.26",
-      "change": "2.67",
+      "value": "1685.57",
+      "change": "2.36",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "218.06",
-      "change": "0.36",
+      "value": "218.07",
+      "change": "0.35",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "193434.87",
-      "change": "2626.47",
+      "value": "193174.18",
+      "change": "2365.78",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "1.6조 탈출 개인…코스피, 6400선 찍고 6747.95 마감[오늘증시]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001152384&office_id=417&mode=mainnews&type=&date=2026-07-21&page=1"
+      "title": "이틀 급락 끝 반등한 코스피…‘삼전닉스’ 급등에 3%대 상승",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003038079&office_id=029&mode=mainnews&type=&date=2026-07-21&page=1"
     },
     {
-      "title": "“코스피 변동성 심하네”…중심에는 비중 높은 삼전닉스 영향 있다는데",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005710168&office_id=009&mode=mainnews&type=&date=2026-07-21&page=1"
+      "title": "스페이스X 편입경쟁 무색...美우주 ETF 급락에 8000억 '썰물'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005550880&office_id=014&mode=mainnews&type=&date=2026-07-21&page=1"
     },
     {
-      "title": "저PBR 더 늘었다...\"주가 낮아야 승계 유리하단 공식 없애야\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000049059&office_id=648&mode=mainnews&type=&date=2026-07-21&page=1"
+      "title": "천당서 지옥 직행한 삼천당제약 주주…하루 만에 상한가→하한가[핫종목]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009071090&office_id=421&mode=mainnews&type=&date=2026-07-21&page=1"
     },
     {
-      "title": "李대통령 보완대책 주문에도…삼전닉스 레버리지 ETF, 일제 오름세",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000517723&office_id=629&mode=mainnews&type=&date=2026-07-21&page=1"
+      "title": "8000피 반등해도 다시 떨어진다?…‘박스피’ 공포 확산",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006334040&office_id=018&mode=mainnews&type=&date=2026-07-21&page=1"
     },
     {
-      "title": "하루 새 60% 롤러코스터…삼천당제약에 무슨 일이?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000517718&office_id=629&mode=mainnews&type=&date=2026-07-21&page=1"
+      "title": "“지금이라도 투자 멈춰라”…‘ETF 아버지’가 경고한 레버리지ETF",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000100695&office_id=243&mode=mainnews&type=&date=2026-07-21&page=1"
     },
     {
-      "title": "국내 자금이 외국인 행세…IPO 청약서 '검은머리' 논란",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005388715&office_id=008&mode=mainnews&type=&date=2026-07-21&page=1"
+      "title": "코스피 3.6% 상승 마감…반도체 질주에 6700선 회복",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000517742&office_id=629&mode=mainnews&type=&date=2026-07-21&page=1"
     },
     {
-      "title": "가비아 ‘중복상장’ 지적에 모회사 상폐 첫 시도…행동주의 펀드와 정면 충돌",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002672957&office_id=016&mode=mainnews&type=&date=2026-07-21&page=1"
+      "title": "반도체 수출 훈풍에 코스피 6700선 회복…삼성전자 6%대 급등 [이런국장 저런주식]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004643598&office_id=011&mode=mainnews&type=&date=2026-07-21&page=1"
     },
     {
-      "title": "우주 간다던 스페이스X, 1500조원 증발...\"머스크 믿은 개미들 어쩌나\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005550810&office_id=014&mode=mainnews&type=&date=2026-07-21&page=1"
+      "title": "서학개미도 물렸다…2조 더 샀는데 보관금액 오히려 감소",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005388754&office_id=008&mode=mainnews&type=&date=2026-07-21&page=1"
     }
   ]
 }
