@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-22 07:06:14",
+  "lastUpdated": "2026-07-22 07:37:28",
   "date": "2026.07.22",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1478.80",
-      "change": "3.70",
+      "value": "1479.30",
+      "change": "3.20",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "906.66",
-      "change": "1.71",
+      "value": "907.91",
+      "change": "0.46",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1687.53",
-      "change": "2.59",
+      "value": "1688.47",
+      "change": "1.65",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "218.33",
-      "change": "0.69",
+      "value": "218.40",
+      "change": "0.62",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "195645.14",
-      "change": "1768.65",
+      "value": "195949.27",
+      "change": "2072.78",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "'전강후약' 코스피, 0.7% 상승 그쳐…6800선 문턱 마감",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014081828&office_id=003&mode=mainnews&type=&date=2026-07-22&page=1"
+      "title": "장중 7100선 돌파한 코스피, 상승분 반납…6800선 아래 마감",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000100742&office_id=243&mode=mainnews&type=&date=2026-07-22&page=1"
     },
     {
-      "title": "“7000피 뚫는 줄 알았는데”…코스피, 상승폭 반납해 6797 마감",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005710745&office_id=009&mode=mainnews&type=&date=2026-07-22&page=1"
+      "title": "'칠천피' 터치한 코스피… 새벽 알파벳 성적표가 불씨 살릴까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000943738&office_id=469&mode=mainnews&type=&date=2026-07-22&page=1"
     },
     {
-      "title": "'뒷심 부족' 코스피, 외인 3.5조 순매수에도 '칠천피' 탈환 실패",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005312587&office_id=015&mode=mainnews&type=&date=2026-07-22&page=1"
+      "title": "\"200만원 찍고 와르르\"…하이닉스 변동성에 놀란 개미들 [월급쟁이 희노애락]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005551465&office_id=014&mode=mainnews&type=&date=2026-07-22&page=1"
     },
     {
-      "title": "황현희“목에 칼 들어와도 지금 주식시장 안 들어가”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002806293&office_id=021&mode=mainnews&type=&date=2026-07-22&page=1"
+      "title": "매수 사이드카 발동했는데…장중 7100선 돌파했던 코스피, 6790선 후퇴 마감 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002673576&office_id=016&mode=mainnews&type=&date=2026-07-22&page=1"
     },
     {
-      "title": "IPO 몸집 키우는 유진증권…빅웨이브로보틱스 정정 반복에 ‘주관 역량’ 도마 위",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002234971&office_id=138&mode=mainnews&type=&date=2026-07-22&page=1"
+      "title": "매수 사이드카 터지며, 7100선 밟았지만… 코스피, AI 경계감에 6700선으로 마감[마켓뷰]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001181027&office_id=366&mode=mainnews&type=&date=2026-07-22&page=1"
     },
     {
-      "title": "“수십조원 던지는거 아냐?” 걱정했지만…국민연금, 반도체주 저가 매수했다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005710696&office_id=009&mode=mainnews&type=&date=2026-07-22&page=1"
+      "title": "코스피, 알파벳 실적 앞두고 경계에 '전강후약'…6,797서 마감(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016208945&office_id=001&mode=mainnews&type=&date=2026-07-22&page=1"
     },
     {
-      "title": "\"같은 월급쟁이 아냐\" 상위 1% 순자산은 33억…절반은 \"노후 준비 부족\"(종합)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006334708&office_id=018&mode=mainnews&type=&date=2026-07-22&page=1"
+      "title": "전망 대비 반토막 난 주가...대형주 목표가 괴리율 '껑충'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005551452&office_id=014&mode=mainnews&type=&date=2026-07-22&page=1"
     },
     {
-      "title": "\"요즘 제일 잘나가는 거 아니었어?\"…올해만 세 번째, 직원 수백명 내보낸 '이 회사'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005793154&office_id=277&mode=mainnews&type=&date=2026-07-22&page=1"
+      "title": "매수 사이드카에도 뒷심 잃은 코스피…7100선 찍고 6700선 마감",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006334782&office_id=018&mode=mainnews&type=&date=2026-07-22&page=1"
     }
   ]
 }
