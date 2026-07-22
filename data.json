@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-07-22 04:21:06",
+  "lastUpdated": "2026-07-22 07:06:14",
   "date": "2026.07.22",
   "kospi": {
     "name": "KOSPI",
-    "current": "7094.19",
-    "change": "346.24",
-    "changePct": "5.13",
+    "current": "6797.70",
+    "change": "49.75",
+    "changePct": "0.74",
     "direction": "up",
-    "volume": "243674",
-    "tradeAmount": "18292250"
+    "volume": "368680",
+    "tradeAmount": "28055924"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "272500",
-      "change": "13500",
-      "changePct": "5.21",
+      "current": "260500",
+      "change": "1500",
+      "changePct": "0.58",
       "direction": "up",
-      "volume": "12954672",
+      "volume": "21249029",
       "high": "276000",
-      "low": "269500",
+      "low": "260000",
       "open": "276000",
       "marketCap": "0"
     },
@@ -29,13 +29,13 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1954000",
-      "change": "118000",
-      "changePct": "6.43",
-      "direction": "up",
-      "volume": "2868518",
+      "current": "1830000",
+      "change": "-6000",
+      "changePct": "-0.33",
+      "direction": "down",
+      "volume": "4762602",
       "high": "2006000",
-      "low": "1923000",
+      "low": "1830000",
       "open": "1977000",
       "marketCap": "0"
     },
@@ -43,13 +43,13 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "101800",
-      "change": "4500",
-      "changePct": "4.62",
+      "current": "99100",
+      "change": "1800",
+      "changePct": "1.85",
       "direction": "up",
-      "volume": "123957",
+      "volume": "180033",
       "high": "103700",
-      "low": "99800",
+      "low": "98400",
       "open": "100300",
       "marketCap": "0"
     },
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "202000",
-      "change": "9000",
-      "changePct": "4.66",
+      "current": "196900",
+      "change": "3900",
+      "changePct": "2.02",
       "direction": "up",
-      "volume": "625638",
+      "volume": "896565",
       "high": "207000",
       "low": "196200",
       "open": "197800",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1483.50",
-      "change": "1.00",
-      "direction": "up"
+      "value": "1478.80",
+      "change": "3.70",
+      "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "909.12",
-      "change": "0.75",
-      "direction": "up"
+      "value": "906.66",
+      "change": "1.71",
+      "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1692.08",
-      "change": "1.96",
-      "direction": "up"
+      "value": "1687.53",
+      "change": "2.59",
+      "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "218.96",
-      "change": "0.06",
+      "value": "218.33",
+      "change": "0.69",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "196952.85",
-      "change": "3076.36",
+      "value": "195645.14",
+      "change": "1768.65",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "HLB제넥스, 진양곤 의장·김도연 대표 잇단 장내매수 이유는? [종목 돋보기]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005551261&office_id=014&mode=mainnews&type=&date=2026-07-22&page=1"
+      "title": "'전강후약' 코스피, 0.7% 상승 그쳐…6800선 문턱 마감",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014081828&office_id=003&mode=mainnews&type=&date=2026-07-22&page=1"
     },
     {
-      "title": "상위 1%, 이틀 연속 삼전 담고 SK하닉 팔았다…순매수 2위는 심텍 [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004643920&office_id=011&mode=mainnews&type=&date=2026-07-22&page=1"
+      "title": "“7000피 뚫는 줄 알았는데”…코스피, 상승폭 반납해 6797 마감",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005710745&office_id=009&mode=mainnews&type=&date=2026-07-22&page=1"
     },
     {
-      "title": "'키미 K3' 쇼크? 우려 씻은 반전...\"삼전닉스 할인 끝\" 다시 달린다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005389173&office_id=008&mode=mainnews&type=&date=2026-07-22&page=1"
+      "title": "'뒷심 부족' 코스피, 외인 3.5조 순매수에도 '칠천피' 탈환 실패",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005312587&office_id=015&mode=mainnews&type=&date=2026-07-22&page=1"
     },
     {
-      "title": "가비아, 중복상장 해소 시험대 오르나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002673359&office_id=016&mode=mainnews&type=&date=2026-07-22&page=1"
+      "title": "황현희“목에 칼 들어와도 지금 주식시장 안 들어가”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002806293&office_id=021&mode=mainnews&type=&date=2026-07-22&page=1"
     },
     {
-      "title": "배수 줄이려면 투자자 25% 동의해야…‘수익자총회’ 관건",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002673356&office_id=016&mode=mainnews&type=&date=2026-07-22&page=1"
+      "title": "IPO 몸집 키우는 유진증권…빅웨이브로보틱스 정정 반복에 ‘주관 역량’ 도마 위",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002234971&office_id=138&mode=mainnews&type=&date=2026-07-22&page=1"
     },
     {
-      "title": "삼성전자 로봇 사업 확대 승부수에 로봇株  줄줄이 ‘상한가’ 직행[이런국장 저런주식]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004643909&office_id=011&mode=mainnews&type=&date=2026-07-22&page=1"
+      "title": "“수십조원 던지는거 아냐?” 걱정했지만…국민연금, 반도체주 저가 매수했다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005710696&office_id=009&mode=mainnews&type=&date=2026-07-22&page=1"
     },
     {
-      "title": "“공포가 만든 과도한 가격 조정…3분기 랠리 재개”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002673326&office_id=016&mode=mainnews&type=&date=2026-07-22&page=1"
+      "title": "\"같은 월급쟁이 아냐\" 상위 1% 순자산은 33억…절반은 \"노후 준비 부족\"(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006334708&office_id=018&mode=mainnews&type=&date=2026-07-22&page=1"
     },
     {
-      "title": "'80만원' 넘보던 현대차…파업·실적 먹구름에 40만원 '아슬'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014080680&office_id=003&mode=mainnews&type=&date=2026-07-22&page=1"
+      "title": "\"요즘 제일 잘나가는 거 아니었어?\"…올해만 세 번째, 직원 수백명 내보낸 '이 회사'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005793154&office_id=277&mode=mainnews&type=&date=2026-07-22&page=1"
     }
   ]
 }
