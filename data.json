@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-07-23 03:52:06",
+  "lastUpdated": "2026-07-23 04:20:02",
   "date": "2026.07.23",
   "kospi": {
     "name": "KOSPI",
-    "current": "7033.31",
-    "change": "235.61",
-    "changePct": "3.47",
+    "current": "7029.54",
+    "change": "231.84",
+    "changePct": "3.41",
     "direction": "up",
-    "volume": "244568",
-    "tradeAmount": "15320853"
+    "volume": "263385",
+    "tradeAmount": "16554751"
   },
   "stocks": [
     {
@@ -19,7 +19,7 @@
       "change": "8000",
       "changePct": "3.07",
       "direction": "up",
-      "volume": "9430860",
+      "volume": "10037366",
       "high": "273000",
       "low": "263000",
       "open": "269000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1909000",
-      "change": "79000",
-      "changePct": "4.32",
+      "current": "1911000",
+      "change": "81000",
+      "changePct": "4.43",
       "direction": "up",
-      "volume": "2431371",
+      "volume": "2607775",
       "high": "1948000",
       "low": "1845000",
       "open": "1910000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "100600",
-      "change": "1500",
-      "changePct": "1.51",
+      "current": "100400",
+      "change": "1300",
+      "changePct": "1.31",
       "direction": "up",
-      "volume": "89584",
+      "volume": "101724",
       "high": "101000",
       "low": "98000",
       "open": "99200",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "215000",
-      "change": "18100",
-      "changePct": "9.19",
+      "current": "214500",
+      "change": "17600",
+      "changePct": "8.94",
       "direction": "up",
-      "volume": "1186556",
+      "volume": "1251230",
       "high": "216500",
       "low": "203000",
       "open": "204500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1466.80",
-      "change": "12.20",
+      "value": "1466.50",
+      "change": "12.50",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "899.60",
-      "change": "6.98",
+      "value": "899.39",
+      "change": "7.19",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1676.48",
-      "change": "10.47",
+      "value": "1676.80",
+      "change": "10.15",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "216.73",
-      "change": "1.59",
+      "value": "216.67",
+      "change": "1.65",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "194645.34",
-      "change": "2577.48",
+      "value": "194539.94",
+      "change": "2682.88",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -141,6 +141,10 @@
     }
   ],
   "news": [
+    {
+      "title": "'AA'급 고려아연 PRS 금리, 왜 5%대였나[마켓인]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006335427&office_id=018&mode=mainnews&type=&date=2026-07-23&page=1"
+    },
     {
       "title": "코스피 장중 7000선 회복… 경기회복 기대에 투심 살아나",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002806523&office_id=021&mode=mainnews&type=&date=2026-07-23&page=1"
@@ -168,10 +172,6 @@
     {
       "title": "\"60만전자 간다\" 구글 AI 투자 최대 수혜…두산에너빌리티, 美 원전 수주 지연에 목표가↓ [株토피아]",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005551855&office_id=014&mode=mainnews&type=&date=2026-07-23&page=1"
-    },
-    {
-      "title": "\"삼성전자 영업익 110조 찍는다\" 60만전자 고수한 증권가, 깜짝실적 전망한 이유",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005551823&office_id=014&mode=mainnews&type=&date=2026-07-23&page=1"
     }
   ]
 }
