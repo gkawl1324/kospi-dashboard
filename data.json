@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23 07:03:30",
+  "lastUpdated": "2026-07-23 07:37:49",
   "date": "2026.07.23",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1469.40",
-      "change": "9.60",
+      "value": "1469.70",
+      "change": "9.30",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "900.78",
-      "change": "5.80",
+      "value": "900.69",
+      "change": "5.89",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1678.86",
-      "change": "8.09",
+      "value": "1679.28",
+      "change": "7.67",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "217.04",
-      "change": "1.28",
+      "value": "217.09",
+      "change": "1.23",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "194670.8",
-      "change": "2552.02",
+      "value": "194020.3",
+      "change": "3202.52",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "삼성E&A 2분기 영업익 50%↑…최고 20% 급등 [코주부]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004644459&office_id=011&mode=mainnews&type=&date=2026-07-23&page=1"
+      "title": "'알파벳 랠리' 코스피 4.4% 급등 마감…5거래일 만에 '7천피'(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016211642&office_id=001&mode=mainnews&type=&date=2026-07-23&page=1"
     },
     {
-      "title": "코스피, 알파벳 훈풍에 4.40% 급등 마감…외국인 4일간 7조 순매수",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006335613&office_id=018&mode=mainnews&type=&date=2026-07-23&page=1"
+      "title": "반도체株 강세에 삼전·닉스 레버리지 ETF 급등 마감(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014084696&office_id=003&mode=mainnews&type=&date=2026-07-23&page=1"
     },
     {
-      "title": "\"그것 가지고 되겠나\" 하루 만에 움직인 금융위…운용사·증권사와 논의",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005390035&office_id=008&mode=mainnews&type=&date=2026-07-23&page=1"
+      "title": "알파벳 실적·GDP 호조에 달러·원 13.3원 급락…1466.8원 마감(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009075784&office_id=421&mode=mainnews&type=&date=2026-07-23&page=1"
     },
     {
-      "title": "롤러코스터 증시에 '커버드콜'로 몰린 개미…\"순자산 2조 돌파\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000100782&office_id=243&mode=mainnews&type=&date=2026-07-23&page=1"
+      "title": "[속보] \"메모리 피크아웃은 없다\" 구글 훈풍에 반도체 '들썩''…모처럼 웃은 코스닥",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001259757&office_id=215&mode=mainnews&type=&date=2026-07-23&page=1"
     },
     {
-      "title": "엔지켐생명과학 \"가처분 모두 기각…임시주총 안건 원안 가결\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006335587&office_id=018&mode=mainnews&type=&date=2026-07-23&page=1"
+      "title": "반도체 투심 회복… 코스피 4%·코스닥 5% 상승[마켓뷰]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001181355&office_id=366&mode=mainnews&type=&date=2026-07-23&page=1"
     },
     {
-      "title": "'실적보다 신용'…석화 구조조정, 등급 방어 시험대 [fn마켓워치]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005552033&office_id=014&mode=mainnews&type=&date=2026-07-23&page=1"
+      "title": "여경옥 셰프, 하닉레버ETF -7400만 계좌공개",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002806586&office_id=021&mode=mainnews&type=&date=2026-07-23&page=1"
     },
     {
-      "title": "③ 삼성증권 vs 한투증권 2위 '쟁탈전'[퇴직연금 노마드]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000087983&office_id=293&mode=mainnews&type=&date=2026-07-23&page=1"
+      "title": "다시 ‘미장’으로 4조 몰렸다…서학개미가 쓸어담은 1위 종목은",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003539681&office_id=025&mode=mainnews&type=&date=2026-07-23&page=1"
     },
     {
-      "title": "코오롱티슈진 3거래일 연속 하한가…美 3상 실패 여파 지속 [이런국장 저런주식]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004644434&office_id=011&mode=mainnews&type=&date=2026-07-23&page=1"
+      "title": "코스피 7000 탈환…코스닥도 800선 턱밑까지 급반등",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000518501&office_id=629&mode=mainnews&type=&date=2026-07-23&page=1"
     }
   ]
 }
