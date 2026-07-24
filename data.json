@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-07-24 03:51:45",
+  "lastUpdated": "2026-07-24 04:19:52",
   "date": "2026.07.24",
   "kospi": {
     "name": "KOSPI",
-    "current": "6707.76",
-    "change": "389.13",
-    "changePct": "5.48",
+    "current": "6687.92",
+    "change": "408.97",
+    "changePct": "5.76",
     "direction": "up",
-    "volume": "262706",
-    "tradeAmount": "19020523"
+    "volume": "282913",
+    "tradeAmount": "20708541"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "249500",
-      "change": "-20500",
-      "changePct": "-7.59",
+      "current": "249000",
+      "change": "-21000",
+      "changePct": "-7.78",
       "direction": "down",
-      "volume": "15623232",
+      "volume": "17079170",
       "high": "266500",
       "low": "247000",
       "open": "266000",
@@ -29,13 +29,13 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1780000",
-      "change": "-139000",
-      "changePct": "-7.24",
+      "current": "1764000",
+      "change": "-155000",
+      "changePct": "-8.08",
       "direction": "down",
-      "volume": "2770923",
+      "volume": "3126495",
       "high": "1894000",
-      "low": "1775000",
+      "low": "1752000",
       "open": "1894000",
       "marketCap": "0"
     },
@@ -47,7 +47,7 @@
       "change": "-3700",
       "changePct": "-3.64",
       "direction": "down",
-      "volume": "96414",
+      "volume": "105015",
       "high": "100500",
       "low": "96400",
       "open": "99400",
@@ -61,7 +61,7 @@
       "change": "-14500",
       "changePct": "-6.59",
       "direction": "down",
-      "volume": "607046",
+      "volume": "651851",
       "high": "216500",
       "low": "202000",
       "open": "215000",
@@ -79,15 +79,15 @@
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "894.06",
-      "change": "7.32",
+      "value": "894.03",
+      "change": "7.35",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1666.86",
-      "change": "13.32",
+      "value": "1667.15",
+      "change": "13.03",
       "direction": "down"
     },
     {
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "189886.05",
-      "change": "2597.03",
+      "value": "189664.46",
+      "change": "2818.62",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,7 +142,11 @@
   ],
   "news": [
     {
-      "title": "코스피 5%·코스닥 4%대 급락에 동반 매도사이드카…서킷 브레이커 목전",
+      "title": "AI 슈퍼사이클에 ‘수주 폭증’...목표가 줄상향",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001259860&office_id=215&mode=mainnews&type=&date=2026-07-24&page=1"
+    },
+    {
+      "title": "외국인·기관 3.6조 투매…코스피·코스닥 매도 사이드카",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002235330&office_id=138&mode=mainnews&type=&date=2026-07-24&page=1"
     },
     {
@@ -168,10 +172,6 @@
     {
       "title": "삼전닉스 주가 이렇게 빠지게 한 범인은…증권가는 그래도 “저점 매수 기회” 왜?",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0004644795&office_id=011&mode=mainnews&type=&date=2026-07-24&page=1"
-    },
-    {
-      "title": "코스피 급락에 매도 사이드카 발동…삼전·하닉 6% 하락 [마켓시그널]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004644792&office_id=011&mode=mainnews&type=&date=2026-07-24&page=1"
     }
   ]
 }
