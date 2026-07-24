@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-07-24 04:19:52",
+  "lastUpdated": "2026-07-24 07:03:34",
   "date": "2026.07.24",
   "kospi": {
     "name": "KOSPI",
-    "current": "6687.92",
-    "change": "408.97",
-    "changePct": "5.76",
+    "current": "6690.62",
+    "change": "406.27",
+    "changePct": "5.72",
     "direction": "up",
-    "volume": "282913",
-    "tradeAmount": "20708541"
+    "volume": "395146",
+    "tradeAmount": "30896428"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "249000",
-      "change": "-21000",
-      "changePct": "-7.78",
+      "current": "249500",
+      "change": "-20500",
+      "changePct": "-7.59",
       "direction": "down",
-      "volume": "17079170",
+      "volume": "26175580",
       "high": "266500",
       "low": "247000",
       "open": "266000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1764000",
-      "change": "-155000",
-      "changePct": "-8.08",
+      "current": "1759000",
+      "change": "-160000",
+      "changePct": "-8.34",
       "direction": "down",
-      "volume": "3126495",
+      "volume": "4935571",
       "high": "1894000",
       "low": "1752000",
       "open": "1894000",
@@ -47,7 +47,7 @@
       "change": "-3700",
       "changePct": "-3.64",
       "direction": "down",
-      "volume": "105015",
+      "volume": "185315",
       "high": "100500",
       "low": "96400",
       "open": "99400",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "205500",
-      "change": "-14500",
-      "changePct": "-6.59",
+      "current": "207500",
+      "change": "-12500",
+      "changePct": "-5.68",
       "direction": "down",
-      "volume": "651851",
+      "volume": "1048497",
       "high": "216500",
       "low": "202000",
       "open": "215000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1464.60",
-      "change": "11.90",
+      "value": "1466.50",
+      "change": "10.00",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "894.03",
-      "change": "7.35",
+      "value": "895.52",
+      "change": "5.86",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1667.15",
-      "change": "13.03",
+      "value": "1669.98",
+      "change": "10.20",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "216.11",
-      "change": "1.75",
+      "value": "216.42",
+      "change": "1.44",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "189664.46",
-      "change": "2818.62",
+      "value": "190461.76",
+      "change": "2021.32",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "AI 슈퍼사이클에 ‘수주 폭증’...목표가 줄상향",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001259860&office_id=215&mode=mainnews&type=&date=2026-07-24&page=1"
+      "title": "중동발 유가 급등에…증시 '검은 금요일'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005313523&office_id=015&mode=mainnews&type=&date=2026-07-24&page=1"
     },
     {
-      "title": "외국인·기관 3.6조 투매…코스피·코스닥 매도 사이드카",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002235330&office_id=138&mode=mainnews&type=&date=2026-07-24&page=1"
+      "title": "\"○○○ 사두고 여름휴가 다녀오세요\"…고수가 찍은 유망 업종",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005313522&office_id=015&mode=mainnews&type=&date=2026-07-24&page=1"
     },
     {
-      "title": "하닉·삼전 6% 떨어지는데…상위 투자자는 순매수 1·2위 [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004644807&office_id=011&mode=mainnews&type=&date=2026-07-24&page=1"
+      "title": "코스닥 '빚투' 7조원선마저 붕괴…돈 빠진 증시, 변동성만 남았다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005552562&office_id=014&mode=mainnews&type=&date=2026-07-24&page=1"
     },
     {
-      "title": "\"최고점 매도했어요\"…삼전닉스 개미는 외면 \"킵 고잉\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001259853&office_id=215&mode=mainnews&type=&date=2026-07-24&page=1"
+      "title": "공포가 덮친 증시… 코스피 6600선으로 ‘털썩’[마켓뷰]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001181666&office_id=366&mode=mainnews&type=&date=2026-07-24&page=1"
     },
     {
-      "title": "우주에서 지하로…스페이스X 시총 증발에 개미들 우주 ETF 이탈",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000518749&office_id=629&mode=mainnews&type=&date=2026-07-24&page=1"
+      "title": "외국인, 국내 증시 돌아오나…‘복귀 신호’ 켜졌지만 추세 전환은 아직",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001181663&office_id=366&mode=mainnews&type=&date=2026-07-24&page=1"
     },
     {
-      "title": "또 '사이드카' 부른 중동불안...외국인 피난에 코스피 6800선 반납",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005390467&office_id=008&mode=mainnews&type=&date=2026-07-24&page=1"
+      "title": "미래에셋증권, 역대급 자사주 소각...'3000억 받고 2000억 더'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000049173&office_id=648&mode=mainnews&type=&date=2026-07-24&page=1"
     },
     {
-      "title": "매일 사이드카 울리네…유가 급등에 코스피 올해 21번째 매도 사이드카",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005390466&office_id=008&mode=mainnews&type=&date=2026-07-24&page=1"
+      "title": "\"상장 한 달 만에 반토막 위기\"…머스크, 공매도에 경고",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005313510&office_id=015&mode=mainnews&type=&date=2026-07-24&page=1"
     },
     {
-      "title": "삼전닉스 주가 이렇게 빠지게 한 범인은…증권가는 그래도 “저점 매수 기회” 왜?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004644795&office_id=011&mode=mainnews&type=&date=2026-07-24&page=1"
+      "title": "가비아 둘러싼 공방…맥쿼리 \"적정 가격\" vs 얼라인 \"절차 문제\"(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016213323&office_id=001&mode=mainnews&type=&date=2026-07-24&page=1"
     }
   ]
 }
