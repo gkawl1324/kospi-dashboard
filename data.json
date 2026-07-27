@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-07-27 04:41:48",
+  "lastUpdated": "2026-07-27 07:59:23",
   "date": "2026.07.27",
   "kospi": {
     "name": "KOSPI",
-    "current": "6659.05",
-    "change": "31.57",
-    "changePct": "0.47",
+    "current": "6755.75",
+    "change": "65.13",
+    "changePct": "0.97",
     "direction": "up",
-    "volume": "207552",
-    "tradeAmount": "16745865"
+    "volume": "270915",
+    "tradeAmount": "23504570"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "250000",
-      "change": "500",
-      "changePct": "0.20",
+      "current": "254000",
+      "change": "4500",
+      "changePct": "1.80",
       "direction": "up",
-      "volume": "15012142",
+      "volume": "22701316",
       "high": "258500",
       "low": "246000",
       "open": "257000",
@@ -29,12 +29,12 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1766000",
-      "change": "7000",
-      "changePct": "0.40",
+      "current": "1816000",
+      "change": "57000",
+      "changePct": "3.24",
       "direction": "up",
-      "volume": "2709108",
-      "high": "1816000",
+      "volume": "3832589",
+      "high": "1821000",
       "low": "1707000",
       "open": "1814000",
       "marketCap": "0"
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "98300",
-      "change": "400",
-      "changePct": "0.41",
-      "direction": "up",
-      "volume": "76043",
+      "current": "97700",
+      "change": "-200",
+      "changePct": "-0.20",
+      "direction": "down",
+      "volume": "126305",
       "high": "99900",
       "low": "97100",
       "open": "99700",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "226500",
-      "change": "19000",
-      "changePct": "9.16",
+      "current": "225000",
+      "change": "17500",
+      "changePct": "8.43",
       "direction": "up",
-      "volume": "2332175",
+      "volume": "2704118",
       "high": "234500",
       "low": "219000",
       "open": "228500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1466.60",
-      "change": "4.10",
+      "value": "1469.40",
+      "change": "6.90",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "896.51",
-      "change": "2.97",
+      "value": "898.91",
+      "change": "5.37",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1672.36",
-      "change": "6.35",
+      "value": "1675.41",
+      "change": "9.40",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "216.65",
-      "change": "0.61",
+      "value": "217.13",
+      "change": "1.09",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "192947.32",
-      "change": "1753.85",
+      "value": "193384.58",
+      "change": "2191.11",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "‘대체 언제 올라?’ 코스피 한달새 28% 급락했는데…“V자 반등 어렵다”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004645585&office_id=011&mode=mainnews&type=&date=2026-07-27&page=1"
+      "title": "홍콩도 규제 돌입…'매일 레버리지 배율 조정'이 보완책 선례 될까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005391598&office_id=008&mode=mainnews&type=&date=2026-07-27&page=1"
     },
     {
-      "title": "주가 널뛰는데…레버리지 ETF 9개 '출격 대기'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001260079&office_id=215&mode=mainnews&type=&date=2026-07-27&page=1"
+      "title": "한·미 기업 AI 동맹에 코스피 반등…6750선 회복, 하이닉스 3.2%↑",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002235599&office_id=138&mode=mainnews&type=&date=2026-07-27&page=1"
     },
     {
-      "title": "'삼전닉스 던지고 中 갔나'…6배 폭등 쇼크에 코스피 비명 [분석+]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005314164&office_id=015&mode=mainnews&type=&date=2026-07-27&page=1"
+      "title": "당정·금투업계, '레버리지 ETF' 규제 공감…\"ETF 명칭도 떼야\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000519380&office_id=629&mode=mainnews&type=&date=2026-07-27&page=1"
     },
     {
-      "title": "증시 활황에 브로커리지 웃고 ETF도 효자…증권사 2분기 곳간 '두둑'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000519226&office_id=629&mode=mainnews&type=&date=2026-07-27&page=1"
+      "title": "중동 긴장에 '원유 ETF' 강세…이달 20% 올라",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006337673&office_id=018&mode=mainnews&type=&date=2026-07-27&page=1"
     },
     {
-      "title": "알파벳, 상장 22년 만에 첫 잉여현금 적자…AI 공포 확산",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006337443&office_id=018&mode=mainnews&type=&date=2026-07-27&page=1"
+      "title": "잠잠한 비트코인 깨울까…美 빅테크가 열쇠[코인뉴스]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003115362&office_id=119&mode=mainnews&type=&date=2026-07-27&page=1"
     },
     {
-      "title": "SK하닉·삼전 담는 초고수…‘AI 서밋’ 기대감 속 반도체 베팅 [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004645567&office_id=011&mode=mainnews&type=&date=2026-07-27&page=1"
+      "title": "증시 요동, 삼성액티브·KB운용 전략 '고배당·커버드콜 액티브'[체크!ETF]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001153216&office_id=417&mode=mainnews&type=&date=2026-07-27&page=1"
     },
     {
-      "title": "코스피, 장중 하락전환해 6,600대…삼전·닉스도 약세",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016216482&office_id=001&mode=mainnews&type=&date=2026-07-27&page=1"
+      "title": "'분할 재상장' 네오뷰 코스닥 데뷔날 하한가…혹독한 신고식",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006337669&office_id=018&mode=mainnews&type=&date=2026-07-27&page=1"
     },
     {
-      "title": "“너네도 한번 당해봐”…키옥시아, 美 레버리지 ETF 상장 추진에 ‘변동성 경고’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005712634&office_id=009&mode=mainnews&type=&date=2026-07-27&page=1"
+      "title": "코스피, 급락딛고 반등했지만 상승폭 제한…0.97%↑ 마감(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016217437&office_id=001&mode=mainnews&type=&date=2026-07-27&page=1"
     }
   ]
 }
