@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28 07:09:13",
+  "lastUpdated": "2026-07-28 07:42:15",
   "date": "2026.07.28",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1461.10",
-      "change": "4.90",
+      "value": "1460.20",
+      "change": "5.80",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "892.33",
-      "change": "2.88",
+      "value": "891.73",
+      "change": "3.48",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1660.91",
-      "change": "5.79",
+      "value": "1660.39",
+      "change": "6.31",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "215.87",
-      "change": "0.83",
+      "value": "215.73",
+      "change": "0.97",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "190117.13",
-      "change": "2469.05",
+      "value": "190193.63",
+      "change": "2392.55",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "상장사 최대 220개사 11월부터 '저PBR' 꼬리표",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000049274&office_id=648&mode=mainnews&type=&date=2026-07-28&page=1"
+      "title": "외국인 ‘패닉셀’에 코스피 10%대 폭락…세 달 만에 장중 6000선 붕괴 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002676317&office_id=016&mode=mainnews&type=&date=2026-07-28&page=1"
     },
     {
-      "title": "현대차·모비스·LG전자...'상반기 최애주' 버린 개미, 하락장서 삼전닉스만 더 샀다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005314694&office_id=015&mode=mainnews&type=&date=2026-07-28&page=1"
+      "title": "‘천당에서 지옥으로’ 李대통령 뒤흔드는 코스피[이슈 현미경]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006338469&office_id=018&mode=mainnews&type=&date=2026-07-28&page=1"
     },
     {
-      "title": "외환위기 때보다 무섭다…'역대급 롤러코스피'에 개미들 비명",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005314693&office_id=015&mode=mainnews&type=&date=2026-07-28&page=1"
+      "title": "오늘만 무려 ‘29%’ 급등…SK하이닉스 단일종목 인버스, 국내 ETF 수익률 1위 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002676316&office_id=016&mode=mainnews&type=&date=2026-07-28&page=1"
     },
     {
-      "title": "‘전쟁 난 것 아니야?’ 믿기 힘든 숫자…삼전·닉스 순식간에 13% 폭락 [종목Pick]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002676302&office_id=016&mode=mainnews&type=&date=2026-07-28&page=1"
+      "title": "‘이런 폭락장은 또 처음’ 코스피 전 업종 ‘올킬’…전쟁급 충격 몰아쳤다 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002676315&office_id=016&mode=mainnews&type=&date=2026-07-28&page=1"
     },
     {
-      "title": "코스피 6023.63 마감…양 시장에 서킷브레이커 발동 '검은 화요일'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005314688&office_id=015&mode=mainnews&type=&date=2026-07-28&page=1"
+      "title": "\"주식창 보기 겁난다\" 코스피 -10% 와르르...개미 웁니다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005392165&office_id=008&mode=mainnews&type=&date=2026-07-28&page=1"
     },
     {
-      "title": "분기 매출 1조 뚫었는데…하이브, 주가 20만원선 무너졌다 [엔터X스탁]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005314687&office_id=015&mode=mainnews&type=&date=2026-07-28&page=1"
+      "title": "‘TSMC·키옥시아까지 급락’ 삼전닉스만 다가 아냐…아시아 반도체주 ‘흔들’ [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002676314&office_id=016&mode=mainnews&type=&date=2026-07-28&page=1"
     },
     {
-      "title": "삼전 13%·SK하닉 14% '폭락'…美 반도체 약세에 차이나 쇼크 겹악재[핫스탁](종합)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014093497&office_id=003&mode=mainnews&type=&date=2026-07-28&page=1"
+      "title": "삼성·하이닉스 쏠림의 부작용… 2톱 무너지자 지수 전체 ‘털썩’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001182532&office_id=366&mode=mainnews&type=&date=2026-07-28&page=1"
     },
     {
-      "title": "단일종목 레버리지 '조기 보완'에 '추가 규제'까지…효과는?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003115777&office_id=119&mode=mainnews&type=&date=2026-07-28&page=1"
+      "title": "공포로 뒤덮인 증시…'美中발 악재' 연타에 코스피·코스닥 추락(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016219806&office_id=001&mode=mainnews&type=&date=2026-07-28&page=1"
     }
   ]
 }
