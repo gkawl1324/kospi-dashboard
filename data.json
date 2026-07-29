@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29 07:15:07",
+  "lastUpdated": "2026-07-29 07:47:37",
   "date": "2026.07.29",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1447.90",
-      "change": "7.30",
+      "value": "1447.60",
+      "change": "7.60",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "885.24",
-      "change": "2.86",
+      "value": "884.84",
+      "change": "3.26",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1649.66",
-      "change": "7.23",
+      "value": "1649.83",
+      "change": "7.06",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "213.90",
-      "change": "1.03",
+      "value": "213.92",
+      "change": "1.01",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "188377.04",
-      "change": "853.68",
+      "value": "188303.55",
+      "change": "927.17",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "연이틀 '서킷브레이커' 발동에 증시 와르르… 코스피, 5600선까지 밀려",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000192662&office_id=654&mode=mainnews&type=&date=2026-07-29&page=1"
+      "title": "\"살려주세요, 주식 다신 안 할게요\"?공포에 던진 개미들, 증시 급락한 이유는?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001045766&office_id=031&mode=mainnews&type=&date=2026-07-29&page=1"
     },
     {
-      "title": "끝을 모르는 추락…삼전닉스 레버리지 ETF 이틀 연속 폭락",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000520100&office_id=629&mode=mainnews&type=&date=2026-07-29&page=1"
+      "title": "믿었던 반도체 흔들리자…대형주, 중소형주보다 크게 '출렁'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005554707&office_id=014&mode=mainnews&type=&date=2026-07-29&page=1"
     },
     {
-      "title": "이틀 연속 사이드카→서킷브레이커…'5000피·600닥' 시대로 회귀",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000520099&office_id=629&mode=mainnews&type=&date=2026-07-29&page=1"
+      "title": "“이번만 살려주세요, 다시는 주식 안 할게요”…반토막 증시에 곳곳서 곡소리",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005713899&office_id=009&mode=mainnews&type=&date=2026-07-29&page=1"
     },
     {
-      "title": "[속보]코스피 5.99% 내린 5663.08 마감…삼전 5.23%-SK하닉 9.61% 하락",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003737412&office_id=020&mode=mainnews&type=&date=2026-07-29&page=1"
+      "title": "“코스피 바닥 안 보인다” 커지는 공포…최악 땐 4800선 갈 수도",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003541016&office_id=025&mode=mainnews&type=&date=2026-07-29&page=1"
     },
     {
-      "title": "증시 초유의 상황에…\"전쟁 난 줄\" 개미들 '역대급 패닉셀'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005315201&office_id=015&mode=mainnews&type=&date=2026-07-29&page=1"
+      "title": "'하락 베팅' 하이닉스 인버스ETF도 손실…'음의 복리효과' 변동성의 함정",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006339312&office_id=018&mode=mainnews&type=&date=2026-07-29&page=1"
     },
     {
-      "title": "여야 '단종레 ETF' 질타에 고개숙인 당국수장들 \"송구하다\"(종합)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005392800&office_id=008&mode=mainnews&type=&date=2026-07-29&page=1"
+      "title": "코스피·코스닥, 사상 초유 이틀 연속 '서킷브레이커'[오늘증시]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001153588&office_id=417&mode=mainnews&type=&date=2026-07-29&page=1"
     },
     {
-      "title": "기대치 밑돈 실적에 SK하닉 9% 급락 마감…삼전도 5%↓[핫스탁](종합)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014096159&office_id=003&mode=mainnews&type=&date=2026-07-29&page=1"
+      "title": "코스피 5.9%↓ '6천피' 밑으로…이틀간 1천포인트 이상 빠졌다(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016222346&office_id=001&mode=mainnews&type=&date=2026-07-29&page=1"
     },
     {
-      "title": "비트코인 하반기 상승론, 근거는 충분한가[엠블록레터]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005713869&office_id=009&mode=mainnews&type=&date=2026-07-29&page=1"
+      "title": "패닉셀링 키운 '수급 악순환'…\"펀더멘털보다 심리가 흔들렸다\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005554692&office_id=014&mode=mainnews&type=&date=2026-07-29&page=1"
     }
   ]
 }
