@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-07-29 04:17:12",
+  "lastUpdated": "2026-07-29 07:15:07",
   "date": "2026.07.29",
   "kospi": {
     "name": "KOSPI",
-    "current": "5381.29",
-    "change": "642.37",
-    "changePct": "10.66",
+    "current": "5663.24",
+    "change": "360.42",
+    "changePct": "5.98",
     "direction": "up",
-    "volume": "284394",
-    "tradeAmount": "28914560"
+    "volume": "449293",
+    "tradeAmount": "47826751"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "195800",
-      "change": "-24200",
-      "changePct": "-11.00",
+      "current": "208500",
+      "change": "-11500",
+      "changePct": "-5.23",
       "direction": "down",
-      "volume": "34540603",
+      "volume": "61720290",
       "high": "234000",
-      "low": "195600",
+      "low": "189200",
       "open": "226500",
       "marketCap": "0"
     },
@@ -29,13 +29,13 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1286000",
-      "change": "-264000",
-      "changePct": "-17.03",
+      "current": "1401000",
+      "change": "-149000",
+      "changePct": "-9.61",
       "direction": "down",
-      "volume": "7136672",
+      "volume": "12183764",
       "high": "1619000",
-      "low": "1282000",
+      "low": "1246000",
       "open": "1567000",
       "marketCap": "0"
     },
@@ -43,13 +43,13 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "89900",
-      "change": "-3200",
-      "changePct": "-3.44",
+      "current": "92200",
+      "change": "-900",
+      "changePct": "-0.97",
       "direction": "down",
-      "volume": "296184",
+      "volume": "547049",
       "high": "96100",
-      "low": "89900",
+      "low": "88100",
       "open": "93600",
       "marketCap": "0"
     },
@@ -57,13 +57,13 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "197300",
-      "change": "-12700",
-      "changePct": "-6.05",
+      "current": "201500",
+      "change": "-8500",
+      "changePct": "-4.05",
       "direction": "down",
-      "volume": "1131454",
+      "volume": "1978355",
       "high": "213500",
-      "low": "197200",
+      "low": "194600",
       "open": "213500",
       "marketCap": "0"
     }
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1450.30",
-      "change": "4.90",
+      "value": "1447.90",
+      "change": "7.30",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "886.71",
-      "change": "1.39",
+      "value": "885.24",
+      "change": "2.86",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1653.34",
-      "change": "3.55",
+      "value": "1649.66",
+      "change": "7.23",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "214.15",
-      "change": "0.78",
+      "value": "213.90",
+      "change": "1.03",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "187638.25",
-      "change": "1592.47",
+      "value": "188377.04",
+      "change": "853.68",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "“56조 손실 추산”…레버리지 ETF 베팅 개미들 어쩌나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001863781&office_id=005&mode=mainnews&type=&date=2026-07-29&page=1"
+      "title": "연이틀 '서킷브레이커' 발동에 증시 와르르… 코스피, 5600선까지 밀려",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000192662&office_id=654&mode=mainnews&type=&date=2026-07-29&page=1"
     },
     {
-      "title": "코스피·코스닥, 사상 첫 2거래일 연속 동반 서킷브레이커(종합)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009085491&office_id=421&mode=mainnews&type=&date=2026-07-29&page=1"
+      "title": "끝을 모르는 추락…삼전닉스 레버리지 ETF 이틀 연속 폭락",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000520100&office_id=629&mode=mainnews&type=&date=2026-07-29&page=1"
     },
     {
-      "title": "코스피·코스닥 이틀 연속 동반 '서킷 브레이커'…'사상 최초'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006339097&office_id=018&mode=mainnews&type=&date=2026-07-29&page=1"
+      "title": "이틀 연속 사이드카→서킷브레이커…'5000피·600닥' 시대로 회귀",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000520099&office_id=629&mode=mainnews&type=&date=2026-07-29&page=1"
     },
     {
-      "title": "[속보]하닉 12% 급락에 코스피 서킷브레이커…이틀 연속은 사상 처음",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002807804&office_id=021&mode=mainnews&type=&date=2026-07-29&page=1"
+      "title": "[속보]코스피 5.99% 내린 5663.08 마감…삼전 5.23%-SK하닉 9.61% 하락",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003737412&office_id=020&mode=mainnews&type=&date=2026-07-29&page=1"
     },
     {
-      "title": "이억원·이찬진 \"레버리지 ETF발 변동성 책임 무겁게 받아들여\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005796222&office_id=277&mode=mainnews&type=&date=2026-07-29&page=1"
+      "title": "증시 초유의 상황에…\"전쟁 난 줄\" 개미들 '역대급 패닉셀'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005315201&office_id=015&mode=mainnews&type=&date=2026-07-29&page=1"
     },
     {
-      "title": "[속보] 코스피 이틀 연속 서킷 브레이커…사상 최초",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002676827&office_id=016&mode=mainnews&type=&date=2026-07-29&page=1"
+      "title": "여야 '단종레 ETF' 질타에 고개숙인 당국수장들 \"송구하다\"(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005392800&office_id=008&mode=mainnews&type=&date=2026-07-29&page=1"
     },
     {
-      "title": "코스닥 2거래일 연속 서킷브레이커…650선 붕괴(상보)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009085461&office_id=421&mode=mainnews&type=&date=2026-07-29&page=1"
+      "title": "기대치 밑돈 실적에 SK하닉 9% 급락 마감…삼전도 5%↓[핫스탁](종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014096159&office_id=003&mode=mainnews&type=&date=2026-07-29&page=1"
     },
     {
-      "title": "삼전닉스 시총 이틀새 530조 증발·개인 레버리지 56조 손실… 코스피 비명",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002807803&office_id=021&mode=mainnews&type=&date=2026-07-29&page=1"
+      "title": "비트코인 하반기 상승론, 근거는 충분한가[엠블록레터]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005713869&office_id=009&mode=mainnews&type=&date=2026-07-29&page=1"
     }
   ]
 }
