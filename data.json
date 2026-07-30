@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-07-30 03:39:37",
+  "lastUpdated": "2026-07-30 04:10:38",
   "date": "2026.07.30",
   "kospi": {
     "name": "KOSPI",
-    "current": "5625.54",
-    "change": "37.70",
-    "changePct": "0.67",
+    "current": "5578.52",
+    "change": "84.72",
+    "changePct": "1.50",
     "direction": "up",
-    "volume": "259089",
-    "tradeAmount": "25020192"
+    "volume": "274838",
+    "tradeAmount": "26690538"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "210500",
-      "change": "2000",
-      "changePct": "0.96",
-      "direction": "up",
-      "volume": "30612797",
+      "current": "207000",
+      "change": "-1500",
+      "changePct": "-0.72",
+      "direction": "down",
+      "volume": "32680993",
       "high": "226000",
       "low": "202000",
       "open": "214000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1331000",
-      "change": "-70000",
-      "changePct": "-5.00",
+      "current": "1313000",
+      "change": "-88000",
+      "changePct": "-6.28",
       "direction": "down",
-      "volume": "6482901",
+      "volume": "6890897",
       "high": "1459000",
       "low": "1287000",
       "open": "1361000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "96100",
-      "change": "3900",
-      "changePct": "4.23",
+      "current": "95950",
+      "change": "3750",
+      "changePct": "4.07",
       "direction": "up",
-      "volume": "284289",
+      "volume": "304705",
       "high": "98900",
       "low": "90500",
       "open": "90500",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "198000",
-      "change": "-3500",
-      "changePct": "-1.74",
+      "current": "196600",
+      "change": "-4900",
+      "changePct": "-2.43",
       "direction": "down",
-      "volume": "1039742",
+      "volume": "1107304",
       "high": "205500",
       "low": "195900",
       "open": "198500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1443.20",
-      "change": "2.80",
+      "value": "1442.30",
+      "change": "3.70",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "882.58",
-      "change": "2.18",
+      "value": "882.06",
+      "change": "2.70",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1652.75",
-      "change": "5.60",
+      "value": "1651.58",
+      "change": "6.77",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "213.47",
-      "change": "0.39",
+      "value": "213.33",
+      "change": "0.53",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "188132.56",
-      "change": "1548.01",
+      "value": "188007.12",
+      "change": "1673.45",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -141,6 +141,10 @@
     }
   ],
   "news": [
+    {
+      "title": "코스피 조정장 언제까지...증권가가 꼽은 반등 시점",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001260536&office_id=215&mode=mainnews&type=&date=2026-07-30&page=1"
+    },
     {
       "title": "‘AI낙관론 붕괴 공포’ 하루는 버텼지만… 개미들, 연이틀 던졌다",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002808057&office_id=021&mode=mainnews&type=&date=2026-07-30&page=1"
@@ -168,10 +172,6 @@
     {
       "title": "더 폭락한 단일종목 레버리지…배수 조정하고 투자한도 제한",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002677315&office_id=016&mode=mainnews&type=&date=2026-07-30&page=1"
-    },
-    {
-      "title": "규제 쏟아내도 '무용지물'…레버리지 대금 몰리고 코스피는 '추락'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000520336&office_id=629&mode=mainnews&type=&date=2026-07-30&page=1"
     }
   ]
 }
