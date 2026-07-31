@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-07-31 03:58:55",
+  "lastUpdated": "2026-07-31 04:27:55",
   "date": "2026.07.31",
   "kospi": {
     "name": "KOSPI",
-    "current": "6398.53",
-    "change": "804.97",
-    "changePct": "14.39",
+    "current": "6444.08",
+    "change": "850.52",
+    "changePct": "15.21",
     "direction": "up",
-    "volume": "282276",
-    "tradeAmount": "31154012"
+    "volume": "297331",
+    "tradeAmount": "32895286"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "250250",
-      "change": "43250",
-      "changePct": "20.89",
+      "current": "253000",
+      "change": "46000",
+      "changePct": "22.22",
       "direction": "up",
-      "volume": "34957415",
+      "volume": "36784473",
       "high": "261500",
       "low": "243000",
       "open": "257000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1661000",
-      "change": "339000",
-      "changePct": "25.64",
+      "current": "1685000",
+      "change": "363000",
+      "changePct": "27.46",
       "direction": "up",
-      "volume": "6891704",
+      "volume": "7301028",
       "high": "1715000",
       "low": "1586000",
       "open": "1697000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "99000",
-      "change": "2600",
-      "changePct": "2.70",
+      "current": "98800",
+      "change": "2400",
+      "changePct": "2.49",
       "direction": "up",
-      "volume": "325321",
+      "volume": "346653",
       "high": "102800",
       "low": "94000",
       "open": "98800",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "206000",
-      "change": "11300",
-      "changePct": "5.80",
+      "current": "205500",
+      "change": "10800",
+      "changePct": "5.55",
       "direction": "up",
-      "volume": "1140983",
+      "volume": "1198436",
       "high": "212500",
       "low": "199600",
       "open": "205000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1435.60",
-      "change": "9.40",
+      "value": "1439.50",
+      "change": "13.30",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "893.84",
-      "change": "0.76",
+      "value": "895.80",
+      "change": "2.72",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1652.81",
-      "change": "8.47",
+      "value": "1657.37",
+      "change": "13.03",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "212.85",
-      "change": "1.45",
+      "value": "213.41",
+      "change": "2.01",
       "direction": "up"
     }
   ],
@@ -118,9 +118,9 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "188170.52",
-      "change": "90.81",
-      "direction": "down",
+      "value": "188681.85",
+      "change": "420.52",
+      "direction": "up",
       "unit": "USD/oz"
     },
     {
@@ -141,6 +141,14 @@
     }
   ],
   "news": [
+    {
+      "title": "SK하이닉스, ADR 족쇄에 주주환원 지연…저평가 우려 커진다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004647305&office_id=011&mode=mainnews&type=&date=2026-07-31&page=1"
+    },
+    {
+      "title": "연준, 금리 또 동결…시장 흔든 ‘9월 인상’ 신호",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004647304&office_id=011&mode=mainnews&type=&date=2026-07-31&page=1"
+    },
     {
       "title": "'최태원 떴다'…SK하이닉스 장 초반 27% 급등",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000049400&office_id=648&mode=mainnews&type=&date=2026-07-31&page=1"
@@ -164,14 +172,6 @@
     {
       "title": "코스피 폭등세 지속…삼성전자 시총 1조달러·코스피 5000조 회복",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0001183430&office_id=366&mode=mainnews&type=&date=2026-07-31&page=1"
-    },
-    {
-      "title": "‘상위 1% 초고수’ SK하이닉스 순매도 1위…삼성전기·제주반도체 순매수[주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004647287&office_id=011&mode=mainnews&type=&date=2026-07-31&page=1"
-    },
-    {
-      "title": "율곡 품은 VIG, 토종 PEF 신뢰로 승부수",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002677882&office_id=016&mode=mainnews&type=&date=2026-07-31&page=1"
     }
   ]
 }
