@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-07-31 04:27:55",
+  "lastUpdated": "2026-07-31 07:20:51",
   "date": "2026.07.31",
   "kospi": {
     "name": "KOSPI",
-    "current": "6444.08",
-    "change": "850.52",
-    "changePct": "15.21",
+    "current": "6595.45",
+    "change": "1001.89",
+    "changePct": "17.91",
     "direction": "up",
-    "volume": "297331",
-    "tradeAmount": "32895286"
+    "volume": "430195",
+    "tradeAmount": "48909272"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "253000",
-      "change": "46000",
-      "changePct": "22.22",
+      "current": "262500",
+      "change": "55500",
+      "changePct": "26.81",
       "direction": "up",
-      "volume": "36784473",
-      "high": "261500",
+      "volume": "57883859",
+      "high": "267000",
       "low": "243000",
       "open": "257000",
       "marketCap": "0"
@@ -29,12 +29,12 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1685000",
-      "change": "363000",
-      "changePct": "27.46",
+      "current": "1718000",
+      "change": "396000",
+      "changePct": "29.95",
       "direction": "up",
-      "volume": "7301028",
-      "high": "1715000",
+      "volume": "10347350",
+      "high": "1718000",
       "low": "1586000",
       "open": "1697000",
       "marketCap": "0"
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "98800",
-      "change": "2400",
-      "changePct": "2.49",
+      "current": "101100",
+      "change": "4700",
+      "changePct": "4.88",
       "direction": "up",
-      "volume": "346653",
+      "volume": "592066",
       "high": "102800",
       "low": "94000",
       "open": "98800",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "205500",
-      "change": "10800",
-      "changePct": "5.55",
+      "current": "208000",
+      "change": "13300",
+      "changePct": "6.83",
       "direction": "up",
-      "volume": "1198436",
+      "volume": "1766586",
       "high": "212500",
       "low": "199600",
       "open": "205000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1439.50",
-      "change": "13.30",
+      "value": "1430.10",
+      "change": "3.90",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "895.80",
-      "change": "2.72",
-      "direction": "up"
+      "value": "891.64",
+      "change": "1.44",
+      "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1657.37",
-      "change": "13.03",
+      "value": "1646.69",
+      "change": "2.35",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "213.41",
-      "change": "2.01",
+      "value": "212.06",
+      "change": "0.66",
       "direction": "up"
     }
   ],
@@ -118,9 +118,9 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "188681.85",
-      "change": "420.52",
-      "direction": "up",
+      "value": "187429.52",
+      "change": "831.81",
+      "direction": "down",
       "unit": "USD/oz"
     },
     {
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "SK하이닉스, ADR 족쇄에 주주환원 지연…저평가 우려 커진다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004647305&office_id=011&mode=mainnews&type=&date=2026-07-31&page=1"
+      "title": "“하루 새 1000P 폭등”…코스피 6595선, 외국인·기관 ‘쌍끌이 매수’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002236191&office_id=138&mode=mainnews&type=&date=2026-07-31&page=1"
     },
     {
-      "title": "연준, 금리 또 동결…시장 흔든 ‘9월 인상’ 신호",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004647304&office_id=011&mode=mainnews&type=&date=2026-07-31&page=1"
+      "title": "\"끝이 안 보인다\"…美빅테크 4개사, AI 투자 1조달러 넘었다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006341225&office_id=018&mode=mainnews&type=&date=2026-07-31&page=1"
     },
     {
-      "title": "'최태원 떴다'…SK하이닉스 장 초반 27% 급등",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000049400&office_id=648&mode=mainnews&type=&date=2026-07-31&page=1"
+      "title": "코스피, 폭등 속 6500선 마감…SK하이닉스 상한가까지",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000520827&office_id=629&mode=mainnews&type=&date=2026-07-31&page=1"
     },
     {
-      "title": "급반등해 좋지만…'급등락·폭락·폭등' 널뛰기에 어지러운 증시",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016226744&office_id=001&mode=mainnews&type=&date=2026-07-31&page=1"
+      "title": "'하이닉스 2배' 막았더니…전투개미 뭉칫돈 3조 몰린 곳이",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005316059&office_id=015&mode=mainnews&type=&date=2026-07-31&page=1"
     },
     {
-      "title": "외국인 ‘개미핥기’… ‘패닉셀 삼닉물량’ 개장 후 2시간새 7조 쓸어담아",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002808345&office_id=021&mode=mainnews&type=&date=2026-07-31&page=1"
+      "title": "17% 폭등에도 안심하긴 이르다…‘데드캣 바운스’ 가능성 배제할 수 없는 이유",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001183540&office_id=366&mode=mainnews&type=&date=2026-07-31&page=1"
     },
     {
-      "title": "월가가 우려한 레버리지, 한국이 아니었나...'상황 인식' 못한 아셴브레너의 추락",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001260698&office_id=215&mode=mainnews&type=&date=2026-07-31&page=1"
+      "title": "\"숫자 미쳤다\" 하루 만에 1000P 폭등…개미들 '도박판' 탄식",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005316051&office_id=015&mode=mainnews&type=&date=2026-07-31&page=1"
     },
     {
-      "title": "\"돈 복사의 날\" vs \"도박판 떠난다\"…코스피 폭등 '환호 반, 불안 반'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009090307&office_id=421&mode=mainnews&type=&date=2026-07-31&page=1"
+      "title": "[속보] 코스피, 17.9% 오른 6595.45 마감…사상최대 폭등",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005316047&office_id=015&mode=mainnews&type=&date=2026-07-31&page=1"
     },
     {
-      "title": "코스피 폭등세 지속…삼성전자 시총 1조달러·코스피 5000조 회복",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001183430&office_id=366&mode=mainnews&type=&date=2026-07-31&page=1"
+      "title": "“시총 2위가 상한가”…코스피, 하루 만에 1000포인트 올랐다[마켓뷰]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001183529&office_id=366&mode=mainnews&type=&date=2026-07-31&page=1"
     }
   ]
 }
