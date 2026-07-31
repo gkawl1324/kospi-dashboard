@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31 07:20:51",
+  "lastUpdated": "2026-07-31 07:55:12",
   "date": "2026.07.31",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1430.10",
-      "change": "3.90",
+      "value": "1430.40",
+      "change": "4.20",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "891.64",
-      "change": "1.44",
+      "value": "892.58",
+      "change": "0.50",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1646.69",
-      "change": "2.35",
+      "value": "1647.53",
+      "change": "3.19",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "212.06",
-      "change": "0.66",
+      "value": "212.07",
+      "change": "0.67",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "187429.52",
-      "change": "831.81",
+      "value": "187299.58",
+      "change": "961.75",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "“하루 새 1000P 폭등”…코스피 6595선, 외국인·기관 ‘쌍끌이 매수’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002236191&office_id=138&mode=mainnews&type=&date=2026-07-31&page=1"
+      "title": "단일레버리지 예탁금 상향 첫날…거래량 감소, 개미는 '매도'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005797439&office_id=277&mode=mainnews&type=&date=2026-07-31&page=1"
     },
     {
-      "title": "\"끝이 안 보인다\"…美빅테크 4개사, AI 투자 1조달러 넘었다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006341225&office_id=018&mode=mainnews&type=&date=2026-07-31&page=1"
+      "title": "“가만히 갖고 계시라”던 최태원, 3620주 사더니…하루 만에 평가익 ‘13억’ 훌쩍",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004647377&office_id=011&mode=mainnews&type=&date=2026-07-31&page=1"
     },
     {
-      "title": "코스피, 폭등 속 6500선 마감…SK하이닉스 상한가까지",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000520827&office_id=629&mode=mainnews&type=&date=2026-07-31&page=1"
+      "title": "단일종목 레버리지 ETF, 삼전·닉스 급등하자 50%대 동반 폭등",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000520849&office_id=629&mode=mainnews&type=&date=2026-07-31&page=1"
     },
     {
-      "title": "'하이닉스 2배' 막았더니…전투개미 뭉칫돈 3조 몰린 곳이",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005316059&office_id=015&mode=mainnews&type=&date=2026-07-31&page=1"
+      "title": "증시 폭락에 “개미가 문제” 발언…개인투자자 ‘부글’ [증권가 레이다]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000101119&office_id=243&mode=mainnews&type=&date=2026-07-31&page=1"
     },
     {
-      "title": "17% 폭등에도 안심하긴 이르다…‘데드캣 바운스’ 가능성 배제할 수 없는 이유",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001183540&office_id=366&mode=mainnews&type=&date=2026-07-31&page=1"
+      "title": "예탁금 3000만원 첫날…단일 레버리지 거래대금 3조, 1/4 토막",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009090910&office_id=421&mode=mainnews&type=&date=2026-07-31&page=1"
     },
     {
-      "title": "\"숫자 미쳤다\" 하루 만에 1000P 폭등…개미들 '도박판' 탄식",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005316051&office_id=015&mode=mainnews&type=&date=2026-07-31&page=1"
+      "title": "SK디앤디 유상증자 논란…한앤코 \"상장폐지 없다\" 승부수",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005797433&office_id=277&mode=mainnews&type=&date=2026-07-31&page=1"
     },
     {
-      "title": "[속보] 코스피, 17.9% 오른 6595.45 마감…사상최대 폭등",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005316047&office_id=015&mode=mainnews&type=&date=2026-07-31&page=1"
+      "title": "SK하이닉스, 주주 달래기 나설까…환원책에 쏠린 눈",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005555718&office_id=014&mode=mainnews&type=&date=2026-07-31&page=1"
     },
     {
-      "title": "“시총 2위가 상한가”…코스피, 하루 만에 1000포인트 올랐다[마켓뷰]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001183529&office_id=366&mode=mainnews&type=&date=2026-07-31&page=1"
+      "title": "\"땡큐, MS\" SK하닉, 171.8만원 '상한가'…삼전도 27% 올라[핫스탁](종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014101410&office_id=003&mode=mainnews&type=&date=2026-07-31&page=1"
     }
   ]
 }
