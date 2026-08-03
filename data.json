@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-08-03 04:34:58",
+  "lastUpdated": "2026-08-03 07:54:50",
   "date": "2026.08.03",
   "kospi": {
     "name": "KOSPI",
-    "current": "6279.02",
-    "change": "316.43",
-    "changePct": "4.80",
+    "current": "6257.45",
+    "change": "338.00",
+    "changePct": "5.12",
     "direction": "up",
-    "volume": "209098",
-    "tradeAmount": "18524355"
+    "volume": "270980",
+    "tradeAmount": "26120437"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "240750",
-      "change": "-21750",
-      "changePct": "-8.29",
+      "current": "239500",
+      "change": "-23000",
+      "changePct": "-8.76",
       "direction": "down",
-      "volume": "18983009",
+      "volume": "27393580",
       "high": "249500",
-      "low": "239000",
+      "low": "238000",
       "open": "248000",
       "marketCap": "0"
     },
@@ -29,13 +29,13 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1590000",
-      "change": "-128000",
-      "changePct": "-7.45",
+      "current": "1567000",
+      "change": "-151000",
+      "changePct": "-8.79",
       "direction": "down",
-      "volume": "3663736",
+      "volume": "5429182",
       "high": "1645000",
-      "low": "1563000",
+      "low": "1562000",
       "open": "1642000",
       "marketCap": "0"
     },
@@ -43,13 +43,13 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "99100",
-      "change": "-2000",
-      "changePct": "-1.98",
+      "current": "99700",
+      "change": "-1400",
+      "changePct": "-1.38",
       "direction": "down",
-      "volume": "165150",
+      "volume": "287431",
       "high": "101800",
-      "low": "98200",
+      "low": "97900",
       "open": "99900",
       "marketCap": "0"
     },
@@ -57,12 +57,12 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "206500",
-      "change": "-1500",
-      "changePct": "-0.72",
+      "current": "207500",
+      "change": "-500",
+      "changePct": "-0.24",
       "direction": "down",
-      "volume": "462470",
-      "high": "208000",
+      "volume": "662318",
+      "high": "208500",
       "low": "201500",
       "open": "206500",
       "marketCap": "0"
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1429.80",
-      "change": "10.20",
+      "value": "1428.80",
+      "change": "11.20",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "913.49",
-      "change": "1.73",
+      "value": "911.37",
+      "change": "3.85",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1648.92",
-      "change": "14.28",
+      "value": "1646.69",
+      "change": "16.51",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "211.71",
-      "change": "1.73",
+      "value": "211.54",
+      "change": "1.90",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "187146.6",
-      "change": "274.03",
+      "value": "186477.11",
+      "change": "943.52",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "9000피 찍고 한 달 만에 5000선 공포…패닉셀 휩쓴 코스피, 8월 반등할까",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000521277&office_id=629&mode=mainnews&type=&date=2026-08-03&page=1"
+      "title": "\"역대급 롤러코스피, 대피하자\"...MMF에 1.4조 몰렸다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005394949&office_id=008&mode=mainnews&type=&date=2026-08-03&page=1"
     },
     {
-      "title": "실적 좋은데 목표가 '뚝'…증권가 눈치 보기 8월은 다를까",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000521276&office_id=629&mode=mainnews&type=&date=2026-08-03&page=1"
+      "title": "\"9000피 찍는다…증시 36% 더 오를 것\" 모건스탠리 평가, 그 배경은",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000101213&office_id=243&mode=mainnews&type=&date=2026-08-03&page=1"
     },
     {
-      "title": "'7월 급락장' 막판에 부러진 개인 매수세…코스피, 다시 '외국인' 손에",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009093795&office_id=421&mode=mainnews&type=&date=2026-08-03&page=1"
+      "title": "\"최태원 잔여지분도 협상\"…'SK실트론 인수' 두산 5% 넘게 올라",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005394940&office_id=008&mode=mainnews&type=&date=2026-08-03&page=1"
     },
     {
-      "title": "국민연금 매물폭탄 없었다…연기금, 7월 급락장서 1조 '줍줍'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014104597&office_id=003&mode=mainnews&type=&date=2026-08-03&page=1"
+      "title": "HLB제약, 유증 1200억→609억원 '반토막'…1차 발행가 5650원 확정",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006343260&office_id=018&mode=mainnews&type=&date=2026-08-03&page=1"
     },
     {
-      "title": "상위 1% 투자자, 순매수 1·2위는 SK하이닉스·삼성전자 [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004647966&office_id=011&mode=mainnews&type=&date=2026-08-03&page=1"
+      "title": "‘어질어질’ 코스피 -5% 다시 역주행...코스닥은 이틀째 ‘매수 사이드카’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003040399&office_id=029&mode=mainnews&type=&date=2026-08-03&page=1"
     },
     {
-      "title": "국내 주식형 ETF 내던진 개미들",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002678743&office_id=016&mode=mainnews&type=&date=2026-08-03&page=1"
+      "title": "“지난주 폭등분 반납”…코스피 5% 급락, 코스닥은 2% 반등",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002236423&office_id=138&mode=mainnews&type=&date=2026-08-03&page=1"
     },
     {
-      "title": "120만 계좌 마진콜…공포 속에서 기회의 시그널 찾아라",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002678731&office_id=016&mode=mainnews&type=&date=2026-08-03&page=1"
+      "title": "삼전·닉스, 9% 안팎 급락 마감…외국인·기관 동반 매도",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000193318&office_id=654&mode=mainnews&type=&date=2026-08-03&page=1"
     },
     {
-      "title": "상폐 기준은 높이고 유동성은 빼고…금융위가 키운 코스닥 위기",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000521225&office_id=629&mode=mainnews&type=&date=2026-08-03&page=1"
+      "title": "17.9% 너무 올랐나 차익실현에 코스피 5%대↓…코스닥은 2.4%↑",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006343254&office_id=018&mode=mainnews&type=&date=2026-08-03&page=1"
     }
   ]
 }
