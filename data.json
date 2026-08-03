@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03 07:54:50",
+  "lastUpdated": "2026-08-03 08:34:34",
   "date": "2026.08.03",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1428.80",
-      "change": "11.20",
+      "value": "1429.90",
+      "change": "10.10",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "911.37",
-      "change": "3.85",
+      "value": "911.75",
+      "change": "3.47",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1646.69",
-      "change": "16.51",
+      "value": "1647.75",
+      "change": "15.45",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "211.54",
-      "change": "1.90",
+      "value": "211.69",
+      "change": "1.75",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "186477.11",
-      "change": "943.52",
+      "value": "186475.68",
+      "change": "944.95",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
+      "title": "코스피 5%대 하락…삼성전자·SK하이닉스 동반 급락[뉴스1 PICK]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009094744&office_id=421&mode=mainnews&type=&date=2026-08-03&page=1"
+    },
+    {
+      "title": "과반지분에도 \"삽니다\"…유안타證 최대주주 장내매수 계속",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005394986&office_id=008&mode=mainnews&type=&date=2026-08-03&page=1"
+    },
+    {
+      "title": "'예탁금 3천만' 이틀만에 단일레버리지 거래대금 10분의 1로 축소",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016231428&office_id=001&mode=mainnews&type=&date=2026-08-03&page=1"
+    },
+    {
+      "title": "'박스피의 기억' 폭등 하루 만에 5% 급락…\"V자보다 계단식 회복\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009094688&office_id=421&mode=mainnews&type=&date=2026-08-03&page=1"
+    },
+    {
+      "title": "“방시혁 1조 증발” 41만원 주식이 17만원된 사연",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002808847&office_id=021&mode=mainnews&type=&date=2026-08-03&page=1"
+    },
+    {
+      "title": "고점 투자자에 구조대 오나…삼전닉스 하락으로 코스피 또 '흔들'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005394959&office_id=008&mode=mainnews&type=&date=2026-08-03&page=1"
+    },
+    {
       "title": "\"역대급 롤러코스피, 대피하자\"...MMF에 1.4조 몰렸다",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005394949&office_id=008&mode=mainnews&type=&date=2026-08-03&page=1"
     },
     {
       "title": "\"9000피 찍는다…증시 36% 더 오를 것\" 모건스탠리 평가, 그 배경은",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000101213&office_id=243&mode=mainnews&type=&date=2026-08-03&page=1"
-    },
-    {
-      "title": "\"최태원 잔여지분도 협상\"…'SK실트론 인수' 두산 5% 넘게 올라",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005394940&office_id=008&mode=mainnews&type=&date=2026-08-03&page=1"
-    },
-    {
-      "title": "HLB제약, 유증 1200억→609억원 '반토막'…1차 발행가 5650원 확정",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006343260&office_id=018&mode=mainnews&type=&date=2026-08-03&page=1"
-    },
-    {
-      "title": "‘어질어질’ 코스피 -5% 다시 역주행...코스닥은 이틀째 ‘매수 사이드카’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003040399&office_id=029&mode=mainnews&type=&date=2026-08-03&page=1"
-    },
-    {
-      "title": "“지난주 폭등분 반납”…코스피 5% 급락, 코스닥은 2% 반등",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002236423&office_id=138&mode=mainnews&type=&date=2026-08-03&page=1"
-    },
-    {
-      "title": "삼전·닉스, 9% 안팎 급락 마감…외국인·기관 동반 매도",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000193318&office_id=654&mode=mainnews&type=&date=2026-08-03&page=1"
-    },
-    {
-      "title": "17.9% 너무 올랐나 차익실현에 코스피 5%대↓…코스닥은 2.4%↑",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006343254&office_id=018&mode=mainnews&type=&date=2026-08-03&page=1"
     }
   ]
 }
