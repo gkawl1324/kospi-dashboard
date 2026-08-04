@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04 07:08:46",
+  "lastUpdated": "2026-08-04 07:43:25",
   "date": "2026.08.04",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1431.90",
-      "change": "1.10",
+      "value": "1433.30",
+      "change": "2.50",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "908.16",
-      "change": "1.41",
+      "value": "908.39",
+      "change": "1.18",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1648.05",
-      "change": "1.34",
+      "value": "1649.94",
+      "change": "3.23",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "212.06",
-      "change": "0.37",
+      "value": "212.21",
+      "change": "0.52",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "187152.19",
-      "change": "1406.68",
+      "value": "187181.12",
+      "change": "1435.61",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "코스피, 장 초반 하락 딛고 상승 마감…코스닥은 6% 가까이 올라",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005798771&office_id=277&mode=mainnews&type=&date=2026-08-04&page=1"
+      "title": "‘미적지근’ 코스피와 정반대…‘불기둥’ 코스닥, 사상 첫 3거래일 연속 매수 사이드카 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002679458&office_id=016&mode=mainnews&type=&date=2026-08-04&page=1"
     },
     {
-      "title": "\"주가누르기 방지 역부족…되레 롯데·GS 등 저PBR기업에 면죄부\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000892259&office_id=422&mode=mainnews&type=&date=2026-08-04&page=1"
+      "title": "코스피 1.62%↑ 'V자 반등'…코스닥 17번째 매수 사이드카",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006344268&office_id=018&mode=mainnews&type=&date=2026-08-04&page=1"
     },
     {
-      "title": "美 반도체 강세…삼성전자 0.2%↑·SK하이닉스 0.6%↑[핫스탁](종합)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014107919&office_id=003&mode=mainnews&type=&date=2026-08-04&page=1"
+      "title": "주가 반토막 난 스페이스X, 상장 후 첫 실적 공개…추가 하락할까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005798800&office_id=277&mode=mainnews&type=&date=2026-08-04&page=1"
     },
     {
-      "title": "\"패닉셀은 끝났지만 7000은 아직\"...8월 코스피 '속도조절' 전망",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005557074&office_id=014&mode=mainnews&type=&date=2026-08-04&page=1"
+      "title": "롤러코스터 탄 코스피 1.5%↑?코스닥 연일 '질주'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001047182&office_id=031&mode=mainnews&type=&date=2026-08-04&page=1"
     },
     {
-      "title": "스페이스X 주가 반등은...\"스타링크에 달렸다\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001261115&office_id=215&mode=mainnews&type=&date=2026-08-04&page=1"
+      "title": "삼전닉스 본주보다 싸서 샀는데…'톱투' 압축형 ETF 한 달 새 30% '뚝'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006344258&office_id=018&mode=mainnews&type=&date=2026-08-04&page=1"
     },
     {
-      "title": "“‘주가 누르기’ 방지 역부족…저PBR기업에 면죄부 줄 것”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006344152&office_id=018&mode=mainnews&type=&date=2026-08-04&page=1"
+      "title": "맥쿼리, 얼라인 주장 반박…“가비아 공개매수 중요정보 모두 공시”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001184266&office_id=366&mode=mainnews&type=&date=2026-08-04&page=1"
     },
     {
-      "title": "상반기 배당 13조5000억원 풀렸다…이재용 728억원 '배당왕'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000521626&office_id=629&mode=mainnews&type=&date=2026-08-04&page=1"
+      "title": "“SK하닉 420만→280만 원” 증권가, 줄줄이 목표가 낮춰",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002809130&office_id=021&mode=mainnews&type=&date=2026-08-04&page=1"
     },
     {
-      "title": "메리츠 리파이낸싱 1.3조 만기 두고 공방 왜[증권사 홈플 전단채]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000088571&office_id=293&mode=mainnews&type=&date=2026-08-04&page=1"
+      "title": "PE 엑시트 vs 정책금융 회수…하반기 '금융 M&A' 시계 다시 돈다 [fn마켓워치]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005557102&office_id=014&mode=mainnews&type=&date=2026-08-04&page=1"
     }
   ]
 }
