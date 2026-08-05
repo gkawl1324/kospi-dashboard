@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05 07:10:19",
+  "lastUpdated": "2026-08-05 07:44:25",
   "date": "2026.08.05",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1425.20",
-      "change": "5.80",
+      "value": "1425.50",
+      "change": "5.50",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "904.03",
-      "change": "3.07",
+      "value": "903.99",
+      "change": "3.11",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1644.89",
-      "change": "5.34",
+      "value": "1644.60",
+      "change": "5.63",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "211.23",
-      "change": "0.85",
+      "value": "211.28",
+      "change": "0.80",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "191093.03",
-      "change": "3377.17",
+      "value": "190828.99",
+      "change": "3113.13",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "코스피, 사이드카 발동에도 3%대 상승 마감…이틀 연속 강세",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000522018&office_id=629&mode=mainnews&type=&date=2026-08-05&page=1"
+      "title": "“살아난 반도체 투심” 코스피 3.8% 상승 마감…광통신주 상한가에 코스닥도↑[투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002680012&office_id=016&mode=mainnews&type=&date=2026-08-05&page=1"
     },
     {
-      "title": "[속보] 삼성전기·LG이노텍, 나란히 14%↑…삼전닉스보다 강한 '훈풍'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001261271&office_id=215&mode=mainnews&type=&date=2026-08-05&page=1"
+      "title": "코스닥 이어 코스피도 매수 사이드카…AI 훈풍에 3.76%↑",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006345242&office_id=018&mode=mainnews&type=&date=2026-08-05&page=1"
     },
     {
-      "title": "삼성전자 2.5%·SK하이닉스 5.8%↑…코스피 6600선 ‘턱밑’ 마감 [이런국장 저런주식]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004648830&office_id=011&mode=mainnews&type=&date=2026-08-05&page=1"
+      "title": "\"일단 길게 잡자\"…해외 ETF 막히고 만기 5년 제한에 ISA '선제 연장' 러시",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006345240&office_id=018&mode=mainnews&type=&date=2026-08-05&page=1"
     },
     {
-      "title": "“문턱 높였더니 미국 ETF만 불났다”…레버리지 규제 부작용 현실화?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005717023&office_id=009&mode=mainnews&type=&date=2026-08-05&page=1"
+      "title": "‘반격의 코스닥’, 4거래일 간 24% 반등…빚투 털고 기관 돌아왔다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003542503&office_id=025&mode=mainnews&type=&date=2026-08-05&page=1"
     },
     {
-      "title": "다시 돌아온 외국인 매수세…코스피, 이틀째 상승하며 6500선 마감",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005717018&office_id=009&mode=mainnews&type=&date=2026-08-05&page=1"
+      "title": "코스피도 상폐 요건 강화시 시총 미달 등장…관리종목 지정 속출",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006345226&office_id=018&mode=mainnews&type=&date=2026-08-05&page=1"
     },
     {
-      "title": "‘PBR 0.8’ 빠진 주가 누르기 방지법… 대상기업 1291곳에서 200곳으로 감소",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001184501&office_id=366&mode=mainnews&type=&date=2026-08-05&page=1"
+      "title": "외국인 1.4조원 순매수…코스피 3.76% 급등해 6600선 눈앞",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002236728&office_id=138&mode=mainnews&type=&date=2026-08-05&page=1"
     },
     {
-      "title": "코스피, 외국인 1.4조 순매수에 3%대 상승…코스닥도 2.4%↑",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005317643&office_id=015&mode=mainnews&type=&date=2026-08-05&page=1"
+      "title": "\"돌아온 반도체\" 코스피 3% 상승 마감…코스닥, 나흘 연속 강세",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014110426&office_id=003&mode=mainnews&type=&date=2026-08-05&page=1"
     },
     {
-      "title": "고점 뛰어든 개그맨 김원훈 \"시작 2주 만에 차 한 대 값 날려\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000892677&office_id=422&mode=mainnews&type=&date=2026-08-05&page=1"
+      "title": "삼전닉스 레버리지 빼고 코스닥으로…‘삼천스닥’ 꿈 돌아오나",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006345211&office_id=018&mode=mainnews&type=&date=2026-08-05&page=1"
     }
   ]
 }
