@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-08-05 04:15:49",
+  "lastUpdated": "2026-08-05 07:10:19",
   "date": "2026.08.05",
   "kospi": {
     "name": "KOSPI",
-    "current": "6623.38",
-    "change": "264.43",
-    "changePct": "4.16",
+    "current": "6598.26",
+    "change": "239.31",
+    "changePct": "3.76",
     "direction": "up",
-    "volume": "250691",
-    "tradeAmount": "17156660"
+    "volume": "335164",
+    "tradeAmount": "25212870"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "248250",
-      "change": "8250",
-      "changePct": "3.44",
+      "current": "246000",
+      "change": "6000",
+      "changePct": "2.50",
       "direction": "up",
-      "volume": "15144294",
+      "volume": "22444447",
       "high": "254500",
       "low": "244000",
       "open": "254000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1681000",
-      "change": "104000",
-      "changePct": "6.59",
+      "current": "1668000",
+      "change": "91000",
+      "changePct": "5.77",
       "direction": "up",
-      "volume": "2489842",
+      "volume": "3740705",
       "high": "1701000",
       "low": "1647000",
       "open": "1693000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "105800",
-      "change": "3800",
-      "changePct": "3.73",
+      "current": "106800",
+      "change": "4800",
+      "changePct": "4.71",
       "direction": "up",
-      "volume": "140794",
+      "volume": "238735",
       "high": "108500",
       "low": "103500",
       "open": "103500",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "231000",
-      "change": "4500",
-      "changePct": "1.99",
+      "current": "229000",
+      "change": "2500",
+      "changePct": "1.10",
       "direction": "up",
-      "volume": "795600",
+      "volume": "1086692",
       "high": "234000",
       "low": "223500",
       "open": "227000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1422.80",
-      "change": "8.20",
+      "value": "1425.20",
+      "change": "5.80",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "903.91",
-      "change": "3.19",
+      "value": "904.03",
+      "change": "3.07",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1641.77",
-      "change": "8.46",
+      "value": "1644.89",
+      "change": "5.34",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "210.92",
-      "change": "1.16",
+      "value": "211.23",
+      "change": "0.85",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "189320.47",
-      "change": "1604.61",
+      "value": "191093.03",
+      "change": "3377.17",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "반도체 훈풍에…초고수도 삼성전자·SK하이닉스 담았다 [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004648770&office_id=011&mode=mainnews&type=&date=2026-08-05&page=1"
+      "title": "코스피, 사이드카 발동에도 3%대 상승 마감…이틀 연속 강세",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000522018&office_id=629&mode=mainnews&type=&date=2026-08-05&page=1"
     },
     {
-      "title": "구다이글로벌, 내년 상장…‘중복상장 금지’ 둘러싼 복잡한 셈법[마켓인]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006345007&office_id=018&mode=mainnews&type=&date=2026-08-05&page=1"
+      "title": "[속보] 삼성전기·LG이노텍, 나란히 14%↑…삼전닉스보다 강한 '훈풍'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001261271&office_id=215&mode=mainnews&type=&date=2026-08-05&page=1"
     },
     {
-      "title": "ISA 두 개에 연 4000만원…'절세통장' 한도 넓혔지만 누가 채울까",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000521906&office_id=629&mode=mainnews&type=&date=2026-08-05&page=1"
+      "title": "삼성전자 2.5%·SK하이닉스 5.8%↑…코스피 6600선 ‘턱밑’ 마감 [이런국장 저런주식]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004648830&office_id=011&mode=mainnews&type=&date=2026-08-05&page=1"
     },
     {
-      "title": "NH아문디운용 “반도체 3대 악재 반영 끝…역대급 하락장은 투자 기회”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005716891&office_id=009&mode=mainnews&type=&date=2026-08-05&page=1"
+      "title": "“문턱 높였더니 미국 ETF만 불났다”…레버리지 규제 부작용 현실화?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005717023&office_id=009&mode=mainnews&type=&date=2026-08-05&page=1"
     },
     {
-      "title": "담을 물량이 없다?…채권시장 '큰손' 하이닉스, 단기시장 향하나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016234692&office_id=001&mode=mainnews&type=&date=2026-08-05&page=1"
+      "title": "다시 돌아온 외국인 매수세…코스피, 이틀째 상승하며 6500선 마감",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005717018&office_id=009&mode=mainnews&type=&date=2026-08-05&page=1"
     },
     {
-      "title": "'국장은 단타, 미장은 장투'…단일종목 레버리지 ETF가 바꾼 투자 공식",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000521895&office_id=629&mode=mainnews&type=&date=2026-08-05&page=1"
+      "title": "‘PBR 0.8’ 빠진 주가 누르기 방지법… 대상기업 1291곳에서 200곳으로 감소",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001184501&office_id=366&mode=mainnews&type=&date=2026-08-05&page=1"
     },
     {
-      "title": "단일종목 레버리지 ETF, 입체적이고 단호한 정책 대안 마련돼야[기고]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002679826&office_id=016&mode=mainnews&type=&date=2026-08-05&page=1"
+      "title": "코스피, 외국인 1.4조 순매수에 3%대 상승…코스닥도 2.4%↑",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005317643&office_id=015&mode=mainnews&type=&date=2026-08-05&page=1"
     },
     {
-      "title": "‘흑자’ 배터리 3사, ESS 기대 업고 다시 뛴다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002679821&office_id=016&mode=mainnews&type=&date=2026-08-05&page=1"
+      "title": "고점 뛰어든 개그맨 김원훈 \"시작 2주 만에 차 한 대 값 날려\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000892677&office_id=422&mode=mainnews&type=&date=2026-08-05&page=1"
     }
   ]
 }
