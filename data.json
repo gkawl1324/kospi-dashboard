@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-06 07:12:28",
+  "lastUpdated": "2026-08-06 07:44:14",
   "date": "2026.08.06",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1425.10",
-      "change": "1.60",
+      "value": "1429.00",
+      "change": "5.50",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "903.33",
-      "change": "1.01",
+      "value": "905.20",
+      "change": "2.88",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1645.06",
-      "change": "0.49",
+      "value": "1649.64",
+      "change": "5.07",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "211.13",
-      "change": "0.18",
+      "value": "211.66",
+      "change": "0.71",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "195123.82",
-      "change": "804.41",
+      "value": "195600.83",
+      "change": "1281.42",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "금융권 \"담합 안했다·과징금 산식 위법\" 의견 제출…15조 과징금 공방",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005396617&office_id=008&mode=mainnews&type=&date=2026-08-06&page=1"
+      "title": "“오늘 급락했으니 내일은 오를 차례인가요”…코스피, 4%대 하락 마감",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005717595&office_id=009&mode=mainnews&type=&date=2026-08-06&page=1"
     },
     {
-      "title": "삼전닉스 올인은 금물…“반도체 밸류체인 분산 필요”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003119115&office_id=119&mode=mainnews&type=&date=2026-08-06&page=1"
+      "title": "\"수십년 만능통장 ISA 믿었는데\"…가입자 40% 2030 '부의 사다리' 끊기나",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006346206&office_id=018&mode=mainnews&type=&date=2026-08-06&page=1"
     },
     {
-      "title": "\"샌디스크 실적 실망\" SK하닉, 또 10% 털썩…삼전도 6%↓[핫스탁](종합)",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014112906&office_id=003&mode=mainnews&type=&date=2026-08-06&page=1"
+      "title": "주식병합 꼼수도 안 통했다... ‘동전주 퇴출’ 공포 덮친 63곳",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001184762&office_id=366&mode=mainnews&type=&date=2026-08-06&page=1"
     },
     {
-      "title": "\"코스피 곧 반등, 1만2000원 간다\"…골드만삭스가 집어준 업종은?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005396611&office_id=008&mode=mainnews&type=&date=2026-08-06&page=1"
+      "title": "ETF 훈풍에도 비트코인 발목 잡는 ‘10월 바닥론’[코인뉴스]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003119132&office_id=119&mode=mainnews&type=&date=2026-08-06&page=1"
     },
     {
-      "title": "합병가액 '기준시가 폐지' 눈앞…이달 본회의 통과할듯",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005396606&office_id=008&mode=mainnews&type=&date=2026-08-06&page=1"
+      "title": "'반도체株 와르르' 코스피 4%대↓?코스닥 800선 탈환",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001047832&office_id=031&mode=mainnews&type=&date=2026-08-06&page=1"
     },
     {
-      "title": "\"폭발적 상승 남았다\" 12000피 낙관한 골드만, 왜?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006346114&office_id=018&mode=mainnews&type=&date=2026-08-06&page=1"
+      "title": "내달 ETF 애프터마켓 거래 앞두고…하이닉스 또 하한가, 작전세력 악용 우려",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006346201&office_id=018&mode=mainnews&type=&date=2026-08-06&page=1"
     },
     {
-      "title": "[속보] 코스피, 美 기술주 약세에 4.5% 급락 마감…6290선 후퇴",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005318072&office_id=015&mode=mainnews&type=&date=2026-08-06&page=1"
+      "title": "외인 폭풍매도에 코스피 6200선 '털썩'…코스닥은 3주만에 800선 복귀",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014113065&office_id=003&mode=mainnews&type=&date=2026-08-06&page=1"
     },
     {
-      "title": "골드만삭스 “코스피 급락은 조정일 뿐…1만2000 간다”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001184741&office_id=366&mode=mainnews&type=&date=2026-08-06&page=1"
+      "title": "코스피 흔들려도 코스닥 800선 회복…저가매수세 유입",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000049596&office_id=648&mode=mainnews&type=&date=2026-08-06&page=1"
     }
   ]
 }
