@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-08-06 04:18:43",
+  "lastUpdated": "2026-08-06 07:12:28",
   "date": "2026.08.06",
   "kospi": {
     "name": "KOSPI",
-    "current": "6296.00",
-    "change": "302.26",
+    "current": "6296.38",
+    "change": "301.88",
     "changePct": "4.58",
     "direction": "up",
-    "volume": "205156",
-    "tradeAmount": "16382584"
+    "volume": "281804",
+    "tradeAmount": "25851865"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "231000",
-      "change": "-15000",
-      "changePct": "-6.10",
+      "current": "230500",
+      "change": "-15500",
+      "changePct": "-6.30",
       "direction": "down",
-      "volume": "16569820",
+      "volume": "26095404",
       "high": "246000",
-      "low": "229500",
+      "low": "228000",
       "open": "241500",
       "marketCap": "0"
     },
@@ -29,13 +29,13 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1507000",
-      "change": "-161000",
-      "changePct": "-9.65",
+      "current": "1495000",
+      "change": "-173000",
+      "changePct": "-10.37",
       "direction": "down",
-      "volume": "3110790",
+      "volume": "5295745",
       "high": "1606000",
-      "low": "1505000",
+      "low": "1481000",
       "open": "1600000",
       "marketCap": "0"
     },
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "104400",
-      "change": "-2400",
-      "changePct": "-2.25",
+      "current": "104500",
+      "change": "-2300",
+      "changePct": "-2.15",
       "direction": "down",
-      "volume": "86227",
+      "volume": "167911",
       "high": "106900",
       "low": "102000",
       "open": "106300",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "224000",
-      "change": "-5000",
-      "changePct": "-2.18",
+      "current": "226000",
+      "change": "-3000",
+      "changePct": "-1.31",
       "direction": "down",
-      "volume": "655682",
+      "volume": "952557",
       "high": "230500",
       "low": "221500",
       "open": "225000",
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1419.10",
-      "change": "4.40",
-      "direction": "down"
+      "value": "1425.10",
+      "change": "1.60",
+      "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "899.76",
-      "change": "2.56",
-      "direction": "down"
+      "value": "903.33",
+      "change": "1.01",
+      "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1638.85",
-      "change": "5.72",
-      "direction": "down"
+      "value": "1645.06",
+      "change": "0.49",
+      "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "210.27",
-      "change": "0.68",
-      "direction": "down"
+      "value": "211.13",
+      "change": "0.18",
+      "direction": "up"
     }
   ],
   "oilPrices": [
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "194612.19",
-      "change": "292.78",
+      "value": "195123.82",
+      "change": "804.41",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "금투업계 \"산정방식 위법\" 의견 제출…15조 국고채 PD 과징금 폭탄 결론 임박공방",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005396485&office_id=008&mode=mainnews&type=&date=2026-08-06&page=1"
+      "title": "금융권 \"담합 안했다·과징금 산식 위법\" 의견 제출…15조 과징금 공방",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005396617&office_id=008&mode=mainnews&type=&date=2026-08-06&page=1"
     },
     {
-      "title": "\"어젠 차익실현, 오늘은 줍줍\"...하락장에 개미 '나홀로 방어'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005396474&office_id=008&mode=mainnews&type=&date=2026-08-06&page=1"
+      "title": "삼전닉스 올인은 금물…“반도체 밸류체인 분산 필요”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003119115&office_id=119&mode=mainnews&type=&date=2026-08-06&page=1"
     },
     {
-      "title": "‘삼전닉스’ 주가 털썩…고수들도 순매수로 물타기 [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004649148&office_id=011&mode=mainnews&type=&date=2026-08-06&page=1"
+      "title": "\"샌디스크 실적 실망\" SK하닉, 또 10% 털썩…삼전도 6%↓[핫스탁](종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014112906&office_id=003&mode=mainnews&type=&date=2026-08-06&page=1"
     },
     {
-      "title": "폭염 속 '숨은 진주'…에어컨·필터·전력株까지 '후끈'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014111941&office_id=003&mode=mainnews&type=&date=2026-08-06&page=1"
+      "title": "\"코스피 곧 반등, 1만2000원 간다\"…골드만삭스가 집어준 업종은?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005396611&office_id=008&mode=mainnews&type=&date=2026-08-06&page=1"
     },
     {
-      "title": "\"반도체 업황 안 꺾였다…메모리뿐 아니라 비메모리도 담아야\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005396468&office_id=008&mode=mainnews&type=&date=2026-08-06&page=1"
+      "title": "합병가액 '기준시가 폐지' 눈앞…이달 본회의 통과할듯",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005396606&office_id=008&mode=mainnews&type=&date=2026-08-06&page=1"
     },
     {
-      "title": "기술주 흔들리자 큰손 이탈…남는 건 개미뿐?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001261375&office_id=215&mode=mainnews&type=&date=2026-08-06&page=1"
+      "title": "\"폭발적 상승 남았다\" 12000피 낙관한 골드만, 왜?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006346114&office_id=018&mode=mainnews&type=&date=2026-08-06&page=1"
     },
     {
-      "title": "40도 폭염에 울고 웃는 종목은…수혜주 찾기 ‘분주’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006345750&office_id=018&mode=mainnews&type=&date=2026-08-06&page=1"
+      "title": "[속보] 코스피, 美 기술주 약세에 4.5% 급락 마감…6290선 후퇴",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005318072&office_id=015&mode=mainnews&type=&date=2026-08-06&page=1"
     },
     {
-      "title": "호르무즈 재개방 임박...이란 \"오만과 통항로 합의 이뤄\"-[굿모닝 글로벌 이슈]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001261371&office_id=215&mode=mainnews&type=&date=2026-08-06&page=1"
+      "title": "골드만삭스 “코스피 급락은 조정일 뿐…1만2000 간다”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001184741&office_id=366&mode=mainnews&type=&date=2026-08-06&page=1"
     }
   ]
 }
