@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07 06:42:39",
+  "lastUpdated": "2026-08-07 07:26:04",
   "date": "2026.08.07",
   "kospi": {
     "name": "KOSPI",
@@ -19,7 +19,7 @@
       "change": "500",
       "changePct": "0.22",
       "direction": "up",
-      "volume": "20423178",
+      "volume": "20424708",
       "high": "239500",
       "low": "229000",
       "open": "235000",
@@ -33,7 +33,7 @@
       "change": "-73000",
       "changePct": "-4.88",
       "direction": "down",
-      "volume": "4796857",
+      "volume": "4796937",
       "high": "1542000",
       "low": "1409000",
       "open": "1521000",
@@ -47,7 +47,7 @@
       "change": "3600",
       "changePct": "3.44",
       "direction": "up",
-      "volume": "219934",
+      "volume": "219938",
       "high": "108100",
       "low": "104500",
       "open": "106400",
@@ -61,7 +61,7 @@
       "change": "-16000",
       "changePct": "-7.08",
       "direction": "down",
-      "volume": "1755917",
+      "volume": "1755934",
       "high": "222000",
       "low": "208000",
       "open": "219500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1418.00",
-      "change": "6.50",
+      "value": "1418.40",
+      "change": "6.10",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "895.48",
-      "change": "3.54",
+      "value": "895.57",
+      "change": "3.45",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1633.82",
-      "change": "7.35",
+      "value": "1634.28",
+      "change": "6.89",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "210.19",
-      "change": "0.84",
+      "value": "210.25",
+      "change": "0.78",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "195619.06",
-      "change": "1154.04",
+      "value": "195568.56",
+      "change": "1103.54",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "엔화 ‘숏’은 엔 캐리 청산만큼 쌓였는데… 증시 충격 제한적인 이유",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001184943&office_id=366&mode=mainnews&type=&date=2026-08-07&page=1"
+      "title": "엔비디아 HBM 축소 우려…SK하이닉스 4.8% 하락[핫종목](종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009102945&office_id=421&mode=mainnews&type=&date=2026-08-07&page=1"
     },
     {
-      "title": "스페이스X 보호예수 9억주 풀렸는데…주가 상승, 왜?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006346898&office_id=018&mode=mainnews&type=&date=2026-08-07&page=1"
+      "title": "\"어제도 10% 빠졌는데 또\"…SK하이닉스 개미들 '곡소리'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005318494&office_id=015&mode=mainnews&type=&date=2026-08-07&page=1"
     },
     {
-      "title": "\"폭락은 일단락됐다\" 8월 증시 오른다는 전문가 \"삼전닉스 비중은 50%로 줄여라\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005558655&office_id=014&mode=mainnews&type=&date=2026-08-07&page=1"
+      "title": "외인 '팔자' 전환…코스피 0.6%↓·코스닥 0.4%↓",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001048099&office_id=031&mode=mainnews&type=&date=2026-08-07&page=1"
     },
     {
-      "title": "두산, SK실트론 인수하자마자 '관세 복병'…후속 협상 주목",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001261561&office_id=215&mode=mainnews&type=&date=2026-08-07&page=1"
+      "title": "外人 또 변심 8600억 '팔자'…코스피, 6300선 내주며 0.6%↓",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014114816&office_id=003&mode=mainnews&type=&date=2026-08-07&page=1"
     },
     {
-      "title": "AI만 오른 게 아니었다…월가가 금융주에 베팅하는 이유",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006346860&office_id=018&mode=mainnews&type=&date=2026-08-07&page=1"
+      "title": "'전강후약' 코스피, 이틀째 내려 6,200대…코스닥 엿새만에 반락(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016239516&office_id=001&mode=mainnews&type=&date=2026-08-07&page=1"
     },
     {
-      "title": "삼성증권, 분기 최대 실적 더해 발행어음 족쇄 풀렸는데…목표주가 '뚝'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000522655&office_id=629&mode=mainnews&type=&date=2026-08-07&page=1"
+      "title": "‘전강후약’ 코스피, 외인 매도에 6300선 회복 실패[마켓뷰]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001184955&office_id=366&mode=mainnews&type=&date=2026-08-07&page=1"
     },
     {
-      "title": "\"외인 줍줍 후 바로 던져\" 6400선 찍고 주르륵...'장투'의 조건은",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005397027&office_id=008&mode=mainnews&type=&date=2026-08-07&page=1"
+      "title": "하닉 프리마켓 하한가 논란에…NXT \"12일부터 상·하한가 주문금지\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003119504&office_id=119&mode=mainnews&type=&date=2026-08-07&page=1"
     },
     {
-      "title": "“삼전 버티는데 하이닉스는…” 코스피 6200 사수 안간힘 속 코스닥도 꺾여 [이런국장 저런주식]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004649557&office_id=011&mode=mainnews&type=&date=2026-08-07&page=1"
+      "title": "회생 들어가도 부동산 팔 수 있다…기업 운명 가르는 ‘담보신탁’ 뭐길래 [회생의 조건 ②]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002680996&office_id=016&mode=mainnews&type=&date=2026-08-07&page=1"
     }
   ]
 }
