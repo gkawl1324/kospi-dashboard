@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-08-07 05:11:16",
+  "lastUpdated": "2026-08-07 05:45:05",
   "date": "2026.08.07",
   "kospi": {
     "name": "KOSPI",
-    "current": "6263.10",
-    "change": "33.28",
-    "changePct": "0.53",
+    "current": "6250.52",
+    "change": "45.86",
+    "changePct": "0.73",
     "direction": "up",
-    "volume": "251624",
-    "tradeAmount": "19370331"
+    "volume": "267009",
+    "tradeAmount": "20850098"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "234000",
-      "change": "3500",
-      "changePct": "1.52",
+      "current": "232500",
+      "change": "2000",
+      "changePct": "0.87",
       "direction": "up",
-      "volume": "15905683",
+      "volume": "16928796",
       "high": "239500",
       "low": "229000",
       "open": "235000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1427000",
-      "change": "-68000",
-      "changePct": "-4.55",
+      "current": "1419000",
+      "change": "-76000",
+      "changePct": "-5.08",
       "direction": "down",
-      "volume": "3846232",
+      "volume": "4116839",
       "high": "1542000",
       "low": "1409000",
       "open": "1521000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "106600",
-      "change": "2100",
-      "changePct": "2.01",
+      "current": "106800",
+      "change": "2300",
+      "changePct": "2.20",
       "direction": "up",
-      "volume": "137967",
+      "volume": "155383",
       "high": "107700",
       "low": "104500",
       "open": "106400",
@@ -61,7 +61,7 @@
       "change": "-17000",
       "changePct": "-7.52",
       "direction": "down",
-      "volume": "1450619",
+      "volume": "1566532",
       "high": "222000",
       "low": "208000",
       "open": "219500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1418.90",
-      "change": "5.60",
+      "value": "1420.20",
+      "change": "4.30",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "895.94",
-      "change": "3.08",
+      "value": "896.79",
+      "change": "2.23",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1635.14",
-      "change": "6.03",
+      "value": "1636.57",
+      "change": "4.60",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "210.31",
-      "change": "0.72",
+      "value": "210.52",
+      "change": "0.51",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "194581.88",
-      "change": "116.86",
+      "value": "195065.19",
+      "change": "600.17",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -141,6 +141,10 @@
     }
   ],
   "news": [
+    {
+      "title": "AI만 오른 게 아니었다…월가가 금융주에 베팅하는 이유",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006346860&office_id=018&mode=mainnews&type=&date=2026-08-07&page=1"
+    },
     {
       "title": "삼성증권, 분기 최대 실적 더해 발행어음 족쇄 풀렸는데…목표주가 '뚝'",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000522655&office_id=629&mode=mainnews&type=&date=2026-08-07&page=1"
@@ -168,10 +172,6 @@
     {
       "title": "\"안전할 줄 알고 ETF 샀는데…월급, 휴가비 다 날렸다\"",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0006346806&office_id=018&mode=mainnews&type=&date=2026-08-07&page=1"
-    },
-    {
-      "title": "'외국인 ATM' 된 K증시…레버리지 거래 줄어도 '삼전닉스'는 롤러코스터 [증시는 왜]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005558603&office_id=014&mode=mainnews&type=&date=2026-08-07&page=1"
     }
   ]
 }
