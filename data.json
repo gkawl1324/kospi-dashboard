@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-08-07 03:53:47",
+  "lastUpdated": "2026-08-07 05:11:16",
   "date": "2026.08.07",
   "kospi": {
     "name": "KOSPI",
-    "current": "6229.71",
-    "change": "66.67",
-    "changePct": "1.06",
+    "current": "6263.10",
+    "change": "33.28",
+    "changePct": "0.53",
     "direction": "up",
-    "volume": "212313",
-    "tradeAmount": "16182342"
+    "volume": "251624",
+    "tradeAmount": "19370331"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "231500",
-      "change": "1000",
-      "changePct": "0.43",
+      "current": "234000",
+      "change": "3500",
+      "changePct": "1.52",
       "direction": "up",
-      "volume": "12708027",
+      "volume": "15905683",
       "high": "239500",
       "low": "229000",
       "open": "235000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1425000",
-      "change": "-70000",
-      "changePct": "-4.68",
+      "current": "1427000",
+      "change": "-68000",
+      "changePct": "-4.55",
       "direction": "down",
-      "volume": "3310637",
+      "volume": "3846232",
       "high": "1542000",
       "low": "1409000",
       "open": "1521000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "106400",
-      "change": "1900",
-      "changePct": "1.82",
+      "current": "106600",
+      "change": "2100",
+      "changePct": "2.01",
       "direction": "up",
-      "volume": "107523",
+      "volume": "137967",
       "high": "107700",
       "low": "104500",
       "open": "106400",
@@ -57,13 +57,13 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "211500",
-      "change": "-14500",
-      "changePct": "-6.42",
+      "current": "209000",
+      "change": "-17000",
+      "changePct": "-7.52",
       "direction": "down",
-      "volume": "1192902",
+      "volume": "1450619",
       "high": "222000",
-      "low": "209000",
+      "low": "208000",
       "open": "219500",
       "marketCap": "0"
     }
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1420.30",
-      "change": "4.20",
+      "value": "1418.90",
+      "change": "5.60",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "896.43",
-      "change": "2.59",
+      "value": "895.94",
+      "change": "3.08",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1636.47",
-      "change": "4.70",
+      "value": "1635.14",
+      "change": "6.03",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "210.52",
-      "change": "0.51",
+      "value": "210.31",
+      "change": "0.72",
       "direction": "down"
     }
   ],
@@ -118,9 +118,9 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "194447.14",
-      "change": "17.88",
-      "direction": "down",
+      "value": "194581.88",
+      "change": "116.86",
+      "direction": "up",
       "unit": "USD/oz"
     },
     {
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
+      "title": "삼성증권, 분기 최대 실적 더해 발행어음 족쇄 풀렸는데…목표주가 '뚝'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000522655&office_id=629&mode=mainnews&type=&date=2026-08-07&page=1"
+    },
+    {
+      "title": "\"외인 줍줍 후 바로 던져\" 6400선 찍고 주르륵...'장투'의 조건은",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005397027&office_id=008&mode=mainnews&type=&date=2026-08-07&page=1"
+    },
+    {
+      "title": "“삼전 버티는데 하이닉스는…” 코스피 6200 사수 안간힘 속 코스닥도 꺾여 [이런국장 저런주식]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004649557&office_id=011&mode=mainnews&type=&date=2026-08-07&page=1"
+    },
+    {
+      "title": "‘머스크의 꿈’ 다시 통할까…스페이스X, 락업 첫 고비 넘고 AI 투자 시험대",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003542949&office_id=025&mode=mainnews&type=&date=2026-08-07&page=1"
+    },
+    {
+      "title": "코스피, 상승분 반납 후 1.34% 하락…반도체 약세에 '전강후약'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006346820&office_id=018&mode=mainnews&type=&date=2026-08-07&page=1"
+    },
+    {
+      "title": "‘10조’ 레버리지 자금 이탈…코스닥 반등 신호탄 될까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005717973&office_id=009&mode=mainnews&type=&date=2026-08-07&page=1"
+    },
+    {
+      "title": "\"안전할 줄 알고 ETF 샀는데…월급, 휴가비 다 날렸다\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006346806&office_id=018&mode=mainnews&type=&date=2026-08-07&page=1"
+    },
+    {
       "title": "'외국인 ATM' 된 K증시…레버리지 거래 줄어도 '삼전닉스'는 롤러코스터 [증시는 왜]",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005558603&office_id=014&mode=mainnews&type=&date=2026-08-07&page=1"
-    },
-    {
-      "title": "역대 최대 개입에도 '엔화 약세'…美日 금리차 좁히는 게 '관건'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009102332&office_id=421&mode=mainnews&type=&date=2026-08-07&page=1"
-    },
-    {
-      "title": "이틀 연속 SK하이닉스 던졌다…삼성전기·오이솔루션은 매수 [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004649527&office_id=011&mode=mainnews&type=&date=2026-08-07&page=1"
-    },
-    {
-      "title": "“혜택 줄일 테니 갈아타세요”…믿었던 ISA의 배신[현장에서]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002680886&office_id=016&mode=mainnews&type=&date=2026-08-07&page=1"
-    },
-    {
-      "title": "\"원래 이럴 때 사는 겁니다\"…영업이익 '43%' 급감했는데 '깜짝 전망'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001261535&office_id=215&mode=mainnews&type=&date=2026-08-07&page=1"
-    },
-    {
-      "title": "개미, 여전히 믿는 건 반도체…투자업계 “상승여력 충분, 더 간다”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002680857&office_id=016&mode=mainnews&type=&date=2026-08-07&page=1"
-    },
-    {
-      "title": "회생 갈림길, ‘담보신탁’이 기업 운명 가른다 [② ‘기울어진 운동장’ 만드는 담보신탁]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002680853&office_id=016&mode=mainnews&type=&date=2026-08-07&page=1"
-    },
-    {
-      "title": "'M&A 7수생' KDB생명 운명의 날… 새주인 찾을까 [fn마켓워치]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005558578&office_id=014&mode=mainnews&type=&date=2026-08-07&page=1"
     }
   ]
 }
