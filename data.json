@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-08-07 03:25:16",
+  "lastUpdated": "2026-08-07 03:53:47",
   "date": "2026.08.07",
   "kospi": {
     "name": "KOSPI",
-    "current": "6217.35",
-    "change": "79.03",
-    "changePct": "1.26",
+    "current": "6229.71",
+    "change": "66.67",
+    "changePct": "1.06",
     "direction": "up",
-    "volume": "197497",
-    "tradeAmount": "15326202"
+    "volume": "212313",
+    "tradeAmount": "16182342"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "231250",
-      "change": "750",
-      "changePct": "0.33",
+      "current": "231500",
+      "change": "1000",
+      "changePct": "0.43",
       "direction": "up",
-      "volume": "11927406",
+      "volume": "12708027",
       "high": "239500",
       "low": "229000",
       "open": "235000",
@@ -33,7 +33,7 @@
       "change": "-70000",
       "changePct": "-4.68",
       "direction": "down",
-      "volume": "3151447",
+      "volume": "3310637",
       "high": "1542000",
       "low": "1409000",
       "open": "1521000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "106100",
-      "change": "1600",
-      "changePct": "1.53",
+      "current": "106400",
+      "change": "1900",
+      "changePct": "1.82",
       "direction": "up",
-      "volume": "102056",
+      "volume": "107523",
       "high": "107700",
       "low": "104500",
       "open": "106400",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "209500",
-      "change": "-16500",
-      "changePct": "-7.30",
+      "current": "211500",
+      "change": "-14500",
+      "changePct": "-6.42",
       "direction": "down",
-      "volume": "1144194",
+      "volume": "1192902",
       "high": "222000",
       "low": "209000",
       "open": "219500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1420.90",
-      "change": "3.60",
+      "value": "1420.30",
+      "change": "4.20",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "897.00",
-      "change": "2.02",
+      "value": "896.43",
+      "change": "2.59",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1637.09",
-      "change": "4.08",
+      "value": "1636.47",
+      "change": "4.70",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "210.60",
-      "change": "0.43",
+      "value": "210.52",
+      "change": "0.51",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "194403.53",
-      "change": "61.49",
+      "value": "194447.14",
+      "change": "17.88",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -141,6 +141,10 @@
     }
   ],
   "news": [
+    {
+      "title": "'외국인 ATM' 된 K증시…레버리지 거래 줄어도 '삼전닉스'는 롤러코스터 [증시는 왜]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005558603&office_id=014&mode=mainnews&type=&date=2026-08-07&page=1"
+    },
     {
       "title": "역대 최대 개입에도 '엔화 약세'…美日 금리차 좁히는 게 '관건'",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0009102332&office_id=421&mode=mainnews&type=&date=2026-08-07&page=1"
@@ -168,10 +172,6 @@
     {
       "title": "'M&A 7수생' KDB생명 운명의 날… 새주인 찾을까 [fn마켓워치]",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005558578&office_id=014&mode=mainnews&type=&date=2026-08-07&page=1"
-    },
-    {
-      "title": "엔화 숏 2조엔 돌파…2024년 캐리 청산 악몽 재연되나 [Deep Spot]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002680850&office_id=016&mode=mainnews&type=&date=2026-08-07&page=1"
     }
   ]
 }
