@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-08-10 05:37:53",
+  "lastUpdated": "2026-08-10 06:49:55",
   "date": "2026.08.10",
   "kospi": {
     "name": "KOSPI",
-    "current": "6286.85",
-    "change": "28.08",
-    "changePct": "0.45",
+    "current": "6299.66",
+    "change": "40.89",
+    "changePct": "0.65",
     "direction": "up",
-    "volume": "249226",
-    "tradeAmount": "15482191"
+    "volume": "290917",
+    "tradeAmount": "18840196"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "230750",
-      "change": "-250",
-      "changePct": "-0.11",
+      "current": "230000",
+      "change": "-1000",
+      "changePct": "-0.43",
       "direction": "down",
-      "volume": "13123266",
+      "volume": "16324853",
       "high": "238500",
       "low": "228500",
       "open": "236000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1413000",
-      "change": "-9000",
-      "changePct": "-0.63",
+      "current": "1420000",
+      "change": "-2000",
+      "changePct": "-0.14",
       "direction": "down",
-      "volume": "2629749",
+      "volume": "3289680",
       "high": "1487000",
       "low": "1397000",
       "open": "1443000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "107300",
-      "change": "-800",
-      "changePct": "-0.74",
+      "current": "107600",
+      "change": "-500",
+      "changePct": "-0.46",
       "direction": "down",
-      "volume": "125002",
+      "volume": "173939",
       "high": "107700",
       "low": "103600",
       "open": "107000",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "208500",
-      "change": "-1500",
-      "changePct": "-0.71",
-      "direction": "down",
-      "volume": "608907",
+      "current": "211500",
+      "change": "1500",
+      "changePct": "0.71",
+      "direction": "up",
+      "volume": "733165",
       "high": "211500",
       "low": "206500",
       "open": "210500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1415.50",
-      "change": "4.50",
+      "value": "1418.30",
+      "change": "7.30",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "893.99",
-      "change": "0.66",
-      "direction": "down"
+      "value": "895.45",
+      "change": "0.80",
+      "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1635.19",
-      "change": "3.23",
+      "value": "1638.70",
+      "change": "6.74",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "209.85",
-      "change": "0.59",
+      "value": "210.29",
+      "change": "1.03",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "197461.41",
-      "change": "684.49",
+      "value": "198493.52",
+      "change": "1716.60",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "“여기도 잭팟”...반도체 길목 움켜쥔 진격의 ‘日 히든챔피언’ [GMC]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003543361&office_id=025&mode=mainnews&type=&date=2026-08-10&page=1"
+      "title": "\"무기 더 만들어라\" 美 국방부 긴급 지시…잭팟 예고에 주가 폭등",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005319144&office_id=015&mode=mainnews&type=&date=2026-08-10&page=1"
     },
     {
-      "title": "소니·TSMC, 日 구마모토서 차세대 이미지센서 양산…1조엔 투자",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005800992&office_id=277&mode=mainnews&type=&date=2026-08-10&page=1"
+      "title": "레버리지 규제 7일 만에 ‘공포지수’ 19% 뚝…블룸버그 “증시 과열 해소신호”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003992200&office_id=023&mode=mainnews&type=&date=2026-08-10&page=1"
     },
     {
-      "title": "SK하이닉스 투자 확정 공시에 국내 장비株 10%대 급등 [줍줍리포트]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004650197&office_id=011&mode=mainnews&type=&date=2026-08-10&page=1"
+      "title": "삼성전자·SK하이닉스·에코프로 1000원부터 산다…카카오페이證, 국내 주식 소수점 거래 시작",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001185314&office_id=366&mode=mainnews&type=&date=2026-08-10&page=1"
     },
     {
-      "title": "‘레버리지로 부자 못 돼’ 또 강조한 ETF 아버지…“세 번 성공해도 한 번 실패로 다 날린다”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002681769&office_id=016&mode=mainnews&type=&date=2026-08-10&page=1"
+      "title": "수협 인수 기대감에 동전주 탈출한 상상인증권, 병합 예정대로",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000049675&office_id=648&mode=mainnews&type=&date=2026-08-10&page=1"
     },
     {
-      "title": "삼성·닉스 '쌍끌이'에 조선까지…비엠티, 2분기 매출 486억 '분기 최대'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005397780&office_id=008&mode=mainnews&type=&date=2026-08-10&page=1"
+      "title": "ETF 아버지 배재규 대표 “레버리지 말고 미래 기술에 장기 투자해야”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006348861&office_id=018&mode=mainnews&type=&date=2026-08-10&page=1"
     },
     {
-      "title": "\"모든 업종 빨간불\" 코스닥 6% 급등...개미는 \"일단 내리자\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005397771&office_id=008&mode=mainnews&type=&date=2026-08-10&page=1"
+      "title": "“원금손실 없다” 믿었다 전액 날려…해외부동산펀드 주의보",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005718977&office_id=009&mode=mainnews&type=&date=2026-08-10&page=1"
     },
     {
-      "title": "삼일PwC \"중복상장, 이제는 주주 설득의 문제\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005559343&office_id=014&mode=mainnews&type=&date=2026-08-10&page=1"
+      "title": "주가 크게 떨어진 삼전닉스…“반도체 사이클 상승 국면 종료는 아냐”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005718964&office_id=009&mode=mainnews&type=&date=2026-08-10&page=1"
     },
     {
-      "title": "배재규 한투운용 사장 “레버리지·가치투자 좇아선 부 못 쌓아…AI·반도체 장투해야”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003041537&office_id=029&mode=mainnews&type=&date=2026-08-10&page=1"
+      "title": "140만닉스를 어떻게 줍줍해요…단돈 천원에 사는 소수점거래 오픈",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005718959&office_id=009&mode=mainnews&type=&date=2026-08-10&page=1"
     }
   ]
 }
