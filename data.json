@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-08-10 05:03:57",
+  "lastUpdated": "2026-08-10 05:37:53",
   "date": "2026.08.10",
   "kospi": {
     "name": "KOSPI",
-    "current": "6262.78",
-    "change": "4.01",
-    "changePct": "0.06",
+    "current": "6286.85",
+    "change": "28.08",
+    "changePct": "0.45",
     "direction": "up",
-    "volume": "229240",
-    "tradeAmount": "14074219"
+    "volume": "249226",
+    "tradeAmount": "15482191"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "229500",
-      "change": "-1500",
-      "changePct": "-0.65",
+      "current": "230750",
+      "change": "-250",
+      "changePct": "-0.11",
       "direction": "down",
-      "volume": "11865446",
+      "volume": "13123266",
       "high": "238500",
       "low": "228500",
       "open": "236000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1412000",
-      "change": "-10000",
-      "changePct": "-0.70",
+      "current": "1413000",
+      "change": "-9000",
+      "changePct": "-0.63",
       "direction": "down",
-      "volume": "2398056",
+      "volume": "2629749",
       "high": "1487000",
       "low": "1397000",
       "open": "1443000",
@@ -43,12 +43,12 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "106700",
-      "change": "-1400",
-      "changePct": "-1.30",
+      "current": "107300",
+      "change": "-800",
+      "changePct": "-0.74",
       "direction": "down",
-      "volume": "107727",
-      "high": "107100",
+      "volume": "125002",
+      "high": "107700",
       "low": "103600",
       "open": "107000",
       "marketCap": "0"
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "207500",
-      "change": "-2500",
-      "changePct": "-1.19",
+      "current": "208500",
+      "change": "-1500",
+      "changePct": "-0.71",
       "direction": "down",
-      "volume": "547464",
+      "volume": "608907",
       "high": "211500",
       "low": "206500",
       "open": "210500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1415.90",
-      "change": "4.90",
+      "value": "1415.50",
+      "change": "4.50",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "894.21",
-      "change": "0.44",
+      "value": "893.99",
+      "change": "0.66",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1635.65",
-      "change": "3.69",
+      "value": "1635.19",
+      "change": "3.23",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "209.90",
-      "change": "0.64",
+      "value": "209.85",
+      "change": "0.59",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "197531.36",
-      "change": "754.44",
+      "value": "197461.41",
+      "change": "684.49",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,6 +142,22 @@
   ],
   "news": [
     {
+      "title": "“여기도 잭팟”...반도체 길목 움켜쥔 진격의 ‘日 히든챔피언’ [GMC]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003543361&office_id=025&mode=mainnews&type=&date=2026-08-10&page=1"
+    },
+    {
+      "title": "소니·TSMC, 日 구마모토서 차세대 이미지센서 양산…1조엔 투자",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005800992&office_id=277&mode=mainnews&type=&date=2026-08-10&page=1"
+    },
+    {
+      "title": "SK하이닉스 투자 확정 공시에 국내 장비株 10%대 급등 [줍줍리포트]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004650197&office_id=011&mode=mainnews&type=&date=2026-08-10&page=1"
+    },
+    {
+      "title": "‘레버리지로 부자 못 돼’ 또 강조한 ETF 아버지…“세 번 성공해도 한 번 실패로 다 날린다”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002681769&office_id=016&mode=mainnews&type=&date=2026-08-10&page=1"
+    },
+    {
       "title": "삼성·닉스 '쌍끌이'에 조선까지…비엠티, 2분기 매출 486억 '분기 최대'",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005397780&office_id=008&mode=mainnews&type=&date=2026-08-10&page=1"
     },
@@ -150,28 +166,12 @@
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005397771&office_id=008&mode=mainnews&type=&date=2026-08-10&page=1"
     },
     {
+      "title": "삼일PwC \"중복상장, 이제는 주주 설득의 문제\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005559343&office_id=014&mode=mainnews&type=&date=2026-08-10&page=1"
+    },
+    {
       "title": "배재규 한투운용 사장 “레버리지·가치투자 좇아선 부 못 쌓아…AI·반도체 장투해야”",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0003041537&office_id=029&mode=mainnews&type=&date=2026-08-10&page=1"
-    },
-    {
-      "title": "'어닝 서프라이즈' 420% 날았는데…\"3분기는 다르다\" 반전 전망",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001261779&office_id=215&mode=mainnews&type=&date=2026-08-10&page=1"
-    },
-    {
-      "title": "상위 1% 투자자 다시 K푸드 매수…‘불닭신화’ 삼양식품 1위 [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004650181&office_id=011&mode=mainnews&type=&date=2026-08-10&page=1"
-    },
-    {
-      "title": "\"부동산이라 안전\" 증권사 직원 말 믿었다가 원금 '0원'…무슨 펀드길래",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005397747&office_id=008&mode=mainnews&type=&date=2026-08-10&page=1"
-    },
-    {
-      "title": "“코스피 말고 코스닥?”…6% 치솟더니 또 사이드카 발동",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005718860&office_id=009&mode=mainnews&type=&date=2026-08-10&page=1"
-    },
-    {
-      "title": "85.2% 쥔 에스제이투자홀딩스, 골프존홀딩스 '상폐 카운트다운' [fn마켓워치]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005559314&office_id=014&mode=mainnews&type=&date=2026-08-10&page=1"
     }
   ]
 }
