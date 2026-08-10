@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-08-10 02:39:47",
+  "lastUpdated": "2026-08-10 03:14:01",
   "date": "2026.08.10",
   "kospi": {
     "name": "KOSPI",
-    "current": "6289.20",
-    "change": "30.43",
-    "changePct": "0.49",
+    "current": "6297.22",
+    "change": "38.45",
+    "changePct": "0.61",
     "direction": "up",
-    "volume": "165059",
-    "tradeAmount": "9718183"
+    "volume": "178845",
+    "tradeAmount": "10596963"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "230000",
-      "change": "-1000",
-      "changePct": "-0.43",
-      "direction": "down",
-      "volume": "7927195",
+      "current": "231000",
+      "change": "0",
+      "changePct": "0.00",
+      "direction": "up",
+      "volume": "8763552",
       "high": "238500",
       "low": "229000",
       "open": "236000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1434000",
-      "change": "12000",
-      "changePct": "0.84",
+      "current": "1441000",
+      "change": "19000",
+      "changePct": "1.34",
       "direction": "up",
-      "volume": "1664120",
+      "volume": "1799614",
       "high": "1487000",
       "low": "1418000",
       "open": "1443000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "106700",
-      "change": "-1400",
-      "changePct": "-1.30",
+      "current": "106400",
+      "change": "-1700",
+      "changePct": "-1.57",
       "direction": "down",
-      "volume": "76427",
+      "volume": "83309",
       "high": "107100",
       "low": "103600",
       "open": "107000",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "207500",
-      "change": "-2500",
-      "changePct": "-1.19",
+      "current": "208000",
+      "change": "-2000",
+      "changePct": "-0.95",
       "direction": "down",
-      "volume": "380179",
+      "volume": "428254",
       "high": "211500",
       "low": "206500",
       "open": "210500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1415.10",
-      "change": "4.10",
+      "value": "1415.40",
+      "change": "4.40",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "894.22",
-      "change": "0.43",
+      "value": "894.63",
+      "change": "0.02",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1635.01",
-      "change": "3.05",
+      "value": "1634.79",
+      "change": "2.83",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "209.77",
-      "change": "0.51",
+      "value": "209.78",
+      "change": "0.52",
       "direction": "up"
     }
   ],
@@ -118,9 +118,9 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "196974.32",
-      "change": "197.40",
-      "direction": "up",
+      "value": "196586.95",
+      "change": "189.97",
+      "direction": "down",
       "unit": "USD/oz"
     },
     {
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "삼전닉스 반등, 실적전망·주주환원에 달렸다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002681657&office_id=016&mode=mainnews&type=&date=2026-08-10&page=1"
+      "title": "상위 1% 투자자 다시 K푸드 매수…‘불닭신화’ 삼양식품 1위 [주식 초고수는 지금]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004650181&office_id=011&mode=mainnews&type=&date=2026-08-10&page=1"
     },
     {
-      "title": "삼전닉스 폭등 후 재하락…외국인 190조원 판 진짜 이유",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002681651&office_id=016&mode=mainnews&type=&date=2026-08-10&page=1"
+      "title": "“코스피 말고 코스닥?”…6% 치솟더니 또 사이드카 발동",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005718860&office_id=009&mode=mainnews&type=&date=2026-08-10&page=1"
     },
     {
-      "title": "메모리는 CXMT·AI 인프라는 중지이노라이트…당신의 선택은",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002681650&office_id=016&mode=mainnews&type=&date=2026-08-10&page=1"
+      "title": "85.2% 쥔 에스제이투자홀딩스, 골프존홀딩스 '상폐 카운트다운' [fn마켓워치]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005559314&office_id=014&mode=mainnews&type=&date=2026-08-10&page=1"
     },
     {
-      "title": "대통령 지시에 업계 환영…“기존 유지, 생산적 ISA 차별화해야”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002681649&office_id=016&mode=mainnews&type=&date=2026-08-10&page=1"
+      "title": "주식 목표가 중구난방… 삼전닉스 최대 6.3배 차이",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002810303&office_id=021&mode=mainnews&type=&date=2026-08-10&page=1"
     },
     {
-      "title": "남궁견 회장 측 \"휴마시스 소액주주 김씨, 3억 투자손실에 '50억 위자료' 직접 언급\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005800931&office_id=277&mode=mainnews&type=&date=2026-08-10&page=1"
+      "title": "'퇴근길 ETF 거래' 재논의…거래소, 증권·운용사 실무진 소집",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005319067&office_id=015&mode=mainnews&type=&date=2026-08-10&page=1"
     },
     {
-      "title": "코스닥으로 옮겨간 변동성 장세…'삼전닉스' 떠난 돈 여기 몰렸다 [증시는 왜]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005559296&office_id=014&mode=mainnews&type=&date=2026-08-10&page=1"
+      "title": "오늘이엔엠, KT와 74억 이동통신용 기지국 안테나 계약",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005800935&office_id=277&mode=mainnews&type=&date=2026-08-10&page=1"
     },
     {
-      "title": "절세효과 줄고 편법 부추겨…예견됐던 'ISA·주가누르기' 세제개편 재검토",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005800924&office_id=277&mode=mainnews&type=&date=2026-08-10&page=1"
+      "title": "中 '유니트리' 증시 입성…韓 로봇주에 호재일까 악재일까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014117478&office_id=003&mode=mainnews&type=&date=2026-08-10&page=1"
     },
     {
-      "title": "\"메모리 겨울은 아니다\"…모건스탠리, 삼성전자·SK하이닉스 재진입 신호",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005559284&office_id=014&mode=mainnews&type=&date=2026-08-10&page=1"
+      "title": "건설주 8월들어 17%↑…원전 이어 AI 데이터센터 기대감",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002681659&office_id=016&mode=mainnews&type=&date=2026-08-10&page=1"
     }
   ]
 }
