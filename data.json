@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10 06:49:55",
+  "lastUpdated": "2026-08-10 07:53:01",
   "date": "2026.08.10",
   "kospi": {
     "name": "KOSPI",
@@ -19,7 +19,7 @@
       "change": "-1000",
       "changePct": "-0.43",
       "direction": "down",
-      "volume": "16324853",
+      "volume": "16324865",
       "high": "238500",
       "low": "228500",
       "open": "236000",
@@ -33,7 +33,7 @@
       "change": "-2000",
       "changePct": "-0.14",
       "direction": "down",
-      "volume": "3289680",
+      "volume": "3289681",
       "high": "1487000",
       "low": "1397000",
       "open": "1443000",
@@ -47,7 +47,7 @@
       "change": "-500",
       "changePct": "-0.46",
       "direction": "down",
-      "volume": "173939",
+      "volume": "173941",
       "high": "107700",
       "low": "103600",
       "open": "107000",
@@ -61,7 +61,7 @@
       "change": "1500",
       "changePct": "0.71",
       "direction": "up",
-      "volume": "733165",
+      "volume": "733171",
       "high": "211500",
       "low": "206500",
       "open": "210500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1418.30",
-      "change": "7.30",
+      "value": "1418.50",
+      "change": "7.50",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "895.45",
-      "change": "0.80",
+      "value": "894.92",
+      "change": "0.27",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1638.70",
-      "change": "6.74",
+      "value": "1640.07",
+      "change": "8.11",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "210.29",
-      "change": "1.03",
+      "value": "210.32",
+      "change": "1.06",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "198493.52",
-      "change": "1716.60",
+      "value": "198740.44",
+      "change": "1963.52",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "\"무기 더 만들어라\" 美 국방부 긴급 지시…잭팟 예고에 주가 폭등",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005319144&office_id=015&mode=mainnews&type=&date=2026-08-10&page=1"
+      "title": "[단독] \"지금 팔긴 아깝다\"…롯데손보 '이천 아울렛' 투자 2년 연장",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006348944&office_id=018&mode=mainnews&type=&date=2026-08-10&page=1"
     },
     {
-      "title": "레버리지 규제 7일 만에 ‘공포지수’ 19% 뚝…블룸버그 “증시 과열 해소신호”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003992200&office_id=023&mode=mainnews&type=&date=2026-08-10&page=1"
+      "title": "\"국장 못 믿어\" 서학개미 다시 美증시로…한달치 매수",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006348940&office_id=018&mode=mainnews&type=&date=2026-08-10&page=1"
     },
     {
-      "title": "삼성전자·SK하이닉스·에코프로 1000원부터 산다…카카오페이證, 국내 주식 소수점 거래 시작",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001185314&office_id=366&mode=mainnews&type=&date=2026-08-10&page=1"
+      "title": "코스피 주춤, 코스닥만 날았다…레버리지 규제 이후 수급 개선",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016243183&office_id=001&mode=mainnews&type=&date=2026-08-10&page=1"
     },
     {
-      "title": "수협 인수 기대감에 동전주 탈출한 상상인증권, 병합 예정대로",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000049675&office_id=648&mode=mainnews&type=&date=2026-08-10&page=1"
+      "title": "유가증권시장 떠난 외국인 향한 곳은?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000101450&office_id=243&mode=mainnews&type=&date=2026-08-10&page=1"
     },
     {
-      "title": "ETF 아버지 배재규 대표 “레버리지 말고 미래 기술에 장기 투자해야”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006348861&office_id=018&mode=mainnews&type=&date=2026-08-10&page=1"
+      "title": "\"사다리 걷어차냐\" ISA 청년가입자 40% '5년내 만기'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006348927&office_id=018&mode=mainnews&type=&date=2026-08-10&page=1"
     },
     {
-      "title": "“원금손실 없다” 믿었다 전액 날려…해외부동산펀드 주의보",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005718977&office_id=009&mode=mainnews&type=&date=2026-08-10&page=1"
+      "title": "코스피 6300선 턱밑 마감…코스닥은 7% 가까이 급등, 또 매수 사이드카 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002681845&office_id=016&mode=mainnews&type=&date=2026-08-10&page=1"
     },
     {
-      "title": "주가 크게 떨어진 삼전닉스…“반도체 사이클 상승 국면 종료는 아냐”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005718964&office_id=009&mode=mainnews&type=&date=2026-08-10&page=1"
+      "title": "코스닥 7% 상승 마감…‘대장주’ 알테오젠 14% 급등 [마켓시그널]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004650262&office_id=011&mode=mainnews&type=&date=2026-08-10&page=1"
     },
     {
-      "title": "140만닉스를 어떻게 줍줍해요…단돈 천원에 사는 소수점거래 오픈",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005718959&office_id=009&mode=mainnews&type=&date=2026-08-10&page=1"
+      "title": "반도체 쏠림 풀리자 코스닥 질주…기관은 성장주 담았다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005559516&office_id=014&mode=mainnews&type=&date=2026-08-10&page=1"
     }
   ]
 }
