@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-08-11 03:06:05",
+  "lastUpdated": "2026-08-11 04:47:02",
   "date": "2026.08.11",
   "kospi": {
     "name": "KOSPI",
-    "current": "6358.19",
-    "change": "58.53",
-    "changePct": "0.93",
+    "current": "6397.43",
+    "change": "97.77",
+    "changePct": "1.55",
     "direction": "up",
-    "volume": "209630",
-    "tradeAmount": "11977101"
+    "volume": "255227",
+    "tradeAmount": "16101143"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "239250",
-      "change": "9250",
-      "changePct": "4.02",
+      "current": "242500",
+      "change": "12500",
+      "changePct": "5.43",
       "direction": "up",
-      "volume": "12645221",
-      "high": "241000",
+      "volume": "17221926",
+      "high": "243000",
       "low": "227500",
       "open": "229500",
       "marketCap": "0"
@@ -29,12 +29,12 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1427000",
-      "change": "7000",
-      "changePct": "0.49",
+      "current": "1447000",
+      "change": "27000",
+      "changePct": "1.90",
       "direction": "up",
-      "volume": "2039817",
-      "high": "1432000",
+      "volume": "2773236",
+      "high": "1452000",
       "low": "1373000",
       "open": "1405000",
       "marketCap": "0"
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "108900",
-      "change": "1300",
-      "changePct": "1.21",
+      "current": "108600",
+      "change": "1000",
+      "changePct": "0.93",
       "direction": "up",
-      "volume": "125614",
+      "volume": "162622",
       "high": "110500",
       "low": "107100",
       "open": "107800",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "213500",
-      "change": "2000",
-      "changePct": "0.95",
+      "current": "213000",
+      "change": "1500",
+      "changePct": "0.71",
       "direction": "up",
-      "volume": "374714",
+      "volume": "459786",
       "high": "215500",
       "low": "209500",
       "open": "214000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1415.00",
-      "change": "4.50",
+      "value": "1414.50",
+      "change": "5.00",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "888.48",
-      "change": "2.58",
+      "value": "888.37",
+      "change": "2.69",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1633.05",
-      "change": "5.48",
+      "value": "1632.62",
+      "change": "5.91",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "209.77",
-      "change": "0.66",
+      "value": "209.67",
+      "change": "0.76",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "200751.35",
-      "change": "397.59",
+      "value": "200616.01",
+      "change": "262.25",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,6 +142,18 @@
   ],
   "news": [
     {
+      "title": "코스닥, 단일종목 레버리지 규제 ‘날개’에 급등세…돈 몰린다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002682322&office_id=016&mode=mainnews&type=&date=2026-08-11&page=1"
+    },
+    {
+      "title": "\"SK하닉, 저가 매수 기회…최고의 AI 메모리주\" 외신 극찬 이유는",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000101481&office_id=243&mode=mainnews&type=&date=2026-08-11&page=1"
+    },
+    {
+      "title": "레버리지에 크게 덴 당국… ‘애프터마켓’ 불허 가닥",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002810592&office_id=021&mode=mainnews&type=&date=2026-08-11&page=1"
+    },
+    {
       "title": "\"성적 좋은데 너무 쌌다\" 이젠 '화장발' 세울 시간…주가 화색 도나",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005398324&office_id=008&mode=mainnews&type=&date=2026-08-11&page=1"
     },
@@ -160,18 +172,6 @@
     {
       "title": "美·日 개입 '약발' 안 먹히네…엔화 다시 160엔 목전 [분석+]",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005319539&office_id=015&mode=mainnews&type=&date=2026-08-11&page=1"
-    },
-    {
-      "title": "롤러코스터 국장에 지친 개미들…고배당·커버드콜로 '머니무브'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000523437&office_id=629&mode=mainnews&type=&date=2026-08-11&page=1"
-    },
-    {
-      "title": "\"엔비디아는 쉬는데 삼성전자는 뛴다\"…증권가, 메모리 재평가 주목",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005559904&office_id=014&mode=mainnews&type=&date=2026-08-11&page=1"
-    },
-    {
-      "title": "\"1년간 상폐 추진 없다\" 못 박은 한앤코…SK디앤디 개미들 한숨 돌리나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000523420&office_id=629&mode=mainnews&type=&date=2026-08-11&page=1"
     }
   ]
 }
