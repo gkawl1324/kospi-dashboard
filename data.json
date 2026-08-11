@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-08-11 06:12:38",
+  "lastUpdated": "2026-08-11 07:17:34",
   "date": "2026.08.11",
   "kospi": {
     "name": "KOSPI",
-    "current": "6365.41",
-    "change": "65.75",
-    "changePct": "1.04",
+    "current": "6345.53",
+    "change": "45.87",
+    "changePct": "0.73",
     "direction": "up",
-    "volume": "315862",
-    "tradeAmount": "19874420"
+    "volume": "330645",
+    "tradeAmount": "21592234"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "240250",
-      "change": "10250",
-      "changePct": "4.46",
+      "current": "239500",
+      "change": "9500",
+      "changePct": "4.13",
       "direction": "up",
-      "volume": "20777503",
+      "volume": "23197807",
       "high": "243000",
       "low": "227500",
       "open": "229500",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1438000",
-      "change": "18000",
-      "changePct": "1.27",
+      "current": "1425000",
+      "change": "5000",
+      "changePct": "0.35",
       "direction": "up",
-      "volume": "3341753",
+      "volume": "3682655",
       "high": "1455000",
       "low": "1373000",
       "open": "1405000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "107700",
-      "change": "100",
-      "changePct": "0.09",
+      "current": "108300",
+      "change": "700",
+      "changePct": "0.65",
       "direction": "up",
-      "volume": "207152",
+      "volume": "235347",
       "high": "110500",
       "low": "107100",
       "open": "107800",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "213500",
-      "change": "2000",
-      "changePct": "0.95",
+      "current": "214000",
+      "change": "2500",
+      "changePct": "1.18",
       "direction": "up",
-      "volume": "601457",
+      "volume": "646782",
       "high": "215500",
       "low": "209500",
       "open": "214000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1415.90",
-      "change": "3.60",
+      "value": "1416.70",
+      "change": "2.80",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "889.27",
-      "change": "1.79",
+      "value": "889.33",
+      "change": "1.73",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1634.02",
-      "change": "4.51",
+      "value": "1634.73",
+      "change": "3.80",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "209.88",
-      "change": "0.55",
+      "value": "209.95",
+      "change": "0.48",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "199380.46",
-      "change": "973.30",
+      "value": "198742.75",
+      "change": "1611.01",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "혹시 내 종목이...코스닥 80여개사 퇴출 '위기' [마켓딥다이브]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001261948&office_id=215&mode=mainnews&type=&date=2026-08-11&page=1"
+      "title": "[속보] 개미 그렇게 애 태우더니…큰손 러브콜 '1위' 모처럼 웃었다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001261968&office_id=215&mode=mainnews&type=&date=2026-08-11&page=1"
     },
     {
-      "title": "\"불기둥 못 믿겠다\"…'청개구리 개미' 거꾸로 간다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001261947&office_id=215&mode=mainnews&type=&date=2026-08-11&page=1"
+      "title": "“국장 저점” 외신 찬사 믿어도 될까… 금리·중동·수급 ‘3대 경고등’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000101498&office_id=243&mode=mainnews&type=&date=2026-08-11&page=1"
     },
     {
-      "title": "“반도체株 사라더니 목표가는 30% 뚝”…증권가 ‘고무줄 목표가’ 논란",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002237396&office_id=138&mode=mainnews&type=&date=2026-08-11&page=1"
+      "title": "\"고맙다 반도체\" 코스피, 6300선 회복…코스닥도 상승 마감",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014120912&office_id=003&mode=mainnews&type=&date=2026-08-11&page=1"
     },
     {
-      "title": "“지금 당장 사라” 목표주가 올리더니만 정작 팔았다…증권사 리포트 보고 산 개미들 ‘눈물’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004650587&office_id=011&mode=mainnews&type=&date=2026-08-11&page=1"
+      "title": "내일부터 NXT 프리마켓 상·하한가 주문 금지…‘1주 급등락’ 막는다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006349650&office_id=018&mode=mainnews&type=&date=2026-08-11&page=1"
     },
     {
-      "title": "\"40만전자 간다며\"…돌변한 증권가, 무슨 일",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006349532&office_id=018&mode=mainnews&type=&date=2026-08-11&page=1"
+      "title": "다시 ‘천스닥’ 시대 올까? “제도만으로는 한계…근본 체력 개선해야” [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002682421&office_id=016&mode=mainnews&type=&date=2026-08-11&page=1"
     },
     {
-      "title": "오르니 하락 베팅? 코스닥 인버스 탄 개미들…순매수 상위권",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016244677&office_id=001&mode=mainnews&type=&date=2026-08-11&page=1"
+      "title": "코스닥 반등에 액티브 ETF ‘활짝’…편입 종목 따른 수익률은 11%p 차이",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006349632&office_id=018&mode=mainnews&type=&date=2026-08-11&page=1"
     },
     {
-      "title": "한국주강, 삼성중공업과 대형 주강품 계약…수주잔고 30% 증가",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005801589&office_id=277&mode=mainnews&type=&date=2026-08-11&page=1"
+      "title": "단일종목 레버리지 옥죄자 지수형으로… ‘풍선 효과’ 우려 커져",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001185583&office_id=366&mode=mainnews&type=&date=2026-08-11&page=1"
     },
     {
-      "title": "삼전 39만→35만원, 하이닉스 220만→210만원…키움도 눈높이 낮췄다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000523485&office_id=629&mode=mainnews&type=&date=2026-08-11&page=1"
+      "title": "코스닥 16% 급등 다음은?…\"실적 견조한 전기전자 주목\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005560051&office_id=014&mode=mainnews&type=&date=2026-08-11&page=1"
     }
   ]
 }
