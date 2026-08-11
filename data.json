@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-08-11 02:33:15",
+  "lastUpdated": "2026-08-11 03:06:05",
   "date": "2026.08.11",
   "kospi": {
     "name": "KOSPI",
-    "current": "6327.87",
-    "change": "28.21",
-    "changePct": "0.45",
+    "current": "6358.19",
+    "change": "58.53",
+    "changePct": "0.93",
     "direction": "up",
-    "volume": "195822",
-    "tradeAmount": "10976715"
+    "volume": "209630",
+    "tradeAmount": "11977101"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "237500",
-      "change": "7500",
-      "changePct": "3.26",
+      "current": "239250",
+      "change": "9250",
+      "changePct": "4.02",
       "direction": "up",
-      "volume": "11667101",
+      "volume": "12645221",
       "high": "241000",
       "low": "227500",
       "open": "229500",
@@ -29,12 +29,12 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1406000",
-      "change": "-14000",
-      "changePct": "-0.99",
-      "direction": "down",
-      "volume": "1843088",
-      "high": "1426000",
+      "current": "1427000",
+      "change": "7000",
+      "changePct": "0.49",
+      "direction": "up",
+      "volume": "2039817",
+      "high": "1432000",
       "low": "1373000",
       "open": "1405000",
       "marketCap": "0"
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "109400",
-      "change": "1800",
-      "changePct": "1.67",
+      "current": "108900",
+      "change": "1300",
+      "changePct": "1.21",
       "direction": "up",
-      "volume": "109434",
+      "volume": "125614",
       "high": "110500",
       "low": "107100",
       "open": "107800",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "214500",
-      "change": "3000",
-      "changePct": "1.42",
+      "current": "213500",
+      "change": "2000",
+      "changePct": "0.95",
       "direction": "up",
-      "volume": "346215",
+      "volume": "374714",
       "high": "215500",
       "low": "209500",
       "open": "214000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1415.60",
-      "change": "3.90",
+      "value": "1415.00",
+      "change": "4.50",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "888.67",
-      "change": "2.39",
+      "value": "888.48",
+      "change": "2.58",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1633.74",
-      "change": "4.79",
+      "value": "1633.05",
+      "change": "5.48",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "209.88",
-      "change": "0.55",
+      "value": "209.77",
+      "change": "0.66",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "201667.59",
-      "change": "1313.83",
+      "value": "200751.35",
+      "change": "397.59",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,6 +142,26 @@
   ],
   "news": [
     {
+      "title": "\"성적 좋은데 너무 쌌다\" 이젠 '화장발' 세울 시간…주가 화색 도나",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005398324&office_id=008&mode=mainnews&type=&date=2026-08-11&page=1"
+    },
+    {
+      "title": "\"반도체 실적 올해가 정점\"…키움證, 삼전·SK하닉 목표가 또 낮췄다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009107573&office_id=421&mode=mainnews&type=&date=2026-08-11&page=1"
+    },
+    {
+      "title": "우려株가 상한가?…코스닥 폭등의 두 얼굴",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002682272&office_id=016&mode=mainnews&type=&date=2026-08-11&page=1"
+    },
+    {
+      "title": "TPG, 롯데렌탈 품는다…잔여지분 공개매수도 착수",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005719400&office_id=009&mode=mainnews&type=&date=2026-08-11&page=1"
+    },
+    {
+      "title": "美·日 개입 '약발' 안 먹히네…엔화 다시 160엔 목전 [분석+]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005319539&office_id=015&mode=mainnews&type=&date=2026-08-11&page=1"
+    },
+    {
       "title": "롤러코스터 국장에 지친 개미들…고배당·커버드콜로 '머니무브'",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000523437&office_id=629&mode=mainnews&type=&date=2026-08-11&page=1"
     },
@@ -152,26 +172,6 @@
     {
       "title": "\"1년간 상폐 추진 없다\" 못 박은 한앤코…SK디앤디 개미들 한숨 돌리나",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000523420&office_id=629&mode=mainnews&type=&date=2026-08-11&page=1"
-    },
-    {
-      "title": "\"SK하이닉스 솔리다임 상장은 투자재원 확충\"…\"삼성전기 목표가 300만원\" MLCC 공급 부족 계속 전망 [株토피아]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005559890&office_id=014&mode=mainnews&type=&date=2026-08-11&page=1"
-    },
-    {
-      "title": "“삼전·닉스엔 호재? 악재?” 인텔, 상장 55년 만 첫 공개 유증…21조 원 조달해 AI 반도체 투자",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002810564&office_id=021&mode=mainnews&type=&date=2026-08-11&page=1"
-    },
-    {
-      "title": "이달 코스닥 '전세계 상승률 1위', 주역은 기관…뭘 담았나 보니",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016244107&office_id=001&mode=mainnews&type=&date=2026-08-11&page=1"
-    },
-    {
-      "title": "“원금 몽땅 날릴 줄은 정말 몰랐다”…투자금 ‘0원’ 될 수 있다는 ‘이 펀드’ 정체가",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004650526&office_id=011&mode=mainnews&type=&date=2026-08-11&page=1"
-    },
-    {
-      "title": "\"8월 극도의 쏠림 장세 끝났다…지금은 기다릴 때\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001154978&office_id=417&mode=mainnews&type=&date=2026-08-11&page=1"
     }
   ]
 }
