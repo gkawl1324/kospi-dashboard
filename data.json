@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11 07:17:34",
+  "lastUpdated": "2026-08-11 07:44:27",
   "date": "2026.08.11",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1416.70",
-      "change": "2.80",
+      "value": "1417.20",
+      "change": "2.30",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "889.33",
-      "change": "1.73",
+      "value": "889.59",
+      "change": "1.47",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1634.73",
-      "change": "3.80",
+      "value": "1634.60",
+      "change": "3.93",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "209.95",
-      "change": "0.48",
+      "value": "210.01",
+      "change": "0.42",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "198742.75",
-      "change": "1611.01",
+      "value": "198619.61",
+      "change": "1734.15",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
+      "title": "삼성전자 4%대 반등에 코스피 6300선 회복…코스닥 0.39%↑",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006349692&office_id=018&mode=mainnews&type=&date=2026-08-11&page=1"
+    },
+    {
+      "title": "삼성전자 '4% 급등'에 코스피 반등…인텔 유증 효과 어떻게 나타날까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000101501&office_id=243&mode=mainnews&type=&date=2026-08-11&page=1"
+    },
+    {
+      "title": "코스피 6300선 회복…반도체株 살아났다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001048850&office_id=031&mode=mainnews&type=&date=2026-08-11&page=1"
+    },
+    {
+      "title": "외국인·기관 매수에 코스피 반등…삼성전자 4% 급등",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002237431&office_id=138&mode=mainnews&type=&date=2026-08-11&page=1"
+    },
+    {
+      "title": "코스피·코스닥, 이틀 연속 상승 마감…반도체 수출 모멘텀에 삼전 4%대 ‘훨훨’ [코주부]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004650655&office_id=011&mode=mainnews&type=&date=2026-08-11&page=1"
+    },
+    {
+      "title": "'시총 1조' 나스닥 상장사도 \"코스닥 갈래요\"…신뢰 회복 신호탄 될까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005398499&office_id=008&mode=mainnews&type=&date=2026-08-11&page=1"
+    },
+    {
       "title": "[속보] 개미 그렇게 애 태우더니…큰손 러브콜 '1위' 모처럼 웃었다",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0001261968&office_id=215&mode=mainnews&type=&date=2026-08-11&page=1"
     },
     {
       "title": "“국장 저점” 외신 찬사 믿어도 될까… 금리·중동·수급 ‘3대 경고등’",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000101498&office_id=243&mode=mainnews&type=&date=2026-08-11&page=1"
-    },
-    {
-      "title": "\"고맙다 반도체\" 코스피, 6300선 회복…코스닥도 상승 마감",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014120912&office_id=003&mode=mainnews&type=&date=2026-08-11&page=1"
-    },
-    {
-      "title": "내일부터 NXT 프리마켓 상·하한가 주문 금지…‘1주 급등락’ 막는다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006349650&office_id=018&mode=mainnews&type=&date=2026-08-11&page=1"
-    },
-    {
-      "title": "다시 ‘천스닥’ 시대 올까? “제도만으로는 한계…근본 체력 개선해야” [투자360]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002682421&office_id=016&mode=mainnews&type=&date=2026-08-11&page=1"
-    },
-    {
-      "title": "코스닥 반등에 액티브 ETF ‘활짝’…편입 종목 따른 수익률은 11%p 차이",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006349632&office_id=018&mode=mainnews&type=&date=2026-08-11&page=1"
-    },
-    {
-      "title": "단일종목 레버리지 옥죄자 지수형으로… ‘풍선 효과’ 우려 커져",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001185583&office_id=366&mode=mainnews&type=&date=2026-08-11&page=1"
-    },
-    {
-      "title": "코스닥 16% 급등 다음은?…\"실적 견조한 전기전자 주목\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005560051&office_id=014&mode=mainnews&type=&date=2026-08-11&page=1"
     }
   ]
 }
