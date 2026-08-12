@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12 06:51:33",
+  "lastUpdated": "2026-08-12 07:41:21",
   "date": "2026.08.12",
   "kospi": {
     "name": "KOSPI",
@@ -19,7 +19,7 @@
       "change": "16000",
       "changePct": "6.68",
       "direction": "up",
-      "volume": "27101997",
+      "volume": "27102479",
       "high": "260500",
       "low": "241000",
       "open": "243500",
@@ -33,7 +33,7 @@
       "change": "79000",
       "changePct": "5.54",
       "direction": "up",
-      "volume": "4204261",
+      "volume": "4204301",
       "high": "1549000",
       "low": "1440000",
       "open": "1456000",
@@ -61,7 +61,7 @@
       "change": "1500",
       "changePct": "0.70",
       "direction": "up",
-      "volume": "833007",
+      "volume": "833014",
       "high": "220500",
       "low": "214500",
       "open": "215000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1417.70",
-      "change": "4.20",
+      "value": "1418.70",
+      "change": "5.20",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "889.37",
-      "change": "2.41",
+      "value": "890.28",
+      "change": "3.32",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1635.39",
-      "change": "4.28",
+      "value": "1636.97",
+      "change": "5.86",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "210.09",
-      "change": "0.58",
+      "value": "210.25",
+      "change": "0.74",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "200473.33",
-      "change": "1144.54",
+      "value": "200918.44",
+      "change": "1589.65",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "하락 베팅 거둔 개미…지수 레버리지 1조 넘게 샀다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005560639&office_id=014&mode=mainnews&type=&date=2026-08-12&page=1"
+      "title": "“외국인 돌아왔나” 삼성전자·SK하이닉스 상승에 코스피 6500선 안착",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000101549&office_id=243&mode=mainnews&type=&date=2026-08-12&page=1"
     },
     {
-      "title": "미 국채 30년물 또 최고...\"빅테크 주가, CPI에 달렸다\" [마켓딥다이브]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001262124&office_id=215&mode=mainnews&type=&date=2026-08-12&page=1"
+      "title": "개미 '10조 손실' 증권사 '돈잔치'…단일종목 레버리지 수수료 900억",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009110742&office_id=421&mode=mainnews&type=&date=2026-08-12&page=1"
     },
     {
-      "title": "'스페이스X의 힘', 역대급 실적에도 맘껏 웃지 못한 미래에셋증권",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000049764&office_id=648&mode=mainnews&type=&date=2026-08-12&page=1"
+      "title": "돈줄 마른 국내 증시…거래 줄고 대기자금도 '뚝'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005560680&office_id=014&mode=mainnews&type=&date=2026-08-12&page=1"
     },
     {
-      "title": "빅테크 실적발 훈풍에 장비株 강세…미래산업 16%·네오셈 9%↑[코주부]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004651028&office_id=011&mode=mainnews&type=&date=2026-08-12&page=1"
+      "title": "삼성전자·SK하이닉스 급등에 코스피 3.68%↑…외국인 2.8조 쓸어담았다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002237591&office_id=138&mode=mainnews&type=&date=2026-08-12&page=1"
     },
     {
-      "title": "1000원 못 넘으면 휴지조각?…\"상폐기준 보완 필요\" 요청에 한 총리 응답할까?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001262122&office_id=215&mode=mainnews&type=&date=2026-08-12&page=1"
+      "title": "삼전닉스 주주환원 기대감...외인 '폭풍 매수'에 코스피 6500선 회복",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005560674&office_id=014&mode=mainnews&type=&date=2026-08-12&page=1"
     },
     {
-      "title": "회생기업 살리는 ‘마지막 돈줄’ DIP…“이마저 막히면 재기도 어려워” [회생의 조건 ③]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002682991&office_id=016&mode=mainnews&type=&date=2026-08-12&page=1"
+      "title": "外人·기관 3조 쓸어담았다…반도체·K뷰티 질주에 코스피 3.68%↑",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014123685&office_id=003&mode=mainnews&type=&date=2026-08-12&page=1"
     },
     {
-      "title": "채권시장 '큰손' 하이닉스 수요 줄이나…공사채도 흔들린다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016247452&office_id=001&mode=mainnews&type=&date=2026-08-12&page=1"
+      "title": "외국인 물량 받던 개미도 실탄 ‘뚝’…예탁금 100조 깨졌다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006350415&office_id=018&mode=mainnews&type=&date=2026-08-12&page=1"
     },
     {
-      "title": "매수 사이드카 발동된 코스피, 4%대 폭등하며 6600선 터치",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001866445&office_id=005&mode=mainnews&type=&date=2026-08-12&page=1"
+      "title": "\"국내 증시 루트형 회복할 것…손실 만회 위한 접근은 주의\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001155175&office_id=417&mode=mainnews&type=&date=2026-08-12&page=1"
     }
   ]
 }
