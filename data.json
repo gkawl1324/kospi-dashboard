@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-08-12 05:41:29",
+  "lastUpdated": "2026-08-12 06:51:33",
   "date": "2026.08.12",
   "kospi": {
     "name": "KOSPI",
-    "current": "6582.45",
-    "change": "236.92",
-    "changePct": "3.73",
+    "current": "6579.04",
+    "change": "233.51",
+    "changePct": "3.68",
     "direction": "up",
-    "volume": "317108",
-    "tradeAmount": "22384296"
+    "volume": "355099",
+    "tradeAmount": "26213055"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "255750",
-      "change": "16250",
-      "changePct": "6.78",
+      "current": "255500",
+      "change": "16000",
+      "changePct": "6.68",
       "direction": "up",
-      "volume": "22764472",
+      "volume": "27101997",
       "high": "260500",
       "low": "241000",
       "open": "243500",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1499000",
-      "change": "74000",
-      "changePct": "5.19",
+      "current": "1504000",
+      "change": "79000",
+      "changePct": "5.54",
       "direction": "up",
-      "volume": "3536306",
+      "volume": "4204261",
       "high": "1549000",
       "low": "1440000",
       "open": "1456000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "109100",
-      "change": "800",
-      "changePct": "0.74",
+      "current": "109600",
+      "change": "1300",
+      "changePct": "1.20",
       "direction": "up",
-      "volume": "234650",
+      "volume": "278223",
       "high": "111900",
       "low": "108000",
       "open": "109200",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "216500",
-      "change": "2500",
-      "changePct": "1.17",
+      "current": "215500",
+      "change": "1500",
+      "changePct": "0.70",
       "direction": "up",
-      "volume": "685962",
+      "volume": "833007",
       "high": "220500",
       "low": "214500",
       "open": "215000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1415.30",
-      "change": "1.80",
+      "value": "1417.70",
+      "change": "4.20",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "887.84",
-      "change": "0.88",
+      "value": "889.37",
+      "change": "2.41",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1632.41",
-      "change": "1.30",
+      "value": "1635.39",
+      "change": "4.28",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "209.73",
-      "change": "0.22",
+      "value": "210.09",
+      "change": "0.58",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "199997.07",
-      "change": "668.28",
+      "value": "200473.33",
+      "change": "1144.54",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "국민연금, 중국 인민해방군 연계 기업에 왜 투자했나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005399017&office_id=008&mode=mainnews&type=&date=2026-08-12&page=1"
+      "title": "하락 베팅 거둔 개미…지수 레버리지 1조 넘게 샀다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005560639&office_id=014&mode=mainnews&type=&date=2026-08-12&page=1"
     },
     {
-      "title": "구광모·젠슨 황 회동 기대에 LG전자 11% 급등…20만 원 회복[이런국장 저런주식]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004651015&office_id=011&mode=mainnews&type=&date=2026-08-12&page=1"
+      "title": "미 국채 30년물 또 최고...\"빅테크 주가, CPI에 달렸다\" [마켓딥다이브]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001262124&office_id=215&mode=mainnews&type=&date=2026-08-12&page=1"
     },
     {
-      "title": "미래에셋證, 2분기 순이익 1.9조...\"신한금융 제쳤다\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001262111&office_id=215&mode=mainnews&type=&date=2026-08-12&page=1"
+      "title": "'스페이스X의 힘', 역대급 실적에도 맘껏 웃지 못한 미래에셋증권",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000049764&office_id=648&mode=mainnews&type=&date=2026-08-12&page=1"
     },
     {
-      "title": "AI·반도체株 더 흔드나??GPU 선물 도입 영향 주목[설래온의 ON세계]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001049098&office_id=031&mode=mainnews&type=&date=2026-08-12&page=1"
+      "title": "빅테크 실적발 훈풍에 장비株 강세…미래산업 16%·네오셈 9%↑[코주부]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004651028&office_id=011&mode=mainnews&type=&date=2026-08-12&page=1"
     },
     {
-      "title": "주식토큰·선물없는 韓코인거래소, 생존위해 무더기 상장 [매일코인]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005720002&office_id=009&mode=mainnews&type=&date=2026-08-12&page=1"
+      "title": "1000원 못 넘으면 휴지조각?…\"상폐기준 보완 필요\" 요청에 한 총리 응답할까?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001262122&office_id=215&mode=mainnews&type=&date=2026-08-12&page=1"
     },
     {
-      "title": "코스피 반등 불씨 살릴까…美 7월 CPI에 쏠린 눈",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001262106&office_id=215&mode=mainnews&type=&date=2026-08-12&page=1"
+      "title": "회생기업 살리는 ‘마지막 돈줄’ DIP…“이마저 막히면 재기도 어려워” [회생의 조건 ③]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002682991&office_id=016&mode=mainnews&type=&date=2026-08-12&page=1"
     },
     {
-      "title": "삼전닉스 7%대 급등…코스피, 23번째 매수 사이드카[마켓시그널]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004650996&office_id=011&mode=mainnews&type=&date=2026-08-12&page=1"
+      "title": "채권시장 '큰손' 하이닉스 수요 줄이나…공사채도 흔들린다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016247452&office_id=001&mode=mainnews&type=&date=2026-08-12&page=1"
     },
     {
-      "title": "코스피, 장 중 매수 사이드카 발동…삼전닉스 7%대↑",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005802134&office_id=277&mode=mainnews&type=&date=2026-08-12&page=1"
+      "title": "매수 사이드카 발동된 코스피, 4%대 폭등하며 6600선 터치",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001866445&office_id=005&mode=mainnews&type=&date=2026-08-12&page=1"
     }
   ]
 }
