@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-08-12 05:11:55",
+  "lastUpdated": "2026-08-12 05:41:29",
   "date": "2026.08.12",
   "kospi": {
     "name": "KOSPI",
-    "current": "6564.33",
-    "change": "218.80",
-    "changePct": "3.45",
+    "current": "6582.45",
+    "change": "236.92",
+    "changePct": "3.73",
     "direction": "up",
-    "volume": "294302",
-    "tradeAmount": "20787779"
+    "volume": "317108",
+    "tradeAmount": "22384296"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "254500",
-      "change": "15000",
-      "changePct": "6.26",
+      "current": "255750",
+      "change": "16250",
+      "changePct": "6.78",
       "direction": "up",
-      "volume": "21514761",
+      "volume": "22764472",
       "high": "260500",
       "low": "241000",
       "open": "243500",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1497000",
-      "change": "72000",
-      "changePct": "5.05",
+      "current": "1499000",
+      "change": "74000",
+      "changePct": "5.19",
       "direction": "up",
-      "volume": "3250522",
+      "volume": "3536306",
       "high": "1549000",
       "low": "1440000",
       "open": "1456000",
@@ -47,7 +47,7 @@
       "change": "800",
       "changePct": "0.74",
       "direction": "up",
-      "volume": "220233",
+      "volume": "234650",
       "high": "111900",
       "low": "108000",
       "open": "109200",
@@ -61,7 +61,7 @@
       "change": "2500",
       "changePct": "1.17",
       "direction": "up",
-      "volume": "629219",
+      "volume": "685962",
       "high": "220500",
       "low": "214500",
       "open": "215000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1415.40",
-      "change": "1.90",
+      "value": "1415.30",
+      "change": "1.80",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "887.79",
-      "change": "0.83",
+      "value": "887.84",
+      "change": "0.88",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1632.59",
-      "change": "1.48",
+      "value": "1632.41",
+      "change": "1.30",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "209.74",
-      "change": "0.23",
+      "value": "209.73",
+      "change": "0.22",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "200444.0",
-      "change": "1115.21",
+      "value": "199997.07",
+      "change": "668.28",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,6 +142,22 @@
   ],
   "news": [
     {
+      "title": "국민연금, 중국 인민해방군 연계 기업에 왜 투자했나",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005399017&office_id=008&mode=mainnews&type=&date=2026-08-12&page=1"
+    },
+    {
+      "title": "구광모·젠슨 황 회동 기대에 LG전자 11% 급등…20만 원 회복[이런국장 저런주식]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004651015&office_id=011&mode=mainnews&type=&date=2026-08-12&page=1"
+    },
+    {
+      "title": "미래에셋證, 2분기 순이익 1.9조...\"신한금융 제쳤다\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001262111&office_id=215&mode=mainnews&type=&date=2026-08-12&page=1"
+    },
+    {
+      "title": "AI·반도체株 더 흔드나??GPU 선물 도입 영향 주목[설래온의 ON세계]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001049098&office_id=031&mode=mainnews&type=&date=2026-08-12&page=1"
+    },
+    {
       "title": "주식토큰·선물없는 韓코인거래소, 생존위해 무더기 상장 [매일코인]",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005720002&office_id=009&mode=mainnews&type=&date=2026-08-12&page=1"
     },
@@ -156,22 +172,6 @@
     {
       "title": "코스피, 장 중 매수 사이드카 발동…삼전닉스 7%대↑",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005802134&office_id=277&mode=mainnews&type=&date=2026-08-12&page=1"
-    },
-    {
-      "title": "'롤러코스터' 코스피에 지친 외국인…대만으로 눈 돌렸다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006350228&office_id=018&mode=mainnews&type=&date=2026-08-12&page=1"
-    },
-    {
-      "title": "[속보]삼전닉스 7%대↑…코스피 4%대 급등에 '매수 사이드카'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006350201&office_id=018&mode=mainnews&type=&date=2026-08-12&page=1"
-    },
-    {
-      "title": "‘호실적’ K뷰티 담는 ‘상위 1%’…삼전 팔고 SK하닉은 순매수 1위[주식초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004650985&office_id=011&mode=mainnews&type=&date=2026-08-12&page=1"
-    },
-    {
-      "title": "\"완벽한 오해\"…美GM과 배터리 청산에 실망했는데 '반전 전망' [주식R]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001262096&office_id=215&mode=mainnews&type=&date=2026-08-12&page=1"
     }
   ]
 }
