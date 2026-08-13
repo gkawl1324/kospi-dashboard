@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-08-13 05:43:49",
+  "lastUpdated": "2026-08-13 06:54:15",
   "date": "2026.08.13",
   "kospi": {
     "name": "KOSPI",
-    "current": "6760.54",
-    "change": "181.50",
-    "changePct": "2.76",
+    "current": "6813.34",
+    "change": "234.30",
+    "changePct": "3.56",
     "direction": "up",
-    "volume": "343260",
-    "tradeAmount": "25052357"
+    "volume": "416003",
+    "tradeAmount": "34453442"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "265000",
-      "change": "9500",
-      "changePct": "3.72",
+      "current": "268000",
+      "change": "12500",
+      "changePct": "4.89",
       "direction": "up",
-      "volume": "22327011",
+      "volume": "35463687",
       "high": "271000",
       "low": "262500",
       "open": "267500",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1588000",
-      "change": "84000",
-      "changePct": "5.59",
+      "current": "1593000",
+      "change": "89000",
+      "changePct": "5.92",
       "direction": "up",
-      "volume": "3441844",
+      "volume": "4599298",
       "high": "1634000",
       "low": "1567000",
       "open": "1582000",
@@ -43,12 +43,12 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "110800",
-      "change": "1200",
-      "changePct": "1.09",
+      "current": "113700",
+      "change": "4100",
+      "changePct": "3.74",
       "direction": "up",
-      "volume": "197098",
-      "high": "112600",
+      "volume": "423902",
+      "high": "113700",
       "low": "109800",
       "open": "110000",
       "marketCap": "0"
@@ -61,7 +61,7 @@
       "change": "11000",
       "changePct": "5.10",
       "direction": "up",
-      "volume": "1535174",
+      "volume": "1834436",
       "high": "230000",
       "low": "215500",
       "open": "218500",
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1415.20",
-      "change": "3.80",
-      "direction": "down"
+      "value": "1424.60",
+      "change": "5.60",
+      "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "888.08",
-      "change": "2.13",
-      "direction": "down"
+      "value": "893.73",
+      "change": "3.52",
+      "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1631.02",
-      "change": "4.59",
-      "direction": "down"
+      "value": "1640.78",
+      "change": "5.17",
+      "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "209.79",
-      "change": "0.58",
-      "direction": "down"
+      "value": "211.13",
+      "change": "0.76",
+      "direction": "up"
     }
   ],
   "oilPrices": [
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "200141.67",
-      "change": "695.29",
+      "value": "200673.01",
+      "change": "163.95",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "'3일 연속 상승' 삼전닉스 탄력받나…글로벌 반도체 동반강세",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016249889&office_id=001&mode=mainnews&type=&date=2026-08-13&page=1"
+      "title": "거래소가 '우량하다' 했는데, 상폐위기 몰린 코스닥 상장사들",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000049807&office_id=648&mode=mainnews&type=&date=2026-08-13&page=1"
     },
     {
-      "title": "돌아온 강세장에 외신도 주목 \"코스피, 23% 반등…추가 상승 가능성\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000524271&office_id=629&mode=mainnews&type=&date=2026-08-13&page=1"
+      "title": "모건스탠리가 ‘삼전·닉스’ 독주에 쉼표를 찍은 이유",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000101608&office_id=243&mode=mainnews&type=&date=2026-08-13&page=1"
     },
     {
-      "title": "코스피 삼전·하닉 강세에 4%대 상승…6800선 돌파",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006351099&office_id=018&mode=mainnews&type=&date=2026-08-13&page=1"
+      "title": "\"자라 보고 놀란 시장\"…KRX이어 NXT도 ETF 연장거래 축소 고민",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005399728&office_id=008&mode=mainnews&type=&date=2026-08-13&page=1"
     },
     {
-      "title": "섶을 지고 불길로 뛰어들다 멈춤[데스크칼럼]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002683476&office_id=016&mode=mainnews&type=&date=2026-08-13&page=1"
+      "title": "“코스피, 삼전닉스 동력 삼아 추가 상승 가능성”…외신들 ‘기술적 강세장 진입’ 진단",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004651441&office_id=011&mode=mainnews&type=&date=2026-08-13&page=1"
     },
     {
-      "title": "\"韓 돈 안 받아\" 태국서 원화 환전 거부...어쩌다 이렇게",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006351036&office_id=018&mode=mainnews&type=&date=2026-08-13&page=1"
+      "title": "MSCI 신규 편입에…LG이노텍, 장중 5% 급등 [코주부]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004651439&office_id=011&mode=mainnews&type=&date=2026-08-13&page=1"
     },
     {
-      "title": "ADR 훈풍 타고 '160만닉스' 복귀…SK하이닉스 7%대 강세",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000524200&office_id=629&mode=mainnews&type=&date=2026-08-13&page=1"
+      "title": "\"반도체 적극 투자할 시기\"…미래에셋운용이 꼽은 반도체 소부장 ETF는",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005399701&office_id=008&mode=mainnews&type=&date=2026-08-13&page=1"
     },
     {
-      "title": "\"외인, 다시 삼전닉스 담는다\" 3일째 '줍줍'...코스피 6800 회복",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005399544&office_id=008&mode=mainnews&type=&date=2026-08-13&page=1"
+      "title": "한은 13년만의 금 투자 호재?…국내 '금 ETF' 상승세",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016250000&office_id=001&mode=mainnews&type=&date=2026-08-13&page=1"
     },
     {
-      "title": "금리 공포 꺾이자 '금빛 반격'…조정 거친 金, 5000달러 회복하나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014125165&office_id=003&mode=mainnews&type=&date=2026-08-13&page=1"
+      "title": "‘디지털엑스’ 띄우는 미래에셋…500억 추가 베팅",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003121516&office_id=119&mode=mainnews&type=&date=2026-08-13&page=1"
     }
   ]
 }
