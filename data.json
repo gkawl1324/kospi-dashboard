@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-08-13 03:06:10",
+  "lastUpdated": "2026-08-13 03:28:41",
   "date": "2026.08.13",
   "kospi": {
     "name": "KOSPI",
-    "current": "6847.58",
-    "change": "268.54",
-    "changePct": "4.08",
+    "current": "6842.40",
+    "change": "263.36",
+    "changePct": "4.00",
     "direction": "up",
-    "volume": "234634",
-    "tradeAmount": "16182914"
+    "volume": "247661",
+    "tradeAmount": "17160459"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "269000",
-      "change": "13500",
-      "changePct": "5.28",
+      "current": "268250",
+      "change": "12750",
+      "changePct": "4.99",
       "direction": "up",
-      "volume": "12390116",
+      "volume": "13772098",
       "high": "270000",
       "low": "262500",
       "open": "267500",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1616000",
-      "change": "112000",
-      "changePct": "7.45",
+      "current": "1618000",
+      "change": "114000",
+      "changePct": "7.58",
       "direction": "up",
-      "volume": "2323204",
+      "volume": "2427911",
       "high": "1634000",
       "low": "1567000",
       "open": "1582000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "111350",
-      "change": "1750",
-      "changePct": "1.60",
+      "current": "111400",
+      "change": "1800",
+      "changePct": "1.64",
       "direction": "up",
-      "volume": "114100",
+      "volume": "116956",
       "high": "112600",
       "low": "109800",
       "open": "110000",
@@ -61,7 +61,7 @@
       "change": "10000",
       "changePct": "4.64",
       "direction": "up",
-      "volume": "981985",
+      "volume": "1028818",
       "high": "228000",
       "low": "215500",
       "open": "218500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1415.60",
-      "change": "3.40",
+      "value": "1415.90",
+      "change": "3.10",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "887.94",
-      "change": "2.27",
+      "value": "887.85",
+      "change": "2.36",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1631.13",
-      "change": "4.48",
+      "value": "1631.26",
+      "change": "4.35",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "209.87",
-      "change": "0.50",
+      "value": "209.88",
+      "change": "0.49",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "200811.31",
-      "change": "25.65",
+      "value": "200721.15",
+      "change": "115.81",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -141,6 +141,14 @@
     }
   ],
   "news": [
+    {
+      "title": "섶을 지고 불길로 뛰어들다 멈춤[데스크칼럼]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002683476&office_id=016&mode=mainnews&type=&date=2026-08-13&page=1"
+    },
+    {
+      "title": "\"韓 돈 안 받아\" 태국서 원화 환전 거부...어쩌다 이렇게",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006351036&office_id=018&mode=mainnews&type=&date=2026-08-13&page=1"
+    },
     {
       "title": "ADR 훈풍 타고 '160만닉스' 복귀…SK하이닉스 7%대 강세",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000524200&office_id=629&mode=mainnews&type=&date=2026-08-13&page=1"
@@ -164,14 +172,6 @@
     {
       "title": "\"극단적 저평가\" 삼성·하닉 영업익 964조인데 'PER 3배' 지적한 증권사",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005561065&office_id=014&mode=mainnews&type=&date=2026-08-13&page=1"
-    },
-    {
-      "title": "하락 베팅했는데 40% '껑충'…공매도 투자자 '눈물'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001262236&office_id=215&mode=mainnews&type=&date=2026-08-13&page=1"
-    },
-    {
-      "title": "두나무 합병 '하세월'에 주가·거래량 '뚝'…네이버는 AI로 눈돌리나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000524166&office_id=629&mode=mainnews&type=&date=2026-08-13&page=1"
     }
   ]
 }
