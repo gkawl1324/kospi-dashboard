@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13 06:54:15",
+  "lastUpdated": "2026-08-13 07:43:11",
   "date": "2026.08.13",
   "kospi": {
     "name": "KOSPI",
@@ -19,7 +19,7 @@
       "change": "12500",
       "changePct": "4.89",
       "direction": "up",
-      "volume": "35463687",
+      "volume": "35463855",
       "high": "271000",
       "low": "262500",
       "open": "267500",
@@ -33,7 +33,7 @@
       "change": "89000",
       "changePct": "5.92",
       "direction": "up",
-      "volume": "4599298",
+      "volume": "4599305",
       "high": "1634000",
       "low": "1567000",
       "open": "1582000",
@@ -47,7 +47,7 @@
       "change": "4100",
       "changePct": "3.74",
       "direction": "up",
-      "volume": "423902",
+      "volume": "423979",
       "high": "113700",
       "low": "109800",
       "open": "110000",
@@ -61,7 +61,7 @@
       "change": "11000",
       "changePct": "5.10",
       "direction": "up",
-      "volume": "1834436",
+      "volume": "1834477",
       "high": "230000",
       "low": "215500",
       "open": "218500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1424.60",
-      "change": "5.60",
+      "value": "1422.30",
+      "change": "3.30",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "893.73",
-      "change": "3.52",
+      "value": "892.51",
+      "change": "2.30",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1640.78",
-      "change": "5.17",
+      "value": "1639.06",
+      "change": "3.45",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "211.13",
-      "change": "0.76",
+      "value": "210.83",
+      "change": "0.46",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "200673.01",
-      "change": "163.95",
+      "value": "199967.75",
+      "change": "869.21",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "거래소가 '우량하다' 했는데, 상폐위기 몰린 코스닥 상장사들",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000049807&office_id=648&mode=mainnews&type=&date=2026-08-13&page=1"
+      "title": "“최태원 회장님, 창피합니다”… ‘솔리다임’ 5단 중복상장 논란",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001866727&office_id=005&mode=mainnews&type=&date=2026-08-13&page=1"
     },
     {
-      "title": "모건스탠리가 ‘삼전·닉스’ 독주에 쉼표를 찍은 이유",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000101608&office_id=243&mode=mainnews&type=&date=2026-08-13&page=1"
+      "title": "외국인 3일 연속 ‘사자’에 코스피 6800선…국내 증시 시총 6000조원 회복 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002683633&office_id=016&mode=mainnews&type=&date=2026-08-13&page=1"
     },
     {
-      "title": "\"자라 보고 놀란 시장\"…KRX이어 NXT도 ETF 연장거래 축소 고민",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005399728&office_id=008&mode=mainnews&type=&date=2026-08-13&page=1"
+      "title": "셀 코리아도, 고환율도 숨 고르기… 증시 덮친 이중고 옅어졌다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000947882&office_id=469&mode=mainnews&type=&date=2026-08-13&page=1"
     },
     {
-      "title": "“코스피, 삼전닉스 동력 삼아 추가 상승 가능성”…외신들 ‘기술적 강세장 진입’ 진단",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004651441&office_id=011&mode=mainnews&type=&date=2026-08-13&page=1"
+      "title": "코스피, 미 CPI 안도·반도체주 강세에 3.6% 급등…외국인 2조원 ‘사자’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005720693&office_id=009&mode=mainnews&type=&date=2026-08-13&page=1"
     },
     {
-      "title": "MSCI 신규 편입에…LG이노텍, 장중 5% 급등 [코주부]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004651439&office_id=011&mode=mainnews&type=&date=2026-08-13&page=1"
+      "title": "단일레버리지 여파…ETF·파생상품 육성책 ‘개점휴업’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005320579&office_id=015&mode=mainnews&type=&date=2026-08-13&page=1"
     },
     {
-      "title": "\"반도체 적극 투자할 시기\"…미래에셋운용이 꼽은 반도체 소부장 ETF는",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005399701&office_id=008&mode=mainnews&type=&date=2026-08-13&page=1"
+      "title": "개미, 삼전닉스 레버리지 '탈출'…일주일 새 0.8조 순유출",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003121564&office_id=119&mode=mainnews&type=&date=2026-08-13&page=1"
     },
     {
-      "title": "한은 13년만의 금 투자 호재?…국내 '금 ETF' 상승세",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016250000&office_id=001&mode=mainnews&type=&date=2026-08-13&page=1"
+      "title": "“2차례 역대 최대 주주환원” “합산 영업익 1000조”...삼전·닉스 반등 채비",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003042322&office_id=029&mode=mainnews&type=&date=2026-08-13&page=1"
     },
     {
-      "title": "‘디지털엑스’ 띄우는 미래에셋…500억 추가 베팅",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003121516&office_id=119&mode=mainnews&type=&date=2026-08-13&page=1"
+      "title": "삼성전자 달리자 그룹 시총 2천조원 회복…SK그룹은 1천420조원(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016250386&office_id=001&mode=mainnews&type=&date=2026-08-13&page=1"
     }
   ]
 }
