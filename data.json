@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-08-13 05:16:01",
+  "lastUpdated": "2026-08-13 05:43:49",
   "date": "2026.08.13",
   "kospi": {
     "name": "KOSPI",
-    "current": "6840.37",
-    "change": "261.33",
-    "changePct": "3.97",
+    "current": "6760.54",
+    "change": "181.50",
+    "changePct": "2.76",
     "direction": "up",
-    "volume": "320514",
-    "tradeAmount": "23078241"
+    "volume": "343260",
+    "tradeAmount": "25052357"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "270000",
-      "change": "14500",
-      "changePct": "5.68",
+      "current": "265000",
+      "change": "9500",
+      "changePct": "3.72",
       "direction": "up",
-      "volume": "20524719",
+      "volume": "22327011",
       "high": "271000",
       "low": "262500",
       "open": "267500",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1615000",
-      "change": "111000",
-      "changePct": "7.38",
+      "current": "1588000",
+      "change": "84000",
+      "changePct": "5.59",
       "direction": "up",
-      "volume": "3139912",
+      "volume": "3441844",
       "high": "1634000",
       "low": "1567000",
       "open": "1582000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "110250",
-      "change": "650",
-      "changePct": "0.59",
+      "current": "110800",
+      "change": "1200",
+      "changePct": "1.09",
       "direction": "up",
-      "volume": "154433",
+      "volume": "197098",
       "high": "112600",
       "low": "109800",
       "open": "110000",
@@ -57,12 +57,12 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "227500",
-      "change": "12000",
-      "changePct": "5.57",
+      "current": "226500",
+      "change": "11000",
+      "changePct": "5.10",
       "direction": "up",
-      "volume": "1330965",
-      "high": "228000",
+      "volume": "1535174",
+      "high": "230000",
       "low": "215500",
       "open": "218500",
       "marketCap": "0"
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1415.50",
-      "change": "3.50",
+      "value": "1415.20",
+      "change": "3.80",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "888.58",
-      "change": "1.63",
+      "value": "888.08",
+      "change": "2.13",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1631.51",
-      "change": "4.10",
+      "value": "1631.02",
+      "change": "4.59",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "209.85",
-      "change": "0.52",
+      "value": "209.79",
+      "change": "0.58",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "200361.76",
-      "change": "475.20",
+      "value": "200141.67",
+      "change": "695.29",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -141,6 +141,14 @@
     }
   ],
   "news": [
+    {
+      "title": "'3일 연속 상승' 삼전닉스 탄력받나…글로벌 반도체 동반강세",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016249889&office_id=001&mode=mainnews&type=&date=2026-08-13&page=1"
+    },
+    {
+      "title": "돌아온 강세장에 외신도 주목 \"코스피, 23% 반등…추가 상승 가능성\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000524271&office_id=629&mode=mainnews&type=&date=2026-08-13&page=1"
+    },
     {
       "title": "코스피 삼전·하닉 강세에 4%대 상승…6800선 돌파",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0006351099&office_id=018&mode=mainnews&type=&date=2026-08-13&page=1"
@@ -164,14 +172,6 @@
     {
       "title": "금리 공포 꺾이자 '금빛 반격'…조정 거친 金, 5000달러 회복하나",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0014125165&office_id=003&mode=mainnews&type=&date=2026-08-13&page=1"
-    },
-    {
-      "title": "젠슨 황에 또 들썩인 LG전자…이번엔 '테마' 넘어설까",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001049420&office_id=031&mode=mainnews&type=&date=2026-08-13&page=1"
-    },
-    {
-      "title": "타임폴리오·베이트리, 넥스트證 CB 조기전환…지분 9.9% 확보",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002683402&office_id=016&mode=mainnews&type=&date=2026-08-13&page=1"
     }
   ]
 }
