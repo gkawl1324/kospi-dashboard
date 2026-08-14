@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-08-14 03:04:55",
+  "lastUpdated": "2026-08-14 03:25:52",
   "date": "2026.08.14",
   "kospi": {
     "name": "KOSPI",
-    "current": "6878.64",
-    "change": "65.30",
-    "changePct": "0.96",
+    "current": "6908.79",
+    "change": "95.45",
+    "changePct": "1.40",
     "direction": "up",
-    "volume": "204700",
-    "tradeAmount": "15295726"
+    "volume": "212651",
+    "tradeAmount": "16095445"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "268500",
-      "change": "500",
-      "changePct": "0.19",
+      "current": "270000",
+      "change": "2000",
+      "changePct": "0.75",
       "direction": "up",
-      "volume": "10628435",
+      "volume": "11466502",
       "high": "275500",
       "low": "266000",
       "open": "275000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1634000",
-      "change": "41000",
-      "changePct": "2.57",
+      "current": "1641000",
+      "change": "48000",
+      "changePct": "3.01",
       "direction": "up",
-      "volume": "2489981",
+      "volume": "2631758",
       "high": "1697000",
       "low": "1626000",
       "open": "1695000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "117400",
-      "change": "3700",
-      "changePct": "3.25",
+      "current": "117800",
+      "change": "4100",
+      "changePct": "3.61",
       "direction": "up",
-      "volume": "287540",
+      "volume": "297028",
       "high": "122500",
       "low": "113900",
       "open": "114200",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "226250",
-      "change": "-250",
-      "changePct": "-0.11",
-      "direction": "down",
-      "volume": "481258",
+      "current": "227000",
+      "change": "500",
+      "changePct": "0.22",
+      "direction": "up",
+      "volume": "496254",
       "high": "232500",
       "low": "225000",
       "open": "227000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1413.30",
-      "change": "6.90",
+      "value": "1412.90",
+      "change": "7.30",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "886.58",
-      "change": "3.86",
+      "value": "886.64",
+      "change": "3.80",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1630.10",
-      "change": "7.53",
+      "value": "1630.27",
+      "change": "7.36",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "209.51",
-      "change": "1.05",
+      "value": "209.47",
+      "change": "1.09",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "196173.77",
-      "change": "3225.18",
+      "value": "196462.16",
+      "change": "2936.79",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -141,6 +141,10 @@
     }
   ],
   "news": [
+    {
+      "title": "반도체 주춤한 사이 '질주'…대박 난 ETF 봤더니",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001262390&office_id=215&mode=mainnews&type=&date=2026-08-14&page=1"
+    },
     {
       "title": "美 반도체주 훈풍, 상위 1%에도 불었다…삼전닉스 순매수 1·2위 [주식 초고수는 지금]",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0004651794&office_id=011&mode=mainnews&type=&date=2026-08-14&page=1"
@@ -168,10 +172,6 @@
     {
       "title": "\"삼전닉스 다 판건 아니지만\"…고점에 판 최화정, 수익률은 '-94%' 고백",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0001262385&office_id=215&mode=mainnews&type=&date=2026-08-14&page=1"
-    },
-    {
-      "title": "순환매 장세에서 이달 '코스닥·우주·방산' ETF 웃었다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016251597&office_id=001&mode=mainnews&type=&date=2026-08-14&page=1"
     }
   ]
 }
