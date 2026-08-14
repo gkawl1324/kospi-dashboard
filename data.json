@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14 06:51:42",
+  "lastUpdated": "2026-08-14 07:40:59",
   "date": "2026.08.14",
   "kospi": {
     "name": "KOSPI",
@@ -19,7 +19,7 @@
       "change": "6500",
       "changePct": "2.43",
       "direction": "up",
-      "volume": "21668168",
+      "volume": "21668266",
       "high": "275500",
       "low": "266000",
       "open": "275000",
@@ -33,7 +33,7 @@
       "change": "52000",
       "changePct": "3.26",
       "direction": "up",
-      "volume": "4295987",
+      "volume": "4295990",
       "high": "1697000",
       "low": "1626000",
       "open": "1695000",
@@ -61,7 +61,7 @@
       "change": "1500",
       "changePct": "0.66",
       "direction": "up",
-      "volume": "750098",
+      "volume": "750112",
       "high": "232500",
       "low": "225000",
       "open": "227000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1418.10",
-      "change": "2.10",
+      "value": "1417.60",
+      "change": "2.60",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "890.57",
-      "change": "0.13",
-      "direction": "up"
+      "value": "889.95",
+      "change": "0.49",
+      "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1636.84",
-      "change": "0.79",
+      "value": "1636.97",
+      "change": "0.66",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "210.26",
-      "change": "0.30",
+      "value": "210.19",
+      "change": "0.37",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "197655.38",
-      "change": "1743.57",
+      "value": "197576.01",
+      "change": "1822.94",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "[단독] 서학개미 2조 들고 들어왔더니 '국장 급락'…'삼전닉스' 1.1조 샀다가 손실",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009114809&office_id=421&mode=mainnews&type=&date=2026-08-14&page=1"
+      "title": "되살아난 외국인 매수세…美 연준 '금리인상 3표' 의사록 초점",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005400354&office_id=008&mode=mainnews&type=&date=2026-08-14&page=1"
     },
     {
-      "title": "이번주 내내 오른 코스피, '칠천피' 근접 마감…코스닥도 상승",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005320989&office_id=015&mode=mainnews&type=&date=2026-08-14&page=1"
+      "title": "솔리다임 美상장, SK하이닉스엔 득일까 독일까…엇갈린 셈법",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006352017&office_id=018&mode=mainnews&type=&date=2026-08-14&page=1"
     },
     {
-      "title": "“하이닉스 132만원? 무조건 들어가야지” 연예인까지 ‘종목 토크’…핀플루언서 이대로 괜찮나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004651852&office_id=011&mode=mainnews&type=&date=2026-08-14&page=1"
+      "title": "반대매매 이어 또 장내매도… 야스 최대주주 지분 17%로 뚝, 경영권 방어 취약",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001186382&office_id=366&mode=mainnews&type=&date=2026-08-14&page=1"
     },
     {
-      "title": "잇따르는 상관계수 미달 상장폐지…‘TIME 미국배당다우존스액티브’ 19일 퇴출",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005721191&office_id=009&mode=mainnews&type=&date=2026-08-14&page=1"
+      "title": "코스피, 2% 상승 마감?'7000선' 고지 눈앞",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001049906&office_id=031&mode=mainnews&type=&date=2026-08-14&page=1"
     },
     {
-      "title": "LG전자 소액주주 100만명 첫 돌파…로봇·엔비디아 협력 영향",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016252179&office_id=001&mode=mainnews&type=&date=2026-08-14&page=1"
+      "title": "[속보] 8조 '뭉칫돈' 큰손, 이번주 내내 끌어 올렸다…매수 '굳히기'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001262429&office_id=215&mode=mainnews&type=&date=2026-08-14&page=1"
     },
     {
-      "title": "현대차, ‘본업 모먼트’ 부각 8% ‘쑥’…제네시스 하이브리드 출시 기대감도 [줍줍리포트]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004651848&office_id=011&mode=mainnews&type=&date=2026-08-14&page=1"
+      "title": "‘7000피’ 터치한 코스피… 일주일새 10% 급등 마감, 주역은 외인 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002684151&office_id=016&mode=mainnews&type=&date=2026-08-14&page=1"
     },
     {
-      "title": "파인엠텍, 폴더블 타고 실적 반등…2Q 영업익 73억 \"ESS로 성장축 ↑ \"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005561767&office_id=014&mode=mainnews&type=&date=2026-08-14&page=1"
+      "title": "대체거래소 NXT, 올 상반기 영업익 900억원 육박",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016252334&office_id=001&mode=mainnews&type=&date=2026-08-14&page=1"
     },
     {
-      "title": "“초과수익 냈는데 상장폐지”…타임폴리오도 ETF 상관계수에 발목",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006351921&office_id=018&mode=mainnews&type=&date=2026-08-14&page=1"
+      "title": "美 물가 둔화에 달러·원 1411원까지 하락…막판 반등해 1418.3원(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009114884&office_id=421&mode=mainnews&type=&date=2026-08-14&page=1"
     }
   ]
 }
