@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-08-14 05:41:27",
+  "lastUpdated": "2026-08-14 06:51:42",
   "date": "2026.08.14",
   "kospi": {
     "name": "KOSPI",
-    "current": "6949.94",
-    "change": "136.60",
-    "changePct": "2.00",
+    "current": "6977.94",
+    "change": "164.60",
+    "changePct": "2.42",
     "direction": "up",
-    "volume": "288712",
-    "tradeAmount": "22494952"
+    "volume": "329905",
+    "tradeAmount": "26730063"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "272500",
-      "change": "4500",
-      "changePct": "1.68",
+      "current": "274500",
+      "change": "6500",
+      "changePct": "2.43",
       "direction": "up",
-      "volume": "17563686",
+      "volume": "21668168",
       "high": "275500",
       "low": "266000",
       "open": "275000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1650000",
-      "change": "57000",
-      "changePct": "3.58",
+      "current": "1645000",
+      "change": "52000",
+      "changePct": "3.26",
       "direction": "up",
-      "volume": "3600691",
+      "volume": "4295987",
       "high": "1697000",
       "low": "1626000",
       "open": "1695000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "120100",
-      "change": "6400",
-      "changePct": "5.63",
+      "current": "120000",
+      "change": "6300",
+      "changePct": "5.54",
       "direction": "up",
-      "volume": "396744",
+      "volume": "503011",
       "high": "122500",
       "low": "113900",
       "open": "114200",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "227000",
-      "change": "500",
-      "changePct": "0.22",
+      "current": "228000",
+      "change": "1500",
+      "changePct": "0.66",
       "direction": "up",
-      "volume": "629719",
+      "volume": "750098",
       "high": "232500",
       "low": "225000",
       "open": "227000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1413.60",
-      "change": "6.60",
+      "value": "1418.10",
+      "change": "2.10",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "887.55",
-      "change": "2.89",
-      "direction": "down"
+      "value": "890.57",
+      "change": "0.13",
+      "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1631.51",
-      "change": "6.12",
+      "value": "1636.84",
+      "change": "0.79",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "209.59",
-      "change": "0.97",
+      "value": "210.26",
+      "change": "0.30",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "196475.82",
-      "change": "2923.13",
+      "value": "197655.38",
+      "change": "1743.57",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "“창업 자금·집살 돈도 날렸다”…코스피 개인투자자 손실 사례 주목한 외신",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005721149&office_id=009&mode=mainnews&type=&date=2026-08-14&page=1"
+      "title": "[단독] 서학개미 2조 들고 들어왔더니 '국장 급락'…'삼전닉스' 1.1조 샀다가 손실",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009114809&office_id=421&mode=mainnews&type=&date=2026-08-14&page=1"
     },
     {
-      "title": "2달 만에 다시 뭉친 구광모·젠슨황…‘로봇동맹’ 강화에 LG전자 3% 상승 [줍줍리포트]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004651829&office_id=011&mode=mainnews&type=&date=2026-08-14&page=1"
+      "title": "이번주 내내 오른 코스피, '칠천피' 근접 마감…코스닥도 상승",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005320989&office_id=015&mode=mainnews&type=&date=2026-08-14&page=1"
     },
     {
-      "title": "'주가 반토막' SK하이닉스, 손자회사 중복상장 '시끌'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001049842&office_id=031&mode=mainnews&type=&date=2026-08-14&page=1"
+      "title": "“하이닉스 132만원? 무조건 들어가야지” 연예인까지 ‘종목 토크’…핀플루언서 이대로 괜찮나",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004651852&office_id=011&mode=mainnews&type=&date=2026-08-14&page=1"
     },
     {
-      "title": "서학개미 부러울 성적표…국민연금, 2분기 美주식 '잭팟'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001262402&office_id=215&mode=mainnews&type=&date=2026-08-14&page=1"
+      "title": "잇따르는 상관계수 미달 상장폐지…‘TIME 미국배당다우존스액티브’ 19일 퇴출",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005721191&office_id=009&mode=mainnews&type=&date=2026-08-14&page=1"
     },
     {
-      "title": "기본도 못 지킨 ‘액티브 명가’ 타임폴리오, ETF 퇴출에 내부통제 도마",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003042421&office_id=029&mode=mainnews&type=&date=2026-08-14&page=1"
+      "title": "LG전자 소액주주 100만명 첫 돌파…로봇·엔비디아 협력 영향",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016252179&office_id=001&mode=mainnews&type=&date=2026-08-14&page=1"
     },
     {
-      "title": "\"BM 9%p 이겼는데 퇴출\" 타임폴리오 ETF가 걸린 '액티브의 덫' [fn마켓워치]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005561711&office_id=014&mode=mainnews&type=&date=2026-08-14&page=1"
+      "title": "현대차, ‘본업 모먼트’ 부각 8% ‘쑥’…제네시스 하이브리드 출시 기대감도 [줍줍리포트]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004651848&office_id=011&mode=mainnews&type=&date=2026-08-14&page=1"
     },
     {
-      "title": "액트로 2분기 매출 526억…반기 누적 1012억",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006351828&office_id=018&mode=mainnews&type=&date=2026-08-14&page=1"
+      "title": "파인엠텍, 폴더블 타고 실적 반등…2Q 영업익 73억 \"ESS로 성장축 ↑ \"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005561767&office_id=014&mode=mainnews&type=&date=2026-08-14&page=1"
     },
     {
-      "title": "손실 감수하고 ISA 해지했더니 재검토?…오락가락 정책에 분통",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006351815&office_id=018&mode=mainnews&type=&date=2026-08-14&page=1"
+      "title": "“초과수익 냈는데 상장폐지”…타임폴리오도 ETF 상관계수에 발목",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006351921&office_id=018&mode=mainnews&type=&date=2026-08-14&page=1"
     }
   ]
 }
