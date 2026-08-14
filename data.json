@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-08-14 03:25:52",
+  "lastUpdated": "2026-08-14 05:12:48",
   "date": "2026.08.14",
   "kospi": {
     "name": "KOSPI",
-    "current": "6908.79",
-    "change": "95.45",
-    "changePct": "1.40",
+    "current": "6905.99",
+    "change": "92.65",
+    "changePct": "1.36",
     "direction": "up",
-    "volume": "212651",
-    "tradeAmount": "16095445"
+    "volume": "267381",
+    "tradeAmount": "20827313"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "270000",
-      "change": "2000",
-      "changePct": "0.75",
+      "current": "269750",
+      "change": "1750",
+      "changePct": "0.65",
       "direction": "up",
-      "volume": "11466502",
+      "volume": "16024954",
       "high": "275500",
       "low": "266000",
       "open": "275000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1641000",
-      "change": "48000",
-      "changePct": "3.01",
+      "current": "1636000",
+      "change": "43000",
+      "changePct": "2.70",
       "direction": "up",
-      "volume": "2631758",
+      "volume": "3336332",
       "high": "1697000",
       "low": "1626000",
       "open": "1695000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "117800",
-      "change": "4100",
-      "changePct": "3.61",
+      "current": "118600",
+      "change": "4900",
+      "changePct": "4.31",
       "direction": "up",
-      "volume": "297028",
+      "volume": "359466",
       "high": "122500",
       "low": "113900",
       "open": "114200",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "227000",
-      "change": "500",
-      "changePct": "0.22",
-      "direction": "up",
-      "volume": "496254",
+      "current": "226000",
+      "change": "-500",
+      "changePct": "-0.22",
+      "direction": "down",
+      "volume": "586624",
       "high": "232500",
       "low": "225000",
       "open": "227000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1412.90",
-      "change": "7.30",
+      "value": "1415.30",
+      "change": "4.90",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "886.64",
-      "change": "3.80",
+      "value": "888.31",
+      "change": "2.13",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1630.27",
-      "change": "7.36",
+      "value": "1633.19",
+      "change": "4.44",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "209.47",
-      "change": "1.09",
+      "value": "209.81",
+      "change": "0.75",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "196462.16",
-      "change": "2936.79",
+      "value": "196629.95",
+      "change": "2769.00",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -141,6 +141,10 @@
     }
   ],
   "news": [
+    {
+      "title": "손실 감수하고 ISA 해지했더니 재검토?…오락가락 정책에 분통",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006351815&office_id=018&mode=mainnews&type=&date=2026-08-14&page=1"
+    },
     {
       "title": "반도체 주춤한 사이 '질주'…대박 난 ETF 봤더니",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0001262390&office_id=215&mode=mainnews&type=&date=2026-08-14&page=1"
@@ -166,12 +170,8 @@
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002684011&office_id=016&mode=mainnews&type=&date=2026-08-14&page=1"
     },
     {
-      "title": "영업익 ‘1000조’ 삼전닉스 반등에 ‘칠천피’ 회복",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002683999&office_id=016&mode=mainnews&type=&date=2026-08-14&page=1"
-    },
-    {
-      "title": "\"삼전닉스 다 판건 아니지만\"…고점에 판 최화정, 수익률은 '-94%' 고백",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001262385&office_id=215&mode=mainnews&type=&date=2026-08-14&page=1"
+      "title": "국민연금, 중국 기업 투자 1년새 3조4000억 늘렸다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002684001&office_id=016&mode=mainnews&type=&date=2026-08-14&page=1"
     }
   ]
 }
