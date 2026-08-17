@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17 03:54:56",
+  "lastUpdated": "2026-08-17 04:10:23",
   "date": "2026.08.17",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1416.30",
-      "change": "3.90",
+      "value": "1416.00",
+      "change": "4.20",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "890.00",
-      "change": "0.44",
+      "value": "890.20",
+      "change": "0.24",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1640.22",
-      "change": "2.59",
+      "value": "1640.58",
+      "change": "2.95",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "210.04",
-      "change": "0.52",
+      "value": "210.01",
+      "change": "0.55",
       "direction": "down"
     }
   ],
@@ -142,6 +142,10 @@
   ],
   "news": [
     {
+      "title": "“8~9월은 변동성 줄며 완만한 회복..분할매수로 모아가야”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006352807&office_id=018&mode=mainnews&type=&date=2026-08-17&page=1"
+    },
+    {
       "title": "젠슨 황 장녀, LG전자 로보틱스 거점 방문…피지컬 AI 협력 강화 기대",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005321509&office_id=015&mode=mainnews&type=&date=2026-08-17&page=1"
     },
@@ -168,10 +172,6 @@
     {
       "title": "\"개미 속은 타들어가는데\"…레버리지 수수료 1천억 쌓였다",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0001262591&office_id=215&mode=mainnews&type=&date=2026-08-17&page=1"
-    },
-    {
-      "title": "11월 신종증권시장 개설…부동산·미술품도 주식처럼 투자 가능",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004652291&office_id=011&mode=mainnews&type=&date=2026-08-17&page=1"
     }
   ]
 }
