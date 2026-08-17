@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17 02:00:34",
+  "lastUpdated": "2026-08-17 02:21:20",
   "date": "2026.08.17",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1413.50",
-      "change": "6.70",
+      "value": "1414.00",
+      "change": "6.20",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "888.43",
-      "change": "2.01",
+      "value": "889.42",
+      "change": "1.02",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1636.83",
-      "change": "0.80",
-      "direction": "down"
+      "value": "1637.91",
+      "change": "0.28",
+      "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "209.66",
-      "change": "0.90",
+      "value": "209.75",
+      "change": "0.81",
       "direction": "down"
     }
   ],
@@ -142,6 +142,18 @@
   ],
   "news": [
     {
+      "title": "\"고점서 물리면 어쩌나\"…폭락장에도 매달 샀더니 '뜻밖의 결과'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005321500&office_id=015&mode=mainnews&type=&date=2026-08-17&page=1"
+    },
+    {
+      "title": "\"개미 속은 타들어가는데\"…레버리지 수수료 1천억 쌓였다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001262591&office_id=215&mode=mainnews&type=&date=2026-08-17&page=1"
+    },
+    {
+      "title": "11월 신종증권시장 개설…부동산·미술품도 주식처럼 투자 가능",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004652291&office_id=011&mode=mainnews&type=&date=2026-08-17&page=1"
+    },
+    {
       "title": "국내 증시 회귀 정책에 증권사들만 노났다",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0003993352&office_id=023&mode=mainnews&type=&date=2026-08-17&page=1"
     },
@@ -150,28 +162,16 @@
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0004652288&office_id=011&mode=mainnews&type=&date=2026-08-17&page=1"
     },
     {
+      "title": "개미 울린 레버리지 ETF…거래소·증권사는 ‘수수료 잔치’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003122323&office_id=119&mode=mainnews&type=&date=2026-08-17&page=1"
+    },
+    {
+      "title": "“동전주 걷어내면 천스닥 회복할까”…코스닥 36곳 무더기 관리종목, 퇴출 본격화",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005721861&office_id=009&mode=mainnews&type=&date=2026-08-17&page=1"
+    },
+    {
       "title": "“영업익 20배 뛰고 순익도 흑자”…덩치키운 컬리, IPO 다시 시동",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005721860&office_id=009&mode=mainnews&type=&date=2026-08-17&page=1"
-    },
-    {
-      "title": "“근시안적 실수”…美야권, 트럼프 한미연합훈련 축소 정면 비판",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006352767&office_id=018&mode=mainnews&type=&date=2026-08-17&page=1"
-    },
-    {
-      "title": "알파벳, 첫 호주달러 회사채 발행 검토…AI 투자 부채 급증",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006352760&office_id=018&mode=mainnews&type=&date=2026-08-17&page=1"
-    },
-    {
-      "title": "\"삼전닉스 내년 영업이익 964조…싸도 너무 싸다\"[주末머니]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005803686&office_id=277&mode=mainnews&type=&date=2026-08-17&page=1"
-    },
-    {
-      "title": "1년새 PEF 규제법 8개…정작 토종 펀드는 역차별",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003993346&office_id=023&mode=mainnews&type=&date=2026-08-17&page=1"
-    },
-    {
-      "title": "'6.5조' 쓸어담은 외국인…이번 주 순매수 이어갈까",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001262586&office_id=215&mode=mainnews&type=&date=2026-08-17&page=1"
     }
   ]
 }
