@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17 04:10:23",
+  "lastUpdated": "2026-08-17 04:50:22",
   "date": "2026.08.17",
   "kospi": {
     "name": "KOSPI",
@@ -79,22 +79,22 @@
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "890.20",
-      "change": "0.24",
+      "value": "890.23",
+      "change": "0.21",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1640.58",
-      "change": "2.95",
+      "value": "1640.72",
+      "change": "3.09",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "210.01",
-      "change": "0.55",
+      "value": "210.03",
+      "change": "0.53",
       "direction": "down"
     }
   ],
@@ -142,7 +142,27 @@
   ],
   "news": [
     {
-      "title": "“8~9월은 변동성 줄며 완만한 회복..분할매수로 모아가야”",
+      "title": "거제 800㎜ 폭우에 1명 사망…국가소방동원령 발령",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003122357&office_id=119&mode=mainnews&type=&date=2026-08-17&page=1"
+    },
+    {
+      "title": "조각투자도 '증시 데뷔'…11월 KRX 신종증권시장 열린다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005562375&office_id=014&mode=mainnews&type=&date=2026-08-17&page=1"
+    },
+    {
+      "title": "“괴리율 2% 맞추다 시장 변동성 더 키울라”…LP 부담 커지는 ETF",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006352814&office_id=018&mode=mainnews&type=&date=2026-08-17&page=1"
+    },
+    {
+      "title": "배터리주, 실적 부진 터널 지나나…EV서 ESS로 무게중심 이동 '새국면'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006352812&office_id=018&mode=mainnews&type=&date=2026-08-17&page=1"
+    },
+    {
+      "title": "변동성 잦아든 증시, 우상향 시동 거나…FOMC 의사록 변수",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005400864&office_id=008&mode=mainnews&type=&date=2026-08-17&page=1"
+    },
+    {
+      "title": "\"삼전닉스 분할매수 유효\"…300만닉스·38만전자 탈환은?",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0006352807&office_id=018&mode=mainnews&type=&date=2026-08-17&page=1"
     },
     {
@@ -152,26 +172,6 @@
     {
       "title": "삼성전자·SK하이닉스 레버리지 ETF, 두 달 새 수수료 1172억원",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000524972&office_id=629&mode=mainnews&type=&date=2026-08-17&page=1"
-    },
-    {
-      "title": "개미들 55조 손실인데…증권사·거래소 '삼전닉스 레버리지'로 1200억 벌어",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009116882&office_id=421&mode=mainnews&type=&date=2026-08-17&page=1"
-    },
-    {
-      "title": "겁먹은 개미 머뭇거릴 때…외국인은 삼전닉스 '5조 베팅' [분석+]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005321506&office_id=015&mode=mainnews&type=&date=2026-08-17&page=1"
-    },
-    {
-      "title": "“하닉 280층에 사람 있어요 사람살려”랄랄, ‘주식 하락장 우울증’ 토로",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002811782&office_id=021&mode=mainnews&type=&date=2026-08-17&page=1"
-    },
-    {
-      "title": "\"고점서 물리면 어쩌나\"…폭락장에도 매달 샀더니 '뜻밖의 결과'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005321500&office_id=015&mode=mainnews&type=&date=2026-08-17&page=1"
-    },
-    {
-      "title": "\"개미 속은 타들어가는데\"…레버리지 수수료 1천억 쌓였다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001262591&office_id=215&mode=mainnews&type=&date=2026-08-17&page=1"
     }
   ]
 }
