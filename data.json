@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17 05:05:51",
+  "lastUpdated": "2026-08-17 05:39:41",
   "date": "2026.08.17",
   "kospi": {
     "name": "KOSPI",
@@ -79,22 +79,22 @@
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "889.89",
-      "change": "0.55",
+      "value": "890.17",
+      "change": "0.27",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1640.44",
-      "change": "2.81",
+      "value": "1640.58",
+      "change": "2.95",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "210.03",
-      "change": "0.53",
+      "value": "210.06",
+      "change": "0.50",
       "direction": "down"
     }
   ],
@@ -142,6 +142,22 @@
   ],
   "news": [
     {
+      "title": "日 경제 성장했다지만…원유 수입 감소가 만든 ‘착시’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003122363&office_id=119&mode=mainnews&type=&date=2026-08-17&page=1"
+    },
+    {
+      "title": "AI 타고 반전한 스페이스X...서학개미 2660억 '폭풍매수'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005562385&office_id=014&mode=mainnews&type=&date=2026-08-17&page=1"
+    },
+    {
+      "title": "수출이 끌어올린 K미용의료 몸값…휴젤·파마리서치 목표가 ‘줄상향’ [Why 바이오]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004652316&office_id=011&mode=mainnews&type=&date=2026-08-17&page=1"
+    },
+    {
+      "title": "[속보] 카카오뱅크, 자사주 27만주 소각 추진…\"주주가치 제고\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001262605&office_id=215&mode=mainnews&type=&date=2026-08-17&page=1"
+    },
+    {
       "title": "ISA '납입한도 이월·무기한 연장' 살아나나…정부 \"재검토\"",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000195480&office_id=654&mode=mainnews&type=&date=2026-08-17&page=1"
     },
@@ -156,22 +172,6 @@
     {
       "title": "조각투자도 '증시 데뷔'…11월 KRX 신종증권시장 열린다",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005562375&office_id=014&mode=mainnews&type=&date=2026-08-17&page=1"
-    },
-    {
-      "title": "“괴리율 2% 맞추다 시장 변동성 더 키울라”…LP 부담 커지는 ETF",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006352814&office_id=018&mode=mainnews&type=&date=2026-08-17&page=1"
-    },
-    {
-      "title": "배터리주, 실적 부진 터널 지나나…EV서 ESS로 무게중심 이동 '새국면'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006352812&office_id=018&mode=mainnews&type=&date=2026-08-17&page=1"
-    },
-    {
-      "title": "변동성 잦아든 증시, 우상향 시동 거나…FOMC 의사록 변수",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005400864&office_id=008&mode=mainnews&type=&date=2026-08-17&page=1"
-    },
-    {
-      "title": "\"삼전닉스 분할매수 유효\"…300만닉스·38만전자 탈환은?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006352807&office_id=018&mode=mainnews&type=&date=2026-08-17&page=1"
     }
   ]
 }
