@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17 03:25:55",
+  "lastUpdated": "2026-08-17 03:54:56",
   "date": "2026.08.17",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1415.50",
-      "change": "4.70",
+      "value": "1416.30",
+      "change": "3.90",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "889.83",
-      "change": "0.61",
+      "value": "890.00",
+      "change": "0.44",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1639.15",
-      "change": "1.52",
+      "value": "1640.22",
+      "change": "2.59",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "209.96",
-      "change": "0.60",
+      "value": "210.04",
+      "change": "0.52",
       "direction": "down"
     }
   ],
@@ -154,7 +154,7 @@
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0009116882&office_id=421&mode=mainnews&type=&date=2026-08-17&page=1"
     },
     {
-      "title": "\"삼전닉스 최고의 순간 아직\"…외국인 5조 쓸어담은 이유 [분석+]",
+      "title": "겁먹은 개미 머뭇거릴 때…외국인은 삼전닉스 '5조 베팅' [분석+]",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005321506&office_id=015&mode=mainnews&type=&date=2026-08-17&page=1"
     },
     {
