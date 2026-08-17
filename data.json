@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17 05:58:21",
+  "lastUpdated": "2026-08-17 07:06:58",
   "date": "2026.08.17",
   "kospi": {
     "name": "KOSPI",
@@ -79,22 +79,22 @@
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "889.57",
-      "change": "0.87",
+      "value": "890.02",
+      "change": "0.42",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1639.70",
-      "change": "2.07",
+      "value": "1640.83",
+      "change": "3.20",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "209.97",
-      "change": "0.59",
+      "value": "209.95",
+      "change": "0.61",
       "direction": "down"
     }
   ],
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
+      "title": "토큰증권 세부안 임박…준비시간은 줄었다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000089151&office_id=293&mode=mainnews&type=&date=2026-08-17&page=1"
+    },
+    {
+      "title": "트럼프의 '타코'를 압박하는 '이것' 부족 현상 [주末머니]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005803749&office_id=277&mode=mainnews&type=&date=2026-08-17&page=1"
+    },
+    {
+      "title": "중복상장 ‘묘수’ 모회사 상폐 난항…금감원 판단 주목",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002684692&office_id=016&mode=mainnews&type=&date=2026-08-17&page=1"
+    },
+    {
+      "title": "중국 내수는 잊어라? 따로 크는 중국 기업 7곳[GMC]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003544835&office_id=025&mode=mainnews&type=&date=2026-08-17&page=1"
+    },
+    {
+      "title": "\"변동성 커도 증시 떠나면 안 돼… '이것' 담고 회복 기다려야\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005400898&office_id=008&mode=mainnews&type=&date=2026-08-17&page=1"
+    },
+    {
+      "title": "\"280층에 사람 있어요\"…194만 유튜버도 못 견딘 '주식 우울증'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001262610&office_id=215&mode=mainnews&type=&date=2026-08-17&page=1"
+    },
+    {
       "title": "日 경제 성장했다지만…원유 수입 감소가 만든 ‘착시’",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0003122363&office_id=119&mode=mainnews&type=&date=2026-08-17&page=1"
     },
     {
       "title": "AI 타고 반전한 스페이스X...서학개미 2660억 '폭풍매수'",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005562385&office_id=014&mode=mainnews&type=&date=2026-08-17&page=1"
-    },
-    {
-      "title": "수출이 끌어올린 K미용의료 몸값…휴젤·파마리서치 목표가 ‘줄상향’ [Why 바이오]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004652316&office_id=011&mode=mainnews&type=&date=2026-08-17&page=1"
-    },
-    {
-      "title": "카카오뱅크, 자사주 27만주 소각 추진…\"주주가치 제고\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001262605&office_id=215&mode=mainnews&type=&date=2026-08-17&page=1"
-    },
-    {
-      "title": "ISA '납입한도 이월·무기한 연장' 살아나나…정부 \"재검토\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000195480&office_id=654&mode=mainnews&type=&date=2026-08-17&page=1"
-    },
-    {
-      "title": "월가 대형 트레이딩 회사, 10년만에 적자 낸 배경은",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006352825&office_id=018&mode=mainnews&type=&date=2026-08-17&page=1"
-    },
-    {
-      "title": "거제 800㎜ 폭우에 1명 사망…국가소방동원령 발령",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003122357&office_id=119&mode=mainnews&type=&date=2026-08-17&page=1"
-    },
-    {
-      "title": "조각투자도 '증시 데뷔'…11월 KRX 신종증권시장 열린다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005562375&office_id=014&mode=mainnews&type=&date=2026-08-17&page=1"
     }
   ]
 }
