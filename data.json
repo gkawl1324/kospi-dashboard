@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17 07:06:58",
+  "lastUpdated": "2026-08-17 07:30:22",
   "date": "2026.08.17",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1415.00",
-      "change": "5.20",
+      "value": "1414.50",
+      "change": "5.70",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "890.02",
-      "change": "0.42",
+      "value": "889.90",
+      "change": "0.54",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1640.83",
-      "change": "3.20",
+      "value": "1641.46",
+      "change": "3.83",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "209.95",
-      "change": "0.61",
+      "value": "209.89",
+      "change": "0.67",
       "direction": "down"
     }
   ],
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "토큰증권 세부안 임박…준비시간은 줄었다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000089151&office_id=293&mode=mainnews&type=&date=2026-08-17&page=1"
+      "title": "'삼전닉스 주주환원'…반등의 구원투수가 온다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005321564&office_id=015&mode=mainnews&type=&date=2026-08-17&page=1"
     },
     {
-      "title": "트럼프의 '타코'를 압박하는 '이것' 부족 현상 [주末머니]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005803749&office_id=277&mode=mainnews&type=&date=2026-08-17&page=1"
+      "title": "반도체·배터리·조선 호조에…상장사 10곳 중 4곳 '깜짝 실적'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005321563&office_id=015&mode=mainnews&type=&date=2026-08-17&page=1"
     },
     {
-      "title": "중복상장 ‘묘수’ 모회사 상폐 난항…금감원 판단 주목",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002684692&office_id=016&mode=mainnews&type=&date=2026-08-17&page=1"
+      "title": "핵심 대장주만 담는다…초집중 ETF 시대",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005321562&office_id=015&mode=mainnews&type=&date=2026-08-17&page=1"
     },
     {
-      "title": "중국 내수는 잊어라? 따로 크는 중국 기업 7곳[GMC]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003544835&office_id=025&mode=mainnews&type=&date=2026-08-17&page=1"
+      "title": "AI 거품론 시기상조…수익 모델 무르익어야",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005321560&office_id=015&mode=mainnews&type=&date=2026-08-17&page=1"
     },
     {
-      "title": "\"변동성 커도 증시 떠나면 안 돼… '이것' 담고 회복 기다려야\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005400898&office_id=008&mode=mainnews&type=&date=2026-08-17&page=1"
+      "title": "\"한국판 블랙먼데이 곧 회복…손절보다 다음 주도주 찾아라\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005321559&office_id=015&mode=mainnews&type=&date=2026-08-17&page=1"
     },
     {
-      "title": "\"280층에 사람 있어요\"…194만 유튜버도 못 견딘 '주식 우울증'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001262610&office_id=215&mode=mainnews&type=&date=2026-08-17&page=1"
+      "title": "코스닥으로 돌아온 개미…'천스닥' 재탈환 기대 커졌다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005321558&office_id=015&mode=mainnews&type=&date=2026-08-17&page=1"
     },
     {
-      "title": "日 경제 성장했다지만…원유 수입 감소가 만든 ‘착시’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003122363&office_id=119&mode=mainnews&type=&date=2026-08-17&page=1"
+      "title": "성장·가치·방어주 동시 담는 '바벨전략' 추천",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005321557&office_id=015&mode=mainnews&type=&date=2026-08-17&page=1"
     },
     {
-      "title": "AI 타고 반전한 스페이스X...서학개미 2660억 '폭풍매수'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005562385&office_id=014&mode=mainnews&type=&date=2026-08-17&page=1"
+      "title": "코스닥 액티브 ETF도 반도체가 수익률 주도",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005321556&office_id=015&mode=mainnews&type=&date=2026-08-17&page=1"
     }
   ]
 }
