@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17 05:39:41",
+  "lastUpdated": "2026-08-17 05:58:21",
   "date": "2026.08.17",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1416.00",
-      "change": "4.20",
+      "value": "1415.00",
+      "change": "5.20",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "890.17",
-      "change": "0.27",
+      "value": "889.57",
+      "change": "0.87",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1640.58",
-      "change": "2.95",
+      "value": "1639.70",
+      "change": "2.07",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "210.06",
-      "change": "0.50",
+      "value": "209.97",
+      "change": "0.59",
       "direction": "down"
     }
   ],
@@ -154,7 +154,7 @@
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0004652316&office_id=011&mode=mainnews&type=&date=2026-08-17&page=1"
     },
     {
-      "title": "[속보] 카카오뱅크, 자사주 27만주 소각 추진…\"주주가치 제고\"",
+      "title": "카카오뱅크, 자사주 27만주 소각 추진…\"주주가치 제고\"",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0001262605&office_id=215&mode=mainnews&type=&date=2026-08-17&page=1"
     },
     {
