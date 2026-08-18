@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-08-18 05:52:53",
+  "lastUpdated": "2026-08-18 06:54:05",
   "date": "2026.08.18",
   "kospi": {
     "name": "KOSPI",
-    "current": "6838.60",
-    "change": "139.34",
-    "changePct": "2.00",
+    "current": "6869.83",
+    "change": "108.11",
+    "changePct": "1.55",
     "direction": "up",
-    "volume": "356589",
-    "tradeAmount": "26023788"
+    "volume": "399036",
+    "tradeAmount": "29644769"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "267000",
-      "change": "-7500",
-      "changePct": "-2.73",
+      "current": "268500",
+      "change": "-6000",
+      "changePct": "-2.19",
       "direction": "down",
-      "volume": "20564539",
+      "volume": "23966985",
       "high": "288000",
-      "low": "266500",
+      "low": "265000",
       "open": "283000",
       "marketCap": "0"
     },
@@ -29,13 +29,13 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1651000",
-      "change": "6000",
-      "changePct": "0.36",
+      "current": "1662000",
+      "change": "17000",
+      "changePct": "1.03",
       "direction": "up",
-      "volume": "4564429",
+      "volume": "5121374",
       "high": "1792000",
-      "low": "1648000",
+      "low": "1640000",
       "open": "1736000",
       "marketCap": "0"
     },
@@ -43,13 +43,13 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "112900",
-      "change": "-7100",
-      "changePct": "-5.92",
+      "current": "112700",
+      "change": "-7300",
+      "changePct": "-6.08",
       "direction": "down",
-      "volume": "298339",
+      "volume": "362311",
       "high": "121800",
-      "low": "112300",
+      "low": "111900",
       "open": "120000",
       "marketCap": "0"
     },
@@ -57,13 +57,13 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "215500",
-      "change": "-12500",
-      "changePct": "-5.48",
+      "current": "217000",
+      "change": "-11000",
+      "changePct": "-4.82",
       "direction": "down",
-      "volume": "697856",
+      "volume": "824583",
       "high": "226000",
-      "low": "215500",
+      "low": "214500",
       "open": "225500",
       "marketCap": "0"
     }
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1410.70",
-      "change": "6.80",
+      "value": "1413.00",
+      "change": "4.50",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "883.57",
-      "change": "5.56",
+      "value": "884.53",
+      "change": "4.60",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1632.60",
-      "change": "8.79",
+      "value": "1634.77",
+      "change": "6.62",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "209.11",
-      "change": "1.10",
+      "value": "209.46",
+      "change": "0.75",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "199253.64",
-      "change": "803.22",
+      "value": "199828.04",
+      "change": "228.82",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "노태문 12만4280주·곽노정 1만4312주…'삼전닉스 임원 자사주 보유' 추적 사이트 등장",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003458249&office_id=030&mode=mainnews&type=&date=2026-08-18&page=1"
+      "title": "외국인 변심에…7200선 찍고 '육천피'로 내려앉아",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005321967&office_id=015&mode=mainnews&type=&date=2026-08-18&page=1"
     },
     {
-      "title": "개미들 한 달 새 1조원 샀다…TIGER 美 대표 ETF 3종에 '뭉칫돈'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000525265&office_id=629&mode=mainnews&type=&date=2026-08-18&page=1"
+      "title": "50조 사던 개미들 지쳤나...거래대금·거래량 연중 최저수준",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003042871&office_id=029&mode=mainnews&type=&date=2026-08-18&page=1"
     },
     {
-      "title": "\"베뉴지, 삼전닉스 주식만 최대 1조…시총보다 큰 자산가치\"[클릭 e종목]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005804192&office_id=277&mode=mainnews&type=&date=2026-08-18&page=1"
+      "title": "\"AI 피크아웃 아직 멀었다\"…버블 끝낼 신호는 이것?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003122719&office_id=119&mode=mainnews&type=&date=2026-08-18&page=1"
     },
     {
-      "title": "다시 뜨거워진 '불닭반도체'…삼양식품 주가 다시 불 붙나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014133081&office_id=003&mode=mainnews&type=&date=2026-08-18&page=1"
+      "title": "\"코스피 다시 오른다\"…간 큰 개미들 '18조 아찔한 베팅'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005321959&office_id=015&mode=mainnews&type=&date=2026-08-18&page=1"
     },
     {
-      "title": "\"닷컴 버블처럼 터진다\" 섬뜩한 경고…삼전닉스 개미들 '초비상'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005321929&office_id=015&mode=mainnews&type=&date=2026-08-18&page=1"
+      "title": "\"5만원대에 삼전 매수\"…'삼성맨 아내' 이현이, 추정 수익률만 무려",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001262722&office_id=215&mode=mainnews&type=&date=2026-08-18&page=1"
     },
     {
-      "title": "최근 코스피 꾸준한 반등에도…거래대금·거래량 연중 최저수준",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016256420&office_id=001&mode=mainnews&type=&date=2026-08-18&page=1"
+      "title": "개미 방향 틀었지만 '역부족'…힘 빠진 외인 코스피 6일 만에↓",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001262721&office_id=215&mode=mainnews&type=&date=2026-08-18&page=1"
     },
     {
-      "title": "한 달간 ETF 수익률 상위는 로봇 ‘ETF’..수익률 20% ‘쑥’↑",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006353479&office_id=018&mode=mainnews&type=&date=2026-08-18&page=1"
+      "title": "오텍캐리어, 48MW급 하이퍼스케일 데이터센터 냉각 수주…500MW 시장 정조준",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005804226&office_id=277&mode=mainnews&type=&date=2026-08-18&page=1"
     },
     {
-      "title": "베뉴지, 신통한 주식투자 불구 부진한 기업가치",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005401302&office_id=008&mode=mainnews&type=&date=2026-08-18&page=1"
+      "title": "\"ETF 잘 될수록 세금 더 낸다\"…500조 시장 발목 잡는 '낡은 세제' [fn마켓워치]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005562926&office_id=014&mode=mainnews&type=&date=2026-08-18&page=1"
     }
   ]
 }
