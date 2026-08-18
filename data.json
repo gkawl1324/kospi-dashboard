@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-08-18 03:20:53",
+  "lastUpdated": "2026-08-18 03:49:40",
   "date": "2026.08.18",
   "kospi": {
     "name": "KOSPI",
-    "current": "6899.92",
-    "change": "78.02",
-    "changePct": "1.12",
+    "current": "6915.06",
+    "change": "62.88",
+    "changePct": "0.90",
     "direction": "up",
-    "volume": "242552",
-    "tradeAmount": "18629184"
+    "volume": "267674",
+    "tradeAmount": "20086686"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "269750",
-      "change": "-4750",
-      "changePct": "-1.73",
+      "current": "271250",
+      "change": "-3250",
+      "changePct": "-1.18",
       "direction": "down",
-      "volume": "14465356",
+      "volume": "15561828",
       "high": "288000",
       "low": "268000",
       "open": "283000",
@@ -29,13 +29,13 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1664000",
-      "change": "19000",
-      "changePct": "1.16",
+      "current": "1670000",
+      "change": "25000",
+      "changePct": "1.52",
       "direction": "up",
-      "volume": "3373509",
+      "volume": "3642423",
       "high": "1792000",
-      "low": "1661000",
+      "low": "1650000",
       "open": "1736000",
       "marketCap": "0"
     },
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "113900",
-      "change": "-6100",
-      "changePct": "-5.08",
+      "current": "113800",
+      "change": "-6200",
+      "changePct": "-5.17",
       "direction": "down",
-      "volume": "192837",
+      "volume": "205523",
       "high": "121800",
       "low": "113200",
       "open": "120000",
@@ -57,13 +57,13 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "219000",
-      "change": "-9000",
-      "changePct": "-3.95",
+      "current": "218000",
+      "change": "-10000",
+      "changePct": "-4.39",
       "direction": "down",
-      "volume": "474899",
+      "volume": "523928",
       "high": "226000",
-      "low": "218000",
+      "low": "217000",
       "open": "225500",
       "marketCap": "0"
     }
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1409.30",
-      "change": "8.20",
+      "value": "1412.00",
+      "change": "5.50",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "883.67",
-      "change": "5.46",
+      "value": "884.93",
+      "change": "4.20",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1631.57",
-      "change": "9.82",
+      "value": "1633.97",
+      "change": "7.42",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "208.97",
-      "change": "1.24",
+      "value": "209.34",
+      "change": "0.87",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "199249.07",
-      "change": "807.79",
+      "value": "199521.11",
+      "change": "535.75",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -146,7 +146,7 @@
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005321890&office_id=015&mode=mainnews&type=&date=2026-08-18&page=1"
     },
     {
-      "title": "코스피, 한달만에 7200선 터치…지난번 급등과 '이것' 다르다",
+      "title": "계속 오르나 싶었는데...장 초반 7200 찍고 하락, 코스피 전망은",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005401267&office_id=008&mode=mainnews&type=&date=2026-08-18&page=1"
     },
     {
@@ -166,7 +166,7 @@
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002685041&office_id=016&mode=mainnews&type=&date=2026-08-18&page=1"
     },
     {
-      "title": "SK하이닉스 자회사 ‘솔리다임’ 상장 추진…주주환원 강화되나",
+      "title": "SK하이닉스 자회사 ‘솔리다임’ 상장 추진설…주주환원 강화되나",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002685040&office_id=016&mode=mainnews&type=&date=2026-08-18&page=1"
     },
     {
