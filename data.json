@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18 06:54:05",
+  "lastUpdated": "2026-08-18 07:12:32",
   "date": "2026.08.18",
   "kospi": {
     "name": "KOSPI",
@@ -19,7 +19,7 @@
       "change": "-6000",
       "changePct": "-2.19",
       "direction": "down",
-      "volume": "23966985",
+      "volume": "24003581",
       "high": "288000",
       "low": "265000",
       "open": "283000",
@@ -47,7 +47,7 @@
       "change": "-7300",
       "changePct": "-6.08",
       "direction": "down",
-      "volume": "362311",
+      "volume": "362313",
       "high": "121800",
       "low": "111900",
       "open": "120000",
@@ -61,7 +61,7 @@
       "change": "-11000",
       "changePct": "-4.82",
       "direction": "down",
-      "volume": "824583",
+      "volume": "824610",
       "high": "226000",
       "low": "214500",
       "open": "225500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1413.00",
-      "change": "4.50",
+      "value": "1411.50",
+      "change": "6.00",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "884.53",
-      "change": "4.60",
+      "value": "883.68",
+      "change": "5.45",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1634.77",
-      "change": "6.62",
+      "value": "1633.53",
+      "change": "7.86",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "209.46",
-      "change": "0.75",
+      "value": "209.25",
+      "change": "0.96",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "199828.04",
-      "change": "228.82",
+      "value": "199542.71",
+      "change": "514.15",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "외국인 변심에…7200선 찍고 '육천피'로 내려앉아",
+      "title": "상장폐지 앞두고 '깜짝 급등락'…소수계좌 거래집중 4배 늘었다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005401406&office_id=008&mode=mainnews&type=&date=2026-08-18&page=1"
+    },
+    {
+      "title": "[단독] 딱 하루 '1000원' 찍고 급락…'상폐 회피' 꼼수 잡아낸다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005321977&office_id=015&mode=mainnews&type=&date=2026-08-18&page=1"
+    },
+    {
+      "title": "美 국채금리 5% 쇼크?코스피 '7000 랠리' 복병되나",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001050485&office_id=031&mode=mainnews&type=&date=2026-08-18&page=1"
+    },
+    {
+      "title": "롯데건설·이랜드월드, 19일 수요예측…비우량채 시장 시험대",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005401402&office_id=008&mode=mainnews&type=&date=2026-08-18&page=1"
+    },
+    {
+      "title": "외국인 변심에…7200선 찍고 '육천피'로 내려앉았다",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005321967&office_id=015&mode=mainnews&type=&date=2026-08-18&page=1"
     },
     {
-      "title": "50조 사던 개미들 지쳤나...거래대금·거래량 연중 최저수준",
+      "title": "부동산 공급책에 건설株 볕드나…은행도 '반색'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006353568&office_id=018&mode=mainnews&type=&date=2026-08-18&page=1"
+    },
+    {
+      "title": "50조 사던 개미들 지쳤나…거래대금·거래량 연중 최저수준",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0003042871&office_id=029&mode=mainnews&type=&date=2026-08-18&page=1"
     },
     {
-      "title": "\"AI 피크아웃 아직 멀었다\"…버블 끝낼 신호는 이것?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003122719&office_id=119&mode=mainnews&type=&date=2026-08-18&page=1"
-    },
-    {
-      "title": "\"코스피 다시 오른다\"…간 큰 개미들 '18조 아찔한 베팅'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005321959&office_id=015&mode=mainnews&type=&date=2026-08-18&page=1"
-    },
-    {
-      "title": "\"5만원대에 삼전 매수\"…'삼성맨 아내' 이현이, 추정 수익률만 무려",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001262722&office_id=215&mode=mainnews&type=&date=2026-08-18&page=1"
-    },
-    {
-      "title": "개미 방향 틀었지만 '역부족'…힘 빠진 외인 코스피 6일 만에↓",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001262721&office_id=215&mode=mainnews&type=&date=2026-08-18&page=1"
-    },
-    {
-      "title": "오텍캐리어, 48MW급 하이퍼스케일 데이터센터 냉각 수주…500MW 시장 정조준",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005804226&office_id=277&mode=mainnews&type=&date=2026-08-18&page=1"
-    },
-    {
-      "title": "\"ETF 잘 될수록 세금 더 낸다\"…500조 시장 발목 잡는 '낡은 세제' [fn마켓워치]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005562926&office_id=014&mode=mainnews&type=&date=2026-08-18&page=1"
+      "title": "7200 찍고 6800선까지…‘롤러코스피’ 1%대 약세 마감",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006353558&office_id=018&mode=mainnews&type=&date=2026-08-18&page=1"
     }
   ]
 }
