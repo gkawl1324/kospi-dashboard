@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-08-19 05:54:06",
+  "lastUpdated": "2026-08-19 06:54:10",
   "date": "2026.08.19",
   "kospi": {
     "name": "KOSPI",
-    "current": "6479.47",
-    "change": "390.36",
-    "changePct": "5.68",
+    "current": "6471.17",
+    "change": "398.66",
+    "changePct": "5.80",
     "direction": "up",
-    "volume": "271088",
-    "tradeAmount": "19022021"
+    "volume": "302072",
+    "tradeAmount": "22937485"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "248000",
-      "change": "-20500",
-      "changePct": "-7.64",
+      "current": "247500",
+      "change": "-21000",
+      "changePct": "-7.82",
       "direction": "down",
-      "volume": "18410512",
+      "volume": "22683095",
       "high": "254500",
-      "low": "247000",
+      "low": "246500",
       "open": "251500",
       "marketCap": "0"
     },
@@ -29,13 +29,13 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1506000",
-      "change": "-156000",
-      "changePct": "-9.39",
+      "current": "1500000",
+      "change": "-162000",
+      "changePct": "-9.75",
       "direction": "down",
-      "volume": "3226890",
+      "volume": "4205970",
       "high": "1559000",
-      "low": "1501000",
+      "low": "1486000",
       "open": "1545000",
       "marketCap": "0"
     },
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "110300",
-      "change": "-2400",
-      "changePct": "-2.13",
+      "current": "110200",
+      "change": "-2500",
+      "changePct": "-2.22",
       "direction": "down",
-      "volume": "226877",
+      "volume": "285777",
       "high": "112800",
       "low": "107400",
       "open": "108100",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "207500",
-      "change": "-9500",
-      "changePct": "-4.38",
+      "current": "208000",
+      "change": "-9000",
+      "changePct": "-4.15",
       "direction": "down",
-      "volume": "635182",
+      "volume": "733375",
       "high": "209500",
       "low": "203000",
       "open": "208500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1398.30",
-      "change": "15.20",
+      "value": "1398.20",
+      "change": "15.30",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "877.78",
-      "change": "7.71",
+      "value": "878.05",
+      "change": "7.44",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1620.42",
-      "change": "15.71",
+      "value": "1621.42",
+      "change": "14.71",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "207.40",
-      "change": "2.11",
+      "value": "207.48",
+      "change": "2.03",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "195024.42",
-      "change": "2507.24",
+      "value": "195231.8",
+      "change": "2299.86",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,6 +142,18 @@
   ],
   "news": [
     {
+      "title": "10개월 만에 무너진 1400원…美 금리인상 기대 후퇴·네고에 환율 급락",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009121631&office_id=421&mode=mainnews&type=&date=2026-08-19&page=1"
+    },
+    {
+      "title": "\"바닥 확인한 증시, 지금 살 종목은…\" 투자 고수의 조언",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005322402&office_id=015&mode=mainnews&type=&date=2026-08-19&page=1"
+    },
+    {
+      "title": "유니트리, 상장 첫날 600% 폭등...웃지 못하는 국내 로봇주 [마켓딥다이브]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001262848&office_id=215&mode=mainnews&type=&date=2026-08-19&page=1"
+    },
+    {
       "title": "얼라인, 가비아 임시주총 소집 청구…“공개매수가 저평가”",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0006354163&office_id=018&mode=mainnews&type=&date=2026-08-19&page=1"
     },
@@ -160,18 +172,6 @@
     {
       "title": "변동장에 파킹형 ETF 인기...KODEX 머니마켓액티브, 개미 5320억 몰렸다",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005563458&office_id=014&mode=mainnews&type=&date=2026-08-19&page=1"
-    },
-    {
-      "title": "‘앞으로 강세장’ “이걸 믿는 사람 많다니”…기술주 피하라는 美억만장자의 경고",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004653029&office_id=011&mode=mainnews&type=&date=2026-08-19&page=1"
-    },
-    {
-      "title": "코스피 와르르… 장중 ‘25만전자·154만닉스’ 깨져",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002812317&office_id=021&mode=mainnews&type=&date=2026-08-19&page=1"
-    },
-    {
-      "title": "한화비전 최대주주 한화 지분 '0%'…주식 이동 없이 '지주 분가'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000089253&office_id=293&mode=mainnews&type=&date=2026-08-19&page=1"
     }
   ]
 }
