@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-08-19 05:35:49",
+  "lastUpdated": "2026-08-19 05:54:06",
   "date": "2026.08.19",
   "kospi": {
     "name": "KOSPI",
-    "current": "6497.09",
-    "change": "372.74",
-    "changePct": "5.43",
+    "current": "6479.47",
+    "change": "390.36",
+    "changePct": "5.68",
     "direction": "up",
-    "volume": "260683",
-    "tradeAmount": "18239597"
+    "volume": "271088",
+    "tradeAmount": "19022021"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "248500",
-      "change": "-20000",
-      "changePct": "-7.45",
+      "current": "248000",
+      "change": "-20500",
+      "changePct": "-7.64",
       "direction": "down",
-      "volume": "17753919",
+      "volume": "18410512",
       "high": "254500",
       "low": "247000",
       "open": "251500",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1511000",
-      "change": "-151000",
-      "changePct": "-9.09",
+      "current": "1506000",
+      "change": "-156000",
+      "changePct": "-9.39",
       "direction": "down",
-      "volume": "3100018",
+      "volume": "3226890",
       "high": "1559000",
       "low": "1501000",
       "open": "1545000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "110900",
-      "change": "-1800",
-      "changePct": "-1.60",
+      "current": "110300",
+      "change": "-2400",
+      "changePct": "-2.13",
       "direction": "down",
-      "volume": "217839",
+      "volume": "226877",
       "high": "112800",
       "low": "107400",
       "open": "108100",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "208000",
-      "change": "-9000",
-      "changePct": "-4.15",
+      "current": "207500",
+      "change": "-9500",
+      "changePct": "-4.38",
       "direction": "down",
-      "volume": "600205",
+      "volume": "635182",
       "high": "209500",
       "low": "203000",
       "open": "208500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1397.00",
-      "change": "16.50",
+      "value": "1398.30",
+      "change": "15.20",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "877.32",
-      "change": "8.17",
+      "value": "877.78",
+      "change": "7.71",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1618.56",
-      "change": "17.57",
+      "value": "1620.42",
+      "change": "15.71",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "207.21",
-      "change": "2.30",
+      "value": "207.40",
+      "change": "2.11",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "195080.92",
-      "change": "2450.74",
+      "value": "195024.42",
+      "change": "2507.24",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,6 +142,10 @@
   ],
   "news": [
     {
+      "title": "얼라인, 가비아 임시주총 소집 청구…“공개매수가 저평가”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006354163&office_id=018&mode=mainnews&type=&date=2026-08-19&page=1"
+    },
+    {
       "title": "거래 89% 급감했는데…“단일종목 레버리지, 배율 탄력 조정 검토해야”",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000101868&office_id=243&mode=mainnews&type=&date=2026-08-19&page=1"
     },
@@ -150,7 +154,7 @@
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0006354134&office_id=018&mode=mainnews&type=&date=2026-08-19&page=1"
     },
     {
-      "title": "“엔화 개입의 역설… 美 방어 없었다면 더 올랐을 것”",
+      "title": "“엔화 개입의 역설… 美 방어 없었다면 더 올랐을 것”[김혜란의 FX]",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0004653040&office_id=011&mode=mainnews&type=&date=2026-08-19&page=1"
     },
     {
@@ -168,10 +172,6 @@
     {
       "title": "한화비전 최대주주 한화 지분 '0%'…주식 이동 없이 '지주 분가'",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000089253&office_id=293&mode=mainnews&type=&date=2026-08-19&page=1"
-    },
-    {
-      "title": "\"오래 쉬었고, 재반등의 시간\"…삼전닉스 흔들리자 '투심' 소외가 기회라는 이 종목 [주식R]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001262822&office_id=215&mode=mainnews&type=&date=2026-08-19&page=1"
     }
   ]
 }
