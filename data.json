@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-08-19 01:58:09",
+  "lastUpdated": "2026-08-19 02:19:50",
   "date": "2026.08.19",
   "kospi": {
     "name": "KOSPI",
-    "current": "6537.69",
-    "change": "332.14",
-    "changePct": "4.83",
+    "current": "6492.26",
+    "change": "377.57",
+    "changePct": "5.50",
     "direction": "up",
-    "volume": "159480",
-    "tradeAmount": "10982729"
+    "volume": "172036",
+    "tradeAmount": "11834694"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "251000",
-      "change": "-17500",
-      "changePct": "-6.52",
+      "current": "249500",
+      "change": "-19000",
+      "changePct": "-7.08",
       "direction": "down",
-      "volume": "10516045",
+      "volume": "11234295",
       "high": "254500",
       "low": "247000",
       "open": "251500",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1542000",
-      "change": "-120000",
-      "changePct": "-7.22",
+      "current": "1524000",
+      "change": "-138000",
+      "changePct": "-8.30",
       "direction": "down",
-      "volume": "1974542",
+      "volume": "2100928",
       "high": "1559000",
       "low": "1501000",
       "open": "1545000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "111400",
-      "change": "-1300",
-      "changePct": "-1.15",
+      "current": "110700",
+      "change": "-2000",
+      "changePct": "-1.77",
       "direction": "down",
-      "volume": "97104",
+      "volume": "113978",
       "high": "112800",
       "low": "107400",
       "open": "108100",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "207000",
-      "change": "-10000",
-      "changePct": "-4.61",
+      "current": "205500",
+      "change": "-11500",
+      "changePct": "-5.30",
       "direction": "down",
-      "volume": "370026",
+      "volume": "391652",
       "high": "209500",
       "low": "203000",
       "open": "208500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1406.30",
-      "change": "7.20",
+      "value": "1403.20",
+      "change": "10.30",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "881.94",
-      "change": "3.55",
+      "value": "880.58",
+      "change": "4.91",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1628.07",
-      "change": "8.06",
+      "value": "1625.54",
+      "change": "10.59",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "208.47",
-      "change": "1.04",
+      "value": "208.03",
+      "change": "1.48",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "196924.21",
-      "change": "607.45",
+      "value": "196777.65",
+      "change": "754.01",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,6 +142,18 @@
   ],
   "news": [
     {
+      "title": "“빚내서 투자하던 버릇 어디 안 갔네”…레버리지 막자 삼전닉스 ‘빚투’ 늘었다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004652987&office_id=011&mode=mainnews&type=&date=2026-08-19&page=1"
+    },
+    {
+      "title": "레버리지 지나가니 미국발 금리 급등…코스피 매도 사이드카",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005401786&office_id=008&mode=mainnews&type=&date=2026-08-19&page=1"
+    },
+    {
+      "title": "현안 산더미인데 지방이전까지…금융위·금감원 '줄퇴사' 빨라지나",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000525521&office_id=629&mode=mainnews&type=&date=2026-08-19&page=1"
+    },
+    {
       "title": "또 변동성 확대? 단기 차익실현?…美국채 금리 급등에 코스피 출렁",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0016257986&office_id=001&mode=mainnews&type=&date=2026-08-19&page=1"
     },
@@ -160,18 +172,6 @@
     {
       "title": "\"예탁금 올려 거래 줄었다고 끝?\"…입법조사처, 레버리지 ETF 추가 안전장치 주문",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005563331&office_id=014&mode=mainnews&type=&date=2026-08-19&page=1"
-    },
-    {
-      "title": "美 금리 쇼크에 반도체 투심 ‘뚝’…삼전닉스 7·9% 급락 [종목Pick]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002685442&office_id=016&mode=mainnews&type=&date=2026-08-19&page=1"
-    },
-    {
-      "title": "“韓 상장사는 100% 믿기가”...코리아 디스카운트 부르는 ‘더블카운팅’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005722687&office_id=009&mode=mainnews&type=&date=2026-08-19&page=1"
-    },
-    {
-      "title": "코스피 6500선 붕괴?美 국채금리 쇼크 '반도체' 직격",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001050644&office_id=031&mode=mainnews&type=&date=2026-08-19&page=1"
     }
   ]
 }
