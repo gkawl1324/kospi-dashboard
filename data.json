@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19 06:54:10",
+  "lastUpdated": "2026-08-19 07:13:05",
   "date": "2026.08.19",
   "kospi": {
     "name": "KOSPI",
@@ -19,7 +19,7 @@
       "change": "-21000",
       "changePct": "-7.82",
       "direction": "down",
-      "volume": "22683095",
+      "volume": "22683374",
       "high": "254500",
       "low": "246500",
       "open": "251500",
@@ -33,7 +33,7 @@
       "change": "-162000",
       "changePct": "-9.75",
       "direction": "down",
-      "volume": "4205970",
+      "volume": "4206017",
       "high": "1559000",
       "low": "1486000",
       "open": "1545000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1398.20",
-      "change": "15.30",
+      "value": "1398.40",
+      "change": "15.10",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "878.05",
-      "change": "7.44",
+      "value": "878.62",
+      "change": "6.87",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1621.42",
-      "change": "14.71",
+      "value": "1621.67",
+      "change": "14.46",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "207.48",
-      "change": "2.03",
+      "value": "207.51",
+      "change": "2.00",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "195231.8",
-      "change": "2299.86",
+      "value": "195624.38",
+      "change": "1907.28",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
+      "title": "외국인 3.5조 팔았는데 환율 14원 급락…10개월 만에 1300원대(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009121818&office_id=421&mode=mainnews&type=&date=2026-08-19&page=1"
+    },
+    {
+      "title": "상반기 '역대 최대' 실적…삼전닉스 빼도 코스피 영업익 143조",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006354265&office_id=018&mode=mainnews&type=&date=2026-08-19&page=1"
+    },
+    {
+      "title": "코스피, 5.8% 급락…外人 하루 만에 3.5조 던졌다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014136011&office_id=003&mode=mainnews&type=&date=2026-08-19&page=1"
+    },
+    {
+      "title": "외인·기관 4.8조 던졌다…삼전 7%·하이닉스 9% ‘뚝’ [이런국장 저런주식]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004653099&office_id=011&mode=mainnews&type=&date=2026-08-19&page=1"
+    },
+    {
+      "title": "코스피 5.8% 급락해 6470선…환율은 10개월 만에 1300원대",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000525687&office_id=629&mode=mainnews&type=&date=2026-08-19&page=1"
+    },
+    {
+      "title": "[속보]美 장기금리 쇼크에 반도체 '와르르'…코스피, 8월 상승분 반납",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006354242&office_id=018&mode=mainnews&type=&date=2026-08-19&page=1"
+    },
+    {
+      "title": "회생기업 마지막 희망 M&A…10년새 2배 급증 [회생의 조건 ④]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002685722&office_id=016&mode=mainnews&type=&date=2026-08-19&page=1"
+    },
+    {
       "title": "10개월 만에 무너진 1400원…美 금리인상 기대 후퇴·네고에 환율 급락",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0009121631&office_id=421&mode=mainnews&type=&date=2026-08-19&page=1"
-    },
-    {
-      "title": "\"바닥 확인한 증시, 지금 살 종목은…\" 투자 고수의 조언",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005322402&office_id=015&mode=mainnews&type=&date=2026-08-19&page=1"
-    },
-    {
-      "title": "유니트리, 상장 첫날 600% 폭등...웃지 못하는 국내 로봇주 [마켓딥다이브]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001262848&office_id=215&mode=mainnews&type=&date=2026-08-19&page=1"
-    },
-    {
-      "title": "얼라인, 가비아 임시주총 소집 청구…“공개매수가 저평가”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006354163&office_id=018&mode=mainnews&type=&date=2026-08-19&page=1"
-    },
-    {
-      "title": "거래 89% 급감했는데…“단일종목 레버리지, 배율 탄력 조정 검토해야”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000101868&office_id=243&mode=mainnews&type=&date=2026-08-19&page=1"
-    },
-    {
-      "title": "“국장 장투 못하겠네”…개미, 美 ETF로 ‘우르르’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006354134&office_id=018&mode=mainnews&type=&date=2026-08-19&page=1"
-    },
-    {
-      "title": "“엔화 개입의 역설… 美 방어 없었다면 더 올랐을 것”[김혜란의 FX]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004653040&office_id=011&mode=mainnews&type=&date=2026-08-19&page=1"
-    },
-    {
-      "title": "변동장에 파킹형 ETF 인기...KODEX 머니마켓액티브, 개미 5320억 몰렸다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005563458&office_id=014&mode=mainnews&type=&date=2026-08-19&page=1"
     }
   ]
 }
