@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-08-20 02:18:54",
+  "lastUpdated": "2026-08-20 03:22:51",
   "date": "2026.08.20",
   "kospi": {
     "name": "KOSPI",
-    "current": "6864.82",
-    "change": "393.65",
-    "changePct": "6.08",
+    "current": "6859.95",
+    "change": "388.78",
+    "changePct": "6.01",
     "direction": "up",
-    "volume": "156897",
-    "tradeAmount": "13093663"
+    "volume": "189714",
+    "tradeAmount": "16091434"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "270000",
-      "change": "22500",
-      "changePct": "9.09",
+      "current": "269500",
+      "change": "22000",
+      "changePct": "8.89",
       "direction": "up",
-      "volume": "12200214",
+      "volume": "15235538",
       "high": "273000",
       "low": "252500",
       "open": "257000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1686000",
-      "change": "186000",
-      "changePct": "12.40",
+      "current": "1689000",
+      "change": "189000",
+      "changePct": "12.60",
       "direction": "up",
-      "volume": "2502077",
+      "volume": "3028517",
       "high": "1700000",
       "low": "1576000",
       "open": "1613000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "111900",
-      "change": "1700",
-      "changePct": "1.54",
+      "current": "111400",
+      "change": "1200",
+      "changePct": "1.09",
       "direction": "up",
-      "volume": "80195",
+      "volume": "105049",
       "high": "112600",
       "low": "109100",
       "open": "110000",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "221000",
-      "change": "13000",
-      "changePct": "6.25",
+      "current": "219750",
+      "change": "11750",
+      "changePct": "5.65",
       "direction": "up",
-      "volume": "589026",
+      "volume": "674746",
       "high": "223500",
       "low": "209500",
       "open": "210500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1395.00",
-      "change": "5.00",
+      "value": "1394.50",
+      "change": "4.50",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "880.18",
-      "change": "0.74",
+      "value": "880.37",
+      "change": "0.93",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1628.80",
-      "change": "5.35",
+      "value": "1628.29",
+      "change": "4.84",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "207.45",
-      "change": "0.92",
+      "value": "207.41",
+      "change": "0.88",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "201652.42",
-      "change": "826.89",
+      "value": "201384.98",
+      "change": "559.45",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
+      "title": "창신 이어 양쯔까지…'中 메모리' 잇딴 IPO에 삼전·닉스 부담 커지나",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014137792&office_id=003&mode=mainnews&type=&date=2026-08-20&page=1"
+    },
+    {
+      "title": "초고수, 13% 뛴 SK하이닉스 더 샀다…삼성전자도 순매수 [주식초고수는 지금]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004653421&office_id=011&mode=mainnews&type=&date=2026-08-20&page=1"
+    },
+    {
+      "title": "또 ‘롤러코스피’… 오늘은 매수 사이드카",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002812559&office_id=021&mode=mainnews&type=&date=2026-08-20&page=1"
+    },
+    {
+      "title": "주주환원·자사주 매입에 거래량 폭발...'재료' 반응 최고조[오늘의 삼전닉스]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000101907&office_id=243&mode=mainnews&type=&date=2026-08-20&page=1"
+    },
+    {
+      "title": "11개월 만에 1300원대 진입한 환율…안착 가능성은",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005805189&office_id=277&mode=mainnews&type=&date=2026-08-20&page=1"
+    },
+    {
+      "title": "원·달러, 11개월 만에 1300원대 '뚝'…증권가가 꼽은 수혜주는",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014137502&office_id=003&mode=mainnews&type=&date=2026-08-20&page=1"
+    },
+    {
+      "title": "코인 과세 코앞인데…스테이킹·에어드롭 세금 기준도 마련 못해",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000525916&office_id=629&mode=mainnews&type=&date=2026-08-20&page=1"
+    },
+    {
       "title": "SK하이닉스 40조 규모 ‘역대급 주주환원’…“재평가 출발점”",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002686084&office_id=016&mode=mainnews&type=&date=2026-08-20&page=1"
-    },
-    {
-      "title": "천조국 진출하는 K-자주포...한화에어로 눈높이 '쑥'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000049995&office_id=648&mode=mainnews&type=&date=2026-08-20&page=1"
-    },
-    {
-      "title": "교보證 “SK하이닉스 40조 자사주 소각, 시장 기대 웃돌아…주주환원 성장주로 재평가”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002238379&office_id=138&mode=mainnews&type=&date=2026-08-20&page=1"
-    },
-    {
-      "title": "주주단체 \"SK하닉 40조 소각 환영…이제 삼성전자 답할 차례\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009123092&office_id=421&mode=mainnews&type=&date=2026-08-20&page=1"
-    },
-    {
-      "title": "\"40조 소각은 예고편, '360만닉스' 간다\"…\"삼성전자, AI 투자 3년내 회수 가능\" [株토피아]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005563982&office_id=014&mode=mainnews&type=&date=2026-08-20&page=1"
-    },
-    {
-      "title": "SK하이닉스 40조 자사주 중개 소식에…SK증권 ‘상한가’ [이런국장 저런주식]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004653394&office_id=011&mode=mainnews&type=&date=2026-08-20&page=1"
-    },
-    {
-      "title": "SK하닉 '40조 소각'에 급락 코스피 솟구쳤다…\"다음은 삼전이다\" 들썩",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005402344&office_id=008&mode=mainnews&type=&date=2026-08-20&page=1"
-    },
-    {
-      "title": "모더나 177% 폭등에 공매도 '비명'…하루 55억달러 손실",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005805126&office_id=277&mode=mainnews&type=&date=2026-08-20&page=1"
     }
   ]
 }
