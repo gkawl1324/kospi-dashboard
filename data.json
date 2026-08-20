@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-08-20 05:02:26",
+  "lastUpdated": "2026-08-20 05:36:19",
   "date": "2026.08.20",
   "kospi": {
     "name": "KOSPI",
-    "current": "6843.01",
-    "change": "371.84",
-    "changePct": "5.75",
+    "current": "6851.95",
+    "change": "380.78",
+    "changePct": "5.88",
     "direction": "up",
-    "volume": "242720",
-    "tradeAmount": "20905410"
+    "volume": "260937",
+    "tradeAmount": "22791994"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "268750",
-      "change": "21250",
-      "changePct": "8.59",
+      "current": "270500",
+      "change": "23000",
+      "changePct": "9.29",
       "direction": "up",
-      "volume": "18899799",
+      "volume": "20556439",
       "high": "273000",
       "low": "252500",
       "open": "257000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1694000",
-      "change": "194000",
-      "changePct": "12.93",
+      "current": "1691000",
+      "change": "191000",
+      "changePct": "12.73",
       "direction": "up",
-      "volume": "4003669",
+      "volume": "4347113",
       "high": "1720000",
       "low": "1576000",
       "open": "1613000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "110900",
-      "change": "700",
-      "changePct": "0.64",
+      "current": "110500",
+      "change": "300",
+      "changePct": "0.27",
       "direction": "up",
-      "volume": "146063",
+      "volume": "162986",
       "high": "112600",
       "low": "109100",
       "open": "110000",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "220500",
-      "change": "12500",
-      "changePct": "6.01",
+      "current": "221000",
+      "change": "13000",
+      "changePct": "6.25",
       "direction": "up",
-      "volume": "789191",
+      "volume": "834859",
       "high": "223500",
       "low": "209500",
       "open": "210500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1394.10",
-      "change": "4.10",
+      "value": "1395.40",
+      "change": "5.40",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "879.17",
-      "change": "0.27",
+      "value": "879.27",
+      "change": "0.17",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1627.47",
-      "change": "4.02",
+      "value": "1628.78",
+      "change": "5.33",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "207.32",
-      "change": "0.79",
+      "value": "207.49",
+      "change": "0.96",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "201270.19",
-      "change": "444.66",
+      "value": "201002.17",
+      "change": "176.64",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,6 +142,18 @@
   ],
   "news": [
     {
+      "title": "SK하이닉스 '40조원' 자사주 매입 호재…韓·美 주식시장 온도 차 극심했던 이유",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000101913&office_id=243&mode=mainnews&type=&date=2026-08-20&page=1"
+    },
+    {
+      "title": "금호타이어 최대주주 지분율 60%선 붕괴…호실적 속 채권단 '엑시트'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000089314&office_id=293&mode=mainnews&type=&date=2026-08-20&page=1"
+    },
+    {
+      "title": "성과보수 앞세운 사모운용 또 약진...\"하반기가 진짜 실력\"[금융투자 상반기 실적]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000049997&office_id=648&mode=mainnews&type=&date=2026-08-20&page=1"
+    },
+    {
       "title": "“PER 4배, 싸 보인다고 샀다가는”…실적 전망 꺾인 삼전닉스, ‘이것’ 확인해야",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005723427&office_id=009&mode=mainnews&type=&date=2026-08-20&page=1"
     },
@@ -160,18 +172,6 @@
     {
       "title": "코스피, 6%대 급등…삼전 27만원·하닉 170만원 돌파",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0006354890&office_id=018&mode=mainnews&type=&date=2026-08-20&page=1"
-    },
-    {
-      "title": "\"하이닉스 강력한 신호\" 170만원 점프…124만원 버틴 개미들 환호",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001262974&office_id=215&mode=mainnews&type=&date=2026-08-20&page=1"
-    },
-    {
-      "title": "\"40조 잭팟 잡았대\" 우르르…SK하이닉스 효과에 상한가 치솟은 종목",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001262971&office_id=215&mode=mainnews&type=&date=2026-08-20&page=1"
-    },
-    {
-      "title": "창신 이어 양쯔까지…'中 메모리' 잇딴 IPO에 삼전·닉스 부담 커지나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014137792&office_id=003&mode=mainnews&type=&date=2026-08-20&page=1"
     }
   ]
 }
