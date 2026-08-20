@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-08-20 03:22:51",
+  "lastUpdated": "2026-08-20 03:51:26",
   "date": "2026.08.20",
   "kospi": {
     "name": "KOSPI",
-    "current": "6859.95",
-    "change": "388.78",
-    "changePct": "6.01",
+    "current": "6872.05",
+    "change": "400.88",
+    "changePct": "6.19",
     "direction": "up",
-    "volume": "189714",
-    "tradeAmount": "16091434"
+    "volume": "202786",
+    "tradeAmount": "17253957"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "269500",
-      "change": "22000",
-      "changePct": "8.89",
+      "current": "269750",
+      "change": "22250",
+      "changePct": "8.99",
       "direction": "up",
-      "volume": "15235538",
+      "volume": "16179071",
       "high": "273000",
       "low": "252500",
       "open": "257000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1689000",
-      "change": "189000",
-      "changePct": "12.60",
+      "current": "1698000",
+      "change": "198000",
+      "changePct": "13.20",
       "direction": "up",
-      "volume": "3028517",
+      "volume": "3256045",
       "high": "1700000",
       "low": "1576000",
       "open": "1613000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "111400",
-      "change": "1200",
-      "changePct": "1.09",
+      "current": "111200",
+      "change": "1000",
+      "changePct": "0.91",
       "direction": "up",
-      "volume": "105049",
+      "volume": "115763",
       "high": "112600",
       "low": "109100",
       "open": "110000",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "219750",
-      "change": "11750",
-      "changePct": "5.65",
+      "current": "220500",
+      "change": "12500",
+      "changePct": "6.01",
       "direction": "up",
-      "volume": "674746",
+      "volume": "707657",
       "high": "223500",
       "low": "209500",
       "open": "210500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1394.50",
-      "change": "4.50",
+      "value": "1393.50",
+      "change": "3.50",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "880.37",
-      "change": "0.93",
+      "value": "879.48",
+      "change": "0.04",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1628.29",
-      "change": "4.84",
+      "value": "1627.40",
+      "change": "3.95",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "207.41",
-      "change": "0.88",
+      "value": "207.25",
+      "change": "0.72",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "201384.98",
-      "change": "559.45",
+      "value": "201539.99",
+      "change": "714.46",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -141,6 +141,10 @@
     }
   ],
   "news": [
+    {
+      "title": "\"40조 잭팟 잡았대\" 우르르…SK하이닉스 효과에 상한가 치솟은 종목",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001262971&office_id=215&mode=mainnews&type=&date=2026-08-20&page=1"
+    },
     {
       "title": "창신 이어 양쯔까지…'中 메모리' 잇딴 IPO에 삼전·닉스 부담 커지나",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0014137792&office_id=003&mode=mainnews&type=&date=2026-08-20&page=1"
@@ -168,10 +172,6 @@
     {
       "title": "코인 과세 코앞인데…스테이킹·에어드롭 세금 기준도 마련 못해",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000525916&office_id=629&mode=mainnews&type=&date=2026-08-20&page=1"
-    },
-    {
-      "title": "SK하이닉스 40조 규모 ‘역대급 주주환원’…“재평가 출발점”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002686084&office_id=016&mode=mainnews&type=&date=2026-08-20&page=1"
     }
   ]
 }
