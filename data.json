@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-08-20 01:56:59",
+  "lastUpdated": "2026-08-20 02:18:54",
   "date": "2026.08.20",
   "kospi": {
     "name": "KOSPI",
-    "current": "6847.42",
-    "change": "376.25",
-    "changePct": "5.81",
+    "current": "6864.82",
+    "change": "393.65",
+    "changePct": "6.08",
     "direction": "up",
-    "volume": "138622",
-    "tradeAmount": "11716639"
+    "volume": "156897",
+    "tradeAmount": "13093663"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "269500",
-      "change": "22000",
-      "changePct": "8.89",
+      "current": "270000",
+      "change": "22500",
+      "changePct": "9.09",
       "direction": "up",
-      "volume": "10642048",
-      "high": "271000",
+      "volume": "12200214",
+      "high": "273000",
       "low": "252500",
       "open": "257000",
       "marketCap": "0"
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1682000",
-      "change": "182000",
-      "changePct": "12.13",
+      "current": "1686000",
+      "change": "186000",
+      "changePct": "12.40",
       "direction": "up",
-      "volume": "2289236",
+      "volume": "2502077",
       "high": "1700000",
       "low": "1576000",
       "open": "1613000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "112400",
-      "change": "2200",
-      "changePct": "2.00",
+      "current": "111900",
+      "change": "1700",
+      "changePct": "1.54",
       "direction": "up",
-      "volume": "71951",
+      "volume": "80195",
       "high": "112600",
       "low": "109100",
       "open": "110000",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "222000",
-      "change": "14000",
-      "changePct": "6.73",
+      "current": "221000",
+      "change": "13000",
+      "changePct": "6.25",
       "direction": "up",
-      "volume": "551025",
+      "volume": "589026",
       "high": "223500",
       "low": "209500",
       "open": "210500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1394.00",
-      "change": "4.00",
+      "value": "1395.00",
+      "change": "5.00",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "879.44",
-      "change": "0.00",
-      "direction": "flat"
+      "value": "880.18",
+      "change": "0.74",
+      "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1627.63",
-      "change": "4.18",
+      "value": "1628.80",
+      "change": "5.35",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "207.36",
-      "change": "0.83",
+      "value": "207.45",
+      "change": "0.92",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "201185.49",
-      "change": "359.96",
+      "value": "201652.42",
+      "change": "826.89",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "SK하이닉스發 주주환원 훈풍…삼성전자도 들썩, 코스피 다시 뛸까?",
+      "title": "SK하이닉스 40조 규모 ‘역대급 주주환원’…“재평가 출발점”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002686084&office_id=016&mode=mainnews&type=&date=2026-08-20&page=1"
+    },
+    {
+      "title": "천조국 진출하는 K-자주포...한화에어로 눈높이 '쑥'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000049995&office_id=648&mode=mainnews&type=&date=2026-08-20&page=1"
+    },
+    {
+      "title": "교보證 “SK하이닉스 40조 자사주 소각, 시장 기대 웃돌아…주주환원 성장주로 재평가”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002238379&office_id=138&mode=mainnews&type=&date=2026-08-20&page=1"
+    },
+    {
+      "title": "주주단체 \"SK하닉 40조 소각 환영…이제 삼성전자 답할 차례\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009123092&office_id=421&mode=mainnews&type=&date=2026-08-20&page=1"
+    },
+    {
+      "title": "\"40조 소각은 예고편, '360만닉스' 간다\"…\"삼성전자, AI 투자 3년내 회수 가능\" [株토피아]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005563982&office_id=014&mode=mainnews&type=&date=2026-08-20&page=1"
+    },
+    {
+      "title": "SK하이닉스 40조 자사주 중개 소식에…SK증권 ‘상한가’ [이런국장 저런주식]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004653394&office_id=011&mode=mainnews&type=&date=2026-08-20&page=1"
+    },
+    {
+      "title": "SK하닉 '40조 소각'에 급락 코스피 솟구쳤다…\"다음은 삼전이다\" 들썩",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005402344&office_id=008&mode=mainnews&type=&date=2026-08-20&page=1"
     },
     {
       "title": "모더나 177% 폭등에 공매도 '비명'…하루 55억달러 손실",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005805126&office_id=277&mode=mainnews&type=&date=2026-08-20&page=1"
-    },
-    {
-      "title": "“삼성전자 차례지?”…SK하이닉스 ‘40조’ 주주환원에 삼전 주주 기대감도 ‘쑥’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005723310&office_id=009&mode=mainnews&type=&date=2026-08-20&page=1"
-    },
-    {
-      "title": "[속보]코스피 5%대 급등에 매수 사이드카…삼전 7%·하닉 11%↑",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006354681&office_id=018&mode=mainnews&type=&date=2026-08-20&page=1"
-    },
-    {
-      "title": "1400원 무너지자 달러 매도 가속…환율 1380원대로 하락",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009122895&office_id=421&mode=mainnews&type=&date=2026-08-20&page=1"
-    },
-    {
-      "title": "코스피, 장 초반 4%대 급등…6700선 안팎 등락[이런국장 저런주식]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004653350&office_id=011&mode=mainnews&type=&date=2026-08-20&page=1"
-    },
-    {
-      "title": "'자사주 소각'에 하이닉스 8%대 급등…삼성전자도 5%↑",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000196115&office_id=654&mode=mainnews&type=&date=2026-08-20&page=1"
-    },
-    {
-      "title": "바클레이즈 \"하이닉스 저평가…주주환원, 강력한 신호\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016260352&office_id=001&mode=mainnews&type=&date=2026-08-20&page=1"
     }
   ]
 }
