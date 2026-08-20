@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-08-20 05:54:49",
+  "lastUpdated": "2026-08-20 06:55:28",
   "date": "2026.08.20",
   "kospi": {
     "name": "KOSPI",
-    "current": "6814.28",
-    "change": "343.11",
-    "changePct": "5.30",
+    "current": "6852.58",
+    "change": "381.41",
+    "changePct": "5.89",
     "direction": "up",
-    "volume": "269867",
-    "tradeAmount": "23692624"
+    "volume": "301744",
+    "tradeAmount": "28070994"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "268000",
-      "change": "20500",
-      "changePct": "8.28",
+      "current": "271000",
+      "change": "23500",
+      "changePct": "9.49",
       "direction": "up",
-      "volume": "21077138",
+      "volume": "26093242",
       "high": "273000",
       "low": "252500",
       "open": "257000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1671000",
-      "change": "171000",
-      "changePct": "11.40",
+      "current": "1691000",
+      "change": "191000",
+      "changePct": "12.73",
       "direction": "up",
-      "volume": "4526331",
+      "volume": "5452845",
       "high": "1720000",
       "low": "1576000",
       "open": "1613000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "110500",
-      "change": "300",
-      "changePct": "0.27",
+      "current": "110400",
+      "change": "200",
+      "changePct": "0.18",
       "direction": "up",
-      "volume": "176336",
+      "volume": "223206",
       "high": "112600",
       "low": "109100",
       "open": "110000",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "220500",
-      "change": "12500",
-      "changePct": "6.01",
+      "current": "219500",
+      "change": "11500",
+      "changePct": "5.53",
       "direction": "up",
-      "volume": "862687",
+      "volume": "961900",
       "high": "223500",
       "low": "209500",
       "open": "210500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1395.20",
-      "change": "5.20",
+      "value": "1392.20",
+      "change": "2.20",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "879.28",
-      "change": "0.16",
+      "value": "878.55",
+      "change": "0.89",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1628.48",
-      "change": "5.03",
+      "value": "1626.51",
+      "change": "3.06",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "207.46",
-      "change": "0.93",
+      "value": "207.03",
+      "change": "0.50",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "201088.77",
-      "change": "263.24",
+      "value": "201067.26",
+      "change": "241.73",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
+      "title": "JP모건 “SK하이닉스, 2027년까지 180조원 추가 주주환원 가능”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003994009&office_id=023&mode=mainnews&type=&date=2026-08-20&page=1"
+    },
+    {
+      "title": "국장 변동성 잡는다더니…테슬라 레버리지까지 ‘불똥’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006355032&office_id=018&mode=mainnews&type=&date=2026-08-20&page=1"
+    },
+    {
+      "title": "[단독] ETF 상폐에 ‘고수익’ 강조한 타임폴리오…거래소 ‘경고’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003043361&office_id=029&mode=mainnews&type=&date=2026-08-20&page=1"
+    },
+    {
+      "title": "ACE 고배당주Plus커버드콜액티브, 개인순매수 1000억원 돌파",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001155898&office_id=417&mode=mainnews&type=&date=2026-08-20&page=1"
+    },
+    {
+      "title": "호주섬 앞바다에 나타난 52m짜리 스페이스X 로켓…사상 첫 회수",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006354957&office_id=018&mode=mainnews&type=&date=2026-08-20&page=1"
+    },
+    {
       "title": "100조 환원 기대에 '27만전자' 터치…삼성전자 8%대 급등",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000526037&office_id=629&mode=mainnews&type=&date=2026-08-20&page=1"
     },
     {
+      "title": "마벨, 구글과 AI 반도체 동맹에 주가 9.8 % 급등",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005322812&office_id=015&mode=mainnews&type=&date=2026-08-20&page=1"
+    },
+    {
       "title": "SK하이닉스 '40조원' 자사주 매입 호재…韓·美 주식시장 온도 차 극심했던 이유",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000101913&office_id=243&mode=mainnews&type=&date=2026-08-20&page=1"
-    },
-    {
-      "title": "금호타이어 최대주주 지분율 60%선 붕괴…호실적 속 채권단 '엑시트'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000089314&office_id=293&mode=mainnews&type=&date=2026-08-20&page=1"
-    },
-    {
-      "title": "성과보수 앞세운 사모운용 또 약진...\"하반기가 진짜 실력\"[금융투자 상반기 실적]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000049997&office_id=648&mode=mainnews&type=&date=2026-08-20&page=1"
-    },
-    {
-      "title": "“PER 4배, 싸 보인다고 샀다가는”…실적 전망 꺾인 삼전닉스, ‘이것’ 확인해야",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005723427&office_id=009&mode=mainnews&type=&date=2026-08-20&page=1"
-    },
-    {
-      "title": "④ 수수료 또 최대였지만…점유율은 '역주행'[미래에셋 고객자산]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000089310&office_id=293&mode=mainnews&type=&date=2026-08-20&page=1"
-    },
-    {
-      "title": "\"삼전닉스 흔들리면 끝장\"…'롤러코스피' 뼈 때리는 경고",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005322795&office_id=015&mode=mainnews&type=&date=2026-08-20&page=1"
-    },
-    {
-      "title": "달러 싸지고 국장은 롤러코스터…서학개미 다시 움직이나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001051100&office_id=031&mode=mainnews&type=&date=2026-08-20&page=1"
     }
   ]
 }
