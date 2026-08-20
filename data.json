@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-08-20 04:43:05",
+  "lastUpdated": "2026-08-20 05:02:26",
   "date": "2026.08.20",
   "kospi": {
     "name": "KOSPI",
-    "current": "6864.16",
-    "change": "392.99",
-    "changePct": "6.07",
+    "current": "6843.01",
+    "change": "371.84",
+    "changePct": "5.75",
     "direction": "up",
-    "volume": "232683",
-    "tradeAmount": "19975483"
+    "volume": "242720",
+    "tradeAmount": "20905410"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "269500",
-      "change": "22000",
-      "changePct": "8.89",
+      "current": "268750",
+      "change": "21250",
+      "changePct": "8.59",
       "direction": "up",
-      "volume": "18294942",
+      "volume": "18899799",
       "high": "273000",
       "low": "252500",
       "open": "257000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1708000",
-      "change": "208000",
-      "changePct": "13.87",
+      "current": "1694000",
+      "change": "194000",
+      "changePct": "12.93",
       "direction": "up",
-      "volume": "3822194",
+      "volume": "4003669",
       "high": "1720000",
       "low": "1576000",
       "open": "1613000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "111000",
-      "change": "800",
-      "changePct": "0.73",
+      "current": "110900",
+      "change": "700",
+      "changePct": "0.64",
       "direction": "up",
-      "volume": "136386",
+      "volume": "146063",
       "high": "112600",
       "low": "109100",
       "open": "110000",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "220000",
-      "change": "12000",
-      "changePct": "5.77",
+      "current": "220500",
+      "change": "12500",
+      "changePct": "6.01",
       "direction": "up",
-      "volume": "764453",
+      "volume": "789191",
       "high": "223500",
       "low": "209500",
       "open": "210500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1394.50",
-      "change": "4.50",
+      "value": "1394.10",
+      "change": "4.10",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "879.67",
-      "change": "0.23",
-      "direction": "up"
+      "value": "879.17",
+      "change": "0.27",
+      "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1628.36",
-      "change": "4.91",
+      "value": "1627.47",
+      "change": "4.02",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "207.41",
-      "change": "0.88",
+      "value": "207.32",
+      "change": "0.79",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "201209.77",
-      "change": "384.24",
+      "value": "201270.19",
+      "change": "444.66",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,11 +142,27 @@
   ],
   "news": [
     {
+      "title": "“PER 4배, 싸 보인다고 샀다가는”…실적 전망 꺾인 삼전닉스, ‘이것’ 확인해야",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005723427&office_id=009&mode=mainnews&type=&date=2026-08-20&page=1"
+    },
+    {
+      "title": "④ 수수료 또 최대였지만…점유율은 '역주행'[미래에셋 고객자산]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000089310&office_id=293&mode=mainnews&type=&date=2026-08-20&page=1"
+    },
+    {
+      "title": "\"삼전닉스 흔들리면 끝장\"…'롤러코스피' 뼈 때리는 경고",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005322795&office_id=015&mode=mainnews&type=&date=2026-08-20&page=1"
+    },
+    {
+      "title": "달러 싸지고 국장은 롤러코스터…서학개미 다시 움직이나",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001051100&office_id=031&mode=mainnews&type=&date=2026-08-20&page=1"
+    },
+    {
       "title": "코스피, 6%대 급등…삼전 27만원·하닉 170만원 돌파",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0006354890&office_id=018&mode=mainnews&type=&date=2026-08-20&page=1"
     },
     {
-      "title": "[속보] \"SK하이닉스 강력한 신호\" 170만원 점프…장중 고점 ↑",
+      "title": "\"하이닉스 강력한 신호\" 170만원 점프…124만원 버틴 개미들 환호",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0001262974&office_id=215&mode=mainnews&type=&date=2026-08-20&page=1"
     },
     {
@@ -156,22 +172,6 @@
     {
       "title": "창신 이어 양쯔까지…'中 메모리' 잇딴 IPO에 삼전·닉스 부담 커지나",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0014137792&office_id=003&mode=mainnews&type=&date=2026-08-20&page=1"
-    },
-    {
-      "title": "초고수, 13% 뛴 SK하이닉스 더 샀다…삼성전자도 순매수 [주식초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004653421&office_id=011&mode=mainnews&type=&date=2026-08-20&page=1"
-    },
-    {
-      "title": "또 ‘롤러코스피’… 오늘은 매수 사이드카",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002812559&office_id=021&mode=mainnews&type=&date=2026-08-20&page=1"
-    },
-    {
-      "title": "주주환원·자사주 매입에 거래량 폭발...'재료' 반응 최고조[오늘의 삼전닉스]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000101907&office_id=243&mode=mainnews&type=&date=2026-08-20&page=1"
-    },
-    {
-      "title": "11개월 만에 1300원대 진입한 환율…안착 가능성은",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005805189&office_id=277&mode=mainnews&type=&date=2026-08-20&page=1"
     }
   ]
 }
