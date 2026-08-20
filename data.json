@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20 06:55:28",
+  "lastUpdated": "2026-08-20 07:21:21",
   "date": "2026.08.20",
   "kospi": {
     "name": "KOSPI",
@@ -19,7 +19,7 @@
       "change": "23500",
       "changePct": "9.49",
       "direction": "up",
-      "volume": "26093242",
+      "volume": "26093355",
       "high": "273000",
       "low": "252500",
       "open": "257000",
@@ -33,7 +33,7 @@
       "change": "191000",
       "changePct": "12.73",
       "direction": "up",
-      "volume": "5452845",
+      "volume": "5452849",
       "high": "1720000",
       "low": "1576000",
       "open": "1613000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1392.20",
-      "change": "2.20",
+      "value": "1394.80",
+      "change": "4.80",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "878.55",
+      "value": "880.33",
       "change": "0.89",
-      "direction": "down"
+      "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1626.51",
-      "change": "3.06",
+      "value": "1629.27",
+      "change": "5.82",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "207.03",
-      "change": "0.50",
+      "value": "207.41",
+      "change": "0.88",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "201067.26",
-      "change": "241.73",
+      "value": "201171.12",
+      "change": "345.59",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
+      "title": "'주주환원' 하이닉스 12.7% 폭등…삼전도 9%↑(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016262038&office_id=001&mode=mainnews&type=&date=2026-08-20&page=1"
+    },
+    {
+      "title": "‘40조 자사주 카드’ 통했다…SK하이닉스 11% 뛰며 코스피 6800선 회복",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005723564&office_id=009&mode=mainnews&type=&date=2026-08-20&page=1"
+    },
+    {
+      "title": "40조 다음은 100조…반도체 투톱發 주주환원 랠리",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005402579&office_id=008&mode=mainnews&type=&date=2026-08-20&page=1"
+    },
+    {
+      "title": "삼전 9%·하이닉스 13% 폭등…코스피 5.9% 올라 6850선 마감[마켓시그널]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004653521&office_id=011&mode=mainnews&type=&date=2026-08-20&page=1"
+    },
+    {
+      "title": "반도체 '불기둥'에 코스피 6800선 회복…SK하이닉스 12% 폭등",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014138872&office_id=003&mode=mainnews&type=&date=2026-08-20&page=1"
+    },
+    {
+      "title": "코스피 5% 급등 마감…삼성전자·SK하이닉스 '쌍끌이'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001051197&office_id=031&mode=mainnews&type=&date=2026-08-20&page=1"
+    },
+    {
+      "title": "“기존 주주에게 유리한 자본 배분”… ‘묘수’ 된 SK하이닉스 40조 주주 환원",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001187369&office_id=366&mode=mainnews&type=&date=2026-08-20&page=1"
+    },
+    {
       "title": "JP모건 “SK하이닉스, 2027년까지 180조원 추가 주주환원 가능”",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0003994009&office_id=023&mode=mainnews&type=&date=2026-08-20&page=1"
-    },
-    {
-      "title": "국장 변동성 잡는다더니…테슬라 레버리지까지 ‘불똥’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006355032&office_id=018&mode=mainnews&type=&date=2026-08-20&page=1"
-    },
-    {
-      "title": "[단독] ETF 상폐에 ‘고수익’ 강조한 타임폴리오…거래소 ‘경고’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003043361&office_id=029&mode=mainnews&type=&date=2026-08-20&page=1"
-    },
-    {
-      "title": "ACE 고배당주Plus커버드콜액티브, 개인순매수 1000억원 돌파",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001155898&office_id=417&mode=mainnews&type=&date=2026-08-20&page=1"
-    },
-    {
-      "title": "호주섬 앞바다에 나타난 52m짜리 스페이스X 로켓…사상 첫 회수",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006354957&office_id=018&mode=mainnews&type=&date=2026-08-20&page=1"
-    },
-    {
-      "title": "100조 환원 기대에 '27만전자' 터치…삼성전자 8%대 급등",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000526037&office_id=629&mode=mainnews&type=&date=2026-08-20&page=1"
-    },
-    {
-      "title": "마벨, 구글과 AI 반도체 동맹에 주가 9.8 % 급등",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005322812&office_id=015&mode=mainnews&type=&date=2026-08-20&page=1"
-    },
-    {
-      "title": "SK하이닉스 '40조원' 자사주 매입 호재…韓·美 주식시장 온도 차 극심했던 이유",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000101913&office_id=243&mode=mainnews&type=&date=2026-08-20&page=1"
     }
   ]
 }
