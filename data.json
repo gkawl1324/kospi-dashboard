@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-08-20 04:05:30",
+  "lastUpdated": "2026-08-20 04:43:05",
   "date": "2026.08.20",
   "kospi": {
     "name": "KOSPI",
-    "current": "6879.39",
-    "change": "408.22",
-    "changePct": "6.31",
+    "current": "6864.16",
+    "change": "392.99",
+    "changePct": "6.07",
     "direction": "up",
-    "volume": "209555",
-    "tradeAmount": "17971444"
+    "volume": "232683",
+    "tradeAmount": "19975483"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "270500",
-      "change": "23000",
-      "changePct": "9.29",
+      "current": "269500",
+      "change": "22000",
+      "changePct": "8.89",
       "direction": "up",
-      "volume": "16719052",
+      "volume": "18294942",
       "high": "273000",
       "low": "252500",
       "open": "257000",
@@ -29,12 +29,12 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1704000",
-      "change": "204000",
-      "changePct": "13.60",
+      "current": "1708000",
+      "change": "208000",
+      "changePct": "13.87",
       "direction": "up",
-      "volume": "3438245",
-      "high": "1704000",
+      "volume": "3822194",
+      "high": "1720000",
       "low": "1576000",
       "open": "1613000",
       "marketCap": "0"
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "111200",
-      "change": "1000",
-      "changePct": "0.91",
+      "current": "111000",
+      "change": "800",
+      "changePct": "0.73",
       "direction": "up",
-      "volume": "119329",
+      "volume": "136386",
       "high": "112600",
       "low": "109100",
       "open": "110000",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "220500",
-      "change": "12500",
-      "changePct": "6.01",
+      "current": "220000",
+      "change": "12000",
+      "changePct": "5.77",
       "direction": "up",
-      "volume": "720606",
+      "volume": "764453",
       "high": "223500",
       "low": "209500",
       "open": "210500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1394.30",
-      "change": "4.30",
+      "value": "1394.50",
+      "change": "4.50",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "880.07",
-      "change": "0.63",
+      "value": "879.67",
+      "change": "0.23",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1628.47",
-      "change": "5.02",
+      "value": "1628.36",
+      "change": "4.91",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "207.39",
-      "change": "0.86",
+      "value": "207.41",
+      "change": "0.88",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "201567.07",
-      "change": "741.54",
+      "value": "201209.77",
+      "change": "384.24",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -141,6 +141,14 @@
     }
   ],
   "news": [
+    {
+      "title": "코스피, 6%대 급등…삼전 27만원·하닉 170만원 돌파",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006354890&office_id=018&mode=mainnews&type=&date=2026-08-20&page=1"
+    },
+    {
+      "title": "[속보] \"SK하이닉스 강력한 신호\" 170만원 점프…장중 고점 ↑",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001262974&office_id=215&mode=mainnews&type=&date=2026-08-20&page=1"
+    },
     {
       "title": "\"40조 잭팟 잡았대\" 우르르…SK하이닉스 효과에 상한가 치솟은 종목",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0001262971&office_id=215&mode=mainnews&type=&date=2026-08-20&page=1"
@@ -164,14 +172,6 @@
     {
       "title": "11개월 만에 1300원대 진입한 환율…안착 가능성은",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005805189&office_id=277&mode=mainnews&type=&date=2026-08-20&page=1"
-    },
-    {
-      "title": "원·달러, 11개월 만에 1300원대 '뚝'…증권가가 꼽은 수혜주는",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014137502&office_id=003&mode=mainnews&type=&date=2026-08-20&page=1"
-    },
-    {
-      "title": "코인 과세 코앞인데…스테이킹·에어드롭 세금 기준도 마련 못해",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000525916&office_id=629&mode=mainnews&type=&date=2026-08-20&page=1"
     }
   ]
 }
