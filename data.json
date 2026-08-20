@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-08-20 03:51:26",
+  "lastUpdated": "2026-08-20 04:05:30",
   "date": "2026.08.20",
   "kospi": {
     "name": "KOSPI",
-    "current": "6872.05",
-    "change": "400.88",
-    "changePct": "6.19",
+    "current": "6879.39",
+    "change": "408.22",
+    "changePct": "6.31",
     "direction": "up",
-    "volume": "202786",
-    "tradeAmount": "17253957"
+    "volume": "209555",
+    "tradeAmount": "17971444"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "269750",
-      "change": "22250",
-      "changePct": "8.99",
+      "current": "270500",
+      "change": "23000",
+      "changePct": "9.29",
       "direction": "up",
-      "volume": "16179071",
+      "volume": "16719052",
       "high": "273000",
       "low": "252500",
       "open": "257000",
@@ -29,12 +29,12 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1698000",
-      "change": "198000",
-      "changePct": "13.20",
+      "current": "1704000",
+      "change": "204000",
+      "changePct": "13.60",
       "direction": "up",
-      "volume": "3256045",
-      "high": "1700000",
+      "volume": "3438245",
+      "high": "1704000",
       "low": "1576000",
       "open": "1613000",
       "marketCap": "0"
@@ -47,7 +47,7 @@
       "change": "1000",
       "changePct": "0.91",
       "direction": "up",
-      "volume": "115763",
+      "volume": "119329",
       "high": "112600",
       "low": "109100",
       "open": "110000",
@@ -61,7 +61,7 @@
       "change": "12500",
       "changePct": "6.01",
       "direction": "up",
-      "volume": "707657",
+      "volume": "720606",
       "high": "223500",
       "low": "209500",
       "open": "210500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1393.50",
-      "change": "3.50",
+      "value": "1394.30",
+      "change": "4.30",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "879.48",
-      "change": "0.04",
+      "value": "880.07",
+      "change": "0.63",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1627.40",
-      "change": "3.95",
+      "value": "1628.47",
+      "change": "5.02",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "207.25",
-      "change": "0.72",
+      "value": "207.39",
+      "change": "0.86",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "201539.99",
-      "change": "714.46",
+      "value": "201567.07",
+      "change": "741.54",
       "direction": "up",
       "unit": "USD/oz"
     },
