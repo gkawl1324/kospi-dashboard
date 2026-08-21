@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-08-21 05:37:43",
+  "lastUpdated": "2026-08-21 05:56:16",
   "date": "2026.08.21",
   "kospi": {
     "name": "KOSPI",
-    "current": "6940.30",
-    "change": "87.72",
-    "changePct": "1.28",
+    "current": "6920.10",
+    "change": "67.52",
+    "changePct": "0.99",
     "direction": "up",
-    "volume": "361851",
-    "tradeAmount": "24315570"
+    "volume": "374565",
+    "tradeAmount": "25513958"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "284000",
-      "change": "13000",
-      "changePct": "4.80",
+      "current": "282250",
+      "change": "11250",
+      "changePct": "4.15",
       "direction": "up",
-      "volume": "23172253",
+      "volume": "24292333",
       "high": "285000",
       "low": "266000",
       "open": "267000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1740000",
-      "change": "49000",
-      "changePct": "2.90",
+      "current": "1729000",
+      "change": "38000",
+      "changePct": "2.25",
       "direction": "up",
-      "volume": "3709842",
+      "volume": "3844199",
       "high": "1773000",
       "low": "1669000",
       "open": "1675000",
@@ -47,7 +47,7 @@
       "change": "-2300",
       "changePct": "-2.08",
       "direction": "down",
-      "volume": "253474",
+      "volume": "272956",
       "high": "110100",
       "low": "107700",
       "open": "109200",
@@ -57,12 +57,12 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "223500",
-      "change": "4000",
-      "changePct": "1.82",
+      "current": "223000",
+      "change": "3500",
+      "changePct": "1.59",
       "direction": "up",
-      "volume": "742466",
-      "high": "224500",
+      "volume": "830630",
+      "high": "225000",
       "low": "214000",
       "open": "219000",
       "marketCap": "0"
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1381.80",
-      "change": "13.00",
+      "value": "1383.30",
+      "change": "11.50",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "869.22",
-      "change": "8.18",
+      "value": "870.82",
+      "change": "6.58",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1615.81",
-      "change": "13.87",
+      "value": "1618.05",
+      "change": "11.63",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "205.58",
-      "change": "1.86",
+      "value": "205.80",
+      "change": "1.64",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "201583.14",
-      "change": "991.63",
+      "value": "202238.12",
+      "change": "336.65",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -154,7 +154,7 @@
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002686773&office_id=016&mode=mainnews&type=&date=2026-08-21&page=1"
     },
     {
-      "title": "美찬바람에도 삼전닉스 3%대 상승에 코스피 강보합",
+      "title": "삼전닉스 올라탄 코스피 강보합…'주주환원의 힘'",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0006355657&office_id=018&mode=mainnews&type=&date=2026-08-21&page=1"
     },
     {
