@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-08-21 05:02:35",
+  "lastUpdated": "2026-08-21 05:37:43",
   "date": "2026.08.21",
   "kospi": {
     "name": "KOSPI",
-    "current": "6908.41",
-    "change": "55.83",
-    "changePct": "0.81",
+    "current": "6940.30",
+    "change": "87.72",
+    "changePct": "1.28",
     "direction": "up",
-    "volume": "338084",
-    "tradeAmount": "21832349"
+    "volume": "361851",
+    "tradeAmount": "24315570"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "280000",
-      "change": "9000",
-      "changePct": "3.32",
+      "current": "284000",
+      "change": "13000",
+      "changePct": "4.80",
       "direction": "up",
-      "volume": "19745798",
-      "high": "281500",
+      "volume": "23172253",
+      "high": "285000",
       "low": "266000",
       "open": "267000",
       "marketCap": "0"
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1737000",
-      "change": "46000",
-      "changePct": "2.72",
+      "current": "1740000",
+      "change": "49000",
+      "changePct": "2.90",
       "direction": "up",
-      "volume": "3476921",
+      "volume": "3709842",
       "high": "1773000",
       "low": "1669000",
       "open": "1675000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "109700",
-      "change": "-700",
-      "changePct": "-0.63",
+      "current": "108100",
+      "change": "-2300",
+      "changePct": "-2.08",
       "direction": "down",
-      "volume": "219876",
+      "volume": "253474",
       "high": "110100",
       "low": "107700",
       "open": "109200",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "221000",
-      "change": "1500",
-      "changePct": "0.68",
+      "current": "223500",
+      "change": "4000",
+      "changePct": "1.82",
       "direction": "up",
-      "volume": "646264",
+      "volume": "742466",
       "high": "224500",
       "low": "214000",
       "open": "219000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1381.30",
-      "change": "13.50",
+      "value": "1381.80",
+      "change": "13.00",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "868.58",
-      "change": "8.82",
+      "value": "869.22",
+      "change": "8.18",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1615.09",
-      "change": "14.59",
+      "value": "1615.81",
+      "change": "13.87",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "205.50",
-      "change": "1.94",
+      "value": "205.58",
+      "change": "1.86",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "201676.29",
-      "change": "898.48",
+      "value": "201583.14",
+      "change": "991.63",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,7 +142,23 @@
   ],
   "news": [
     {
-      "title": "코스피 30% 급락…‘빚투’ 후폭풍에 흔들린 증시 체질개선",
+      "title": "“이제 삼전 차례” SK하닉 40조 환원 계획 발표 후 쏠린 시선…100조+α 보따리 푸나",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000101972&office_id=243&mode=mainnews&type=&date=2026-08-21&page=1"
+    },
+    {
+      "title": "주가 떨어지고 증시자금 줄어드는데…주식계좌는 왜 계속 늘어날까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006355670&office_id=018&mode=mainnews&type=&date=2026-08-21&page=1"
+    },
+    {
+      "title": "‘하이닉스 40조 쐈는데, 우리는?’…150조 기대감에 ‘삼전 개미’ 들썩, 주가 퀀텀점프? [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002686773&office_id=016&mode=mainnews&type=&date=2026-08-21&page=1"
+    },
+    {
+      "title": "美찬바람에도 삼전닉스 3%대 상승에 코스피 강보합",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006355657&office_id=018&mode=mainnews&type=&date=2026-08-21&page=1"
+    },
+    {
+      "title": "코스피 30% 급락…\"‘빚투’ 후폭풍에 흔들린 증시 체질개선\"",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0006355654&office_id=018&mode=mainnews&type=&date=2026-08-21&page=1"
     },
     {
@@ -156,22 +172,6 @@
     {
       "title": "‘주주환원의 힘’...삼전·닉스 강세에 코스피 상승 전환",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0003545889&office_id=025&mode=mainnews&type=&date=2026-08-21&page=1"
-    },
-    {
-      "title": "‘100조 환원’ 기대에 삼성전자 담은 ‘상위 1%’…SK하닉은 차익실현[주식초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004653849&office_id=011&mode=mainnews&type=&date=2026-08-21&page=1"
-    },
-    {
-      "title": "주주환원 탄력 vs 中 반도체 굴기 발목…삼전닉스 주가 향방은",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000526381&office_id=629&mode=mainnews&type=&date=2026-08-21&page=1"
-    },
-    {
-      "title": "'반짝 불장'에 달라진 증권가 보수…영업맨 성과급 얼마나 터졌나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000526360&office_id=629&mode=mainnews&type=&date=2026-08-21&page=1"
-    },
-    {
-      "title": "\"여윳돈 있으면 사라\" 했는데 한 달 새 27%↓…'캐시카우'도 흔들",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001263129&office_id=215&mode=mainnews&type=&date=2026-08-21&page=1"
     }
   ]
 }
