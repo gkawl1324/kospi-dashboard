@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21 06:56:48",
+  "lastUpdated": "2026-08-21 07:21:48",
   "date": "2026.08.21",
   "kospi": {
     "name": "KOSPI",
@@ -19,7 +19,7 @@
       "change": "10500",
       "changePct": "3.87",
       "direction": "up",
-      "volume": "27672188",
+      "volume": "27672192",
       "high": "285000",
       "low": "266000",
       "open": "267000",
@@ -33,7 +33,7 @@
       "change": "39000",
       "changePct": "2.31",
       "direction": "up",
-      "volume": "4247409",
+      "volume": "4247418",
       "high": "1773000",
       "low": "1669000",
       "open": "1675000",
@@ -61,7 +61,7 @@
       "change": "2500",
       "changePct": "1.14",
       "direction": "up",
-      "volume": "987098",
+      "volume": "987136",
       "high": "225000",
       "low": "214000",
       "open": "219000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1386.30",
-      "change": "8.50",
+      "value": "1385.10",
+      "change": "9.70",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "872.49",
-      "change": "4.91",
+      "value": "871.84",
+      "change": "5.56",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1621.56",
-      "change": "8.12",
+      "value": "1620.36",
+      "change": "9.32",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "206.27",
-      "change": "1.17",
+      "value": "206.16",
+      "change": "1.28",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "203411.56",
-      "change": "836.79",
+      "value": "203360.08",
+      "change": "785.31",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,6 +142,14 @@
   ],
   "news": [
     {
+      "title": "주주환원 훈풍 vs 사이드카 경고음…희비 갈린 하루",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005403089&office_id=008&mode=mainnews&type=&date=2026-08-21&page=1"
+    },
+    {
+      "title": "삼전닉스 ‘주주환원’의 힘… ‘7000피’ 눈 앞[마켓뷰]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001187614&office_id=366&mode=mainnews&type=&date=2026-08-21&page=1"
+    },
+    {
       "title": "“2배 막으면? 더 센 3배로 간다”…해외로 향한 개미들의 ‘레버리지 본능’",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005724013&office_id=009&mode=mainnews&type=&date=2026-08-21&page=1"
     },
@@ -150,28 +158,20 @@
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0001263155&office_id=215&mode=mainnews&type=&date=2026-08-21&page=1"
     },
     {
+      "title": "HLB, '담관암 신약' FDA 결론 임박…첫 허가 넘어 확장성 주목",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005564691&office_id=014&mode=mainnews&type=&date=2026-08-21&page=1"
+    },
+    {
+      "title": "전원주, SK하닉 수익률 9000% 육박…폭락장에도 '꿋꿋' 주목",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000101973&office_id=243&mode=mainnews&type=&date=2026-08-21&page=1"
+    },
+    {
       "title": "\"떨어질 줄 알았는데 올라가네\"…금리 상승에도 꺾이지 않는 금값의 비밀[주末머니]",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005805814&office_id=277&mode=mainnews&type=&date=2026-08-21&page=1"
     },
     {
       "title": "“이제 삼전 차례” SK하닉 40조 환원 계획 발표 후 쏠린 시선…100조+α 보따리 푸나",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000101972&office_id=243&mode=mainnews&type=&date=2026-08-21&page=1"
-    },
-    {
-      "title": "주가 떨어지고 증시자금 줄어드는데…주식계좌는 왜 계속 늘어날까",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006355670&office_id=018&mode=mainnews&type=&date=2026-08-21&page=1"
-    },
-    {
-      "title": "‘하이닉스 40조 쐈는데, 우리는?’…150조 기대감에 ‘삼전 개미’ 들썩, 주가 퀀텀점프? [투자360]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002686773&office_id=016&mode=mainnews&type=&date=2026-08-21&page=1"
-    },
-    {
-      "title": "삼전닉스 올라탄 코스피 강보합…'주주환원의 힘'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006355657&office_id=018&mode=mainnews&type=&date=2026-08-21&page=1"
-    },
-    {
-      "title": "로이터, 코스피 30% 급락 조명…레버리지 투자 후폭풍",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006355654&office_id=018&mode=mainnews&type=&date=2026-08-21&page=1"
     }
   ]
 }
