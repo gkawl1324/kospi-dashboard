@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24 07:10:27",
+  "lastUpdated": "2026-08-24 07:35:20",
   "date": "2026.08.24",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1383.20",
-      "change": "3.80",
+      "value": "1383.70",
+      "change": "3.30",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "869.72",
-      "change": "2.85",
+      "value": "869.51",
+      "change": "3.06",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1614.96",
-      "change": "4.50",
+      "value": "1615.61",
+      "change": "3.85",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "205.74",
-      "change": "0.63",
+      "value": "205.79",
+      "change": "0.58",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "206618.54",
-      "change": "81.05",
+      "value": "206579.91",
+      "change": "119.68",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
+      "title": "삼전·닉스 동반 급락에 코스피 3%↓…코스닥은 1%대 올라(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016267740&office_id=001&mode=mainnews&type=&date=2026-08-24&page=1"
+    },
+    {
+      "title": "빛과전자, CB 전환에 3개월간 신주 1419만주…주주가치 희석 우려",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006357182&office_id=018&mode=mainnews&type=&date=2026-08-24&page=1"
+    },
+    {
+      "title": "기대에 못 미쳤나… 삼성전자 급락에 코스피 6700선 아래로[마켓뷰]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001188000&office_id=366&mode=mainnews&type=&date=2026-08-24&page=1"
+    },
+    {
+      "title": "“목표가는 올랐는데”…삼성전자 주주환원 수혜주, 동반 급락 이유는",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006357176&office_id=018&mode=mainnews&type=&date=2026-08-24&page=1"
+    },
+    {
+      "title": "레버리지 ETF 식자 살아나는 코스닥 ETF…승강제 기대도 관심↑",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005403882&office_id=008&mode=mainnews&type=&date=2026-08-24&page=1"
+    },
+    {
+      "title": "외인·기관 5조 매도에 코스피 3%대 하락…6690선 마감",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005806607&office_id=277&mode=mainnews&type=&date=2026-08-24&page=1"
+    },
+    {
       "title": "삼전닉스 150조원 주주환원…달러 풀려 환율 더 내려갈까",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0006357162&office_id=018&mode=mainnews&type=&date=2026-08-24&page=1"
     },
     {
       "title": "엔비디아의 서버 가격 인상, ‘삼전닉스’에 약일까 독일까",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000102077&office_id=243&mode=mainnews&type=&date=2026-08-24&page=1"
-    },
-    {
-      "title": "두나무 \"美 SEC 접촉\"…주식교환 이후 상장 추진",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001263392&office_id=215&mode=mainnews&type=&date=2026-08-24&page=1"
-    },
-    {
-      "title": "“고PER 반도체, 매수? 매도?”…개미 울리는 판단의 함정[인터뷰]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006357150&office_id=018&mode=mainnews&type=&date=2026-08-24&page=1"
-    },
-    {
-      "title": "\"반도체주 바닥?\" 단일레버리지, 해외선 '줍줍'...한국은 '찬바람'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005403847&office_id=008&mode=mainnews&type=&date=2026-08-24&page=1"
-    },
-    {
-      "title": "110조 vs 40조…삼전, 세 배 더 쐈는데 주가는 하닉에 밀려",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006357147&office_id=018&mode=mainnews&type=&date=2026-08-24&page=1"
-    },
-    {
-      "title": "“SK하이닉스는 올랐었는데”…‘역대급 주주환원’ 발표한 삼성전자 하락, 왜?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001187984&office_id=366&mode=mainnews&type=&date=2026-08-24&page=1"
-    },
-    {
-      "title": "레이 달리오의 잿빛 경고…“美 연방 부채 폭탄, 3년 내 터진다”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003043938&office_id=029&mode=mainnews&type=&date=2026-08-24&page=1"
     }
   ]
 }
