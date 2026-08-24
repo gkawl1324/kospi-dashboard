@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-08-24 03:58:46",
+  "lastUpdated": "2026-08-24 04:22:37",
   "date": "2026.08.24",
   "kospi": {
     "name": "KOSPI",
-    "current": "6664.70",
-    "change": "248.25",
-    "changePct": "3.59",
+    "current": "6710.33",
+    "change": "202.62",
+    "changePct": "2.93",
     "direction": "up",
-    "volume": "187411",
-    "tradeAmount": "17558740"
+    "volume": "197545",
+    "tradeAmount": "18630840"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "255750",
-      "change": "-25750",
-      "changePct": "-9.15",
+      "current": "257500",
+      "change": "-24000",
+      "changePct": "-8.53",
       "direction": "down",
-      "volume": "21345308",
+      "volume": "22988083",
       "high": "272000",
-      "low": "255500",
+      "low": "255000",
       "open": "271500",
       "marketCap": "0"
     },
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1676000",
-      "change": "-54000",
-      "changePct": "-3.12",
+      "current": "1703000",
+      "change": "-27000",
+      "changePct": "-1.56",
       "direction": "down",
-      "volume": "2690199",
+      "volume": "2843917",
       "high": "1792000",
       "low": "1673000",
       "open": "1775000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "111400",
-      "change": "3700",
-      "changePct": "3.44",
+      "current": "111500",
+      "change": "3800",
+      "changePct": "3.53",
       "direction": "up",
-      "volume": "124137",
+      "volume": "132997",
       "high": "112500",
       "low": "108300",
       "open": "109500",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "222000",
-      "change": "0",
-      "changePct": "0.00",
+      "current": "222500",
+      "change": "500",
+      "changePct": "0.23",
       "direction": "up",
-      "volume": "1253994",
+      "volume": "1295951",
       "high": "235000",
       "low": "221000",
       "open": "231000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1380.40",
-      "change": "6.60",
+      "value": "1381.30",
+      "change": "5.70",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "868.53",
-      "change": "4.04",
+      "value": "869.23",
+      "change": "3.34",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1612.24",
-      "change": "7.22",
+      "value": "1613.15",
+      "change": "6.31",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "205.30",
-      "change": "1.07",
+      "value": "205.44",
+      "change": "0.93",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "206105.92",
-      "change": "593.67",
+      "value": "206067.01",
+      "change": "632.58",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -141,6 +141,10 @@
     }
   ],
   "news": [
+    {
+      "title": "상위 1%, 삼성전자 폭풍매수…SK하닉·스퀘어 ‘팔자’ [주식 초고수는 지금]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004654516&office_id=011&mode=mainnews&type=&date=2026-08-24&page=1"
+    },
     {
       "title": "삼성그룹주 줄줄이 급락…코스피 -3%에 중소형·이차전지 '활활'",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005565444&office_id=014&mode=mainnews&type=&date=2026-08-24&page=1"
@@ -168,10 +172,6 @@
     {
       "title": "삼전 급락이어 하닉도 약세…코스피, 2%대로 낙폭 확대",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0016266611&office_id=001&mode=mainnews&type=&date=2026-08-24&page=1"
-    },
-    {
-      "title": "지예은 고백“나도 한번? 들어갔다 -47%수익률”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002813328&office_id=021&mode=mainnews&type=&date=2026-08-24&page=1"
     }
   ]
 }
