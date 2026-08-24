@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-08-24 06:01:20",
+  "lastUpdated": "2026-08-24 07:10:27",
   "date": "2026.08.24",
   "kospi": {
     "name": "KOSPI",
-    "current": "6694.68",
-    "change": "218.27",
-    "changePct": "3.16",
+    "current": "6696.96",
+    "change": "215.99",
+    "changePct": "3.12",
     "direction": "up",
-    "volume": "241943",
-    "tradeAmount": "23255655"
+    "volume": "264915",
+    "tradeAmount": "26099854"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "256500",
-      "change": "-25000",
-      "changePct": "-8.88",
+      "current": "257000",
+      "change": "-24500",
+      "changePct": "-8.70",
       "direction": "down",
-      "volume": "28801736",
+      "volume": "32451480",
       "high": "272000",
       "low": "255000",
       "open": "271500",
@@ -29,13 +29,13 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1680000",
-      "change": "-50000",
-      "changePct": "-2.89",
+      "current": "1671000",
+      "change": "-59000",
+      "changePct": "-3.41",
       "direction": "down",
-      "volume": "3520788",
+      "volume": "3993766",
       "high": "1792000",
-      "low": "1673000",
+      "low": "1670000",
       "open": "1775000",
       "marketCap": "0"
     },
@@ -43,12 +43,12 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "112900",
-      "change": "5200",
-      "changePct": "4.83",
+      "current": "113500",
+      "change": "5800",
+      "changePct": "5.39",
       "direction": "up",
-      "volume": "182430",
-      "high": "113000",
+      "volume": "245563",
+      "high": "113500",
       "low": "108300",
       "open": "109500",
       "marketCap": "0"
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "224000",
-      "change": "2000",
-      "changePct": "0.90",
+      "current": "223500",
+      "change": "1500",
+      "changePct": "0.68",
       "direction": "up",
-      "volume": "1473593",
+      "volume": "1544482",
       "high": "235000",
       "low": "221000",
       "open": "231000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1379.80",
-      "change": "7.20",
+      "value": "1383.20",
+      "change": "3.80",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "868.32",
-      "change": "4.25",
+      "value": "869.72",
+      "change": "2.85",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1611.74",
-      "change": "7.72",
+      "value": "1614.96",
+      "change": "4.50",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "205.21",
-      "change": "1.16",
+      "value": "205.74",
+      "change": "0.63",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "205874.04",
-      "change": "825.55",
+      "value": "206618.54",
+      "change": "81.05",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "금산법에 막힌 삼성전자 자사주 소각…“110조 환원에도 10조~20조 전망”[이런국장 저런주식]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004654540&office_id=011&mode=mainnews&type=&date=2026-08-24&page=1"
+      "title": "삼전닉스 150조원 주주환원…달러 풀려 환율 더 내려갈까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006357162&office_id=018&mode=mainnews&type=&date=2026-08-24&page=1"
     },
     {
-      "title": "카카오, 공매도 '급증'…\"분할 보다 AI성과가 우선\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001263381&office_id=215&mode=mainnews&type=&date=2026-08-24&page=1"
+      "title": "엔비디아의 서버 가격 인상, ‘삼전닉스’에 약일까 독일까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000102077&office_id=243&mode=mainnews&type=&date=2026-08-24&page=1"
     },
     {
-      "title": "반도체 대형주 숨고르기…주주환원책 리레이팅 기대",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005403788&office_id=008&mode=mainnews&type=&date=2026-08-24&page=1"
+      "title": "두나무 \"美 SEC 접촉\"…주식교환 이후 상장 추진",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001263392&office_id=215&mode=mainnews&type=&date=2026-08-24&page=1"
     },
     {
-      "title": "\"3년 안에 큰일 터진다, 금·비트코인 담아라\"…고수의 섬뜩한 경고",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005323960&office_id=015&mode=mainnews&type=&date=2026-08-24&page=1"
+      "title": "“고PER 반도체, 매수? 매도?”…개미 울리는 판단의 함정[인터뷰]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006357150&office_id=018&mode=mainnews&type=&date=2026-08-24&page=1"
     },
     {
-      "title": "삼성전자 8% 폭락…110조 역대급 돈잔치에도 주가 무너진 이유 [종목+]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005323959&office_id=015&mode=mainnews&type=&date=2026-08-24&page=1"
+      "title": "\"반도체주 바닥?\" 단일레버리지, 해외선 '줍줍'...한국은 '찬바람'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005403847&office_id=008&mode=mainnews&type=&date=2026-08-24&page=1"
     },
     {
-      "title": "“돈 더 푸는데 주가는 왜 더 빠지죠?”…삼성전자 주가 8% 급락 이유는",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005724903&office_id=009&mode=mainnews&type=&date=2026-08-24&page=1"
+      "title": "110조 vs 40조…삼전, 세 배 더 쐈는데 주가는 하닉에 밀려",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006357147&office_id=018&mode=mainnews&type=&date=2026-08-24&page=1"
     },
     {
-      "title": "기관이 외면한 동화기업 회사채…400억 떠안고도 3년째 맡은 KB증권, 왜?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002238742&office_id=138&mode=mainnews&type=&date=2026-08-24&page=1"
+      "title": "“SK하이닉스는 올랐었는데”…‘역대급 주주환원’ 발표한 삼성전자 하락, 왜?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001187984&office_id=366&mode=mainnews&type=&date=2026-08-24&page=1"
     },
     {
-      "title": "삼성전자 -8%대 추락에 그룹주도 '와르르'…코스피 3% 밀려",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000526957&office_id=629&mode=mainnews&type=&date=2026-08-24&page=1"
+      "title": "레이 달리오의 잿빛 경고…“美 연방 부채 폭탄, 3년 내 터진다”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003043938&office_id=029&mode=mainnews&type=&date=2026-08-24&page=1"
     }
   ]
 }
