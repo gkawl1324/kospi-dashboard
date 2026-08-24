@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-08-24 05:09:40",
+  "lastUpdated": "2026-08-24 05:44:36",
   "date": "2026.08.24",
   "kospi": {
     "name": "KOSPI",
-    "current": "6722.01",
-    "change": "190.94",
-    "changePct": "2.76",
+    "current": "6686.09",
+    "change": "226.86",
+    "changePct": "3.28",
     "direction": "up",
-    "volume": "215412",
-    "tradeAmount": "20707747"
+    "volume": "232121",
+    "tradeAmount": "22361892"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "258500",
-      "change": "-23000",
-      "changePct": "-8.17",
+      "current": "256500",
+      "change": "-25000",
+      "changePct": "-8.88",
       "direction": "down",
-      "volume": "25968215",
+      "volume": "27741741",
       "high": "272000",
       "low": "255000",
       "open": "271500",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1699000",
-      "change": "-31000",
-      "changePct": "-1.79",
+      "current": "1680000",
+      "change": "-50000",
+      "changePct": "-2.89",
       "direction": "down",
-      "volume": "3149037",
+      "volume": "3409662",
       "high": "1792000",
       "low": "1673000",
       "open": "1775000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "112000",
-      "change": "4300",
-      "changePct": "3.99",
+      "current": "112100",
+      "change": "4400",
+      "changePct": "4.09",
       "direction": "up",
-      "volume": "152149",
+      "volume": "169573",
       "high": "112500",
       "low": "108300",
       "open": "109500",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "223750",
-      "change": "1750",
-      "changePct": "0.79",
+      "current": "224000",
+      "change": "2000",
+      "changePct": "0.90",
       "direction": "up",
-      "volume": "1372063",
+      "volume": "1450683",
       "high": "235000",
       "low": "221000",
       "open": "231000",
@@ -79,22 +79,22 @@
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "867.79",
-      "change": "4.78",
+      "value": "867.43",
+      "change": "5.14",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1610.81",
-      "change": "8.65",
+      "value": "1610.40",
+      "change": "9.06",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "205.10",
-      "change": "1.27",
+      "value": "205.09",
+      "change": "1.28",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "205770.04",
-      "change": "929.55",
+      "value": "205338.74",
+      "change": "1360.85",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,6 +142,26 @@
   ],
   "news": [
     {
+      "title": "반도체 대형주 숨고르기…주주환원책 리레이팅 기대",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005403788&office_id=008&mode=mainnews&type=&date=2026-08-24&page=1"
+    },
+    {
+      "title": "\"3년 안에 큰일 터져, 금 담아라\"…헤지펀드 대부의 경고",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005323960&office_id=015&mode=mainnews&type=&date=2026-08-24&page=1"
+    },
+    {
+      "title": "삼성전자 8% 폭락…110조 역대급 돈잔치에도 주가 무너진 이유 [종목+]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005323959&office_id=015&mode=mainnews&type=&date=2026-08-24&page=1"
+    },
+    {
+      "title": "“돈 더 푸는데 주가는 왜 더 빠지죠?”…삼성전자 주가 8% 급락 이유는",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005724903&office_id=009&mode=mainnews&type=&date=2026-08-24&page=1"
+    },
+    {
+      "title": "기관이 외면한 동화기업 회사채…400억 떠안고도 3년째 맡은 KB증권, 왜?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002238742&office_id=138&mode=mainnews&type=&date=2026-08-24&page=1"
+    },
+    {
       "title": "삼성전자 -8%대 추락에 그룹주도 '와르르'…코스피 3% 밀려",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000526957&office_id=629&mode=mainnews&type=&date=2026-08-24&page=1"
     },
@@ -152,26 +172,6 @@
     {
       "title": "“쪼개면 가치 오른다더니”…‘카카오 인적분할’ 증권사 5곳 목표가 낮췄다",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002238740&office_id=138&mode=mainnews&type=&date=2026-08-24&page=1"
-    },
-    {
-      "title": "상위 1%, 삼성전자 폭풍매수…SK하닉·스퀘어 ‘팔자’ [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004654516&office_id=011&mode=mainnews&type=&date=2026-08-24&page=1"
-    },
-    {
-      "title": "삼성그룹주 줄줄이 급락…코스피 -3%에 중소형·이차전지 '활활'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005565444&office_id=014&mode=mainnews&type=&date=2026-08-24&page=1"
-    },
-    {
-      "title": "중국 반도체 또 상장…양쯔메모리, 6조원대 조달",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006356964&office_id=018&mode=mainnews&type=&date=2026-08-24&page=1"
-    },
-    {
-      "title": "자산가는 레버리지 안 한다…그들에겐 원칙과 현금이 있을 뿐 [큰손 따라잡기]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002687539&office_id=016&mode=mainnews&type=&date=2026-08-24&page=1"
-    },
-    {
-      "title": "AI·반도체주 투자 숨 고르는 서학개미",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002687521&office_id=016&mode=mainnews&type=&date=2026-08-24&page=1"
     }
   ]
 }
