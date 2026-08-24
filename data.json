@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-08-24 05:44:36",
+  "lastUpdated": "2026-08-24 06:01:20",
   "date": "2026.08.24",
   "kospi": {
     "name": "KOSPI",
-    "current": "6686.09",
-    "change": "226.86",
-    "changePct": "3.28",
+    "current": "6694.68",
+    "change": "218.27",
+    "changePct": "3.16",
     "direction": "up",
-    "volume": "232121",
-    "tradeAmount": "22361892"
+    "volume": "241943",
+    "tradeAmount": "23255655"
   },
   "stocks": [
     {
@@ -19,7 +19,7 @@
       "change": "-25000",
       "changePct": "-8.88",
       "direction": "down",
-      "volume": "27741741",
+      "volume": "28801736",
       "high": "272000",
       "low": "255000",
       "open": "271500",
@@ -33,7 +33,7 @@
       "change": "-50000",
       "changePct": "-2.89",
       "direction": "down",
-      "volume": "3409662",
+      "volume": "3520788",
       "high": "1792000",
       "low": "1673000",
       "open": "1775000",
@@ -43,12 +43,12 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "112100",
-      "change": "4400",
-      "changePct": "4.09",
+      "current": "112900",
+      "change": "5200",
+      "changePct": "4.83",
       "direction": "up",
-      "volume": "169573",
-      "high": "112500",
+      "volume": "182430",
+      "high": "113000",
       "low": "108300",
       "open": "109500",
       "marketCap": "0"
@@ -61,7 +61,7 @@
       "change": "2000",
       "changePct": "0.90",
       "direction": "up",
-      "volume": "1450683",
+      "volume": "1473593",
       "high": "235000",
       "low": "221000",
       "open": "231000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1379.00",
-      "change": "8.00",
+      "value": "1379.80",
+      "change": "7.20",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "867.43",
-      "change": "5.14",
+      "value": "868.32",
+      "change": "4.25",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1610.40",
-      "change": "9.06",
+      "value": "1611.74",
+      "change": "7.72",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "205.09",
-      "change": "1.28",
+      "value": "205.21",
+      "change": "1.16",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "205338.74",
-      "change": "1360.85",
+      "value": "205874.04",
+      "change": "825.55",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,11 +142,19 @@
   ],
   "news": [
     {
+      "title": "금산법에 막힌 삼성전자 자사주 소각…“110조 환원에도 10조~20조 전망”[이런국장 저런주식]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004654540&office_id=011&mode=mainnews&type=&date=2026-08-24&page=1"
+    },
+    {
+      "title": "카카오, 공매도 '급증'…\"분할 보다 AI성과가 우선\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001263381&office_id=215&mode=mainnews&type=&date=2026-08-24&page=1"
+    },
+    {
       "title": "반도체 대형주 숨고르기…주주환원책 리레이팅 기대",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005403788&office_id=008&mode=mainnews&type=&date=2026-08-24&page=1"
     },
     {
-      "title": "\"3년 안에 큰일 터져, 금 담아라\"…헤지펀드 대부의 경고",
+      "title": "\"3년 안에 큰일 터진다, 금·비트코인 담아라\"…고수의 섬뜩한 경고",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005323960&office_id=015&mode=mainnews&type=&date=2026-08-24&page=1"
     },
     {
@@ -164,14 +172,6 @@
     {
       "title": "삼성전자 -8%대 추락에 그룹주도 '와르르'…코스피 3% 밀려",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000526957&office_id=629&mode=mainnews&type=&date=2026-08-24&page=1"
-    },
-    {
-      "title": "삼전·닉스 낙폭 확대…삼성전자 9%↓ SK하닉 2%↓",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014144190&office_id=003&mode=mainnews&type=&date=2026-08-24&page=1"
-    },
-    {
-      "title": "“쪼개면 가치 오른다더니”…‘카카오 인적분할’ 증권사 5곳 목표가 낮췄다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002238740&office_id=138&mode=mainnews&type=&date=2026-08-24&page=1"
     }
   ]
 }
