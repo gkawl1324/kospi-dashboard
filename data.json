@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-08-24 03:29:50",
+  "lastUpdated": "2026-08-24 03:58:46",
   "date": "2026.08.24",
   "kospi": {
     "name": "KOSPI",
-    "current": "6676.76",
-    "change": "236.19",
-    "changePct": "3.42",
+    "current": "6664.70",
+    "change": "248.25",
+    "changePct": "3.59",
     "direction": "up",
-    "volume": "173998",
-    "tradeAmount": "16267156"
+    "volume": "187411",
+    "tradeAmount": "17558740"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "257500",
-      "change": "-24000",
-      "changePct": "-8.53",
+      "current": "255750",
+      "change": "-25750",
+      "changePct": "-9.15",
       "direction": "down",
-      "volume": "19442876",
+      "volume": "21345308",
       "high": "272000",
-      "low": "257000",
+      "low": "255500",
       "open": "271500",
       "marketCap": "0"
     },
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1674000",
-      "change": "-56000",
-      "changePct": "-3.24",
+      "current": "1676000",
+      "change": "-54000",
+      "changePct": "-3.12",
       "direction": "down",
-      "volume": "2485761",
+      "volume": "2690199",
       "high": "1792000",
       "low": "1673000",
       "open": "1775000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "111300",
-      "change": "3600",
-      "changePct": "3.34",
+      "current": "111400",
+      "change": "3700",
+      "changePct": "3.44",
       "direction": "up",
-      "volume": "117051",
+      "volume": "124137",
       "high": "112500",
       "low": "108300",
       "open": "109500",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "221000",
-      "change": "-1000",
-      "changePct": "-0.45",
-      "direction": "down",
-      "volume": "1208769",
+      "current": "222000",
+      "change": "0",
+      "changePct": "0.00",
+      "direction": "up",
+      "volume": "1253994",
       "high": "235000",
       "low": "221000",
       "open": "231000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1380.00",
-      "change": "7.00",
+      "value": "1380.40",
+      "change": "6.60",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "868.44",
-      "change": "4.13",
+      "value": "868.53",
+      "change": "4.04",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1612.12",
-      "change": "7.34",
+      "value": "1612.24",
+      "change": "7.22",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "205.25",
-      "change": "1.12",
+      "value": "205.30",
+      "change": "1.07",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "206007.56",
-      "change": "692.03",
+      "value": "206105.92",
+      "change": "593.67",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,7 +142,11 @@
   ],
   "news": [
     {
-      "title": "창신 이어 양쯔메모리, 중국 반도체 또 상장한다…6조원대 조달",
+      "title": "삼성그룹주 줄줄이 급락…코스피 -3%에 중소형·이차전지 '활활'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005565444&office_id=014&mode=mainnews&type=&date=2026-08-24&page=1"
+    },
+    {
+      "title": "중국 반도체 또 상장…양쯔메모리, 6조원대 조달",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0006356964&office_id=018&mode=mainnews&type=&date=2026-08-24&page=1"
     },
     {
@@ -168,10 +172,6 @@
     {
       "title": "지예은 고백“나도 한번? 들어갔다 -47%수익률”",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002813328&office_id=021&mode=mainnews&type=&date=2026-08-24&page=1"
-    },
-    {
-      "title": "삼성전자 7% '나홀로 급락'... \"주주환원 600조 전망\"까지 나왔는데, 왜",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005565382&office_id=014&mode=mainnews&type=&date=2026-08-24&page=1"
     }
   ]
 }
