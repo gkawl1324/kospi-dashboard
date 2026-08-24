@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-08-24 02:24:03",
+  "lastUpdated": "2026-08-24 03:29:50",
   "date": "2026.08.24",
   "kospi": {
     "name": "KOSPI",
-    "current": "6746.41",
-    "change": "166.54",
-    "changePct": "2.41",
+    "current": "6676.76",
+    "change": "236.19",
+    "changePct": "3.42",
     "direction": "up",
-    "volume": "144141",
-    "tradeAmount": "13053090"
+    "volume": "173998",
+    "tradeAmount": "16267156"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "260000",
-      "change": "-21500",
-      "changePct": "-7.64",
+      "current": "257500",
+      "change": "-24000",
+      "changePct": "-8.53",
       "direction": "down",
-      "volume": "15278112",
+      "volume": "19442876",
       "high": "272000",
-      "low": "259000",
+      "low": "257000",
       "open": "271500",
       "marketCap": "0"
     },
@@ -29,13 +29,13 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1711000",
-      "change": "-19000",
-      "changePct": "-1.10",
+      "current": "1674000",
+      "change": "-56000",
+      "changePct": "-3.24",
       "direction": "down",
-      "volume": "1932721",
+      "volume": "2485761",
       "high": "1792000",
-      "low": "1696000",
+      "low": "1673000",
       "open": "1775000",
       "marketCap": "0"
     },
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "111800",
-      "change": "4100",
-      "changePct": "3.81",
+      "current": "111300",
+      "change": "3600",
+      "changePct": "3.34",
       "direction": "up",
-      "volume": "96979",
+      "volume": "117051",
       "high": "112500",
       "low": "108300",
       "open": "109500",
@@ -57,13 +57,13 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "224500",
-      "change": "2500",
-      "changePct": "1.13",
-      "direction": "up",
-      "volume": "1073813",
+      "current": "221000",
+      "change": "-1000",
+      "changePct": "-0.45",
+      "direction": "down",
+      "volume": "1208769",
       "high": "235000",
-      "low": "223000",
+      "low": "221000",
       "open": "231000",
       "marketCap": "0"
     }
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1378.70",
-      "change": "8.30",
+      "value": "1380.00",
+      "change": "7.00",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "867.95",
-      "change": "4.62",
+      "value": "868.44",
+      "change": "4.13",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1610.80",
-      "change": "8.66",
+      "value": "1612.12",
+      "change": "7.34",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "205.08",
-      "change": "1.29",
+      "value": "205.25",
+      "change": "1.12",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "206319.08",
-      "change": "380.51",
+      "value": "206007.56",
+      "change": "692.03",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
+      "title": "창신 이어 양쯔메모리, 중국 반도체 또 상장한다…6조원대 조달",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006356964&office_id=018&mode=mainnews&type=&date=2026-08-24&page=1"
+    },
+    {
+      "title": "자산가는 레버리지 안 한다…그들에겐 원칙과 현금이 있을 뿐 [큰손 따라잡기]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002687539&office_id=016&mode=mainnews&type=&date=2026-08-24&page=1"
+    },
+    {
+      "title": "AI·반도체주 투자 숨 고르는 서학개미",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002687521&office_id=016&mode=mainnews&type=&date=2026-08-24&page=1"
+    },
+    {
+      "title": "코스피 흔들 변수 산재…엔비디아·금통위 주목",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002687519&office_id=016&mode=mainnews&type=&date=2026-08-24&page=1"
+    },
+    {
+      "title": "‘모든 버블은 금리로 터진다’ 정부·기업이 만든 채권 홍수의 역설 [Deep Spot]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002687512&office_id=016&mode=mainnews&type=&date=2026-08-24&page=1"
+    },
+    {
+      "title": "삼전 급락이어 하닉도 약세…코스피, 2%대로 낙폭 확대",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016266611&office_id=001&mode=mainnews&type=&date=2026-08-24&page=1"
+    },
+    {
       "title": "지예은 고백“나도 한번? 들어갔다 -47%수익률”",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002813328&office_id=021&mode=mainnews&type=&date=2026-08-24&page=1"
     },
     {
       "title": "삼성전자 7% '나홀로 급락'... \"주주환원 600조 전망\"까지 나왔는데, 왜",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005565382&office_id=014&mode=mainnews&type=&date=2026-08-24&page=1"
-    },
-    {
-      "title": "\"목표가 149%↑\" 삼화콘덴서, MLCC 수급 잭팟…삼성SDI, 지분 매각으로 美 ESS 재원 마련 [株토피아]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005565380&office_id=014&mode=mainnews&type=&date=2026-08-24&page=1"
-    },
-    {
-      "title": "SK아이이테크놀로지 유증 물량 13% 보호예수 해제",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001051825&office_id=031&mode=mainnews&type=&date=2026-08-24&page=1"
-    },
-    {
-      "title": "모빌리티 美상장 검토 하루 만에 인적분할…카카오 주주들 '상장 트라우마'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000526849&office_id=629&mode=mainnews&type=&date=2026-08-24&page=1"
-    },
-    {
-      "title": "“공포에 산 개미 웃었다”…그런데 외국인은 두 배 벌었네, 어떻게?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005724790&office_id=009&mode=mainnews&type=&date=2026-08-24&page=1"
-    },
-    {
-      "title": "\"금·주식 뛰었는데 내 계좌는 왜 이래\"…ETF 희비 가른 '환율의 배신'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014143450&office_id=003&mode=mainnews&type=&date=2026-08-24&page=1"
-    },
-    {
-      "title": "JP모건 \"삼성전자 저평가인데…자사주 대신 배당 선택 '의문'\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009128623&office_id=421&mode=mainnews&type=&date=2026-08-24&page=1"
     }
   ]
 }
