@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-08-25 04:45:24",
+  "lastUpdated": "2026-08-25 05:02:52",
   "date": "2026.08.25",
   "kospi": {
     "name": "KOSPI",
-    "current": "6691.06",
-    "change": "5.90",
-    "changePct": "0.09",
+    "current": "6684.84",
+    "change": "12.12",
+    "changePct": "0.18",
     "direction": "up",
-    "volume": "216727",
-    "tradeAmount": "17172877"
+    "volume": "226050",
+    "tradeAmount": "18020931"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "255000",
-      "change": "-2000",
-      "changePct": "-0.78",
+      "current": "255750",
+      "change": "-1250",
+      "changePct": "-0.49",
       "direction": "down",
-      "volume": "15793563",
+      "volume": "16530575",
       "high": "256000",
       "low": "245000",
       "open": "249000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1654000",
-      "change": "-17000",
-      "changePct": "-1.02",
+      "current": "1647000",
+      "change": "-24000",
+      "changePct": "-1.44",
       "direction": "down",
-      "volume": "2964989",
+      "volume": "3078062",
       "high": "1655000",
       "low": "1557000",
       "open": "1598000",
@@ -43,12 +43,12 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "112500",
-      "change": "-1000",
-      "changePct": "-0.88",
+      "current": "112700",
+      "change": "-800",
+      "changePct": "-0.70",
       "direction": "down",
-      "volume": "122194",
-      "high": "112700",
+      "volume": "128920",
+      "high": "112800",
       "low": "107500",
       "open": "112000",
       "marketCap": "0"
@@ -61,7 +61,7 @@
       "change": "-3000",
       "changePct": "-1.34",
       "direction": "down",
-      "volume": "723267",
+      "volume": "753031",
       "high": "221000",
       "low": "210000",
       "open": "220500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1383.90",
-      "change": "0.10",
+      "value": "1383.00",
+      "change": "1.00",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "868.96",
-      "change": "0.77",
+      "value": "868.17",
+      "change": "1.56",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1613.14",
-      "change": "1.02",
+      "value": "1612.02",
+      "change": "2.14",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "205.83",
-      "change": "0.06",
+      "value": "205.70",
+      "change": "0.19",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "205851.45",
-      "change": "827.94",
+      "value": "205733.57",
+      "change": "945.82",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -141,6 +141,10 @@
     }
   ],
   "news": [
+    {
+      "title": "“2030은 하이닉스, 4050은 삼성전자”…큰손들이 담은 종목 보니",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001188171&office_id=366&mode=mainnews&type=&date=2026-08-25&page=1"
+    },
     {
       "title": "‘인적분할’ 카카오 향후 주가…AI성과 여부가 핵심",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002688154&office_id=016&mode=mainnews&type=&date=2026-08-25&page=1"
@@ -168,10 +172,6 @@
     {
       "title": "SK하이닉스 '주주가치 계획 변수' 등장, 향후 전망은[오늘의 삼전닉스]",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000102119&office_id=243&mode=mainnews&type=&date=2026-08-25&page=1"
-    },
-    {
-      "title": "[속보] 나스닥 흔들려도…간 큰 개미들 오히려 '3배 몰빵'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001263519&office_id=215&mode=mainnews&type=&date=2026-08-25&page=1"
     }
   ]
 }
