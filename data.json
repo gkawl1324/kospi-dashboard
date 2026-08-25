@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-08-25 05:36:49",
+  "lastUpdated": "2026-08-25 05:56:11",
   "date": "2026.08.25",
   "kospi": {
     "name": "KOSPI",
-    "current": "6736.26",
-    "change": "39.30",
-    "changePct": "0.59",
+    "current": "6722.11",
+    "change": "25.15",
+    "changePct": "0.38",
     "direction": "up",
-    "volume": "246312",
-    "tradeAmount": "19918721"
+    "volume": "259194",
+    "tradeAmount": "20937329"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "257500",
-      "change": "500",
-      "changePct": "0.19",
-      "direction": "up",
-      "volume": "18131085",
+      "current": "256500",
+      "change": "-500",
+      "changePct": "-0.19",
+      "direction": "down",
+      "volume": "18913302",
       "high": "258000",
       "low": "245000",
       "open": "249000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1677500",
-      "change": "6500",
-      "changePct": "0.39",
+      "current": "1674000",
+      "change": "3000",
+      "changePct": "0.18",
       "direction": "up",
-      "volume": "3365103",
+      "volume": "3500133",
       "high": "1682000",
       "low": "1557000",
       "open": "1598000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "112400",
-      "change": "-1100",
-      "changePct": "-0.97",
+      "current": "112200",
+      "change": "-1300",
+      "changePct": "-1.15",
       "direction": "down",
-      "volume": "143929",
+      "volume": "157764",
       "high": "112800",
       "low": "107500",
       "open": "112000",
@@ -61,8 +61,8 @@
       "change": "-3000",
       "changePct": "-1.34",
       "direction": "down",
-      "volume": "807347",
-      "high": "221000",
+      "volume": "848345",
+      "high": "221500",
       "low": "210000",
       "open": "220500",
       "marketCap": "0"
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1383.90",
-      "change": "0.10",
-      "direction": "down"
+      "value": "1385.00",
+      "change": "1.00",
+      "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "868.57",
-      "change": "1.16",
+      "value": "869.37",
+      "change": "0.36",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1613.07",
-      "change": "1.09",
-      "direction": "down"
+      "value": "1614.29",
+      "change": "0.13",
+      "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "205.86",
-      "change": "0.03",
-      "direction": "down"
+      "value": "206.02",
+      "change": "0.13",
+      "direction": "up"
     }
   ],
   "oilPrices": [
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "206681.11",
-      "change": "1.72",
+      "value": "206731.22",
+      "change": "51.83",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,8 +142,28 @@
   ],
   "news": [
     {
+      "title": "금 ETF 고공행진에도 “더는 못 오른다”…전망 엇갈린 이유",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006357700&office_id=018&mode=mainnews&type=&date=2026-08-25&page=1"
+    },
+    {
+      "title": "10억 이상 고액자산가 포트폴리오 봤더니…역시나 삼전닉스",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016269538&office_id=001&mode=mainnews&type=&date=2026-08-25&page=1"
+    },
+    {
+      "title": "자산 30억 이상 큰손들은 ‘이 종목’ 담았다…2030 ‘최애 주식’은 SK하이닉스",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004654943&office_id=011&mode=mainnews&type=&date=2026-08-25&page=1"
+    },
+    {
+      "title": "초대형 IPO에 회사채까지...앤트로픽發 수급 공백 '비상' [마켓딥다이브]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001263536&office_id=215&mode=mainnews&type=&date=2026-08-25&page=1"
+    },
+    {
       "title": "2030 SK하닉·40대 이상 삼전 ‘픽’…고액자산가 새로 담은 종목은?",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0003044175&office_id=029&mode=mainnews&type=&date=2026-08-25&page=1"
+    },
+    {
+      "title": "하이닉스 15% 폭등 봤지?…여의도가 콕 찍은 '제2의 대박주' [분석+]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005324437&office_id=015&mode=mainnews&type=&date=2026-08-25&page=1"
     },
     {
       "title": "'삼전닉스' 낙폭 축소에 코스피 6660선…코스닥은 상승",
@@ -152,26 +172,6 @@
     {
       "title": "'1450→84억' 헐값에 처분했는데…'특급 칭찬' 쏟아진 이유 [주식R]",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0001263533&office_id=215&mode=mainnews&type=&date=2026-08-25&page=1"
-    },
-    {
-      "title": "엔화도 美국채도 가격 매력 커졌지만…일학개미 순매수는 글쎄",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016269394&office_id=001&mode=mainnews&type=&date=2026-08-25&page=1"
-    },
-    {
-      "title": "“2030은 하이닉스, 4050은 삼성전자”…큰손들이 담은 종목 보니",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001188171&office_id=366&mode=mainnews&type=&date=2026-08-25&page=1"
-    },
-    {
-      "title": "‘인적분할’ 카카오 향후 주가…AI성과 여부가 핵심",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002688154&office_id=016&mode=mainnews&type=&date=2026-08-25&page=1"
-    },
-    {
-      "title": "다음 주주환원 관심주는 KB금융·삼성물산",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002688151&office_id=016&mode=mainnews&type=&date=2026-08-25&page=1"
-    },
-    {
-      "title": "낙폭 줄인 코스피, 6550선 회복…외국인 2조원 순매도",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001188153&office_id=366&mode=mainnews&type=&date=2026-08-25&page=1"
     }
   ]
 }
