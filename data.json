@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-08-25 05:56:11",
+  "lastUpdated": "2026-08-25 06:58:00",
   "date": "2026.08.25",
   "kospi": {
     "name": "KOSPI",
-    "current": "6722.11",
-    "change": "25.15",
-    "changePct": "0.38",
+    "current": "6742.74",
+    "change": "45.78",
+    "changePct": "0.68",
     "direction": "up",
-    "volume": "259194",
-    "tradeAmount": "20937329"
+    "volume": "282781",
+    "tradeAmount": "23696971"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "256500",
-      "change": "-500",
-      "changePct": "-0.19",
-      "direction": "down",
-      "volume": "18913302",
+      "current": "257000",
+      "change": "0",
+      "changePct": "0.00",
+      "direction": "up",
+      "volume": "21596129",
       "high": "258000",
       "low": "245000",
       "open": "249000",
@@ -29,12 +29,12 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1674000",
-      "change": "3000",
-      "changePct": "0.18",
+      "current": "1678000",
+      "change": "7000",
+      "changePct": "0.42",
       "direction": "up",
-      "volume": "3500133",
-      "high": "1682000",
+      "volume": "4013852",
+      "high": "1687000",
       "low": "1557000",
       "open": "1598000",
       "marketCap": "0"
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "112200",
-      "change": "-1300",
-      "changePct": "-1.15",
+      "current": "112600",
+      "change": "-900",
+      "changePct": "-0.79",
       "direction": "down",
-      "volume": "157764",
+      "volume": "201663",
       "high": "112800",
       "low": "107500",
       "open": "112000",
@@ -61,7 +61,7 @@
       "change": "-3000",
       "changePct": "-1.34",
       "direction": "down",
-      "volume": "848345",
+      "volume": "939087",
       "high": "221500",
       "low": "210000",
       "open": "220500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1385.00",
-      "change": "1.00",
+      "value": "1386.40",
+      "change": "2.40",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "869.37",
-      "change": "0.36",
-      "direction": "down"
+      "value": "869.84",
+      "change": "0.11",
+      "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1614.29",
-      "change": "0.13",
+      "value": "1615.43",
+      "change": "1.27",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "206.02",
-      "change": "0.13",
+      "value": "206.20",
+      "change": "0.31",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "206731.22",
-      "change": "51.83",
+      "value": "206867.8",
+      "change": "188.41",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "금 ETF 고공행진에도 “더는 못 오른다”…전망 엇갈린 이유",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006357700&office_id=018&mode=mainnews&type=&date=2026-08-25&page=1"
+      "title": "삼전닉스 쉬어가니 그룹주 ETF 담아볼까…LG·포스코 ‘두각’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006357761&office_id=018&mode=mainnews&type=&date=2026-08-25&page=1"
     },
     {
-      "title": "10억 이상 고액자산가 포트폴리오 봤더니…역시나 삼전닉스",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016269538&office_id=001&mode=mainnews&type=&date=2026-08-25&page=1"
+      "title": "'불장' 시동거나…비트코인, 석달 만에 8만달러 돌파",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014147186&office_id=003&mode=mainnews&type=&date=2026-08-25&page=1"
     },
     {
-      "title": "자산 30억 이상 큰손들은 ‘이 종목’ 담았다…2030 ‘최애 주식’은 SK하이닉스",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004654943&office_id=011&mode=mainnews&type=&date=2026-08-25&page=1"
+      "title": "골프존홀딩스 공개매수가 공방 격화...美터톤 창립자 “법적조치 할 것”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005725529&office_id=009&mode=mainnews&type=&date=2026-08-25&page=1"
     },
     {
-      "title": "초대형 IPO에 회사채까지...앤트로픽發 수급 공백 '비상' [마켓딥다이브]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001263536&office_id=215&mode=mainnews&type=&date=2026-08-25&page=1"
+      "title": "\"美국채 바이백, 마지막 경고등을 가린 것\"…베선트 장관 멘토도 쓴소리",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005807108&office_id=277&mode=mainnews&type=&date=2026-08-25&page=1"
     },
     {
-      "title": "2030 SK하닉·40대 이상 삼전 ‘픽’…고액자산가 새로 담은 종목은?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003044175&office_id=029&mode=mainnews&type=&date=2026-08-25&page=1"
+      "title": "증시 활황에 몰렸던 ELS, 8월 들어 발행액 ‘급감’, 왜?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006357721&office_id=018&mode=mainnews&type=&date=2026-08-25&page=1"
     },
     {
-      "title": "하이닉스 15% 폭등 봤지?…여의도가 콕 찍은 '제2의 대박주' [분석+]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005324437&office_id=015&mode=mainnews&type=&date=2026-08-25&page=1"
+      "title": "삼성전자보다 주가 더 빠진 삼성물산?'역대급 배당' 반전되나",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001052231&office_id=031&mode=mainnews&type=&date=2026-08-25&page=1"
     },
     {
-      "title": "'삼전닉스' 낙폭 축소에 코스피 6660선…코스닥은 상승",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006357673&office_id=018&mode=mainnews&type=&date=2026-08-25&page=1"
+      "title": "네이버·카카오 팔아치우더니…부자들 '이 종목' 샀다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005324457&office_id=015&mode=mainnews&type=&date=2026-08-25&page=1"
     },
     {
-      "title": "'1450→84억' 헐값에 처분했는데…'특급 칭찬' 쏟아진 이유 [주식R]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001263533&office_id=215&mode=mainnews&type=&date=2026-08-25&page=1"
+      "title": "\"삼전 주식 소각하게 해주세요\"…주가 급락에 '금산법' 개정 목소리",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009131539&office_id=421&mode=mainnews&type=&date=2026-08-25&page=1"
     }
   ]
 }
