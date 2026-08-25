@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25 06:58:00",
+  "lastUpdated": "2026-08-25 07:23:10",
   "date": "2026.08.25",
   "kospi": {
     "name": "KOSPI",
@@ -19,7 +19,7 @@
       "change": "0",
       "changePct": "0.00",
       "direction": "up",
-      "volume": "21596129",
+      "volume": "21596130",
       "high": "258000",
       "low": "245000",
       "open": "249000",
@@ -33,7 +33,7 @@
       "change": "7000",
       "changePct": "0.42",
       "direction": "up",
-      "volume": "4013852",
+      "volume": "4013938",
       "high": "1687000",
       "low": "1557000",
       "open": "1598000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1386.40",
-      "change": "2.40",
+      "value": "1385.00",
+      "change": "1.00",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "869.84",
-      "change": "0.11",
-      "direction": "up"
+      "value": "869.32",
+      "change": "0.41",
+      "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1615.43",
-      "change": "1.27",
+      "value": "1615.26",
+      "change": "1.10",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "206.20",
-      "change": "0.31",
+      "value": "206.00",
+      "change": "0.11",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "206867.8",
-      "change": "188.41",
+      "value": "206704.18",
+      "change": "24.79",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
+      "title": "외국인 매도에도… 삼전닉스 자사주 매입이 지수 방어[마켓뷰]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001188235&office_id=366&mode=mainnews&type=&date=2026-08-25&page=1"
+    },
+    {
+      "title": "'순환매' 장세에 변동성 완화…철강·바이오·화학으로 번진 온기",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006357783&office_id=018&mode=mainnews&type=&date=2026-08-25&page=1"
+    },
+    {
+      "title": "1년만에 마주한 1380원대 원/달러 환율…수혜주 기준도 바뀌었다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005404488&office_id=008&mode=mainnews&type=&date=2026-08-25&page=1"
+    },
+    {
+      "title": "4% 급락 딛고 상승 반전…코스피, 6740선 회복[마감]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006357770&office_id=018&mode=mainnews&type=&date=2026-08-25&page=1"
+    },
+    {
+      "title": "코스피, 순환매 확산·반도체 순매수에 상승…코스닥도 뛰어",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005404474&office_id=008&mode=mainnews&type=&date=2026-08-25&page=1"
+    },
+    {
+      "title": "“갑자기 너무 오른다” 계좌 열었다가 ‘깜짝’…비트코인 급등한 이유는 바로",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004654983&office_id=011&mode=mainnews&type=&date=2026-08-25&page=1"
+    },
+    {
       "title": "삼전닉스 쉬어가니 그룹주 ETF 담아볼까…LG·포스코 ‘두각’",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0006357761&office_id=018&mode=mainnews&type=&date=2026-08-25&page=1"
     },
     {
-      "title": "'불장' 시동거나…비트코인, 석달 만에 8만달러 돌파",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014147186&office_id=003&mode=mainnews&type=&date=2026-08-25&page=1"
-    },
-    {
-      "title": "골프존홀딩스 공개매수가 공방 격화...美터톤 창립자 “법적조치 할 것”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005725529&office_id=009&mode=mainnews&type=&date=2026-08-25&page=1"
-    },
-    {
-      "title": "\"美국채 바이백, 마지막 경고등을 가린 것\"…베선트 장관 멘토도 쓴소리",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005807108&office_id=277&mode=mainnews&type=&date=2026-08-25&page=1"
-    },
-    {
-      "title": "증시 활황에 몰렸던 ELS, 8월 들어 발행액 ‘급감’, 왜?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006357721&office_id=018&mode=mainnews&type=&date=2026-08-25&page=1"
-    },
-    {
-      "title": "삼성전자보다 주가 더 빠진 삼성물산?'역대급 배당' 반전되나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001052231&office_id=031&mode=mainnews&type=&date=2026-08-25&page=1"
-    },
-    {
-      "title": "네이버·카카오 팔아치우더니…부자들 '이 종목' 샀다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005324457&office_id=015&mode=mainnews&type=&date=2026-08-25&page=1"
-    },
-    {
-      "title": "\"삼전 주식 소각하게 해주세요\"…주가 급락에 '금산법' 개정 목소리",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009131539&office_id=421&mode=mainnews&type=&date=2026-08-25&page=1"
+      "title": "“인적분할 후 18만원 간다” 거래재개 한화, 재평가 본격화하나",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003044214&office_id=029&mode=mainnews&type=&date=2026-08-25&page=1"
     }
   ]
 }
