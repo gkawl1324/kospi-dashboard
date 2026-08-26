@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26 06:58:46",
+  "lastUpdated": "2026-08-26 07:23:23",
   "date": "2026.08.26",
   "kospi": {
     "name": "KOSPI",
@@ -19,7 +19,7 @@
       "change": "4500",
       "changePct": "1.75",
       "direction": "up",
-      "volume": "19532519",
+      "volume": "19532523",
       "high": "266500",
       "low": "255500",
       "open": "256500",
@@ -33,7 +33,7 @@
       "change": "10000",
       "changePct": "0.60",
       "direction": "up",
-      "volume": "2923775",
+      "volume": "2923810",
       "high": "1735000",
       "low": "1662000",
       "open": "1668000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1384.50",
-      "change": "1.00",
+      "value": "1384.40",
+      "change": "0.90",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "870.40",
-      "change": "1.48",
+      "value": "870.61",
+      "change": "1.69",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1615.09",
-      "change": "0.22",
-      "direction": "down"
+      "value": "1615.59",
+      "change": "0.28",
+      "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "206.01",
-      "change": "0.06",
+      "value": "206.00",
+      "change": "0.05",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "206206.87",
-      "change": "451.47",
+      "value": "206246.71",
+      "change": "411.63",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
+      "title": "\"AI 경쟁 끝났을 때 살아남는 기업에 투자해야…이 기업들 주목\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005405113&office_id=008&mode=mainnews&type=&date=2026-08-26&page=1"
+    },
+    {
+      "title": "코스피, 6800선 회복… 삼전닉스 자사주 매입 여파",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005405103&office_id=008&mode=mainnews&type=&date=2026-08-26&page=1"
+    },
+    {
+      "title": "또 '전약후강' 코스피 0.97%↑…거래량, 올해평균의 절반 밑으로(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016272552&office_id=001&mode=mainnews&type=&date=2026-08-26&page=1"
+    },
+    {
+      "title": "‘80조 IPO 흥행’ SKIET, SK이노 흡수합병…개미 눈물 쏟은 물적분할의 비극",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006358425&office_id=018&mode=mainnews&type=&date=2026-08-26&page=1"
+    },
+    {
+      "title": "비싼 보수 내고도 패시브보다 ‘초라’…쪼그라드는 액티브 ETF",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003044480&office_id=029&mode=mainnews&type=&date=2026-08-26&page=1"
+    },
+    {
       "title": "돈 벌고 싶다면 금 말고 ‘이것’ 사라…“바닥 탈출하며 모멘텀 살아나” 분석 나왔다",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0004655388&office_id=011&mode=mainnews&type=&date=2026-08-26&page=1"
     },
     {
+      "title": "코스피 6800선 탈환했지만…엔비디아 실적 앞두고 뒷심 부족",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006358410&office_id=018&mode=mainnews&type=&date=2026-08-26&page=1"
+    },
+    {
       "title": "반기보고서도 안 낸 '상폐 위기' 금양…주주들과 갈등 고조",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0006358397&office_id=018&mode=mainnews&type=&date=2026-08-26&page=1"
-    },
-    {
-      "title": "코람코자산신탁 \"코람코더원리츠 투자 유의\"…이례적 주주서한 보낸 이유",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006358384&office_id=018&mode=mainnews&type=&date=2026-08-26&page=1"
-    },
-    {
-      "title": "유진증권, 실적 2배 뛰어도 주가는 '시들'…자사주 활용 19년째 '안갯속'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000527771&office_id=629&mode=mainnews&type=&date=2026-08-26&page=1"
-    },
-    {
-      "title": "전기료 새판 짠다…포스코·현대제철, 연 3천억 절감 [마켓딥다이브]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001263709&office_id=215&mode=mainnews&type=&date=2026-08-26&page=1"
-    },
-    {
-      "title": "[단독] \"감정가 낮춘 정황\"…제이알, 파이낸스타워 소송 '물적 증거' 확보",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006358375&office_id=018&mode=mainnews&type=&date=2026-08-26&page=1"
-    },
-    {
-      "title": "반도체 2막 주인공은 소부장?…AI 병목 수혜주 뜬다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003125693&office_id=119&mode=mainnews&type=&date=2026-08-26&page=1"
-    },
-    {
-      "title": "\"자회사 SKIET 품는다\"…SK이노베이션, 10% 넘게 밀렸다 [종목+]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005324942&office_id=015&mode=mainnews&type=&date=2026-08-26&page=1"
     }
   ]
 }
