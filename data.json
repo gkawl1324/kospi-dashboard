@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-08-26 02:26:17",
+  "lastUpdated": "2026-08-26 03:31:33",
   "date": "2026.08.26",
   "kospi": {
     "name": "KOSPI",
-    "current": "6811.04",
-    "change": "68.30",
-    "changePct": "1.01",
+    "current": "6845.65",
+    "change": "102.91",
+    "changePct": "1.53",
     "direction": "up",
-    "volume": "185571",
-    "tradeAmount": "10230448"
+    "volume": "223443",
+    "tradeAmount": "13451917"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "261000",
-      "change": "4000",
-      "changePct": "1.56",
+      "current": "263750",
+      "change": "6750",
+      "changePct": "2.63",
       "direction": "up",
-      "volume": "7475904",
-      "high": "263500",
+      "volume": "10826267",
+      "high": "265000",
       "low": "255500",
       "open": "256500",
       "marketCap": "0"
@@ -29,12 +29,12 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1705000",
-      "change": "27000",
-      "changePct": "1.61",
+      "current": "1713000",
+      "change": "35000",
+      "changePct": "2.09",
       "direction": "up",
-      "volume": "1292087",
-      "high": "1717000",
+      "volume": "1857332",
+      "high": "1735000",
       "low": "1662000",
       "open": "1668000",
       "marketCap": "0"
@@ -43,12 +43,12 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "114500",
-      "change": "1900",
-      "changePct": "1.69",
+      "current": "114700",
+      "change": "2100",
+      "changePct": "1.87",
       "direction": "up",
-      "volume": "80986",
-      "high": "115100",
+      "volume": "105453",
+      "high": "115300",
       "low": "111100",
       "open": "112600",
       "marketCap": "0"
@@ -57,12 +57,12 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "222000",
-      "change": "1500",
-      "changePct": "0.68",
+      "current": "222500",
+      "change": "2000",
+      "changePct": "0.91",
       "direction": "up",
-      "volume": "312811",
-      "high": "222500",
+      "volume": "410548",
+      "high": "223500",
       "low": "214000",
       "open": "218500",
       "marketCap": "0"
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1382.60",
-      "change": "0.90",
-      "direction": "down"
+      "value": "1387.40",
+      "change": "3.90",
+      "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "869.97",
-      "change": "1.05",
+      "value": "872.74",
+      "change": "3.82",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1613.49",
-      "change": "1.82",
-      "direction": "down"
+      "value": "1618.68",
+      "change": "3.37",
+      "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "205.76",
-      "change": "0.19",
-      "direction": "down"
+      "value": "206.44",
+      "change": "0.49",
+      "direction": "up"
     }
   ],
   "oilPrices": [
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "207115.13",
-      "change": "456.79",
+      "value": "207424.27",
+      "change": "765.93",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
+      "title": "'상장 대박' 나더니 반토막…AI·로봇주 '거품론' 솔솔",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001263680&office_id=215&mode=mainnews&type=&date=2026-08-26&page=1"
+    },
+    {
+      "title": "퇴직연금 DB형 맡겼더니 수익률 고작 3.5%…IRP는 9.4% 달해",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005725995&office_id=009&mode=mainnews&type=&date=2026-08-26&page=1"
+    },
+    {
+      "title": "'50만원' 한미약품 \"80만원 간다\"?증권가 눈높이 한 달 만에 반전",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001052492&office_id=031&mode=mainnews&type=&date=2026-08-26&page=1"
+    },
+    {
+      "title": "“반도체 슈퍼사이클 2막은 소부장”…미래에셋, MLCC·기판 주목",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004655307&office_id=011&mode=mainnews&type=&date=2026-08-26&page=1"
+    },
+    {
+      "title": "\"오늘밤~내일 새벽 큰거 발표\" 숨죽인 주식시장…매수·매도 '멈칫'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005404921&office_id=008&mode=mainnews&type=&date=2026-08-26&page=1"
+    },
+    {
+      "title": "\"연속 인상이냐 동결이냐\"…한은 금통위 하루 앞두고 전망 '팽팽'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000527668&office_id=629&mode=mainnews&type=&date=2026-08-26&page=1"
+    },
+    {
+      "title": "“금리 오를 때는 ‘이 종목’도 오른다”…증권가가 콕 집은 방어주의 정체는",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004655304&office_id=011&mode=mainnews&type=&date=2026-08-26&page=1"
+    },
+    {
       "title": "‘개미 주도’ 코스닥에 外人·기관 몰려온다",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002688621&office_id=016&mode=mainnews&type=&date=2026-08-26&page=1"
-    },
-    {
-      "title": "\"과도한 주가 조정\" 삼성전자, 목표주가 37만원…대우건설, 대규모 신규 수주 자신감 [株토피아]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005566577&office_id=014&mode=mainnews&type=&date=2026-08-26&page=1"
-    },
-    {
-      "title": "영풍·MBK \"고려아연, 최윤범 회장 투자에 회삿돈 투입 부인 못해\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005807491&office_id=277&mode=mainnews&type=&date=2026-08-26&page=1"
-    },
-    {
-      "title": "'삼전·닉스' 숨고르기…LG·한화·포스코 그룹주 ETF '약진'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014148484&office_id=003&mode=mainnews&type=&date=2026-08-26&page=1"
-    },
-    {
-      "title": "‘주가 뻥튀기’ 꼼수 안 통했다… ‘동전주’ 주식 병합 후 대부분 주가 하락",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001188363&office_id=366&mode=mainnews&type=&date=2026-08-26&page=1"
-    },
-    {
-      "title": "자회사 흡수합병 SK이노베이션…장 초반 15%대 급락 [이런국장 저런주식]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004655252&office_id=011&mode=mainnews&type=&date=2026-08-26&page=1"
-    },
-    {
-      "title": "외인·기관 '팔자'에도…코스피, 개인 매수에 6750선",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001052416&office_id=031&mode=mainnews&type=&date=2026-08-26&page=1"
-    },
-    {
-      "title": "갈 길 잃은 코스피…美 반도체주 반등에도 6700선 보합[투자360]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002688504&office_id=016&mode=mainnews&type=&date=2026-08-26&page=1"
     }
   ]
 }
