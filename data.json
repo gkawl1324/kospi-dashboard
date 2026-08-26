@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-08-26 03:57:17",
+  "lastUpdated": "2026-08-26 04:49:18",
   "date": "2026.08.26",
   "kospi": {
     "name": "KOSPI",
-    "current": "6878.24",
-    "change": "135.50",
-    "changePct": "2.01",
+    "current": "6869.46",
+    "change": "126.72",
+    "changePct": "1.88",
     "direction": "up",
-    "volume": "236475",
-    "tradeAmount": "14515115"
+    "volume": "263482",
+    "tradeAmount": "16804246"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "265500",
-      "change": "8500",
-      "changePct": "3.31",
+      "current": "265000",
+      "change": "8000",
+      "changePct": "3.11",
       "direction": "up",
-      "volume": "12062148",
-      "high": "266000",
+      "volume": "14425653",
+      "high": "266500",
       "low": "255500",
       "open": "256500",
       "marketCap": "0"
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1723000",
-      "change": "45000",
-      "changePct": "2.68",
+      "current": "1721000",
+      "change": "43000",
+      "changePct": "2.56",
       "direction": "up",
-      "volume": "1986686",
+      "volume": "2256038",
       "high": "1735000",
       "low": "1662000",
       "open": "1668000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "114700",
-      "change": "2100",
-      "changePct": "1.87",
+      "current": "114300",
+      "change": "1700",
+      "changePct": "1.51",
       "direction": "up",
-      "volume": "111516",
+      "volume": "126321",
       "high": "115300",
       "low": "111100",
       "open": "112600",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "222500",
-      "change": "2000",
-      "changePct": "0.91",
+      "current": "221750",
+      "change": "1250",
+      "changePct": "0.57",
       "direction": "up",
-      "volume": "436611",
+      "volume": "488337",
       "high": "223500",
       "low": "214000",
       "open": "218500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1386.80",
-      "change": "3.30",
+      "value": "1386.10",
+      "change": "2.60",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "872.48",
-      "change": "3.56",
+      "value": "871.73",
+      "change": "2.81",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1617.56",
-      "change": "2.25",
+      "value": "1616.26",
+      "change": "0.95",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "206.34",
-      "change": "0.39",
+      "value": "206.23",
+      "change": "0.28",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "207108.92",
-      "change": "450.58",
+      "value": "206865.38",
+      "change": "207.04",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -141,6 +141,10 @@
     }
   ],
   "news": [
+    {
+      "title": "태우고 또 태운다…역대급 주주환원 SK하이닉스 다음 주자는",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000527717&office_id=629&mode=mainnews&type=&date=2026-08-26&page=1"
+    },
     {
       "title": "'상장 대박' 나더니 반토막…AI·로봇주 '거품론' 솔솔",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0001263680&office_id=215&mode=mainnews&type=&date=2026-08-26&page=1"
@@ -168,10 +172,6 @@
     {
       "title": "“금리 오를 때는 ‘이 종목’도 오른다”…증권가가 콕 집은 방어주의 정체는",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0004655304&office_id=011&mode=mainnews&type=&date=2026-08-26&page=1"
-    },
-    {
-      "title": "‘개미 주도’ 코스닥에 外人·기관 몰려온다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002688621&office_id=016&mode=mainnews&type=&date=2026-08-26&page=1"
     }
   ]
 }
