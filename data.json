@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-08-26 05:58:02",
+  "lastUpdated": "2026-08-26 06:58:46",
   "date": "2026.08.26",
   "kospi": {
     "name": "KOSPI",
-    "current": "6830.01",
-    "change": "87.27",
-    "changePct": "1.29",
+    "current": "6808.21",
+    "change": "65.47",
+    "changePct": "0.97",
     "direction": "up",
-    "volume": "301038",
-    "tradeAmount": "20244574"
+    "volume": "323288",
+    "tradeAmount": "22375984"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "262750",
-      "change": "5750",
-      "changePct": "2.24",
+      "current": "261500",
+      "change": "4500",
+      "changePct": "1.75",
       "direction": "up",
-      "volume": "17049832",
+      "volume": "19532519",
       "high": "266500",
       "low": "255500",
       "open": "256500",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1701000",
-      "change": "23000",
-      "changePct": "1.37",
+      "current": "1688000",
+      "change": "10000",
+      "changePct": "0.60",
       "direction": "up",
-      "volume": "2679157",
+      "volume": "2923775",
       "high": "1735000",
       "low": "1662000",
       "open": "1668000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "114200",
-      "change": "1600",
-      "changePct": "1.42",
+      "current": "114400",
+      "change": "1800",
+      "changePct": "1.60",
       "direction": "up",
-      "volume": "171353",
+      "volume": "225598",
       "high": "115300",
       "low": "111100",
       "open": "112600",
@@ -61,7 +61,7 @@
       "change": "-500",
       "changePct": "-0.23",
       "direction": "down",
-      "volume": "576011",
+      "volume": "634210",
       "high": "223500",
       "low": "214000",
       "open": "218500",
@@ -79,22 +79,22 @@
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "870.73",
-      "change": "1.81",
+      "value": "870.40",
+      "change": "1.48",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1614.88",
-      "change": "0.43",
+      "value": "1615.09",
+      "change": "0.22",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "206.03",
-      "change": "0.08",
+      "value": "206.01",
+      "change": "0.06",
       "direction": "up"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "206604.19",
-      "change": "54.15",
+      "value": "206206.87",
+      "change": "451.47",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
+      "title": "돈 벌고 싶다면 금 말고 ‘이것’ 사라…“바닥 탈출하며 모멘텀 살아나” 분석 나왔다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004655388&office_id=011&mode=mainnews&type=&date=2026-08-26&page=1"
+    },
+    {
+      "title": "반기보고서도 안 낸 '상폐 위기' 금양…주주들과 갈등 고조",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006358397&office_id=018&mode=mainnews&type=&date=2026-08-26&page=1"
+    },
+    {
+      "title": "코람코자산신탁 \"코람코더원리츠 투자 유의\"…이례적 주주서한 보낸 이유",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006358384&office_id=018&mode=mainnews&type=&date=2026-08-26&page=1"
+    },
+    {
+      "title": "유진증권, 실적 2배 뛰어도 주가는 '시들'…자사주 활용 19년째 '안갯속'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000527771&office_id=629&mode=mainnews&type=&date=2026-08-26&page=1"
+    },
+    {
+      "title": "전기료 새판 짠다…포스코·현대제철, 연 3천억 절감 [마켓딥다이브]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001263709&office_id=215&mode=mainnews&type=&date=2026-08-26&page=1"
+    },
+    {
+      "title": "[단독] \"감정가 낮춘 정황\"…제이알, 파이낸스타워 소송 '물적 증거' 확보",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006358375&office_id=018&mode=mainnews&type=&date=2026-08-26&page=1"
+    },
+    {
       "title": "반도체 2막 주인공은 소부장?…AI 병목 수혜주 뜬다",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0003125693&office_id=119&mode=mainnews&type=&date=2026-08-26&page=1"
     },
     {
       "title": "\"자회사 SKIET 품는다\"…SK이노베이션, 10% 넘게 밀렸다 [종목+]",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005324942&office_id=015&mode=mainnews&type=&date=2026-08-26&page=1"
-    },
-    {
-      "title": "코람코신탁 “배당락 후 주가 급락할 수도”…코람코더원리츠 주주에 이례적 서한",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001188453&office_id=366&mode=mainnews&type=&date=2026-08-26&page=1"
-    },
-    {
-      "title": "1,100억 달러 전망도 존재…엔비디아, 이번엔 랠리 나올까",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001263706&office_id=215&mode=mainnews&type=&date=2026-08-26&page=1"
-    },
-    {
-      "title": "7900억 자사주 소각에도 시큰둥…시총 4위 현대차, -2%대 약세 [이런국장 저런주식]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004655355&office_id=011&mode=mainnews&type=&date=2026-08-26&page=1"
-    },
-    {
-      "title": "삼성생명 9%, 삼성물산 5% 상승…“삼전 110조 환원 영향” [줍줍리포트]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004655349&office_id=011&mode=mainnews&type=&date=2026-08-26&page=1"
-    },
-    {
-      "title": "\"8900원 배당 뒤엔 2400원?\"…코람코더원리츠 '배당락 주의보' [fn마켓워치]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005566689&office_id=014&mode=mainnews&type=&date=2026-08-26&page=1"
-    },
-    {
-      "title": "IMA 4조 뭉칫돈에도…비우량채는 '풍요 속 빈곤' [fn마켓워치]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005566687&office_id=014&mode=mainnews&type=&date=2026-08-26&page=1"
     }
   ]
 }
