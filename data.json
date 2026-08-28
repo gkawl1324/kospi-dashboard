@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-28 11:36:11",
+  "lastUpdated": "2026-08-28 12:38:01",
   "date": "2026.08.28",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1375.20",
-      "change": "6.80",
+      "value": "1374.70",
+      "change": "7.30",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "861.22",
-      "change": "5.89",
+      "value": "861.26",
+      "change": "5.85",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1601.56",
-      "change": "8.95",
+      "value": "1600.36",
+      "change": "10.15",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "204.59",
-      "change": "1.08",
+      "value": "204.50",
+      "change": "1.17",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "203262.53",
-      "change": "1798.57",
+      "value": "203029.03",
+      "change": "2032.07",
       "direction": "down",
       "unit": "USD/oz"
     },
