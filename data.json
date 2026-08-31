@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-08-31 05:52:09",
+  "lastUpdated": "2026-08-31 06:52:19",
   "date": "2026.08.31",
   "kospi": {
     "name": "KOSPI",
-    "current": "6765.67",
-    "change": "23.21",
-    "changePct": "0.34",
+    "current": "6820.02",
+    "change": "31.14",
+    "changePct": "0.46",
     "direction": "up",
-    "volume": "239903",
-    "tradeAmount": "16321435"
+    "volume": "351571",
+    "tradeAmount": "26035272"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "257250",
-      "change": "250",
-      "changePct": "0.10",
+      "current": "260000",
+      "change": "3000",
+      "changePct": "1.17",
       "direction": "up",
-      "volume": "12429116",
-      "high": "259000",
+      "volume": "17009748",
+      "high": "260000",
       "low": "246000",
       "open": "249000",
       "marketCap": "0"
@@ -29,12 +29,12 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1646000",
-      "change": "-7000",
-      "changePct": "-0.42",
-      "direction": "down",
-      "volume": "2511656",
-      "high": "1665000",
+      "current": "1674000",
+      "change": "21000",
+      "changePct": "1.27",
+      "direction": "up",
+      "volume": "3738128",
+      "high": "1674000",
       "low": "1577000",
       "open": "1596000",
       "marketCap": "0"
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "119500",
-      "change": "3200",
-      "changePct": "2.75",
+      "current": "119400",
+      "change": "3100",
+      "changePct": "2.67",
       "direction": "up",
-      "volume": "220441",
+      "volume": "597975",
       "high": "120300",
       "low": "113400",
       "open": "115700",
@@ -61,7 +61,7 @@
       "change": "-3500",
       "changePct": "-1.59",
       "direction": "down",
-      "volume": "471620",
+      "volume": "726284",
       "high": "218000",
       "low": "209000",
       "open": "214500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1373.40",
-      "change": "7.60",
+      "value": "1370.00",
+      "change": "11.00",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "859.21",
-      "change": "3.27",
+      "value": "856.92",
+      "change": "5.56",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1591.50",
-      "change": "8.25",
+      "value": "1587.49",
+      "change": "12.26",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "204.33",
-      "change": "0.81",
+      "value": "203.84",
+      "change": "1.30",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "195972.19",
-      "change": "3021.73",
+      "value": "195597.09",
+      "change": "3396.83",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "빅테크 부외부채 3조 달러...반도체주 뇌관되나 [마켓딥다이브]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001264266&office_id=215&mode=mainnews&type=&date=2026-08-31&page=1"
+      "title": "한국엔 ‘진짜’ 우선주가 없다?… 보통주 대비 45% 싼 ‘무늬만 우선주’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003995853&office_id=023&mode=mainnews&type=&date=2026-08-31&page=1"
     },
     {
-      "title": "\"소통 부족했다\"…'시총 미달' 위기 광고제작사 대표의 변 [인터뷰+]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005326643&office_id=015&mode=mainnews&type=&date=2026-08-31&page=1"
+      "title": "삼전닉스 살 돈으로 이걸 샀어야 했나…“단숨에 29% 상승” 기대감 몰리는 업종 정체가",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004656955&office_id=011&mode=mainnews&type=&date=2026-08-31&page=1"
     },
     {
-      "title": "'수천억 차입금' SK어드밴스드, 하반기 수익성 저하 어쩌나 [fn마켓워치]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005568659&office_id=014&mode=mainnews&type=&date=2026-08-31&page=1"
+      "title": "상장사 상폐 미세조정?…시총 산정때 권리락·배당락 상황도 본다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005407166&office_id=008&mode=mainnews&type=&date=2026-08-31&page=1"
     },
     {
-      "title": "IPO 대어는 옛말…케이뱅크, 주가부진에 주주환원 계획 '물음표'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000529030&office_id=629&mode=mainnews&type=&date=2026-08-31&page=1"
+      "title": "\"BTS·빅뱅 컴백해도 -40%\" 비명...엔터ETF 반등 어렵다?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005407156&office_id=008&mode=mainnews&type=&date=2026-08-31&page=1"
     },
     {
-      "title": "'최악의 달' 9월, 삼전닉스 자사주에 징크스 깨지나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006360930&office_id=018&mode=mainnews&type=&date=2026-08-31&page=1"
+      "title": "‘퇴근길 ETF 거래’ 결국 막혔다… 세칙에 거래제외 명시",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005728128&office_id=009&mode=mainnews&type=&date=2026-08-31&page=1"
     },
     {
-      "title": "40만→45만원 VS 330만→240만원…삼전닉스 전망 '엇갈린' 결정적 이유 [주식R]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001264260&office_id=215&mode=mainnews&type=&date=2026-08-31&page=1"
+      "title": "삼성 이어 日세콤까지?…FCP, 에스원 '경영권 M&A' 나서나 [fn마켓워치]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005568721&office_id=014&mode=mainnews&type=&date=2026-08-31&page=1"
     },
     {
-      "title": "삼성전기·SK하이닉스 쓸어담은 초고수…반도체株 약세에도 ‘매수’[주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004656902&office_id=011&mode=mainnews&type=&date=2026-08-31&page=1"
+      "title": "대신증권 “LS, 전력·AI 성장 실적으로 증명…목표가 63만원”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001264277&office_id=215&mode=mainnews&type=&date=2026-08-31&page=1"
     },
     {
-      "title": "8월 코스피 일평균 거래대금 연중 '최저'…떠오르는 '박스피' 악몽",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000529000&office_id=629&mode=mainnews&type=&date=2026-08-31&page=1"
+      "title": "'매의 발톱' 드러낸 워시…월가, 연내 2번 인상 '베팅' [월가딥다이브]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001264273&office_id=215&mode=mainnews&type=&date=2026-08-31&page=1"
     }
   ]
 }
