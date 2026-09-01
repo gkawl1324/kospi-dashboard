@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-09-01 06:10:10",
+  "lastUpdated": "2026-09-01 10:17:30",
   "date": "2026.09.01",
   "kospi": {
     "name": "KOSPI",
-    "current": "6833.92",
-    "change": "13.90",
-    "changePct": "0.20",
+    "current": "6835.80",
+    "change": "15.78",
+    "changePct": "0.23",
     "direction": "up",
-    "volume": "249099",
-    "tradeAmount": "16070024"
+    "volume": "273600",
+    "tradeAmount": "19203446"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "260500",
-      "change": "500",
-      "changePct": "0.19",
+      "current": "261000",
+      "change": "1000",
+      "changePct": "0.38",
       "direction": "up",
-      "volume": "11470354",
+      "volume": "12765827",
       "high": "262500",
       "low": "254000",
       "open": "256500",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1695000",
-      "change": "21000",
-      "changePct": "1.25",
+      "current": "1693000",
+      "change": "19000",
+      "changePct": "1.14",
       "direction": "up",
-      "volume": "2258553",
+      "volume": "2481959",
       "high": "1713000",
       "low": "1652000",
       "open": "1666000",
@@ -43,12 +43,12 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "119950",
-      "change": "550",
-      "changePct": "0.46",
+      "current": "120300",
+      "change": "900",
+      "changePct": "0.75",
       "direction": "up",
-      "volume": "172961",
-      "high": "120200",
+      "volume": "227855",
+      "high": "120300",
       "low": "114900",
       "open": "117800",
       "marketCap": "0"
@@ -61,7 +61,7 @@
       "change": "-2000",
       "changePct": "-0.92",
       "direction": "down",
-      "volume": "322832",
+      "volume": "359312",
       "high": "218500",
       "low": "213500",
       "open": "217000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1370.90",
-      "change": "1.40",
+      "value": "1373.80",
+      "change": "4.30",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "857.35",
-      "change": "0.21",
+      "value": "858.57",
+      "change": "1.43",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1591.20",
-      "change": "0.05",
+      "value": "1592.85",
+      "change": "1.70",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "203.97",
-      "change": "0.13",
+      "value": "204.31",
+      "change": "0.47",
       "direction": "up"
     }
   ],
@@ -118,9 +118,9 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "195555.47",
-      "change": "204.64",
-      "direction": "up",
+      "value": "193381.86",
+      "change": "1968.97",
+      "direction": "down",
       "unit": "USD/oz"
     },
     {
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "\"690억 넣었는데 650억 묶였다\"…영풍·MBK, 최윤범 투자 정조준",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000529508&office_id=629&mode=mainnews&type=&date=2026-09-01&page=1"
+      "title": "\"이제 코스피 재미 없네요\"…'삼전닉스 레버리지' 팔고 많이 산 ETF는?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001054454&office_id=031&mode=mainnews&type=&date=2026-09-01&page=1"
     },
     {
-      "title": "베선트-워시 엇박자…심상찮은 엔화 약세 [마켓딥다이브]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001264431&office_id=215&mode=mainnews&type=&date=2026-09-01&page=1"
+      "title": "'지금 비트코인 사자' 뭉칫돈 몰리는 이유가…'무서운 경고'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005327426&office_id=015&mode=mainnews&type=&date=2026-09-01&page=1"
     },
     {
-      "title": "김용범 사퇴로 끝?…레버리지 ETF '정책 책임론' 남아",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000529495&office_id=629&mode=mainnews&type=&date=2026-09-01&page=1"
+      "title": "“6000밑은 안 갈 것”…전문가 7인 ‘비중 축소’ 없었다 [머니닥터 시장진단]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005728973&office_id=009&mode=mainnews&type=&date=2026-09-01&page=1"
     },
     {
-      "title": "구조대 출동?…美 ESS 수주에 들썩인 '이 주식'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005407760&office_id=008&mode=mainnews&type=&date=2026-09-01&page=1"
+      "title": "‘코스피보다 더 낫다’ 8월에만 2조원 폭풍매수…코스닥에 몰려가는 개미들 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002691413&office_id=016&mode=mainnews&type=&date=2026-09-01&page=1"
     },
     {
-      "title": "주가도 떨어지는데…LS 주식으로 몰린 투자 고수들 [주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004657379&office_id=011&mode=mainnews&type=&date=2026-09-01&page=1"
+      "title": "서학개미 레버리지 매수 몰리자… 美 대체거래소, SOXL 주간 시세 중단",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001189757&office_id=366&mode=mainnews&type=&date=2026-09-01&page=1"
     },
     {
-      "title": "\"M&A 대신 사람을 산다?\"...한화發 '인재 쟁탈전'에 흔들리는 K방산 생태계 [fn마켓워치]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005569325&office_id=014&mode=mainnews&type=&date=2026-09-01&page=1"
+      "title": "신동빈, 롯데쇼핑 주식 127억 원어치 매도…지분율 10% 밑으로 [이런국장 저런주식]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004657547&office_id=011&mode=mainnews&type=&date=2026-09-01&page=1"
     },
     {
-      "title": "1300만 코인족, 22% 과세가 온다[코인 과세①]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003127790&office_id=119&mode=mainnews&type=&date=2026-09-01&page=1"
+      "title": "4억弗 손실에도…애크먼, 넷플릭스 '재베팅'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005327384&office_id=015&mode=mainnews&type=&date=2026-09-01&page=1"
     },
     {
-      "title": "돌아오지 않는 외국인…코스피 상승 동력 꺼지나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001264424&office_id=215&mode=mainnews&type=&date=2026-09-01&page=1"
+      "title": "GS건설·에쓰오일·NHN…국민연금, 대형주 더 담았다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005327381&office_id=015&mode=mainnews&type=&date=2026-09-01&page=1"
     }
   ]
 }
