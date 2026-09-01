@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-09-01 05:24:24",
+  "lastUpdated": "2026-09-01 06:10:10",
   "date": "2026.09.01",
   "kospi": {
     "name": "KOSPI",
-    "current": "6800.70",
-    "change": "19.32",
-    "changePct": "0.28",
+    "current": "6833.92",
+    "change": "13.90",
+    "changePct": "0.20",
     "direction": "up",
-    "volume": "222875",
-    "tradeAmount": "14126380"
+    "volume": "249099",
+    "tradeAmount": "16070024"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "259750",
-      "change": "-250",
-      "changePct": "-0.10",
-      "direction": "down",
-      "volume": "9919558",
+      "current": "260500",
+      "change": "500",
+      "changePct": "0.19",
+      "direction": "up",
+      "volume": "11470354",
       "high": "262500",
       "low": "254000",
       "open": "256500",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1689000",
-      "change": "15000",
-      "changePct": "0.90",
+      "current": "1695000",
+      "change": "21000",
+      "changePct": "1.25",
       "direction": "up",
-      "volume": "2037853",
+      "volume": "2258553",
       "high": "1713000",
       "low": "1652000",
       "open": "1666000",
@@ -43,12 +43,12 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "118400",
-      "change": "-1000",
-      "changePct": "-0.84",
-      "direction": "down",
-      "volume": "140432",
-      "high": "119700",
+      "current": "119950",
+      "change": "550",
+      "changePct": "0.46",
+      "direction": "up",
+      "volume": "172961",
+      "high": "120200",
       "low": "114900",
       "open": "117800",
       "marketCap": "0"
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "213750",
-      "change": "-3250",
-      "changePct": "-1.50",
+      "current": "215000",
+      "change": "-2000",
+      "changePct": "-0.92",
       "direction": "down",
-      "volume": "291496",
+      "volume": "322832",
       "high": "218500",
       "low": "213500",
       "open": "217000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1371.00",
-      "change": "1.50",
+      "value": "1370.90",
+      "change": "1.40",
       "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "857.49",
-      "change": "0.35",
+      "value": "857.35",
+      "change": "0.21",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1591.32",
-      "change": "0.17",
+      "value": "1591.20",
+      "change": "0.05",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "204.01",
-      "change": "0.17",
+      "value": "203.97",
+      "change": "0.13",
       "direction": "up"
     }
   ],
@@ -118,9 +118,9 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "195235.36",
-      "change": "115.47",
-      "direction": "down",
+      "value": "195555.47",
+      "change": "204.64",
+      "direction": "up",
       "unit": "USD/oz"
     },
     {
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "美·이란 충돌 속 코스피 6800선 보합권 공방…기타법인 ‘자사주 매입’ 굳건",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006361665&office_id=018&mode=mainnews&type=&date=2026-09-01&page=1"
+      "title": "\"690억 넣었는데 650억 묶였다\"…영풍·MBK, 최윤범 투자 정조준",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000529508&office_id=629&mode=mainnews&type=&date=2026-09-01&page=1"
     },
     {
-      "title": "\"꿈의 9천피 다시 올까\"…여의도 증권가서 꼽은 '9월 찐바닥'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005327159&office_id=015&mode=mainnews&type=&date=2026-09-01&page=1"
+      "title": "베선트-워시 엇박자…심상찮은 엔화 약세 [마켓딥다이브]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001264431&office_id=215&mode=mainnews&type=&date=2026-09-01&page=1"
     },
     {
-      "title": "'삼전닉스' 빠져도 코스피 올랐다?'반도체 투톱 공식' 깨졌나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001054252&office_id=031&mode=mainnews&type=&date=2026-09-01&page=1"
+      "title": "김용범 사퇴로 끝?…레버리지 ETF '정책 책임론' 남아",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000529495&office_id=629&mode=mainnews&type=&date=2026-09-01&page=1"
     },
     {
-      "title": "올들어 외국인 코스피 순매수 단 두달…9월에도 '팔자' 이어가나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0016282661&office_id=001&mode=mainnews&type=&date=2026-09-01&page=1"
+      "title": "구조대 출동?…美 ESS 수주에 들썩인 '이 주식'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005407760&office_id=008&mode=mainnews&type=&date=2026-09-01&page=1"
     },
     {
-      "title": "ETF 시장, 반도체 지고 원자력·전력 뜨고…'AI 밸류체인' 무게추 어디로",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000529436&office_id=629&mode=mainnews&type=&date=2026-09-01&page=1"
+      "title": "주가도 떨어지는데…LS 주식으로 몰린 투자 고수들 [주식 초고수는 지금]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004657379&office_id=011&mode=mainnews&type=&date=2026-09-01&page=1"
     },
     {
-      "title": "팀 쿡 애플 15년…수익성 강화vs 혁신의 부재",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006361611&office_id=018&mode=mainnews&type=&date=2026-09-01&page=1"
+      "title": "\"M&A 대신 사람을 산다?\"...한화發 '인재 쟁탈전'에 흔들리는 K방산 생태계 [fn마켓워치]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005569325&office_id=014&mode=mainnews&type=&date=2026-09-01&page=1"
     },
     {
-      "title": "테슬라 ‘사이버캡’ 기대 고조·엔비디아 AI 동맹 확대…오늘 알아야 할 5가지[MUST KNOW5]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006361604&office_id=018&mode=mainnews&type=&date=2026-09-01&page=1"
+      "title": "1300만 코인족, 22% 과세가 온다[코인 과세①]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003127790&office_id=119&mode=mainnews&type=&date=2026-09-01&page=1"
     },
     {
-      "title": "③ NH증권, 10년 단독대표 체제가 끝났다[여의도 CEO 20년]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000089845&office_id=293&mode=mainnews&type=&date=2026-09-01&page=1"
+      "title": "돌아오지 않는 외국인…코스피 상승 동력 꺼지나",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001264424&office_id=215&mode=mainnews&type=&date=2026-09-01&page=1"
     }
   ]
 }
