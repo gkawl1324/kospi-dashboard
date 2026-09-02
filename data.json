@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-09-02 05:36:28",
+  "lastUpdated": "2026-09-02 09:47:15",
   "date": "2026.09.02",
   "kospi": {
     "name": "KOSPI",
-    "current": "6597.51",
-    "change": "238.29",
-    "changePct": "3.49",
+    "current": "6562.72",
+    "change": "273.08",
+    "changePct": "3.99",
     "direction": "up",
-    "volume": "280080",
-    "tradeAmount": "14946289"
+    "volume": "324053",
+    "tradeAmount": "18776771"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "251500",
-      "change": "-9500",
-      "changePct": "-3.64",
+      "current": "250500",
+      "change": "-10500",
+      "changePct": "-4.02",
       "direction": "down",
-      "volume": "12142526",
+      "volume": "15160930",
       "high": "255500",
       "low": "249500",
       "open": "252000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1625000",
-      "change": "-68000",
-      "changePct": "-4.02",
+      "current": "1613000",
+      "change": "-80000",
+      "changePct": "-4.73",
       "direction": "down",
-      "volume": "1913102",
+      "volume": "2533913",
       "high": "1661000",
       "low": "1612000",
       "open": "1630000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "118100",
-      "change": "-2200",
-      "changePct": "-1.83",
+      "current": "118500",
+      "change": "-1800",
+      "changePct": "-1.50",
       "direction": "down",
-      "volume": "305687",
+      "volume": "393919",
       "high": "121000",
       "low": "116900",
       "open": "121000",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "208500",
-      "change": "-6500",
-      "changePct": "-3.02",
+      "current": "209000",
+      "change": "-6000",
+      "changePct": "-2.79",
       "direction": "down",
-      "volume": "395785",
+      "volume": "532643",
       "high": "213000",
       "low": "207000",
       "open": "209000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1368.10",
-      "change": "7.40",
+      "value": "1366.10",
+      "change": "9.40",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "855.12",
-      "change": "3.57",
+      "value": "854.75",
+      "change": "3.94",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1584.26",
-      "change": "9.94",
+      "value": "1581.06",
+      "change": "13.14",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "203.51",
-      "change": "1.13",
+      "value": "203.15",
+      "change": "1.49",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "190182.89",
-      "change": "1909.11",
+      "value": "189226.18",
+      "change": "2865.82",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "\"꾸준함이 핵심\"…주주환원책, 한국 증시도 떠받칠까",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006362414&office_id=018&mode=mainnews&type=&date=2026-09-02&page=1"
+      "title": "\"주식 모르던 때로 돌아가고 싶다\"…삼전닉스, 또 급락에 '허탈'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001054875&office_id=031&mode=mainnews&type=&date=2026-09-02&page=1"
     },
     {
-      "title": "국제유가·금리 부담에 코스피 3.74%↓…6500대로 하락",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006362388&office_id=018&mode=mainnews&type=&date=2026-09-02&page=1"
+      "title": "엔비디아의 두 번째 전성기[투자의 창]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004657968&office_id=011&mode=mainnews&type=&date=2026-09-02&page=1"
     },
     {
-      "title": "3조 투자에도 싸늘한 삼성바이오 주가, '성장 방정식' 의문 커지나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001054680&office_id=031&mode=mainnews&type=&date=2026-09-02&page=1"
+      "title": "한국 주식 파는 외국인, 레버리지 ETF 쓸어담는다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005570168&office_id=014&mode=mainnews&type=&date=2026-09-02&page=1"
     },
     {
-      "title": "삼성전기 사들이는 주식 고수들…1조 MLCC 수주에 ‘베팅’[주식 초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004657806&office_id=011&mode=mainnews&type=&date=2026-09-02&page=1"
+      "title": "정규장 밖 거래 40% 육박… 체급 커진 NXT, KRX와 경쟁",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005570162&office_id=014&mode=mainnews&type=&date=2026-09-02&page=1"
     },
     {
-      "title": "두산퓨얼셀, 美 데이터센터 진출에도 12%대 급락…4만원선 붕괴[이런국장 저런주식]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004657804&office_id=011&mode=mainnews&type=&date=2026-09-02&page=1"
+      "title": "“안전자산이라더니, 왜 이리 일희일비?”…우상향 하던 금값, 금리 뛰자 바로 꺾였다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005729585&office_id=009&mode=mainnews&type=&date=2026-09-02&page=1"
     },
     {
-      "title": "美 국채 뛸 때마다 매도 폭탄 외국인?'삼전닉스' 버틸까",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001054666&office_id=031&mode=mainnews&type=&date=2026-09-02&page=1"
+      "title": "AIDC가 살린 2차전지 ETF…한달 30% 훨훨",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004657967&office_id=011&mode=mainnews&type=&date=2026-09-02&page=1"
     },
     {
-      "title": "美 이란 공습·유가 90달러 충격…반도체 '자사주 방어막' 시험대",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009146341&office_id=421&mode=mainnews&type=&date=2026-09-02&page=1"
+      "title": "“채권 투자 짧게”…초단기채에만 뭉칫돈",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004657962&office_id=011&mode=mainnews&type=&date=2026-09-02&page=1"
     },
     {
-      "title": "전쟁 공포 다시 덮쳤다…연쇄 충격에 줄줄이 '휘청'이는 증시",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001264580&office_id=215&mode=mainnews&type=&date=2026-09-02&page=1"
+      "title": "하닉 본주보다 비싸도 … 수급 탄탄·호재 반영 빠른 美 선호",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005729563&office_id=009&mode=mainnews&type=&date=2026-09-02&page=1"
     }
   ]
 }
