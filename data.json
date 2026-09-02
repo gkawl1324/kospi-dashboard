@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02 09:47:15",
+  "lastUpdated": "2026-09-02 11:03:27",
   "date": "2026.09.02",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1366.10",
-      "change": "9.40",
+      "value": "1365.10",
+      "change": "10.40",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "854.75",
-      "change": "3.94",
+      "value": "853.80",
+      "change": "4.89",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1581.06",
-      "change": "13.14",
+      "value": "1579.69",
+      "change": "14.51",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "203.15",
-      "change": "1.49",
+      "value": "203.04",
+      "change": "1.60",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "189226.18",
-      "change": "2865.82",
+      "value": "189051.29",
+      "change": "3040.71",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,6 +142,22 @@
   ],
   "news": [
     {
+      "title": "35년만 '美日 동시 긴축' 베팅…글로벌 자금줄 불안에 시장 얼었다 [빈난새의 빈틈없이마켓]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005328109&office_id=015&mode=mainnews&type=&date=2026-09-02&page=1"
+    },
+    {
+      "title": "국고채 4% 다시 눈앞…기업·가계 '이자 청구서' 커진다 [fn마켓워치]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005570251&office_id=014&mode=mainnews&type=&date=2026-09-02&page=1"
+    },
+    {
+      "title": "퇴근하며 ‘삼전닉스’ 산다…오후 8시까지 주식 거래, 주의할 점? [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002692013&office_id=016&mode=mainnews&type=&date=2026-09-02&page=1"
+    },
+    {
+      "title": "“美 10년물 5% 눈앞인데, 증시 괜찮나”…2022년 폭락장과 다른 ‘결정적 변수’ [머니닥터 시장진단]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005729591&office_id=009&mode=mainnews&type=&date=2026-09-02&page=1"
+    },
+    {
       "title": "\"주식 모르던 때로 돌아가고 싶다\"…삼전닉스, 또 급락에 '허탈'",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0001054875&office_id=031&mode=mainnews&type=&date=2026-09-02&page=1"
     },
@@ -156,22 +172,6 @@
     {
       "title": "정규장 밖 거래 40% 육박… 체급 커진 NXT, KRX와 경쟁",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005570162&office_id=014&mode=mainnews&type=&date=2026-09-02&page=1"
-    },
-    {
-      "title": "“안전자산이라더니, 왜 이리 일희일비?”…우상향 하던 금값, 금리 뛰자 바로 꺾였다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005729585&office_id=009&mode=mainnews&type=&date=2026-09-02&page=1"
-    },
-    {
-      "title": "AIDC가 살린 2차전지 ETF…한달 30% 훨훨",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004657967&office_id=011&mode=mainnews&type=&date=2026-09-02&page=1"
-    },
-    {
-      "title": "“채권 투자 짧게”…초단기채에만 뭉칫돈",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004657962&office_id=011&mode=mainnews&type=&date=2026-09-02&page=1"
-    },
-    {
-      "title": "하닉 본주보다 비싸도 … 수급 탄탄·호재 반영 빠른 美 선호",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005729563&office_id=009&mode=mainnews&type=&date=2026-09-02&page=1"
     }
   ]
 }
