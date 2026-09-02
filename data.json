@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-09-02 04:51:45",
+  "lastUpdated": "2026-09-02 05:36:28",
   "date": "2026.09.02",
   "kospi": {
     "name": "KOSPI",
-    "current": "6572.60",
-    "change": "263.20",
-    "changePct": "3.85",
+    "current": "6597.51",
+    "change": "238.29",
+    "changePct": "3.49",
     "direction": "up",
-    "volume": "257240",
-    "tradeAmount": "13060764"
+    "volume": "280080",
+    "tradeAmount": "14946289"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "250250",
-      "change": "-10750",
-      "changePct": "-4.12",
+      "current": "251500",
+      "change": "-9500",
+      "changePct": "-3.64",
       "direction": "down",
-      "volume": "9987724",
+      "volume": "12142526",
       "high": "255500",
-      "low": "250000",
+      "low": "249500",
       "open": "252000",
       "marketCap": "0"
     },
@@ -29,13 +29,13 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1615000",
-      "change": "-78000",
-      "changePct": "-4.61",
+      "current": "1625000",
+      "change": "-68000",
+      "changePct": "-4.02",
       "direction": "down",
-      "volume": "1686537",
+      "volume": "1913102",
       "high": "1661000",
-      "low": "1615000",
+      "low": "1612000",
       "open": "1630000",
       "marketCap": "0"
     },
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "118400",
-      "change": "-1900",
-      "changePct": "-1.58",
+      "current": "118100",
+      "change": "-2200",
+      "changePct": "-1.83",
       "direction": "down",
-      "volume": "273459",
+      "volume": "305687",
       "high": "121000",
       "low": "116900",
       "open": "121000",
@@ -61,7 +61,7 @@
       "change": "-6500",
       "changePct": "-3.02",
       "direction": "down",
-      "volume": "335181",
+      "volume": "395785",
       "high": "213000",
       "low": "207000",
       "open": "209000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1369.40",
-      "change": "6.10",
+      "value": "1368.10",
+      "change": "7.40",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "855.26",
-      "change": "3.43",
+      "value": "855.12",
+      "change": "3.57",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1585.08",
-      "change": "9.12",
+      "value": "1584.26",
+      "change": "9.94",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "203.66",
-      "change": "0.98",
+      "value": "203.51",
+      "change": "1.13",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "189584.14",
-      "change": "2507.86",
+      "value": "190182.89",
+      "change": "1909.11",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,6 +142,18 @@
   ],
   "news": [
     {
+      "title": "\"꾸준함이 핵심\"…주주환원책, 한국 증시도 떠받칠까",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006362414&office_id=018&mode=mainnews&type=&date=2026-09-02&page=1"
+    },
+    {
+      "title": "국제유가·금리 부담에 코스피 3.74%↓…6500대로 하락",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006362388&office_id=018&mode=mainnews&type=&date=2026-09-02&page=1"
+    },
+    {
+      "title": "3조 투자에도 싸늘한 삼성바이오 주가, '성장 방정식' 의문 커지나",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001054680&office_id=031&mode=mainnews&type=&date=2026-09-02&page=1"
+    },
+    {
       "title": "삼성전기 사들이는 주식 고수들…1조 MLCC 수주에 ‘베팅’[주식 초고수는 지금]",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0004657806&office_id=011&mode=mainnews&type=&date=2026-09-02&page=1"
     },
@@ -160,18 +172,6 @@
     {
       "title": "전쟁 공포 다시 덮쳤다…연쇄 충격에 줄줄이 '휘청'이는 증시",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0001264580&office_id=215&mode=mainnews&type=&date=2026-09-02&page=1"
-    },
-    {
-      "title": "‘240만→140만’ 폭락에 개미들 비명 터졌는데…“주가 2배 된다” 전망 나온 회사 어디?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004657791&office_id=011&mode=mainnews&type=&date=2026-09-02&page=1"
-    },
-    {
-      "title": "수수료 '0원'·무더기 상장 경쟁…점유율 쫓다 투자자 보호 '뒷전'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000529905&office_id=629&mode=mainnews&type=&date=2026-09-02&page=1"
-    },
-    {
-      "title": "현대모비스, 아틀라스 31개 액추에이터 전량수주…LG유플러스, 배당?자사주 매입 함께 늘린다 [株토피아]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005569894&office_id=014&mode=mainnews&type=&date=2026-09-02&page=1"
     }
   ]
 }
