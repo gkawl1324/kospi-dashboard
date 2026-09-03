@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-09-03 04:49:42",
+  "lastUpdated": "2026-09-03 05:36:13",
   "date": "2026.09.03",
   "kospi": {
     "name": "KOSPI",
-    "current": "6652.89",
-    "change": "90.17",
-    "changePct": "1.37",
+    "current": "6512.09",
+    "change": "50.63",
+    "changePct": "0.77",
     "direction": "up",
-    "volume": "260364",
-    "tradeAmount": "11352366"
+    "volume": "313276",
+    "tradeAmount": "15404566"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "252500",
-      "change": "2000",
-      "changePct": "0.80",
-      "direction": "up",
-      "volume": "7320770",
+      "current": "247000",
+      "change": "-3500",
+      "changePct": "-1.40",
+      "direction": "down",
+      "volume": "10943949",
       "high": "255000",
-      "low": "251000",
+      "low": "243000",
       "open": "254000",
       "marketCap": "0"
     },
@@ -29,13 +29,13 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1629000",
-      "change": "16000",
-      "changePct": "0.99",
-      "direction": "up",
-      "volume": "1367032",
+      "current": "1586000",
+      "change": "-27000",
+      "changePct": "-1.67",
+      "direction": "down",
+      "volume": "2061762",
       "high": "1649000",
-      "low": "1616000",
+      "low": "1558000",
       "open": "1643000",
       "marketCap": "0"
     },
@@ -43,13 +43,13 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "119900",
-      "change": "1400",
-      "changePct": "1.18",
-      "direction": "up",
-      "volume": "199375",
+      "current": "117600",
+      "change": "-900",
+      "changePct": "-0.76",
+      "direction": "down",
+      "volume": "254967",
       "high": "122000",
-      "low": "117500",
+      "low": "116700",
       "open": "119200",
       "marketCap": "0"
     },
@@ -57,13 +57,13 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "207500",
-      "change": "-1500",
-      "changePct": "-0.72",
+      "current": "204500",
+      "change": "-4500",
+      "changePct": "-2.15",
       "direction": "down",
-      "volume": "279025",
+      "volume": "423475",
       "high": "211500",
-      "low": "207500",
+      "low": "203500",
       "open": "210500",
       "marketCap": "0"
     }
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1358.90",
-      "change": "1.40",
-      "direction": "down"
+      "value": "1360.40",
+      "change": "0.10",
+      "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "862.05",
-      "change": "5.36",
+      "value": "862.81",
+      "change": "6.12",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1576.19",
-      "change": "0.08",
+      "value": "1577.79",
+      "change": "1.68",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "202.29",
-      "change": "0.20",
-      "direction": "down"
+      "value": "202.49",
+      "change": "0.00",
+      "direction": "flat"
     }
   ],
   "oilPrices": [
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "193877.66",
-      "change": "2570.73",
+      "value": "193816.83",
+      "change": "2509.90",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,6 +142,26 @@
   ],
   "news": [
     {
+      "title": "국회로 넘어간 레버리지 논란, 몸사리는 증권가는 냉가슴만",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000050443&office_id=648&mode=mainnews&type=&date=2026-09-03&page=1"
+    },
+    {
+      "title": "\"용혜인의 저주?\"…용혜인 지명 뒤 주가 급락한 '혜인' [종목+]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005328332&office_id=015&mode=mainnews&type=&date=2026-09-03&page=1"
+    },
+    {
+      "title": "증권가 “단기 공포 클라이맥스 지나가”… JP모건도 조정론 접고 ‘강세론’ 선회",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001190205&office_id=366&mode=mainnews&type=&date=2026-09-03&page=1"
+    },
+    {
+      "title": "\"은퇴 앞두고 수익률만 좇으면 낭패…원금만 지켜도 위험\"[fn이사람]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005570578&office_id=014&mode=mainnews&type=&date=2026-09-03&page=1"
+    },
+    {
+      "title": "금리 다시 오른다…은행주, 반등 타진 [종목+]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005328315&office_id=015&mode=mainnews&type=&date=2026-09-03&page=1"
+    },
+    {
       "title": "2023년엔 ‘경기’ 올해는 ‘전쟁’…더 복잡해진 금리 변수",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0002692379&office_id=016&mode=mainnews&type=&date=2026-09-03&page=1"
     },
@@ -152,26 +172,6 @@
     {
       "title": "개미 기세 '확' 꺾이는 전망 나왔다…골드만의 냉담한 경고",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0001264714&office_id=215&mode=mainnews&type=&date=2026-09-03&page=1"
-    },
-    {
-      "title": "브로드컴 주춤했지만…삼성전자·SK하이닉스 'AI 수요' 맑음",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009148686&office_id=421&mode=mainnews&type=&date=2026-09-03&page=1"
-    },
-    {
-      "title": "난데없는 '용혜인 테마'?…혜인, 주가 급락 진짜 이유는",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014166551&office_id=003&mode=mainnews&type=&date=2026-09-03&page=1"
-    },
-    {
-      "title": "금리에 원화강세 ‘복병’…낮아진 삼전닉스 실적 눈높이",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002692318&office_id=016&mode=mainnews&type=&date=2026-09-03&page=1"
-    },
-    {
-      "title": "코스피 ‘방파제’된 삼전닉스 자사주 매입",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002692316&office_id=016&mode=mainnews&type=&date=2026-09-03&page=1"
-    },
-    {
-      "title": "⑦ 하나증권, 그룹 부회장이 되는 자리[여의도 CEO 20년]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000089955&office_id=293&mode=mainnews&type=&date=2026-09-03&page=1"
     }
   ]
 }
