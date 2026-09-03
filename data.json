@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03 09:59:28",
+  "lastUpdated": "2026-09-03 11:01:00",
   "date": "2026.09.03",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1358.80",
-      "change": "1.50",
+      "value": "1358.90",
+      "change": "1.40",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "868.83",
-      "change": "12.14",
+      "value": "869.39",
+      "change": "12.70",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1576.89",
-      "change": "0.78",
+      "value": "1576.80",
+      "change": "0.69",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "202.23",
-      "change": "0.26",
+      "value": "202.21",
+      "change": "0.28",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "193361.11",
-      "change": "2054.18",
+      "value": "193426.13",
+      "change": "2119.20",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,6 +142,22 @@
   ],
   "news": [
     {
+      "title": "3분기 이익 10% 낮춰…원화 강세에 삼전·닉스 실적 눈높이 ‘뚝’ [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002692630&office_id=016&mode=mainnews&type=&date=2026-09-03&page=1"
+    },
+    {
+      "title": "코스피, 장중 6440선까지 급락 후 반등…롤러코스터 끝 0.3%↑",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002240148&office_id=138&mode=mainnews&type=&date=2026-09-03&page=1"
+    },
+    {
+      "title": "“슈퍼사이클 아직 안 끝났다”…조선(造船)의 국모가 말했다 [딥 머니 토크]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005730202&office_id=009&mode=mainnews&type=&date=2026-09-03&page=1"
+    },
+    {
+      "title": "환율이 '복병'…삼전 43만·하닉 300만 목표가 동반↓",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001264788&office_id=215&mode=mainnews&type=&date=2026-09-03&page=1"
+    },
+    {
       "title": "\"이러다 상폐될라\" 동전주·시총미달 10개중 7개는 주가 추락",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005570849&office_id=014&mode=mainnews&type=&date=2026-09-03&page=1"
     },
@@ -156,22 +172,6 @@
     {
       "title": "오후 2시에 무슨일이?…10분만에 3%대 급락",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0004658399&office_id=011&mode=mainnews&type=&date=2026-09-03&page=1"
-    },
-    {
-      "title": "반대매매 터진 마이크로디지탈…최대주주 ‘공석’ [이런국장 저런주식]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004658388&office_id=011&mode=mainnews&type=&date=2026-09-03&page=1"
-    },
-    {
-      "title": "원전·데이터센터 수주 기대…건설주 강세",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005730141&office_id=009&mode=mainnews&type=&date=2026-09-03&page=1"
-    },
-    {
-      "title": "\"엔비디아 대신 '이것' 사라\"…목표주가 줄상향 터진 종목",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005328474&office_id=015&mode=mainnews&type=&date=2026-09-03&page=1"
-    },
-    {
-      "title": "치솟는 부품값에…고개 숙인 HPE 주가",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005328467&office_id=015&mode=mainnews&type=&date=2026-09-03&page=1"
     }
   ]
 }
