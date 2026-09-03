@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-09-03 05:36:13",
+  "lastUpdated": "2026-09-03 09:59:28",
   "date": "2026.09.03",
   "kospi": {
     "name": "KOSPI",
-    "current": "6512.09",
-    "change": "50.63",
-    "changePct": "0.77",
+    "current": "6579.48",
+    "change": "16.76",
+    "changePct": "0.26",
     "direction": "up",
-    "volume": "313276",
-    "tradeAmount": "15404566"
+    "volume": "433473",
+    "tradeAmount": "22165010"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "247000",
-      "change": "-3500",
-      "changePct": "-1.40",
+      "current": "250000",
+      "change": "-500",
+      "changePct": "-0.20",
       "direction": "down",
-      "volume": "10943949",
+      "volume": "13723105",
       "high": "255000",
       "low": "243000",
       "open": "254000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1586000",
-      "change": "-27000",
-      "changePct": "-1.67",
+      "current": "1596000",
+      "change": "-17000",
+      "changePct": "-1.05",
       "direction": "down",
-      "volume": "2061762",
+      "volume": "2628539",
       "high": "1649000",
       "low": "1558000",
       "open": "1643000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "117600",
-      "change": "-900",
-      "changePct": "-0.76",
+      "current": "118300",
+      "change": "-200",
+      "changePct": "-0.17",
       "direction": "down",
-      "volume": "254967",
+      "volume": "310232",
       "high": "122000",
       "low": "116700",
       "open": "119200",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "204500",
-      "change": "-4500",
-      "changePct": "-2.15",
+      "current": "207500",
+      "change": "-1500",
+      "changePct": "-0.72",
       "direction": "down",
-      "volume": "423475",
+      "volume": "532103",
       "high": "211500",
       "low": "203500",
       "open": "210500",
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1360.40",
-      "change": "0.10",
-      "direction": "up"
+      "value": "1358.80",
+      "change": "1.50",
+      "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "862.81",
-      "change": "6.12",
+      "value": "868.83",
+      "change": "12.14",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1577.79",
-      "change": "1.68",
+      "value": "1576.89",
+      "change": "0.78",
       "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "202.49",
-      "change": "0.00",
-      "direction": "flat"
+      "value": "202.23",
+      "change": "0.26",
+      "direction": "down"
     }
   ],
   "oilPrices": [
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "193816.83",
-      "change": "2509.90",
+      "value": "193361.11",
+      "change": "2054.18",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "국회로 넘어간 레버리지 논란, 몸사리는 증권가는 냉가슴만",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000050443&office_id=648&mode=mainnews&type=&date=2026-09-03&page=1"
+      "title": "\"이러다 상폐될라\" 동전주·시총미달 10개중 7개는 주가 추락",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005570849&office_id=014&mode=mainnews&type=&date=2026-09-03&page=1"
     },
     {
-      "title": "\"용혜인의 저주?\"…용혜인 지명 뒤 주가 급락한 '혜인' [종목+]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005328332&office_id=015&mode=mainnews&type=&date=2026-09-03&page=1"
+      "title": "고금리 장기화에…박스권 갇힌 리츠株 [마켓시그널]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004658403&office_id=011&mode=mainnews&type=&date=2026-09-03&page=1"
     },
     {
-      "title": "증권가 “단기 공포 클라이맥스 지나가”… JP모건도 조정론 접고 ‘강세론’ 선회",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001190205&office_id=366&mode=mainnews&type=&date=2026-09-03&page=1"
+      "title": "큰손들 “지정학 격변에 과거 자산배분 공식 버려라”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004658400&office_id=011&mode=mainnews&type=&date=2026-09-03&page=1"
     },
     {
-      "title": "\"은퇴 앞두고 수익률만 좇으면 낭패…원금만 지켜도 위험\"[fn이사람]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005570578&office_id=014&mode=mainnews&type=&date=2026-09-03&page=1"
+      "title": "오후 2시에 무슨일이?…10분만에 3%대 급락",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004658399&office_id=011&mode=mainnews&type=&date=2026-09-03&page=1"
     },
     {
-      "title": "금리 다시 오른다…은행주, 반등 타진 [종목+]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005328315&office_id=015&mode=mainnews&type=&date=2026-09-03&page=1"
+      "title": "반대매매 터진 마이크로디지탈…최대주주 ‘공석’ [이런국장 저런주식]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004658388&office_id=011&mode=mainnews&type=&date=2026-09-03&page=1"
     },
     {
-      "title": "2023년엔 ‘경기’ 올해는 ‘전쟁’…더 복잡해진 금리 변수",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002692379&office_id=016&mode=mainnews&type=&date=2026-09-03&page=1"
+      "title": "원전·데이터센터 수주 기대…건설주 강세",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005730141&office_id=009&mode=mainnews&type=&date=2026-09-03&page=1"
     },
     {
-      "title": "금리 발작에 삼전닉스 힘 빠지는데…\"여긴 금리 덕 본다\" 우르르",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005408913&office_id=008&mode=mainnews&type=&date=2026-09-03&page=1"
+      "title": "\"엔비디아 대신 '이것' 사라\"…목표주가 줄상향 터진 종목",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005328474&office_id=015&mode=mainnews&type=&date=2026-09-03&page=1"
     },
     {
-      "title": "개미 기세 '확' 꺾이는 전망 나왔다…골드만의 냉담한 경고",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001264714&office_id=215&mode=mainnews&type=&date=2026-09-03&page=1"
+      "title": "치솟는 부품값에…고개 숙인 HPE 주가",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005328467&office_id=015&mode=mainnews&type=&date=2026-09-03&page=1"
     }
   ]
 }
