@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-09-04 05:42:07",
+  "lastUpdated": "2026-09-04 09:48:28",
   "date": "2026.09.04",
   "kospi": {
     "name": "KOSPI",
-    "current": "6721.73",
-    "change": "142.25",
-    "changePct": "2.16",
+    "current": "6687.21",
+    "change": "107.73",
+    "changePct": "1.64",
     "direction": "up",
-    "volume": "205891",
-    "tradeAmount": "14291633"
+    "volume": "238152",
+    "tradeAmount": "17723650"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "257000",
-      "change": "7000",
-      "changePct": "2.80",
+      "current": "255500",
+      "change": "5500",
+      "changePct": "2.20",
       "direction": "up",
-      "volume": "11014558",
+      "volume": "14031862",
       "high": "259000",
       "low": "252500",
       "open": "254000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1667000",
-      "change": "71000",
-      "changePct": "4.45",
+      "current": "1647000",
+      "change": "51000",
+      "changePct": "3.20",
       "direction": "up",
-      "volume": "2279056",
+      "volume": "2827725",
       "high": "1683000",
       "low": "1620000",
       "open": "1620000",
@@ -47,7 +47,7 @@
       "change": "2800",
       "changePct": "2.37",
       "direction": "up",
-      "volume": "193800",
+      "volume": "261059",
       "high": "121700",
       "low": "118100",
       "open": "119900",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "214000",
-      "change": "6500",
-      "changePct": "3.13",
+      "current": "213500",
+      "change": "6000",
+      "changePct": "2.89",
       "direction": "up",
-      "volume": "492747",
+      "volume": "648091",
       "high": "215000",
       "low": "210000",
       "open": "210500",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1353.00",
-      "change": "5.50",
+      "value": "1352.30",
+      "change": "6.20",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "865.39",
-      "change": "4.80",
+      "value": "863.98",
+      "change": "6.21",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1573.20",
-      "change": "5.85",
+      "value": "1571.44",
+      "change": "7.61",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "201.48",
-      "change": "0.74",
+      "value": "201.56",
+      "change": "0.66",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "194734.18",
-      "change": "830.98",
+      "value": "194183.92",
+      "change": "1381.24",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "본주 보다 40% 비싸다...SK하이닉스 ADR의 비밀 [마켓딥다이브]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001264892&office_id=215&mode=mainnews&type=&date=2026-09-04&page=1"
+      "title": "반도체서 2차전지로 순환매…한달 새 21% 쑥 [ETF 줌인]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004658730&office_id=011&mode=mainnews&type=&date=2026-09-04&page=1"
     },
     {
-      "title": "한국투자증권, 9월 코스피 6200~7400 전망…“수요·환율·금리 삼중고”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002240245&office_id=138&mode=mainnews&type=&date=2026-09-04&page=1"
+      "title": "ETF 투자 열기 시들…개인 순매수 두달새 83% ‘뚝’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004658723&office_id=011&mode=mainnews&type=&date=2026-09-04&page=1"
     },
     {
-      "title": "차파트너스 \"리파인 공개매수는 이해상충\"[fn마켓워치]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005571174&office_id=014&mode=mainnews&type=&date=2026-09-04&page=1"
+      "title": "“7200만원이던 보험료가 3억원 됐다”…화재에 물류센터 투자 ‘휘청’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006363931&office_id=018&mode=mainnews&type=&date=2026-09-04&page=1"
     },
     {
-      "title": "골프존홀딩스 85% 확보한 원앤파트너스…상폐 대신 '밸류업' [fn마켓워치]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005571152&office_id=014&mode=mainnews&type=&date=2026-09-04&page=1"
+      "title": "코스피 올라도 나홀로 뒷걸음…조선株 이제 반등 뱃고동 울리나",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004658721&office_id=011&mode=mainnews&type=&date=2026-09-04&page=1"
     },
     {
-      "title": "핑거, 성호전자그룹 M&A 플랫폼으로…소액주주 지분은 희석",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005328709&office_id=015&mode=mainnews&type=&date=2026-09-04&page=1"
+      "title": "주가 게걸음인데…일본 증권사 \"삼전닉스 심각한 저평가\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003129276&office_id=119&mode=mainnews&type=&date=2026-09-04&page=1"
     },
     {
-      "title": "“7000 간다더니 6600도 간당”…코스피 전망, 일주일 새 무슨 일?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005730428&office_id=009&mode=mainnews&type=&date=2026-09-04&page=1"
+      "title": "시총기준 미달땐 여전히 퇴출대상 …코스닥社 \"실적도 고려해야\"",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005730657&office_id=009&mode=mainnews&type=&date=2026-09-04&page=1"
     },
     {
-      "title": "\"67만전자·470만닉스 간다\"…주가 출렁여도 목표가 '굳건'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001264866&office_id=215&mode=mainnews&type=&date=2026-09-04&page=1"
+      "title": "\"로봇주 더 사둘 걸\"…정부 '큰손' 등판에 주가 20% 뛰었다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005328827&office_id=015&mode=mainnews&type=&date=2026-09-04&page=1"
     },
     {
-      "title": "'지방 이전에 인력 이탈까지'…금감원, 민원·감독 공백 우려",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000530735&office_id=629&mode=mainnews&type=&date=2026-09-04&page=1"
+      "title": "반도체·바이오주, 환율 하락發 이익감소 주의",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005328824&office_id=015&mode=mainnews&type=&date=2026-09-04&page=1"
     }
   ]
 }
