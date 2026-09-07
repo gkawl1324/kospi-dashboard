@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-09-07 04:59:44",
+  "lastUpdated": "2026-09-07 05:53:56",
   "date": "2026.09.07",
   "kospi": {
     "name": "KOSPI",
-    "current": "6967.56",
-    "change": "280.35",
-    "changePct": "4.19",
+    "current": "6968.08",
+    "change": "280.87",
+    "changePct": "4.20",
     "direction": "up",
-    "volume": "180121",
-    "tradeAmount": "14719625"
+    "volume": "209935",
+    "tradeAmount": "17737992"
   },
   "stocks": [
     {
@@ -19,8 +19,8 @@
       "change": "13250",
       "changePct": "5.19",
       "direction": "up",
-      "volume": "11500455",
-      "high": "269000",
+      "volume": "14358509",
+      "high": "269500",
       "low": "264000",
       "open": "267000",
       "marketCap": "0"
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1776000",
-      "change": "129000",
-      "changePct": "7.83",
+      "current": "1767000",
+      "change": "120000",
+      "changePct": "7.29",
       "direction": "up",
-      "volume": "2403845",
+      "volume": "2786153",
       "high": "1778000",
       "low": "1733000",
       "open": "1737000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "124700",
-      "change": "3600",
-      "changePct": "2.97",
+      "current": "124800",
+      "change": "3700",
+      "changePct": "3.06",
       "direction": "up",
-      "volume": "198463",
+      "volume": "230581",
       "high": "125700",
       "low": "123000",
       "open": "123000",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "219000",
-      "change": "5500",
-      "changePct": "2.58",
+      "current": "218000",
+      "change": "4500",
+      "changePct": "2.11",
       "direction": "up",
-      "volume": "385283",
+      "volume": "485314",
       "high": "219500",
       "low": "213500",
       "open": "216000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1345.80",
-      "change": "3.70",
+      "value": "1344.90",
+      "change": "4.60",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "862.42",
-      "change": "1.29",
+      "value": "862.59",
+      "change": "1.12",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1562.68",
-      "change": "4.56",
+      "value": "1561.63",
+      "change": "5.61",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "200.56",
-      "change": "0.62",
+      "value": "200.42",
+      "change": "0.76",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "190322.11",
-      "change": "1602.58",
+      "value": "190506.26",
+      "change": "1418.43",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "홀로서는 교보자산운용, '파워 ETF' 라인업 다변화할까",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000531338&office_id=629&mode=mainnews&type=&date=2026-09-07&page=1"
+      "title": "'하이브 부정거래 혐의' 양준석…라피스·DB스팩까지 번지는 '대표 리스크'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000531387&office_id=629&mode=mainnews&type=&date=2026-09-07&page=1"
     },
     {
-      "title": "“코스피 1만2000 간다니까요”…급락장에도 목표가 고집한 이 증권사, 왜?",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005731350&office_id=009&mode=mainnews&type=&date=2026-09-07&page=1"
+      "title": "두산퓨얼셀, 美 데이터센터 5000억 수주에 15% 급등…목표가도 70%↑[이런국장 저런주식]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004659293&office_id=011&mode=mainnews&type=&date=2026-09-07&page=1"
     },
     {
-      "title": "주가는 반토막인데 성과급은 '잭팟'…유안타증권, 상위 5명 보수만 '400억'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000531327&office_id=629&mode=mainnews&type=&date=2026-09-07&page=1"
+      "title": "\"외국인이 달라졌어요\"...뭘 봤길래 2조원 '매집' [마켓딥다이브]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001265143&office_id=215&mode=mainnews&type=&date=2026-09-07&page=1"
     },
     {
-      "title": "“AGI 시대 왔다”…초고수, 삼전·하이닉스 쓸어담았다[주식초고수는 지금]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004659267&office_id=011&mode=mainnews&type=&date=2026-09-07&page=1"
+      "title": "38% 폭락한 지금이 기회?…\"삼전닉스 2배 뛴다\" 파격 전망",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005329482&office_id=015&mode=mainnews&type=&date=2026-09-07&page=1"
     },
     {
-      "title": "SK이노 1800만주·KR모터스 30% 풀린다?주가 부담 커지나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001055981&office_id=031&mode=mainnews&type=&date=2026-09-07&page=1"
+      "title": "\"큰 수익 난다\" 믿고 비상장 주식 샀는데...5천억이 허공에",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005572059&office_id=014&mode=mainnews&type=&date=2026-09-07&page=1"
     },
     {
-      "title": "\"코스피 12,000 터무니없지 않아\"…골드만삭스의 낙관 이유",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001265119&office_id=215&mode=mainnews&type=&date=2026-09-07&page=1"
+      "title": "\"나도 헤지펀드처럼\"…美개미들, AI에 주식계좌 통째로 맡긴다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006364975&office_id=018&mode=mainnews&type=&date=2026-09-07&page=1"
     },
     {
-      "title": "제넨셀에 투자한 2곳 ‘작전’의혹… 상폐 위기에 소액주주 ‘피눈물’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002816825&office_id=021&mode=mainnews&type=&date=2026-09-07&page=1"
+      "title": "코스피 4% 올라 7000선 코앞…외인·기관 '쌍끌이'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006364971&office_id=018&mode=mainnews&type=&date=2026-09-07&page=1"
     },
     {
-      "title": "오픈AI 훈풍에 삼전닉스 화색…外人도 컴백",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002693770&office_id=016&mode=mainnews&type=&date=2026-09-07&page=1"
+      "title": "1330원대 터치한 환율, 수출기업은 실적 ‘비상’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003997076&office_id=023&mode=mainnews&type=&date=2026-09-07&page=1"
     }
   ]
 }
