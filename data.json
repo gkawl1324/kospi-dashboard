@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07 10:34:20",
+  "lastUpdated": "2026-09-07 12:11:22",
   "date": "2026.09.07",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1345.80",
-      "change": "3.70",
+      "value": "1347.90",
+      "change": "1.60",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "870.17",
-      "change": "6.46",
+      "value": "871.05",
+      "change": "7.34",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1564.43",
-      "change": "2.81",
+      "value": "1566.60",
+      "change": "0.64",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "200.60",
-      "change": "0.58",
+      "value": "200.89",
+      "change": "0.29",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "190254.13",
-      "change": "1670.56",
+      "value": "190291.76",
+      "change": "1632.93",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,6 +142,22 @@
   ],
   "news": [
     {
+      "title": "젠슨황도 극찬한 챗GPT ASTRA…반도체 급등랠리 다시 오나 [불앤베어 플러스]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005731733&office_id=009&mode=mainnews&type=&date=2026-09-07&page=1"
+    },
+    {
+      "title": "“7천피 구조대 왔네요, 전 이제 탈출합니다”…개미들 6.8조 던졌다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005731727&office_id=009&mode=mainnews&type=&date=2026-09-07&page=1"
+    },
+    {
+      "title": "\"작년 저점 깼다\"…1340원대로 하락한 환율, 단기 바닥은? [분석+]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005329743&office_id=015&mode=mainnews&type=&date=2026-09-07&page=1"
+    },
+    {
+      "title": "\"너무 많이 팔려서\"…주가 반등의 관건은 이것 [B급기자의 B급리포트]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001265185&office_id=215&mode=mainnews&type=&date=2026-09-07&page=1"
+    },
+    {
       "title": "명령어 몇 개면 45분만에 3D게임 완성…“아스트라 모멘트 온다”",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0004659445&office_id=011&mode=mainnews&type=&date=2026-09-07&page=1"
     },
@@ -156,22 +172,6 @@
     {
       "title": "앤트로픽 뜨자 코스피 '진퇴양난'… AI 대어 줄상장, 상승장 끝물 신호?",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000952633&office_id=469&mode=mainnews&type=&date=2026-09-07&page=1"
-    },
-    {
-      "title": "갈팡질팡하던 유동성, 결국 반도체로 … 삼전닉스 급등",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005731674&office_id=009&mode=mainnews&type=&date=2026-09-07&page=1"
-    },
-    {
-      "title": "\"두산퓨얼셀, 내년 흑자전환 가능…투자의견·목표가↑\"[클릭 e종목]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005813029&office_id=277&mode=mainnews&type=&date=2026-09-07&page=1"
-    },
-    {
-      "title": "새내기 스카이랩스 상한가 … IPO시장 반전 신호탄 되나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005731661&office_id=009&mode=mainnews&type=&date=2026-09-07&page=1"
-    },
-    {
-      "title": "7조 넘은 반도체 ETF…리밸런싱 압력 ‘촉각’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004659418&office_id=011&mode=mainnews&type=&date=2026-09-07&page=1"
     }
   ]
 }
