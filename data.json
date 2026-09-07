@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-09-07 05:53:56",
+  "lastUpdated": "2026-09-07 10:34:20",
   "date": "2026.09.07",
   "kospi": {
     "name": "KOSPI",
-    "current": "6968.08",
-    "change": "280.87",
-    "changePct": "4.20",
+    "current": "6995.39",
+    "change": "308.18",
+    "changePct": "4.61",
     "direction": "up",
-    "volume": "209935",
-    "tradeAmount": "17737992"
+    "volume": "240446",
+    "tradeAmount": "21762301"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "268750",
-      "change": "13250",
-      "changePct": "5.19",
+      "current": "270000",
+      "change": "14500",
+      "changePct": "5.68",
       "direction": "up",
-      "volume": "14358509",
-      "high": "269500",
+      "volume": "18277791",
+      "high": "270000",
       "low": "264000",
       "open": "267000",
       "marketCap": "0"
@@ -29,12 +29,12 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1767000",
-      "change": "120000",
-      "changePct": "7.29",
+      "current": "1783000",
+      "change": "136000",
+      "changePct": "8.26",
       "direction": "up",
-      "volume": "2786153",
-      "high": "1778000",
+      "volume": "3478577",
+      "high": "1783000",
       "low": "1733000",
       "open": "1737000",
       "marketCap": "0"
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "124800",
-      "change": "3700",
-      "changePct": "3.06",
+      "current": "124500",
+      "change": "3400",
+      "changePct": "2.81",
       "direction": "up",
-      "volume": "230581",
+      "volume": "291121",
       "high": "125700",
       "low": "123000",
       "open": "123000",
@@ -61,7 +61,7 @@
       "change": "4500",
       "changePct": "2.11",
       "direction": "up",
-      "volume": "485314",
+      "volume": "564721",
       "high": "219500",
       "low": "213500",
       "open": "216000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1344.90",
-      "change": "4.60",
+      "value": "1345.80",
+      "change": "3.70",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "862.59",
-      "change": "1.12",
-      "direction": "down"
+      "value": "870.17",
+      "change": "6.46",
+      "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1561.63",
-      "change": "5.61",
+      "value": "1564.43",
+      "change": "2.81",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "200.42",
-      "change": "0.76",
+      "value": "200.60",
+      "change": "0.58",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "190506.26",
-      "change": "1418.43",
+      "value": "190254.13",
+      "change": "1670.56",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "'하이브 부정거래 혐의' 양준석…라피스·DB스팩까지 번지는 '대표 리스크'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000531387&office_id=629&mode=mainnews&type=&date=2026-09-07&page=1"
+      "title": "명령어 몇 개면 45분만에 3D게임 완성…“아스트라 모멘트 온다”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004659445&office_id=011&mode=mainnews&type=&date=2026-09-07&page=1"
     },
     {
-      "title": "두산퓨얼셀, 美 데이터센터 5000억 수주에 15% 급등…목표가도 70%↑[이런국장 저런주식]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004659293&office_id=011&mode=mainnews&type=&date=2026-09-07&page=1"
+      "title": "\"액면병합도 했는데\"…원풍물산, 강화된 상폐기준 '1호 퇴출' 전망(종합)",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0009156035&office_id=421&mode=mainnews&type=&date=2026-09-07&page=1"
     },
     {
-      "title": "\"외국인이 달라졌어요\"...뭘 봤길래 2조원 '매집' [마켓딥다이브]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001265143&office_id=215&mode=mainnews&type=&date=2026-09-07&page=1"
+      "title": "“7000억 만기 코앞”…청담 프리마호텔 개발, 본PF 전환 '초읽기'",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006365151&office_id=018&mode=mainnews&type=&date=2026-09-07&page=1"
     },
     {
-      "title": "38% 폭락한 지금이 기회?…\"삼전닉스 2배 뛴다\" 파격 전망",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005329482&office_id=015&mode=mainnews&type=&date=2026-09-07&page=1"
+      "title": "앤트로픽 뜨자 코스피 '진퇴양난'… AI 대어 줄상장, 상승장 끝물 신호?",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000952633&office_id=469&mode=mainnews&type=&date=2026-09-07&page=1"
     },
     {
-      "title": "\"큰 수익 난다\" 믿고 비상장 주식 샀는데...5천억이 허공에",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005572059&office_id=014&mode=mainnews&type=&date=2026-09-07&page=1"
+      "title": "갈팡질팡하던 유동성, 결국 반도체로 … 삼전닉스 급등",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005731674&office_id=009&mode=mainnews&type=&date=2026-09-07&page=1"
     },
     {
-      "title": "\"나도 헤지펀드처럼\"…美개미들, AI에 주식계좌 통째로 맡긴다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006364975&office_id=018&mode=mainnews&type=&date=2026-09-07&page=1"
+      "title": "\"두산퓨얼셀, 내년 흑자전환 가능…투자의견·목표가↑\"[클릭 e종목]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005813029&office_id=277&mode=mainnews&type=&date=2026-09-07&page=1"
     },
     {
-      "title": "코스피 4% 올라 7000선 코앞…외인·기관 '쌍끌이'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006364971&office_id=018&mode=mainnews&type=&date=2026-09-07&page=1"
+      "title": "새내기 스카이랩스 상한가 … IPO시장 반전 신호탄 되나",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005731661&office_id=009&mode=mainnews&type=&date=2026-09-07&page=1"
     },
     {
-      "title": "1330원대 터치한 환율, 수출기업은 실적 ‘비상’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003997076&office_id=023&mode=mainnews&type=&date=2026-09-07&page=1"
+      "title": "7조 넘은 반도체 ETF…리밸런싱 압력 ‘촉각’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004659418&office_id=011&mode=mainnews&type=&date=2026-09-07&page=1"
     }
   ]
 }
