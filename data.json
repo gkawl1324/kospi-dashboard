@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-09-08 05:46:47",
+  "lastUpdated": "2026-09-08 09:54:49",
   "date": "2026.09.08",
   "kospi": {
     "name": "KOSPI",
-    "current": "7043.36",
-    "change": "47.97",
-    "changePct": "0.69",
+    "current": "6954.52",
+    "change": "40.87",
+    "changePct": "0.58",
     "direction": "up",
-    "volume": "288992",
-    "tradeAmount": "21686594"
+    "volume": "335241",
+    "tradeAmount": "26187833"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "273250",
-      "change": "3250",
-      "changePct": "1.20",
-      "direction": "up",
-      "volume": "18433163",
+      "current": "269500",
+      "change": "-500",
+      "changePct": "-0.19",
+      "direction": "down",
+      "volume": "22563172",
       "high": "279000",
       "low": "269000",
       "open": "272000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1833000",
-      "change": "50000",
-      "changePct": "2.80",
+      "current": "1793000",
+      "change": "10000",
+      "changePct": "0.56",
       "direction": "up",
-      "volume": "3447574",
+      "volume": "4119139",
       "high": "1889000",
       "low": "1777000",
       "open": "1799000",
@@ -43,13 +43,13 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "121100",
-      "change": "-3400",
-      "changePct": "-2.73",
+      "current": "118900",
+      "change": "-5600",
+      "changePct": "-4.50",
       "direction": "down",
-      "volume": "262987",
+      "volume": "332828",
       "high": "124800",
-      "low": "121000",
+      "low": "118400",
       "open": "124600",
       "marketCap": "0"
     },
@@ -61,9 +61,9 @@
       "change": "-3500",
       "changePct": "-1.61",
       "direction": "down",
-      "volume": "465642",
+      "volume": "576743",
       "high": "219500",
-      "low": "214500",
+      "low": "214000",
       "open": "219000",
       "marketCap": "0"
     }
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1343.00",
-      "change": "4.00",
+      "value": "1342.80",
+      "change": "4.20",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "875.32",
-      "change": "1.64",
-      "direction": "up"
+      "value": "872.66",
+      "change": "1.02",
+      "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1561.51",
-      "change": "4.44",
+      "value": "1559.60",
+      "change": "6.35",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "200.15",
-      "change": "0.61",
+      "value": "200.14",
+      "change": "0.62",
       "direction": "down"
     }
   ],
@@ -118,9 +118,9 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "191123.5",
-      "change": "85.32",
-      "direction": "up",
+      "value": "190133.09",
+      "change": "905.09",
+      "direction": "down",
       "unit": "USD/oz"
     },
     {
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "\"채권 투매가 내 연금엔 기회\"…퇴직연금, 4%대 국채 담는다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005410922&office_id=008&mode=mainnews&type=&date=2026-09-08&page=1"
+      "title": "“겨우 올랐는데 ‘찬물’ 끼얹나” 삼성닉스에 ‘1.4조’ 매물 나온다…KRX 리밸런싱 주의보 [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002694517&office_id=016&mode=mainnews&type=&date=2026-09-08&page=1"
     },
     {
-      "title": "의료기기 강자 세종메디칼은 어쩌다 상장폐지 벼랑에 섰나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014176726&office_id=003&mode=mainnews&type=&date=2026-09-08&page=1"
+      "title": "10대 그룹, 2년간 17兆 사업 처분…미래 투자보다 리밸런싱 치우쳐 [시그널]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004659829&office_id=011&mode=mainnews&type=&date=2026-09-08&page=1"
     },
     {
-      "title": "“이러다 한국처럼 될라” 빚내서 주식 샀다가 와르르…中·日도 ‘빚투 폭탄’ 경고등",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004659680&office_id=011&mode=mainnews&type=&date=2026-09-08&page=1"
+      "title": "외국인 돌아왔지만 개미 3조 던져 뒷심 빠진 코스피 7100 찍고 하락",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005572841&office_id=014&mode=mainnews&type=&date=2026-09-08&page=1"
     },
     {
-      "title": "레인보우로보 주춤할 때 30% 뛴 로보티즈…로봇주 판도 바뀌나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001056387&office_id=031&mode=mainnews&type=&date=2026-09-08&page=1"
+      "title": "\"테슬라 주가 너무 빠져…FSD·옵티머스가 반등 이끌 것\"[클릭 e종목]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005813611&office_id=277&mode=mainnews&type=&date=2026-09-08&page=1"
     },
     {
-      "title": "코스피, 7100선 넘어 2%대 상승…SK하이닉스 4.99%↑",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006365574&office_id=018&mode=mainnews&type=&date=2026-09-08&page=1"
+      "title": "칠천피 탈환 눈앞서 또 미끌…“유가·금리 부담 덜어야”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004659810&office_id=011&mode=mainnews&type=&date=2026-09-08&page=1"
     },
     {
-      "title": "터틀캐피탈 \"SK하닉 ADR '게임체인저'… 美 투자자 접근성↑\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000531784&office_id=629&mode=mainnews&type=&date=2026-09-08&page=1"
+      "title": "[단독] 미래에셋운용, 日서 ‘K반도체 ETF’ 첫선",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004659797&office_id=011&mode=mainnews&type=&date=2026-09-08&page=1"
     },
     {
-      "title": "\"코스피 더 오를 줄 알았는데\"…증권가서 나온 '뜻밖의 경고' [한경우의 케이스스터디]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005329962&office_id=015&mode=mainnews&type=&date=2026-09-08&page=1"
+      "title": "“커버드콜·채권 투자 현명치 않아… 단일 레버리지, 증시 폭락 원인 못 돼”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004659791&office_id=011&mode=mainnews&type=&date=2026-09-08&page=1"
     },
     {
-      "title": "신한證 \"미국 배당 ETF·에너지·헬스케어 업종 주목\"",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001265254&office_id=215&mode=mainnews&type=&date=2026-09-08&page=1"
+      "title": "막판 차익매물에…코스피 2% 오르다 0.6% 뚝",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005732276&office_id=009&mode=mainnews&type=&date=2026-09-08&page=1"
     }
   ]
 }
