@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-09-08 04:57:26",
+  "lastUpdated": "2026-09-08 05:46:47",
   "date": "2026.09.08",
   "kospi": {
     "name": "KOSPI",
-    "current": "7100.09",
-    "change": "104.70",
-    "changePct": "1.50",
+    "current": "7043.36",
+    "change": "47.97",
+    "changePct": "0.69",
     "direction": "up",
-    "volume": "255470",
-    "tradeAmount": "18252684"
+    "volume": "288992",
+    "tradeAmount": "21686594"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "276000",
-      "change": "6000",
-      "changePct": "2.22",
+      "current": "273250",
+      "change": "3250",
+      "changePct": "1.20",
       "direction": "up",
-      "volume": "15275348",
+      "volume": "18433163",
       "high": "279000",
       "low": "269000",
       "open": "272000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1859000",
-      "change": "76000",
-      "changePct": "4.26",
+      "current": "1833000",
+      "change": "50000",
+      "changePct": "2.80",
       "direction": "up",
-      "volume": "2883715",
+      "volume": "3447574",
       "high": "1889000",
       "low": "1777000",
       "open": "1799000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "122000",
-      "change": "-2500",
-      "changePct": "-2.01",
+      "current": "121100",
+      "change": "-3400",
+      "changePct": "-2.73",
       "direction": "down",
-      "volume": "230555",
+      "volume": "262987",
       "high": "124800",
       "low": "121000",
       "open": "124600",
@@ -57,11 +57,11 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "216000",
-      "change": "-2000",
-      "changePct": "-0.92",
+      "current": "214500",
+      "change": "-3500",
+      "changePct": "-1.61",
       "direction": "down",
-      "volume": "402806",
+      "volume": "465642",
       "high": "219500",
       "low": "214500",
       "open": "219000",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1341.30",
-      "change": "5.70",
+      "value": "1343.00",
+      "change": "4.00",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "873.75",
-      "change": "0.07",
+      "value": "875.32",
+      "change": "1.64",
       "direction": "up"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1559.06",
-      "change": "6.89",
+      "value": "1561.51",
+      "change": "4.44",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "199.91",
-      "change": "0.85",
+      "value": "200.15",
+      "change": "0.61",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "191249.2",
-      "change": "211.02",
+      "value": "191123.5",
+      "change": "85.32",
       "direction": "up",
       "unit": "USD/oz"
     },
@@ -142,6 +142,26 @@
   ],
   "news": [
     {
+      "title": "\"채권 투매가 내 연금엔 기회\"…퇴직연금, 4%대 국채 담는다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005410922&office_id=008&mode=mainnews&type=&date=2026-09-08&page=1"
+    },
+    {
+      "title": "의료기기 강자 세종메디칼은 어쩌다 상장폐지 벼랑에 섰나",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014176726&office_id=003&mode=mainnews&type=&date=2026-09-08&page=1"
+    },
+    {
+      "title": "“이러다 한국처럼 될라” 빚내서 주식 샀다가 와르르…中·日도 ‘빚투 폭탄’ 경고등",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004659680&office_id=011&mode=mainnews&type=&date=2026-09-08&page=1"
+    },
+    {
+      "title": "레인보우로보 주춤할 때 30% 뛴 로보티즈…로봇주 판도 바뀌나",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001056387&office_id=031&mode=mainnews&type=&date=2026-09-08&page=1"
+    },
+    {
+      "title": "코스피, 7100선 넘어 2%대 상승…SK하이닉스 4.99%↑",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006365574&office_id=018&mode=mainnews&type=&date=2026-09-08&page=1"
+    },
+    {
       "title": "터틀캐피탈 \"SK하닉 ADR '게임체인저'… 美 투자자 접근성↑\"",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000531784&office_id=629&mode=mainnews&type=&date=2026-09-08&page=1"
     },
@@ -152,26 +172,6 @@
     {
       "title": "신한證 \"미국 배당 ETF·에너지·헬스케어 업종 주목\"",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0001265254&office_id=215&mode=mainnews&type=&date=2026-09-08&page=1"
-    },
-    {
-      "title": "“409억 떠안을 뻔했는데 73억으로”…KB증권, 계양전기 유증 부담 확 줄었다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002240599&office_id=138&mode=mainnews&type=&date=2026-09-08&page=1"
-    },
-    {
-      "title": "'위법적 주가부양'이라던 200만원…트러스톤 \"태광산업 요청서 시작\" [fn마켓워치]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005572629&office_id=014&mode=mainnews&type=&date=2026-09-08&page=1"
-    },
-    {
-      "title": "“韓증시 PER 바닥권…7월 같은 롤러코스피 당분간 없을 것” [투자360]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002694384&office_id=016&mode=mainnews&type=&date=2026-09-08&page=1"
-    },
-    {
-      "title": "‘수퍼 엔저’ 끝나나, 엔 캐리 청산 가능성에 글로벌 증시 긴장",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003997261&office_id=023&mode=mainnews&type=&date=2026-09-08&page=1"
-    },
-    {
-      "title": "변동성 장세 ETF 전략…신한證 “주식 60%·채권 30%·금 8%·비트코인 2% 담아라”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004659649&office_id=011&mode=mainnews&type=&date=2026-09-08&page=1"
     }
   ]
 }
