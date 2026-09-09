@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-09-09 04:57:30",
+  "lastUpdated": "2026-09-09 05:50:58",
   "date": "2026.09.09",
   "kospi": {
     "name": "KOSPI",
-    "current": "7070.50",
-    "change": "115.98",
-    "changePct": "1.67",
+    "current": "7050.58",
+    "change": "96.06",
+    "changePct": "1.38",
     "direction": "up",
-    "volume": "246954",
-    "tradeAmount": "16507019"
+    "volume": "288079",
+    "tradeAmount": "19384792"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "271000",
-      "change": "1500",
-      "changePct": "0.56",
+      "current": "269500",
+      "change": "0",
+      "changePct": "0.00",
       "direction": "up",
-      "volume": "11668288",
+      "volume": "13864594",
       "high": "275000",
-      "low": "268500",
+      "low": "267500",
       "open": "269500",
       "marketCap": "0"
     },
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1868000",
-      "change": "75000",
-      "changePct": "4.18",
+      "current": "1852000",
+      "change": "59000",
+      "changePct": "3.29",
       "direction": "up",
-      "volume": "2651328",
+      "volume": "3068708",
       "high": "1883000",
       "low": "1795000",
       "open": "1795000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "119800",
-      "change": "900",
-      "changePct": "0.76",
+      "current": "119400",
+      "change": "500",
+      "changePct": "0.42",
       "direction": "up",
-      "volume": "264140",
+      "volume": "321489",
       "high": "120700",
       "low": "116700",
       "open": "118300",
@@ -57,13 +57,13 @@
       "code": "035420",
       "name": "NAVER",
       "nameEn": "NAVER",
-      "current": "210500",
-      "change": "-4000",
-      "changePct": "-1.86",
+      "current": "210000",
+      "change": "-4500",
+      "changePct": "-2.10",
       "direction": "down",
-      "volume": "459936",
+      "volume": "586650",
       "high": "216000",
-      "low": "210000",
+      "low": "209500",
       "open": "214500",
       "marketCap": "0"
     }
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1337.90",
-      "change": "3.60",
+      "value": "1337.80",
+      "change": "3.70",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "871.71",
-      "change": "1.09",
+      "value": "872.07",
+      "change": "0.73",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1556.25",
-      "change": "3.51",
+      "value": "1556.26",
+      "change": "3.50",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "199.53",
-      "change": "0.50",
+      "value": "199.51",
+      "change": "0.52",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "188462.85",
-      "change": "1616.80",
+      "value": "189068.51",
+      "change": "1011.14",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,6 +142,26 @@
   ],
   "news": [
     {
+      "title": "“첫 바닥 버텼는데 두번째엔 판다”…코스피 ‘W자 반등’의 역설",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006366228&office_id=018&mode=mainnews&type=&date=2026-09-09&page=1"
+    },
+    {
+      "title": "“400억 빌려주고 27일 만에 절반 회수”…이선훈號 신한투자, IB 자본회전 빨라진다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002240780&office_id=138&mode=mainnews&type=&date=2026-09-09&page=1"
+    },
+    {
+      "title": "아이폰 20대 중 1대만 폴더블…'묻지마 수혜' 주의",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001265399&office_id=215&mode=mainnews&type=&date=2026-09-09&page=1"
+    },
+    {
+      "title": "1년 새 20배 넘게 오른 지캐시…다시 주목받는 ‘프라이버시 코인’[엠블록레터]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005732619&office_id=009&mode=mainnews&type=&date=2026-09-09&page=1"
+    },
+    {
+      "title": "고려아연서 먼저 붙었다…집중투표제 D-1, 다음 격전지는",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000532199&office_id=629&mode=mainnews&type=&date=2026-09-09&page=1"
+    },
+    {
       "title": "‘기름값 폭등’에 정유·석화 랠리…롯데케미칼·대한유화 10%대 급등 [이런국장 저런주식]",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0004660086&office_id=011&mode=mainnews&type=&date=2026-09-09&page=1"
     },
@@ -152,26 +172,6 @@
     {
       "title": "“주도주 장세 돌아오나…실적주 순환매·반도체 장기투자에 무게”",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0000102825&office_id=243&mode=mainnews&type=&date=2026-09-09&page=1"
-    },
-    {
-      "title": "신원근 '20만원' 약속 어디로…카카오페이 고점 대비 81.6% 증발, 주주들 '분통'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000532157&office_id=629&mode=mainnews&type=&date=2026-09-09&page=1"
-    },
-    {
-      "title": "중동·관세 악재에도… 코스피 7000선 안착 공방전",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002817484&office_id=021&mode=mainnews&type=&date=2026-09-09&page=1"
-    },
-    {
-      "title": "\"오픈AI 상장 기다렸는데\"…IPO 쏟아지자 개미들 긴장하는 이유",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005330387&office_id=015&mode=mainnews&type=&date=2026-09-09&page=1"
-    },
-    {
-      "title": "답답한 코스피에 레버리지 광풍 시들…ETF 시장도 활력 '뚝'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000532145&office_id=629&mode=mainnews&type=&date=2026-09-09&page=1"
-    },
-    {
-      "title": "⑪ 교보증권, 김해준의 13년과 4연임[여의도 CEO 20년]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000090217&office_id=293&mode=mainnews&type=&date=2026-09-09&page=1"
     }
   ]
 }
