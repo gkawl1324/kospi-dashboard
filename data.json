@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09 09:57:37",
+  "lastUpdated": "2026-09-09 11:06:55",
   "date": "2026.09.09",
   "kospi": {
     "name": "KOSPI",
@@ -72,29 +72,29 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1338.10",
-      "change": "3.40",
+      "value": "1338.30",
+      "change": "3.20",
       "direction": "down"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "871.19",
-      "change": "1.61",
+      "value": "871.74",
+      "change": "1.06",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1555.41",
-      "change": "4.35",
+      "value": "1556.64",
+      "change": "3.12",
       "direction": "down"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "199.54",
-      "change": "0.49",
+      "value": "199.59",
+      "change": "0.44",
       "direction": "down"
     }
   ],
@@ -118,8 +118,8 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "188903.91",
-      "change": "1175.74",
+      "value": "189379.07",
+      "change": "700.58",
       "direction": "down",
       "unit": "USD/oz"
     },
@@ -142,6 +142,26 @@
   ],
   "news": [
     {
+      "title": "\"축의금 뽑으려 했는데 없네\"…은행 이어 편의점 ATM도 사라진다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001968201&office_id=057&mode=mainnews&type=&date=2026-09-09&page=1"
+    },
+    {
+      "title": "33거래일만에 7천피 탈환, 근데 왜요?…배터리·전력·조선주 다 힘냈다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005732976&office_id=009&mode=mainnews&type=&date=2026-09-09&page=1"
+    },
+    {
+      "title": "적자·잦은 자금조달 이어온 엠젠솔루션, 40억에 경영권 지젠텍으로",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006366446&office_id=018&mode=mainnews&type=&date=2026-09-09&page=1"
+    },
+    {
+      "title": "‘요샌 금보다 더 낫다’ 1년 만에 무려 ‘47%’…사상 최고치, 구리도 ‘슈퍼사이클’[투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002695088&office_id=016&mode=mainnews&type=&date=2026-09-09&page=1"
+    },
+    {
+      "title": "\"상폐는 겨우 피했는데…\" 정부가 내민 '퇴로'의 현실 [분석+]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005330642&office_id=015&mode=mainnews&type=&date=2026-09-09&page=1"
+    },
+    {
       "title": "이재용, 모친 홍라희 지분 1.9조 원 매수…삼성전자 지분율 1.58%로",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0004660274&office_id=011&mode=mainnews&type=&date=2026-09-09&page=1"
     },
@@ -152,26 +172,6 @@
     {
       "title": "되살아난 AI 낙관론…48일 만에 7천피 탈환",
       "link": "https://finance.naver.com/news/news_read.naver?article_id=0005330604&office_id=015&mode=mainnews&type=&date=2026-09-09&page=1"
-    },
-    {
-      "title": "수주 성과·핵잠 기대감…조선주 나란히 '뱃고동'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005330600&office_id=015&mode=mainnews&type=&date=2026-09-09&page=1"
-    },
-    {
-      "title": "여의도 집결한 글로벌 투자자들…“한국 자본시장, 지금이 전환점”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004660268&office_id=011&mode=mainnews&type=&date=2026-09-09&page=1"
-    },
-    {
-      "title": "실적 좋은데 목표가는 낮춘다… 반도체도 절반 넘게 ‘하향’",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005573491&office_id=014&mode=mainnews&type=&date=2026-09-09&page=1"
-    },
-    {
-      "title": "7100만 가면 미끄러지는 코스피…증권가는 어디까지 보나",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000532365&office_id=629&mode=mainnews&type=&date=2026-09-09&page=1"
-    },
-    {
-      "title": "이창용 “中 반도체, 다운턴 때 투자 늘리면 추격 가속…韓 안심 못해”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004660263&office_id=011&mode=mainnews&type=&date=2026-09-09&page=1"
     }
   ]
 }
