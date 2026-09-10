@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-09-10 05:45:27",
+  "lastUpdated": "2026-09-10 09:55:29",
   "date": "2026.09.10",
   "kospi": {
     "name": "KOSPI",
-    "current": "7057.54",
-    "change": "5.90",
-    "changePct": "0.08",
+    "current": "7033.92",
+    "change": "17.72",
+    "changePct": "0.25",
     "direction": "up",
-    "volume": "344131",
-    "tradeAmount": "17877137"
+    "volume": "422598",
+    "tradeAmount": "28927893"
   },
   "stocks": [
     {
       "code": "005930",
       "name": "삼성전자",
       "nameEn": "Samsung Electronics",
-      "current": "269500",
-      "change": "0",
-      "changePct": "0.00",
-      "direction": "up",
-      "volume": "11248049",
+      "current": "269000",
+      "change": "-500",
+      "changePct": "-0.19",
+      "direction": "down",
+      "volume": "21010910",
       "high": "270500",
       "low": "263500",
       "open": "269000",
@@ -29,11 +29,11 @@
       "code": "000660",
       "name": "SK하이닉스",
       "nameEn": "SK Hynix",
-      "current": "1867000",
-      "change": "11000",
-      "changePct": "0.59",
-      "direction": "up",
-      "volume": "2702511",
+      "current": "1853000",
+      "change": "-3000",
+      "changePct": "-0.16",
+      "direction": "down",
+      "volume": "4375585",
       "high": "1890000",
       "low": "1811000",
       "open": "1879000",
@@ -43,11 +43,11 @@
       "code": "003550",
       "name": "LG",
       "nameEn": "LG",
-      "current": "117800",
-      "change": "-1300",
-      "changePct": "-1.09",
+      "current": "118000",
+      "change": "-1100",
+      "changePct": "-0.92",
       "direction": "down",
-      "volume": "223339",
+      "volume": "492859",
       "high": "120900",
       "low": "116000",
       "open": "118500",
@@ -61,7 +61,7 @@
       "change": "-2000",
       "changePct": "-0.95",
       "direction": "down",
-      "volume": "543650",
+      "volume": "867123",
       "high": "210000",
       "low": "205500",
       "open": "208500",
@@ -72,30 +72,30 @@
     {
       "pair": "USD/KRW",
       "name": "미국 USD",
-      "value": "1339.00",
-      "change": "2.00",
-      "direction": "down"
+      "value": "1342.30",
+      "change": "1.30",
+      "direction": "up"
     },
     {
       "pair": "JPY/KRW",
       "name": "일본 JPY(100엔)",
-      "value": "871.49",
-      "change": "2.72",
+      "value": "873.41",
+      "change": "0.80",
       "direction": "down"
     },
     {
       "pair": "EUR/KRW",
       "name": "유럽연합 EUR",
-      "value": "1558.33",
-      "change": "2.33",
-      "direction": "down"
+      "value": "1561.36",
+      "change": "0.70",
+      "direction": "up"
     },
     {
       "pair": "CNY/KRW",
       "name": "중국 CNY",
-      "value": "199.65",
-      "change": "0.33",
-      "direction": "down"
+      "value": "200.17",
+      "change": "0.19",
+      "direction": "up"
     }
   ],
   "oilPrices": [
@@ -118,9 +118,9 @@
     {
       "code": "GOLD",
       "name": "Gold",
-      "value": "190626.14",
-      "change": "339.88",
-      "direction": "up",
+      "value": "189624.23",
+      "change": "662.03",
+      "direction": "down",
       "unit": "USD/oz"
     },
     {
@@ -142,36 +142,36 @@
   ],
   "news": [
     {
-      "title": "“원·달러 1200원대도 열어둬야”…한투, 하반기 환율 전망 또 낮췄다",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002240923&office_id=138&mode=mainnews&type=&date=2026-09-10&page=1"
+      "title": "“겨우 칠천피 왔는데” 5일간 무려 ‘16.8조’ 팔아치웠다…인버스까지 매수  [투자360]",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0002695672&office_id=016&mode=mainnews&type=&date=2026-09-10&page=1"
     },
     {
-      "title": "\"코인 얼마에 샀는지도 모르는데\"…가상자산 업계, 과세 유예 요구",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0014182338&office_id=003&mode=mainnews&type=&date=2026-09-10&page=1"
+      "title": "AGI 다음은 피지컬 AI…K로봇주 동반 강세",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005331063&office_id=015&mode=mainnews&type=&date=2026-09-10&page=1"
     },
     {
-      "title": "美 국채 바이백 ‘실망’…미 10년물 34개월래 ‘최고‘",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001265529&office_id=215&mode=mainnews&type=&date=2026-09-10&page=1"
+      "title": "기본법 없는데 코인세부터?…업계 “순서 바뀌었다”",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0003131438&office_id=119&mode=mainnews&type=&date=2026-09-10&page=1"
     },
     {
-      "title": "6800선 찍고 다시 '칠천피' 향해…코스피 7000선 안착 공방",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0006366835&office_id=018&mode=mainnews&type=&date=2026-09-10&page=1"
+      "title": "1조원대 매물 우려에도… 삼전·닉스 리밸런싱 충격 없었다",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0001191656&office_id=366&mode=mainnews&type=&date=2026-09-10&page=1"
     },
     {
-      "title": "③ 자본 4조 뒤 신종자본·RCPS '청구서'[대신증권 확장의 비용]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000090277&office_id=293&mode=mainnews&type=&date=2026-09-10&page=1"
+      "title": "코스닥 아직도 30년前 수준…투자→상장→스케일업 선순환 끊겨",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004660667&office_id=011&mode=mainnews&type=&date=2026-09-10&page=1"
     },
     {
-      "title": "금리에 반도체 쏠림, 노바티스까지…바이오 ETF '삼중고'",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0005411998&office_id=008&mode=mainnews&type=&date=2026-09-10&page=1"
+      "title": "고금리 뚫고 금도 구리도 뛴다…뜨거운 ‘메탈 랠리’",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004660663&office_id=011&mode=mainnews&type=&date=2026-09-10&page=1"
     },
     {
-      "title": "“하이닉스 300만원에 샀다면 그건 충동구매…차라리 대출 받아 집을 사라”",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004660499&office_id=011&mode=mainnews&type=&date=2026-09-10&page=1"
+      "title": "‘삼전닉스’ 공매도 일주일 새 6709억↓…반등 기대에 숏 베팅 축소",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004660661&office_id=011&mode=mainnews&type=&date=2026-09-10&page=1"
     },
     {
-      "title": "⑫ 한화증권, 손에 꼽히는 '임기 완주'[여의도 CEO 20년]",
-      "link": "https://finance.naver.com/news/news_read.naver?article_id=0000090274&office_id=293&mode=mainnews&type=&date=2026-09-10&page=1"
+      "title": "납품단가 압박에 호재 선반영까지…애플 첫 ‘접는 폰’에도 부품주 덤덤",
+      "link": "https://finance.naver.com/news/news_read.naver?article_id=0004660660&office_id=011&mode=mainnews&type=&date=2026-09-10&page=1"
     }
   ]
 }
