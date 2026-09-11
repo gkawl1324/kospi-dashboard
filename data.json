@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-10 11:03:06",
-  "date": "2026.09.10",
+  "lastUpdated": "2026-09-11 04:56:51",
+  "date": "2026.09.11",
   "kospi": {
     "name": "KOSPI",
     "current": "0",
@@ -81,7 +81,7 @@
     {
       "code": "OIL_BRT",
       "name": "Brent",
-      "value": "101.21",
+      "value": "107.63",
       "change": "0",
       "direction": "up",
       "unit": "USD/barrel"
@@ -89,7 +89,7 @@
     {
       "code": "OIL_DU",
       "name": "Dubai",
-      "value": "109.75",
+      "value": "116.42",
       "change": "0",
       "direction": "up",
       "unit": "USD/barrel"
@@ -105,36 +105,36 @@
   ],
   "news": [
     {
-      "title": "방미통위, 12개 홈쇼핑 사업자 재승인 의결…\"평가방식도 손봐야\"",
-      "link": "https://n.news.naver.com/mnews/article/018/0006366459"
+      "title": "자산운용사 2분기 순이익 2조 6889억…적자 회사 비율은 오히려 늘었다",
+      "link": "https://n.news.naver.com/mnews/article/011/0004660750"
     },
     {
-      "title": "“6년 전 설익은 세제 그대로 강행”…시행 앞두고 당국도 ‘곤혹’[가상자산 과세쇼크 ㊥]",
-      "link": "https://n.news.naver.com/mnews/article/138/0002240845"
+      "title": "김성용 대표, 올해 일자리창출 정부포상 최고 훈격 ‘동탑산업훈장’ 수훈… 진인프라 ‘일자리 으뜸기업’ 2년 연속 선정",
+      "link": "https://n.news.naver.com/mnews/article/081/0003679317"
     },
     {
-      "title": "요즘 대세 'K-약국' 품었다…무신사 뷰티, 홍대 승부수[르포]",
-      "link": "https://n.news.naver.com/mnews/article/277/0005814548"
+      "title": "주거·오피스 고객 공략…29CM, 서울숲에 100평 ‘이구홈’ 열어",
+      "link": "https://n.news.naver.com/mnews/article/009/0005733810"
     },
     {
-      "title": "HD현대重, 1조 투자…발전엔진·SMR 키운다",
-      "link": "https://n.news.naver.com/mnews/article/009/0005733537"
+      "title": "정부 \"견조한 경기회복 흐름…중동 전쟁에 물가 부담은 지속\"",
+      "link": "https://n.news.naver.com/mnews/article/421/0009164500"
     },
     {
-      "title": "삼성바이오, 유럽 제약사와 ‘3508억원 규모’ 위탁 생산 계약 체결",
-      "link": "https://n.news.naver.com/mnews/article/346/0000115803"
+      "title": "“우리 기술 재탕 끝났어?” 삼성, ‘접는 아이폰’ 공개 조롱",
+      "link": "https://n.news.naver.com/mnews/article/005/0001872172"
     },
     {
-      "title": "공정위, 대한항공 '좌석유지 의무' 완화에 기각 의견‥조사방해로 고발 의견도",
-      "link": "https://n.news.naver.com/mnews/article/214/0001523172"
+      "title": "반도체 270% 폭증…9월 초 수출 350억 달러 '또 신기록'",
+      "link": "https://n.news.naver.com/mnews/article/660/0000116988"
     },
     {
-      "title": "고려아연 손 들어준 일반주주…감사위원 표대결 '압승'",
-      "link": "https://n.news.naver.com/mnews/article/031/0001057314"
+      "title": "\"투자 말고 저축할까\"…시중은행 정기예금 금리 잇달아 인상",
+      "link": "https://n.news.naver.com/mnews/article/422/0000904724"
     },
     {
-      "title": "“안되는 것 빼고 다 됩니다”…텅빈 수도권 지산, 청년·신혼부부 보금자리로",
-      "link": "https://n.news.naver.com/mnews/article/009/0005733055"
+      "title": "코스피, 고유가·고금리 부담에 7000선 깨져…코스닥도 하락",
+      "link": "https://n.news.naver.com/mnews/article/015/0005331219"
     }
   ]
 }
