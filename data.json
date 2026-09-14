@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-11 11:01:16",
-  "date": "2026.09.11",
+  "lastUpdated": "2026-09-14 05:14:10",
+  "date": "2026.09.14",
   "kospi": {
     "name": "KOSPI",
     "current": "0",
@@ -81,7 +81,7 @@
     {
       "code": "OIL_BRT",
       "name": "Brent",
-      "value": "107.63",
+      "value": "104.61",
       "change": "0",
       "direction": "up",
       "unit": "USD/barrel"
@@ -89,7 +89,7 @@
     {
       "code": "OIL_DU",
       "name": "Dubai",
-      "value": "116.42",
+      "value": "114.91",
       "change": "0",
       "direction": "up",
       "unit": "USD/barrel"
@@ -105,36 +105,36 @@
   ],
   "news": [
     {
-      "title": "KB금융 차기회장 후보 이재근",
-      "link": "https://n.news.naver.com/mnews/article/009/0005734076"
+      "title": "마통 계좌 1개당 1400만원 빌려…‘빚투’ 열풍에 7개월새 120만원↑ [머니뭐니]",
+      "link": "https://n.news.naver.com/mnews/article/016/0002696658"
     },
     {
-      "title": "삼전닉스 레버리지로 '잭팟'…운용사 2분기 실적 어땠나",
-      "link": "https://n.news.naver.com/mnews/article/119/0003131478"
+      "title": "삼성디스플레이, 세계 최초 2K·165㎐ 스마트폰 OLED 개발",
+      "link": "https://n.news.naver.com/mnews/article/001/0016308411"
     },
     {
-      "title": "마이크론, 대만 직원에 최대 68개월치 월급 지급… 파업 압박에 보상안 마련",
-      "link": "https://n.news.naver.com/mnews/article/366/0001191862"
+      "title": "홍지선 \"용산공원 핵심 공간 지키고 부수적 공간 주택공급 검토\"",
+      "link": "https://n.news.naver.com/mnews/article/214/0001523783"
     },
     {
-      "title": "계속되는 미래대응기금 우려... \"재원 검증하고 국회 통제 강화해야\"",
-      "link": "https://n.news.naver.com/mnews/article/469/0000953564"
+      "title": "이재근 체제 시스템으로 KB 새단장…금융권 ‘세대교체’ 확산 촉각",
+      "link": "https://n.news.naver.com/mnews/article/016/0002696757"
     },
     {
-      "title": "HD현대그룹 주가 ‘불기둥’…기대치 웃돈 성장사업 베팅 [줍줍리포트]",
-      "link": "https://n.news.naver.com/mnews/article/011/0004660904"
+      "title": "한국-중앙아시아 산업장관회의… 광물 공급망 구축 논의",
+      "link": "https://n.news.naver.com/mnews/article/021/0002818530"
     },
     {
-      "title": "'장인 계약' 감사 요구에 \"광주로 가셔라\"…삼전 노조위원장 보복 논란",
-      "link": "https://n.news.naver.com/mnews/article/018/0006367229"
+      "title": "항공권 취소 수수료만 77만원…추석 앞두고 소비자 '피해주의보' 발령",
+      "link": "https://n.news.naver.com/mnews/article/014/0005575330"
     },
     {
-      "title": "국민연금, AI로 환율 분석한다…LG AI연구원과 MOU",
-      "link": "https://n.news.naver.com/mnews/article/009/0005733980"
+      "title": "한국거래소, 내일부터 애프터마켓 개설…넥스트레이드와 퇴근길 경쟁 시작",
+      "link": "https://n.news.naver.com/mnews/article/018/0006368540"
     },
     {
-      "title": "HD건설기계, ‘기업자격 정부인정 우수사례’ 대상 수상",
-      "link": "https://n.news.naver.com/mnews/article/277/0005815242"
+      "title": "김성환 “한국 데이터센터 해외서 주목”[Biz & Now]",
+      "link": "https://n.news.naver.com/mnews/article/025/0003551039"
     }
   ]
 }
