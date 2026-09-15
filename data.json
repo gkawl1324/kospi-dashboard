@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-14 12:34:55",
-  "date": "2026.09.14",
+  "lastUpdated": "2026-09-15 05:06:53",
+  "date": "2026.09.15",
   "kospi": {
     "name": "KOSPI",
     "current": "0",
@@ -81,7 +81,7 @@
     {
       "code": "OIL_BRT",
       "name": "Brent",
-      "value": "104.61",
+      "value": "105.68",
       "change": "0",
       "direction": "up",
       "unit": "USD/barrel"
@@ -89,7 +89,7 @@
     {
       "code": "OIL_DU",
       "name": "Dubai",
-      "value": "114.91",
+      "value": "116.22",
       "change": "0",
       "direction": "up",
       "unit": "USD/barrel"
@@ -105,36 +105,36 @@
   ],
   "news": [
     {
-      "title": "자동차용 점화코일 핵심 부품 국산화…이림전자 ‘동탑훈장’",
-      "link": "https://n.news.naver.com/mnews/article/009/0005734862"
+      "title": "“개장 첫날부터 주문 장애”…KRX 애프터마켓, SOR 오류에 투자자 혼선",
+      "link": "https://n.news.naver.com/mnews/article/138/0002241311"
     },
     {
-      "title": "공정위 ‘베지밀’ 정식품 현장 조사…대리점에 밀어내기 의혹",
-      "link": "https://n.news.naver.com/mnews/article/056/0012256871"
+      "title": "포스코그룹, 기후산업국제박람회 참가…하이렉스·SMR 등 탈탄소 기술 공개",
+      "link": "https://n.news.naver.com/mnews/article/020/0003747997"
     },
     {
-      "title": "가격 올리고 탈세까지…국세청, 41개 업체 조사",
-      "link": "https://n.news.naver.com/mnews/article/055/0001388120"
+      "title": "수입물가, 3개월 연속 하락…교역조건 두 달째 역대 최대폭 개선 경신",
+      "link": "https://n.news.naver.com/mnews/article/277/0005816188"
     },
     {
-      "title": "미래에셋증권, 프리마켓 주문 조회 지연…\"정규장 정상 거래 중\"",
-      "link": "https://n.news.naver.com/mnews/article/003/0014187533"
+      "title": "신설 철탑 47% 줄이고 지중화 확대…주민엔 '햇빛소득'",
+      "link": "https://n.news.naver.com/mnews/article/079/0004189408"
     },
     {
-      "title": "두달간 200원 넘게 떨어진 환율…美 긴축에 다시 반등할까",
-      "link": "https://n.news.naver.com/mnews/article/018/0006368724"
+      "title": "달리던 차가 해킹된다면…국토부·현대차, 사이버보안 훈련",
+      "link": "https://n.news.naver.com/mnews/article/001/0016311098"
     },
     {
-      "title": "\"전기료 25조 미리 내달라\"…한전 요청에 삼성·SK하이닉스가 내린 결론",
-      "link": "https://n.news.naver.com/mnews/article/277/0005815656"
+      "title": "조현준 \"5년 내 글로벌 톱3\"…효성重, 美 빅테크 공급 확대",
+      "link": "https://n.news.naver.com/mnews/article/092/0002437430"
     },
     {
-      "title": "중동·금리 공포 엄습…코스피, 3% 급락해 6600대로 '털썩'",
-      "link": "https://n.news.naver.com/mnews/article/003/0014189154"
+      "title": "사우디 송유관도 가동 차질…정유업계, 원유 확보·운송비 '이중고'",
+      "link": "https://n.news.naver.com/mnews/article/003/0014191204"
     },
     {
-      "title": "“기본형건축비 또 올랐다” 7월보다 4.07% 상승",
-      "link": "https://n.news.naver.com/mnews/article/016/0002696799"
+      "title": "SK바이오팜 '오파칼림' 임상 보류 우려는 과도..목표주가 13만원",
+      "link": "https://n.news.naver.com/mnews/article/014/0005575753"
     }
   ]
 }
