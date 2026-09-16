@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-15 11:37:06",
-  "date": "2026.09.15",
+  "lastUpdated": "2026-09-16 05:02:04",
+  "date": "2026.09.16",
   "kospi": {
     "name": "KOSPI",
     "current": "0",
@@ -81,7 +81,7 @@
     {
       "code": "OIL_BRT",
       "name": "Brent",
-      "value": "105.68",
+      "value": "108.75",
       "change": "0",
       "direction": "up",
       "unit": "USD/barrel"
@@ -89,7 +89,7 @@
     {
       "code": "OIL_DU",
       "name": "Dubai",
-      "value": "116.22",
+      "value": "118.84",
       "change": "0",
       "direction": "up",
       "unit": "USD/barrel"
@@ -105,36 +105,36 @@
   ],
   "news": [
     {
-      "title": "40대 이소영 후보자 “관성 따르지 않고 부딪히며 일하겠다”",
-      "link": "https://n.news.naver.com/mnews/article/366/0001192529"
+      "title": "미 10년물 국채 금리 5% 재돌파…2007년 이후 최고치",
+      "link": "https://n.news.naver.com/mnews/article/055/0001388444"
     },
     {
-      "title": "CJ, 추석 앞두고 협력사 지원… 결제대금 6600억 조기지급",
-      "link": "https://n.news.naver.com/mnews/article/009/0005735648"
+      "title": "청파동1가 97-35 일대, 200번째 신통기획…최고 25층·1280가구 재개발",
+      "link": "https://n.news.naver.com/mnews/article/629/0000534279"
     },
     {
-      "title": "삼전닉스, 한전 전기료 선납 제안 거절",
-      "link": "https://n.news.naver.com/mnews/article/015/0005332190"
+      "title": "[속보] 홍지선 국토장관 후보자 \"국민 원하는 곳에 충분할 때까지 주택 공급\"",
+      "link": "https://n.news.naver.com/mnews/article/654/0000200903"
     },
     {
-      "title": "\"한순간에 6300만원 날렸다\"…20대 울린 변종 피싱은?",
-      "link": "https://n.news.naver.com/mnews/article/374/0000532985"
+      "title": "SK하이닉스, 임단협 수정안 57.1% 찬성 '가결'…성과급 현금 50%",
+      "link": "https://n.news.naver.com/mnews/article/277/0005816972"
     },
     {
-      "title": "AI 일자리 늘어도 80%는 수도권…20대 취업자는 전국서 줄었다",
-      "link": "https://n.news.naver.com/mnews/article/469/0000954187"
+      "title": "대한항공, 60조 '대미 투자' 결실…조원태 \"한·미 신뢰 이정표\"",
+      "link": "https://n.news.naver.com/mnews/article/215/0001266139"
     },
     {
-      "title": "송호성 기아 사장 “PBV 연간 25만대 팔 것… 글로벌 대형社와도 협의”[IAA 2026]",
-      "link": "https://n.news.naver.com/mnews/article/366/0001192519"
+      "title": "현대차, 운수사-충전 사업자-유관 기관과 수소버스 보급 활성화 '맞손'",
+      "link": "https://n.news.naver.com/mnews/article/030/0003467225"
     },
     {
-      "title": "메가프로젝트 송전탑 건설 40% 줄인다",
-      "link": "https://n.news.naver.com/mnews/article/015/0005332670"
+      "title": "\"뭘 사야 하지?\"…의류관리기 비교해보니 '깜짝' 결과 나왔다",
+      "link": "https://n.news.naver.com/mnews/article/015/0005332891"
     },
     {
-      "title": "제넨셀, '보조제'를 '코로나 치료제'로 홍보…금감원 적발",
-      "link": "https://n.news.naver.com/mnews/article/448/0000639411"
+      "title": "아파트로 들어온 히트펌프…삼성·LG, 냉난방 시장 선점 경쟁",
+      "link": "https://n.news.naver.com/mnews/article/031/0001058861"
     }
   ]
 }
