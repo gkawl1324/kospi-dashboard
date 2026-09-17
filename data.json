@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17 05:57:58",
+  "lastUpdated": "2026-09-17 10:12:36",
   "date": "2026.09.17",
   "kospi": {
     "name": "KOSPI",
@@ -81,17 +81,17 @@
     {
       "code": "OIL_BRT",
       "name": "Brent",
-      "value": "105.83",
+      "value": "0",
       "change": "0",
-      "direction": "up",
+      "direction": "flat",
       "unit": "USD/barrel"
     },
     {
       "code": "OIL_DU",
       "name": "Dubai",
-      "value": "117.48",
+      "value": "0",
       "change": "0",
-      "direction": "up",
+      "direction": "flat",
       "unit": "USD/barrel"
     },
     {
@@ -105,36 +105,36 @@
   ],
   "news": [
     {
-      "title": "현대차그룹, 카자흐스탄 기업과 '알라타우 시티' 사업 추진 협약",
-      "link": "https://n.news.naver.com/mnews/article/018/0006371157"
+      "title": "Fed 3년 2개월 만에 금리 인상…韓도 추가 긴축 압력",
+      "link": "https://n.news.naver.com/mnews/article/030/0003467778"
     },
     {
-      "title": "이찬진 원장 \"소비자보호 갈길 멀다\"...금융소비자보호 성과 '대국민 보고대회'",
-      "link": "https://n.news.naver.com/mnews/article/014/0005577361"
+      "title": "코스피, 미 매파적 금리 인상에도 강보합…상승폭은 제한",
+      "link": "https://n.news.naver.com/mnews/article/055/0001388978"
     },
     {
-      "title": "LH노조 “LH 분리 강행 땐 총파업…쟁의 돌입”",
-      "link": "https://n.news.naver.com/mnews/article/018/0006371139"
+      "title": "‘세 낀 매물’ 거래 숨통…“땜질 처방에 정책 신뢰 훼손”",
+      "link": "https://n.news.naver.com/mnews/article/011/0004663054"
     },
     {
-      "title": "구광모 LG 회장 “AI 승부 이기려면 ‘집요한 실행력’ 갖춰야”",
-      "link": "https://n.news.naver.com/mnews/article/011/0004662809"
+      "title": "\"미확인 불순물\" 가짜 마운자로까지…심각한 상황",
+      "link": "https://n.news.naver.com/mnews/article/055/0001389035"
     },
     {
-      "title": "8월 車수출·생산·내수 트리플 감소…파업 직격탄",
-      "link": "https://n.news.naver.com/mnews/article/003/0014196434"
+      "title": "기업 2곳 중 1곳 “올 추석 경기 전년보다 나쁘다”…경총 조사",
+      "link": "https://n.news.naver.com/mnews/article/025/0003552086"
     },
     {
-      "title": "예견된 악재 버틴 코스피…‘추가 긴축’ 경계는 여전",
-      "link": "https://n.news.naver.com/mnews/article/016/0002698750"
+      "title": "더본코리아, 온라인 커뮤니티 이용자들 모욕죄 혐의 고소(종합)",
+      "link": "https://n.news.naver.com/mnews/article/001/0016318723"
     },
     {
-      "title": "셀트리온 '램시마', 일본 점유율 1위…현지 출시 후 11년만",
-      "link": "https://n.news.naver.com/mnews/article/629/0000534613"
+      "title": "‘경남 제조 AI 센터’ 개소…지역 제조기업 AX 전환 지원",
+      "link": "https://n.news.naver.com/mnews/article/366/0001193128"
     },
     {
-      "title": "노동소득 45세 ‘최고치’…61세부터 적자",
-      "link": "https://n.news.naver.com/mnews/article/056/0012259218"
+      "title": "IPO 절차 돌입한 무신사, 내달 중국 선전에 매장 2곳 연다",
+      "link": "https://n.news.naver.com/mnews/article/028/0002823487"
     }
   ]
 }
